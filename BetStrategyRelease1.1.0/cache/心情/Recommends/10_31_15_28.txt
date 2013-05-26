@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德國盃",
+  "Time1": "11-01 03:30",
+  "Host": "漢諾威",
+  "OddStake": "球半",
+  "Guest": "特雷斯登",
+  "Prefer": "特雷斯登",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "10-31 15:28",
+  "Person": "心情"
+}

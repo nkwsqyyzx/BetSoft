@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿聯酋超",
+  "Time1": "02-21 21:25",
+  "Host": "伊蒂哈德卡爾巴",
+  "OddStake": "受球半",
+  "Guest": "納薩SC",
+  "Prefer": "納薩SC",
+  "Odds": 0.99,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-21 20:35",
+  "Person": "夜是彩市圆"
+}

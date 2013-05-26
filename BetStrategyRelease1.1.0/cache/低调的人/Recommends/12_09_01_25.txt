@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷甲",
+  "Time1": "12-09 02:45",
+  "Host": "海牙",
+  "OddStake": "半球",
+  "Guest": "施禾尼",
+  "Prefer": "施禾尼",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-09 01:25",
+  "Person": "低调的人"
+}

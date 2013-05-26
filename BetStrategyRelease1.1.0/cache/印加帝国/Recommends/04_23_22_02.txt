@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德西聯",
+  "Time1": "04-24 01:30",
+  "Host": "希根",
+  "OddStake": "3球",
+  "Guest": "卡雷",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-23 22:02",
+  "Person": "印加帝国"
+}

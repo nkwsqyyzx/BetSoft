@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "智利春",
+  "Time1": "02-16 09:00",
+  "Host": "艾斯潘諾拉",
+  "OddStake": "半/一",
+  "Guest": "奧達斯",
+  "Prefer": "艾斯潘諾拉",
+  "Odds": 0.88,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "02-16 06:57",
+  "Person": "飞天神猪"
+}

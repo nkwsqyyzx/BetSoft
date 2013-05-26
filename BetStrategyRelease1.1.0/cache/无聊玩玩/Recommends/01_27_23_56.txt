@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-28 03:45",
+  "Host": "國際米蘭",
+  "OddStake": "半/一",
+  "Guest": "拖連奴",
+  "Prefer": "國際米蘭",
+  "Odds": 0.89,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "01-27 23:56",
+  "Person": "无聊玩玩"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐霸盃",
+  "Time1": "12-07 04:05",
+  "Host": "托特納姆熱刺",
+  "OddStake": "2.5/3球",
+  "Guest": "彭拿典奈高斯",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-06 15:16",
+  "Person": "美女"
+}

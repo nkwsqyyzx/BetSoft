@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "02-23 23:00",
+  "Host": "保頓",
+  "OddStake": "平手",
+  "Guest": "侯城",
+  "Prefer": "侯城",
+  "Odds": 1.0,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "02-23 16:57",
+  "Person": "我行我素"
+}

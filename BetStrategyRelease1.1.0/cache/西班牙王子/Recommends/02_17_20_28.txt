@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意甲",
+  "Time1": "02-17 22:00",
+  "Host": "熱拿亞",
+  "OddStake": "平/半",
+  "Guest": "烏甸尼斯",
+  "Prefer": "烏甸尼斯",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-17 20:28",
+  "Person": "西班牙王子"
+}

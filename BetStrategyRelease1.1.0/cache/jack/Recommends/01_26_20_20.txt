@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德丙聯",
+  "Time1": "01-26 21:00",
+  "Host": "海登海默",
+  "OddStake": "2.5球",
+  "Guest": "安達赫治",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "01-26 20:20",
+  "Person": "jack"
+}

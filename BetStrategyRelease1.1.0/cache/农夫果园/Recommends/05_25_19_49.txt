@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德巴聯",
+  "Time1": "05-25 20:00",
+  "Host": "布赫巴赫",
+  "OddStake": "半球",
+  "Guest": "黒木斯德騰",
+  "Prefer": "黒木斯德騰",
+  "Odds": 0.95,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "05-25 19:49",
+  "Person": "农夫果园"
+}

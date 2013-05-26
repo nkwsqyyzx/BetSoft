@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "05-05 21:00",
+  "Host": "拉素",
+  "OddStake": "2.5球",
+  "Guest": "博洛尼亞",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "6-0",
+  "PreferResult": 5,
+  "Time2": "05-05 18:36",
+  "Person": "身不由己"
+}

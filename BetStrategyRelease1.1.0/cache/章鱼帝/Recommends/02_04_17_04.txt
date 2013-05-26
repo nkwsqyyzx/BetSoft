@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "哥倫乙",
+  "Time1": "02-05 09:10",
+  "Host": "波哥塔",
+  "OddStake": "受平/半",
+  "Guest": "卡利阿美利加",
+  "Prefer": "卡利阿美利加",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "02-04 17:04",
+  "Person": "章鱼帝"
+}

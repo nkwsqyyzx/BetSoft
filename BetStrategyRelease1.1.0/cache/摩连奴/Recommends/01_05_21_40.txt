@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法國盃",
+  "Time1": "01-05 22:00",
+  "Host": "利文斯",
+  "OddStake": "半/一",
+  "Guest": "拉波爾",
+  "Prefer": "拉波爾",
+  "Odds": 0.85,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "01-05 21:40",
+  "Person": "摩连奴"
+}

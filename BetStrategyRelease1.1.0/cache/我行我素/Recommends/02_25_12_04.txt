@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "瑞士甲",
+  "Time1": "02-26 02:45",
+  "Host": "畢爾",
+  "OddStake": "2.5/3球",
+  "Guest": "華杜茲",
+  "Prefer": "大球",
+  "Odds": 0.99,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "02-25 12:04",
+  "Person": "我行我素"
+}

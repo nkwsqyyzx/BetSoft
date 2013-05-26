@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-06 16:30",
+  "Host": "伯希三普特拉沙馬林達",
+  "OddStake": "2.5/3球",
+  "Guest": "巴厘巴板",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "12-06 16:04",
+  "Person": "飞天神猪"
+}

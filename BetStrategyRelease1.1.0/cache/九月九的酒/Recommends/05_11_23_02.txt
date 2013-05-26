@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法丙",
+  "Time1": "05-12 02:00",
+  "Host": "普瑞蘭斯",
+  "OddStake": "受平/半",
+  "Guest": "弗雷瑞斯",
+  "Prefer": "普瑞蘭斯",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-11 23:02",
+  "Person": "九月九的酒"
+}

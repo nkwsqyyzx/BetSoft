@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "友誼賽",
+  "Time1": "03-22 01:30",
+  "Host": "奧地利U21",
+  "OddStake": "2.5球",
+  "Guest": "斯洛伐克U21",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-22 01:09",
+  "Person": "马勒当拿"
+}

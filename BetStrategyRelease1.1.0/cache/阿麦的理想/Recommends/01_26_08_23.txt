@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "中美洲盃",
+  "Time1": "01-26 10:00",
+  "Host": "哥斯達黎加",
+  "OddStake": "半/一",
+  "Guest": "薩爾瓦多",
+  "Prefer": "薩爾瓦多",
+  "Odds": 0.97,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "01-26 08:23",
+  "Person": "阿麦的理想"
+}

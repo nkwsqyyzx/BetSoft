@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "印尼超",
+  "Time1": "02-14 16:30",
+  "Host": "帕森拉",
+  "OddStake": "3球",
+  "Guest": "博斯達芬",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-14 14:37",
+  "Person": "明明白白"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "埃及甲",
+  "Time1": "02-14 01:30",
+  "Host": "加斯馬哈拉",
+  "OddStake": "2/2.5球",
+  "Guest": "高納",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "02-13 22:58",
+  "Person": "轻轻巧巧"
+}

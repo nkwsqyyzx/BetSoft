@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥超",
+  "Time1": "04-21 19:00",
+  "Host": "蘭達斯",
+  "OddStake": "2.5球",
+  "Guest": "洛斯查蘭特",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-21 18:41",
+  "Person": "绿野仙踪"
+}

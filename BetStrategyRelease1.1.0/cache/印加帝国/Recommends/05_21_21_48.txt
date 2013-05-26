@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-21 22:00",
+  "Host": "羅馬尼亞U18",
+  "OddStake": "半/一",
+  "Guest": "馬其頓U19",
+  "Prefer": "羅馬尼亞U18",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-21 21:48",
+  "Person": "印加帝国"
+}

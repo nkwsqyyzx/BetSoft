@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "卡塔爾聯",
+  "Time1": "02-23 01:00",
+  "Host": "沙拉爾",
+  "OddStake": "半/一",
+  "Guest": "賽利亞",
+  "Prefer": "沙拉爾",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "02-23 00:45",
+  "Person": "中奖太简单啦"
+}

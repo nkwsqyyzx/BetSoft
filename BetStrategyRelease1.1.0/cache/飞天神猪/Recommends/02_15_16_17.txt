@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "02-16 02:00",
+  "Host": "阿克希薩爾",
+  "OddStake": "受一球",
+  "Guest": "加拉塔沙雷",
+  "Prefer": "加拉塔沙雷",
+  "Odds": 0.99,
+  "Result": "1-2",
+  "PreferResult": 3,
+  "Time2": "02-15 16:17",
+  "Person": "飞天神猪"
+}

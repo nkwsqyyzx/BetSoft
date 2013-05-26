@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "波蘭甲",
+  "Time1": "11-10 01:00",
+  "Host": "魯治卓索",
+  "OddStake": "半球",
+  "Guest": "列治亞",
+  "Prefer": "列治亞",
+  "Odds": 0.83,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-09 09:31",
+  "Person": "农夫果园"
+}

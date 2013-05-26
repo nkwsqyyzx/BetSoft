@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英依超",
+  "Time1": "04-24 02:45",
+  "Host": "麥羅波利塔諾波利斯",
+  "OddStake": "2.5球",
+  "Guest": "赫頓",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-23 23:55",
+  "Person": "章鱼帝"
+}

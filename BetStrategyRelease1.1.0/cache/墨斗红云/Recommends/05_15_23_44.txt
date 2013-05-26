@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞協盃",
+  "Time1": "05-15 23:59",
+  "Host": "阿比爾",
+  "OddStake": "2.5球",
+  "Guest": "修塔",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "05-15 23:44",
+  "Person": "墨斗红云"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西乙",
+  "Time1": "12-22 05:00",
+  "Host": "艾美利亞",
+  "OddStake": "2.5球",
+  "Guest": "阿柯孔",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-21 15:29",
+  "Person": "心情"
+}

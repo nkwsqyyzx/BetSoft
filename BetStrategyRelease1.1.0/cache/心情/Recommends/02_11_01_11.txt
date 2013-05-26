@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "巴拉甲春",
+  "Time1": "02-11 05:30",
+  "Host": "迪亞茲",
+  "OddStake": "2.5球",
+  "Guest": "卡比亞塔",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-11 01:11",
+  "Person": "心情"
+}

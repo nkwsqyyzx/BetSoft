@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "02-24 21:30",
+  "Host": "烏德勒支",
+  "OddStake": "半/一",
+  "Guest": "洛達",
+  "Prefer": "烏德勒支",
+  "Odds": 1.05,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "02-24 20:48",
+  "Person": "马勒当拿"
+}

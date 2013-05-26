@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "比U21",
+  "Time1": "03-19 02:30",
+  "Host": "真特U21",
+  "OddStake": "一球",
+  "Guest": "梅赫倫U21",
+  "Prefer": "真特U21",
+  "Odds": 0.85,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "03-18 19:14",
+  "Person": "飞天神猪"
+}

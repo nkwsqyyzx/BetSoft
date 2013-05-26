@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法乙",
+  "Time1": "02-27 02:30",
+  "Host": "色當",
+  "OddStake": "平手",
+  "Guest": "歐塞爾",
+  "Prefer": "色當",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-26 23:06",
+  "Person": "余韵犹在"
+}

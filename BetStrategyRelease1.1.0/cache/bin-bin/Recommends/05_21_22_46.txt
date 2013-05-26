@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "摩爾甲",
+  "Time1": "05-21 23:00",
+  "Host": "泰拉斯普爾",
+  "OddStake": "球半",
+  "Guest": "奧林匹亞巴爾蒂",
+  "Prefer": "泰拉斯普爾",
+  "Odds": 0.98,
+  "Result": "7-1",
+  "PreferResult": 5,
+  "Time2": "05-21 22:46",
+  "Person": "bin-bin"
+}

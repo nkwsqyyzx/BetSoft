@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德南聯",
+  "Time1": "11-03 02:00",
+  "Host": "侯姆堡",
+  "OddStake": "受平/半",
+  "Guest": "艾禾斯堡",
+  "Prefer": "艾禾斯堡",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-02 23:29",
+  "Person": "摩连奴"
+}

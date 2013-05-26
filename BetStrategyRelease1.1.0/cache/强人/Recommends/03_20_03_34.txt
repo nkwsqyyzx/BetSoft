@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意乙",
+  "Time1": "03-20 03:45",
+  "Host": "切辛納",
+  "OddStake": "2.5球",
+  "Guest": "利禾奴",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "03-20 03:34",
+  "Person": "强人"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "05-10 08:15",
+  "Host": "國家體育會",
+  "OddStake": "一球/球半",
+  "Guest": "皇家加西拉索",
+  "Prefer": "皇家加西拉索",
+  "Odds": 0.98,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "05-10 07:21",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英非聯",
+  "Time1": "02-20 03:45",
+  "Host": "史托港",
+  "OddStake": "2.5/3球",
+  "Guest": "譚禾夫",
+  "Prefer": "大球",
+  "Odds": 1.1,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-19 19:56",
+  "Person": "身不由己"
+}

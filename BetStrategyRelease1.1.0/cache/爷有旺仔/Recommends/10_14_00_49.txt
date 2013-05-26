@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "比乙",
+  "Time1": "10-14 02:00",
+  "Host": "奧斯坦德",
+  "OddStake": "平/半",
+  "Guest": "苗斯干匹盧維茲",
+  "Prefer": "苗斯干匹盧維茲",
+  "Odds": 0.83,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "10-14 00:49",
+  "Person": "爷有旺仔"
+}

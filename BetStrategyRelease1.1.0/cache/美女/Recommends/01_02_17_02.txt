@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "01-03 04:00",
+  "Host": "紐卡素",
+  "OddStake": "受平/半",
+  "Guest": "愛華頓",
+  "Prefer": "愛華頓",
+  "Odds": 1.01,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "01-02 17:02",
+  "Person": "美女"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "02-14 03:45",
+  "Host": "薩克達",
+  "OddStake": "平手",
+  "Guest": "多特蒙德",
+  "Prefer": "薩克達",
+  "Odds": 0.99,
+  "Result": "2-2",
+  "PreferResult": 3,
+  "Time2": "02-13 14:00",
+  "Person": "天之骄子"
+}

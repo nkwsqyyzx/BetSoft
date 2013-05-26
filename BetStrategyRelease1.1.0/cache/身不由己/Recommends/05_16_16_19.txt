@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威甲",
+  "Time1": "05-16 23:59",
+  "Host": "拜尼",
+  "OddStake": "2.5/3球",
+  "Guest": "廣士雲格",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-16 16:19",
+  "Person": "身不由己"
+}

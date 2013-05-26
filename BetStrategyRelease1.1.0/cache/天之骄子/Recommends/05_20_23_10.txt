@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-20 23:59",
+  "Host": "阿利辛特",
+  "OddStake": "半/一",
+  "Guest": "奧特格寧蘭",
+  "Prefer": "奧特格寧蘭",
+  "Odds": 0.91,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-20 23:10",
+  "Person": "天之骄子"
+}

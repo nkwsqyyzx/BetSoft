@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西甲",
+  "Time1": "05-27 02:00",
+  "Host": "華倫西亞",
+  "OddStake": "球半/两球",
+  "Guest": "格拉納達",
+  "Prefer": "華倫西亞",
+  "Odds": 0.97,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 22:07",
+  "Person": "格力电器"
+}

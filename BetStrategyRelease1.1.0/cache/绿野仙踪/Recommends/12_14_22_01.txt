@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "卡塔爾聯",
+  "Time1": "12-14 23:30",
+  "Host": "里科威亞",
+  "OddStake": "2.5球",
+  "Guest": "薩得",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "12-14 22:01",
+  "Person": "绿野仙踪"
+}

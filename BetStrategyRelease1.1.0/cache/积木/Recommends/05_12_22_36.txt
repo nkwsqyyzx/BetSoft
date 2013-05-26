@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "05-12 23:59",
+  "Host": "山達勒斯",
+  "OddStake": "平手",
+  "Guest": "莫迪",
+  "Prefer": "山達勒斯",
+  "Odds": 1.12,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "05-12 22:36",
+  "Person": "积木"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "友誼賽",
+  "Time1": "04-04 19:00",
+  "Host": "羅馬尼亞U18",
+  "OddStake": "2.5球",
+  "Guest": "芬蘭U18",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-04 15:48",
+  "Person": "明明白白"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-03 20:45",
+  "Host": "曼聯",
+  "OddStake": "半/一",
+  "Guest": "阿森納",
+  "Prefer": "曼聯",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "11-03 20:20",
+  "Person": "阿麦的理想"
+}

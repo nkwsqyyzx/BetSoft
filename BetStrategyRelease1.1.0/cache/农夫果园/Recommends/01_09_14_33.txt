@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "格雷納盃",
+  "Time1": "01-09 16:30",
+  "Host": "帕亞聯",
+  "OddStake": "受半球",
+  "Guest": "浦那",
+  "Prefer": "浦那",
+  "Odds": 0.97,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-09 14:33",
+  "Person": "农夫果园"
+}

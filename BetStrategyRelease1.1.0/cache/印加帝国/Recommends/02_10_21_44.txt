@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "瑞士甲",
+  "Time1": "02-10 23:00",
+  "Host": "溫特圖爾",
+  "OddStake": "2.5/3球",
+  "Guest": "韋倫",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-10 21:44",
+  "Person": "印加帝国"
+}

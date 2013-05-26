@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐洲預選",
+  "Time1": "10-17 02:00",
+  "Host": "克羅地亞",
+  "OddStake": "2.5球",
+  "Guest": "威爾斯",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "10-16 14:41",
+  "Person": "轻轻巧巧"
+}

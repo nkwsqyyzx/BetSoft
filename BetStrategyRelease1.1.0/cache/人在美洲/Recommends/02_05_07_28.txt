@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "阿乙",
+  "Time1": "02-05 08:30",
+  "Host": "聯合隊",
+  "OddStake": "2球",
+  "Guest": "門多薩獨立",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "02-05 07:28",
+  "Person": "人在美洲"
+}

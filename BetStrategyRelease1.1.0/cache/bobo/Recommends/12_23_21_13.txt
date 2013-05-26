@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷甲",
+  "Time1": "12-23 21:30",
+  "Host": "飛燕諾",
+  "OddStake": "球半",
+  "Guest": "高寧根",
+  "Prefer": "高寧根",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "12-23 21:13",
+  "Person": "bobo"
+}

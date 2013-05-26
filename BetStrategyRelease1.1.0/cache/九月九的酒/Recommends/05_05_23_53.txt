@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西丙1",
+  "Time1": "05-06 01:30",
+  "Host": "聖瑟巴斯提安雷耶斯",
+  "OddStake": "2/2.5球",
+  "Guest": "特內里費",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "05-05 23:53",
+  "Person": "九月九的酒"
+}

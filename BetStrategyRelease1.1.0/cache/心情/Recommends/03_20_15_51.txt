@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "南非甲",
+  "Time1": "03-20 21:30",
+  "Host": "亞卡約翰內斯堡",
+  "OddStake": "受平/半",
+  "Guest": "柯倫恩斯塔迪",
+  "Prefer": "亞卡約翰內斯堡",
+  "Odds": 0.86,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "03-20 15:51",
+  "Person": "心情"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐霸盃",
+  "Time1": "05-03 03:05",
+  "Host": "切爾西",
+  "OddStake": "一球",
+  "Guest": "巴素利",
+  "Prefer": "切爾西",
+  "Odds": 0.81,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "05-02 18:22",
+  "Person": "绿茵红魔"
+}

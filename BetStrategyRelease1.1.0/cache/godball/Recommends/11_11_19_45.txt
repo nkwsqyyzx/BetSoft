@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "比甲",
+  "Time1": "11-11 21:30",
+  "Host": "安德列治",
+  "OddStake": "一球",
+  "Guest": "布魯日",
+  "Prefer": "布魯日",
+  "Odds": 0.96,
+  "Result": "6-1",
+  "PreferResult": 1,
+  "Time2": "11-11 19:45",
+  "Person": "godball"
+}

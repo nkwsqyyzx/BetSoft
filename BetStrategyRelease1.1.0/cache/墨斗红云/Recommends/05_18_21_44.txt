@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "意甲",
+  "Time1": "05-19 02:45",
+  "Host": "森多利亞",
+  "OddStake": "受半/一",
+  "Guest": "祖雲達斯",
+  "Prefer": "祖雲達斯",
+  "Odds": 1.02,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "05-18 21:44",
+  "Person": "墨斗红云"
+}

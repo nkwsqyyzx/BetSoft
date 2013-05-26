@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐青U17",
+  "Time1": "05-08 22:00",
+  "Host": "奧地利U17(中)",
+  "OddStake": "2.5球",
+  "Guest": "瑞典U17",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-08 21:37",
+  "Person": "大头"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英超",
+  "Time1": "03-30 23:00",
+  "Host": "曼城",
+  "OddStake": "球半/两球",
+  "Guest": "紐卡素",
+  "Prefer": "曼城",
+  "Odds": 1.01,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "03-30 20:50",
+  "Person": "我型我show"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "太陽盃",
+  "Time1": "01-25 23:00",
+  "Host": "莫斯科中央陸軍(中)",
+  "OddStake": "一球",
+  "Guest": "洛辛堡",
+  "Prefer": "莫斯科中央陸軍(中)",
+  "Odds": 0.86,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "01-25 22:13",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法乙",
+  "Time1": "12-12 03:55",
+  "Host": "拉華爾",
+  "OddStake": "2球",
+  "Guest": "安格斯",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "12-11 22:40",
+  "Person": "心情"
+}

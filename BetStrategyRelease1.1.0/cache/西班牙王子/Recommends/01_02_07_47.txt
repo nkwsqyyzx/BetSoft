@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "01-03 04:00",
+  "Host": "紐卡素",
+  "OddStake": "2.5球",
+  "Guest": "愛華頓",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "01-02 07:47",
+  "Person": "西班牙王子"
+}

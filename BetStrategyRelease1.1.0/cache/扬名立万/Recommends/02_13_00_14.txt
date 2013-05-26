@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英非聯",
+  "Time1": "02-13 03:45",
+  "Host": "格連森林",
+  "OddStake": "一球",
+  "Guest": "布瑞特伊",
+  "Prefer": "布瑞特伊",
+  "Odds": 0.8,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "02-13 00:14",
+  "Person": "扬名立万"
+}

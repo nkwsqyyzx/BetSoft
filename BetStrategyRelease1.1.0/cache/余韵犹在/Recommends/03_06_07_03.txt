@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "03-06 10:45",
+  "Host": "尹美利克",
+  "OddStake": "2.5球",
+  "Guest": "伊庫伊奎",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "03-06 07:03",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳職聯",
+  "Time1": "02-16 16:45",
+  "Host": "墨爾本勝利",
+  "OddStake": "2.5球",
+  "Guest": "西部悉尼流浪者",
+  "Prefer": "小球",
+  "Odds": 1.0,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "02-16 12:25",
+  "Person": "轻轻巧巧"
+}

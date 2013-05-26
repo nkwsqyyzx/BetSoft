@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-24 20:00",
+  "Host": "法國U16",
+  "OddStake": "一球/球半",
+  "Guest": "捷克U16",
+  "Prefer": "法國U16",
+  "Odds": 0.99,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-24 19:00",
+  "Person": "夜是彩市圆"
+}

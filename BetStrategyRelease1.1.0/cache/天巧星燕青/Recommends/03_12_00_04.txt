@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "瑞士甲",
+  "Time1": "03-12 02:45",
+  "Host": "阿勞",
+  "OddStake": "2.5球",
+  "Guest": "貝林佐納",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-12 00:04",
+  "Person": "天巧星燕青"
+}

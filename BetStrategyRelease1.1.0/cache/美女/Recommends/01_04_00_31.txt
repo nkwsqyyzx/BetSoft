@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡甲",
+  "Time1": "01-04 04:15",
+  "Host": "費雷姆德",
+  "OddStake": "2.5球",
+  "Guest": "比蘭倫斯",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "01-04 00:31",
+  "Person": "美女"
+}

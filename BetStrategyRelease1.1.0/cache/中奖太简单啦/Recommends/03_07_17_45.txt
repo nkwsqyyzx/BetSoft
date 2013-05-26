@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "03-07 18:00",
+  "Host": "德國U16",
+  "OddStake": "3球",
+  "Guest": "意大利U16",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-07 17:45",
+  "Person": "中奖太简单啦"
+}

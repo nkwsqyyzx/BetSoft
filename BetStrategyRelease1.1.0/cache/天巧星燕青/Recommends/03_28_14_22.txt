@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "印尼超",
+  "Time1": "03-28 16:30",
+  "Host": "巴厘巴板",
+  "OddStake": "半球",
+  "Guest": "巴日托",
+  "Prefer": "巴日托",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-28 14:22",
+  "Person": "天巧星燕青"
+}

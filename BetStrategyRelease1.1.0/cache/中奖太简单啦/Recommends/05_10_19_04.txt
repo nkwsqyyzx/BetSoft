@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中超",
+  "Time1": "05-10 19:45",
+  "Host": "上海申花",
+  "OddStake": "受一球",
+  "Guest": "廣州恆大",
+  "Prefer": "廣州恆大",
+  "Odds": 1.02,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "05-10 19:04",
+  "Person": "中奖太简单啦"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "日皇盃",
+  "Time1": "10-10 18:00",
+  "Host": "岡山雉雞(中)",
+  "OddStake": "受一球/球半",
+  "Guest": "名古屋鯨魚",
+  "Prefer": "岡山雉雞(中)",
+  "Odds": 0.87,
+  "Result": "2-3",
+  "PreferResult": 4,
+  "Time2": "10-10 17:45",
+  "Person": "低调的人"
+}

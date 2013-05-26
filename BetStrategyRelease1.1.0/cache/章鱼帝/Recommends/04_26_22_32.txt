@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意乙",
+  "Time1": "04-27 02:45",
+  "Host": "摩德納",
+  "OddStake": "受平/半",
+  "Guest": "森索羅",
+  "Prefer": "摩德納",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-26 22:32",
+  "Person": "章鱼帝"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "02-24 19:00",
+  "Host": "華歷簡奴",
+  "OddStake": "2.5球",
+  "Guest": "華拉度列",
+  "Prefer": "小球",
+  "Odds": 1.02,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "02-24 18:45",
+  "Person": "我行我素"
+}

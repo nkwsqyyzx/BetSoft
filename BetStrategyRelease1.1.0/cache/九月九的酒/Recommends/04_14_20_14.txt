@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "俄超",
+  "Time1": "04-14 23:00",
+  "Host": "魯賓卡讚",
+  "OddStake": "2/2.5球",
+  "Guest": "羅斯托夫",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-14 20:14",
+  "Person": "九月九的酒"
+}

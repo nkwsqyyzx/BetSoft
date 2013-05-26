@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "女歐協盃",
+  "Time1": "04-21 22:00",
+  "Host": "士砵亭B隊",
+  "OddStake": "2/2.5球",
+  "Guest": "烏尼翁馬德拉",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "04-21 21:48",
+  "Person": "人在美洲"
+}

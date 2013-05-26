@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "印尼甲",
+  "Time1": "03-25 16:30",
+  "Host": "PSIS三寶瓏",
+  "OddStake": "2.5球",
+  "Guest": "伯斯古古杜斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-25 15:14",
+  "Person": "明明白白"
+}

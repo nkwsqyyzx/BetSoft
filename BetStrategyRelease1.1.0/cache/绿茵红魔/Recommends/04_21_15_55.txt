@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-21 18:00",
+  "Host": "加泰",
+  "OddStake": "2.5球",
+  "Guest": "愛斯賓奴",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "04-21 15:55",
+  "Person": "绿茵红魔"
+}

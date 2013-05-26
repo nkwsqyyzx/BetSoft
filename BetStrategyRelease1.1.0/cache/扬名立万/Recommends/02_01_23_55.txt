@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "02-02 03:00",
+  "Host": "卡昂",
+  "OddStake": "2/2.5球",
+  "Guest": "奈梅斯",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-01 23:55",
+  "Person": "扬名立万"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "南美預選",
+  "Time1": "03-23 08:00",
+  "Host": "阿根廷",
+  "OddStake": "3/3.5球",
+  "Guest": "委內瑞拉",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 2,
+  "Time2": "03-22 13:18",
+  "Person": "格力电器"
+}

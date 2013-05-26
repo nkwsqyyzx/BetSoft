@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "02-02 01:00",
+  "Host": "桑恩達(中)",
+  "OddStake": "两球",
+  "Guest": "法納",
+  "Prefer": "桑恩達(中)",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-02 00:44",
+  "Person": "夜是彩市圆"
+}

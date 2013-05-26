@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "哥倫甲",
+  "Time1": "12-06 07:15",
+  "Host": "托利馬",
+  "OddStake": "平/半",
+  "Guest": "米倫拿列奧",
+  "Prefer": "托利馬",
+  "Odds": 1.07,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "12-06 06:58",
+  "Person": "飞天神猪"
+}

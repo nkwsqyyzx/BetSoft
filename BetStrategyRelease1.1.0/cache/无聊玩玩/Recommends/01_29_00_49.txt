@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-29 04:30",
+  "Host": "塞維利亞",
+  "OddStake": "2.5/3球",
+  "Guest": "格拉納達",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "3-0",
+  "PreferResult": 4,
+  "Time2": "01-29 00:49",
+  "Person": "无聊玩玩"
+}

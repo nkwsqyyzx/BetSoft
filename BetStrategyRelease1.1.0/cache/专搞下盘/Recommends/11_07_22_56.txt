@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英甲",
+  "Time1": "11-08 03:45",
+  "Host": "米爾頓凱恩斯",
+  "OddStake": "一球/球半",
+  "Guest": "奧連特",
+  "Prefer": "奧連特",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "11-07 22:56",
+  "Person": "专搞下盘"
+}

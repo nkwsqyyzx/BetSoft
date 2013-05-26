@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法乙",
+  "Time1": "03-02 21:00",
+  "Host": "甘岡",
+  "OddStake": "2/2.5球",
+  "Guest": "奈梅斯",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "03-02 13:20",
+  "Person": "我型我show"
+}

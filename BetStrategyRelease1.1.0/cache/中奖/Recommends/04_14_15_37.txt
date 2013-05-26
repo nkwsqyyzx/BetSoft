@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "捷丙M",
+  "Time1": "04-14 16:15",
+  "Host": "奧斯泰華B隊",
+  "OddStake": "半球",
+  "Guest": "斯拉維亞奧路華魯丁內",
+  "Prefer": "斯拉維亞奧路華魯丁內",
+  "Odds": 0.9,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "04-14 15:37",
+  "Person": "中奖"
+}

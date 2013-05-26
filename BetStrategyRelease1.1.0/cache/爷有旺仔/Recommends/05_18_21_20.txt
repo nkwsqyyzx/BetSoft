@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "白俄超",
+  "Time1": "05-18 23:00",
+  "Host": "迪尼普莫吉萊夫",
+  "OddStake": "半/一",
+  "Guest": "戴拿模比斯特",
+  "Prefer": "戴拿模比斯特",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-18 21:20",
+  "Person": "爷有旺仔"
+}

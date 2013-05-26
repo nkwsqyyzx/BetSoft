@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西丁",
+  "Time1": "01-07 22:45",
+  "Host": "利亞內斯",
+  "OddStake": "2/2.5球",
+  "Guest": "堪達士",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "01-07 19:19",
+  "Person": "心情"
+}

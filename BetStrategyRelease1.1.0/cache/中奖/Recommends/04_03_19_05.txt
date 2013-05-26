@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "04-03 20:00",
+  "Host": "廣州恆大",
+  "OddStake": "3/3.5球",
+  "Guest": "孟通",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "04-03 19:05",
+  "Person": "中奖"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意乙",
+  "Time1": "05-11 21:00",
+  "Host": "蘭西安奴",
+  "OddStake": "受半球",
+  "Guest": "森索羅",
+  "Prefer": "森索羅",
+  "Odds": 0.86,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "05-11 20:31",
+  "Person": "轻轻巧巧"
+}

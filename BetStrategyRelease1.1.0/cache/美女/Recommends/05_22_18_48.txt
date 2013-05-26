@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中足盃",
+  "Time1": "05-22 19:30",
+  "Host": "武漢卓爾",
+  "OddStake": "半球",
+  "Guest": "廣東日之泉",
+  "Prefer": "廣東日之泉",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-22 18:48",
+  "Person": "美女"
+}

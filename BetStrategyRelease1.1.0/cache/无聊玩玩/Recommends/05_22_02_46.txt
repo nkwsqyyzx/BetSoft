@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "冰岛超",
+  "Time1": "05-22 04:00",
+  "Host": "貝雷達比歷克",
+  "OddStake": "受平/半",
+  "Guest": "夏拿佐杜亞",
+  "Prefer": "貝雷達比歷克",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-22 02:46",
+  "Person": "无聊玩玩"
+}

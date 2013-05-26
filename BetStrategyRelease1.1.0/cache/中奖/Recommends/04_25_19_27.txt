@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "葡U17附",
+  "Time1": "04-25 23:59",
+  "Host": "葡萄牙U19",
+  "OddStake": "半球",
+  "Guest": "俄羅斯U19",
+  "Prefer": "葡萄牙U19",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-25 19:27",
+  "Person": "中奖"
+}

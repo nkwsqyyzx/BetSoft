@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "芬聯盃",
+  "Time1": "02-03 22:30",
+  "Host": "赫爾辛基(中)",
+  "OddStake": "球半",
+  "Guest": "邁柏",
+  "Prefer": "赫爾辛基(中)",
+  "Odds": 0.99,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-03 21:52",
+  "Person": "夜是彩市圆"
+}

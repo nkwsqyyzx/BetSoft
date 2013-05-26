@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "蘇甲",
+  "Time1": "02-26 09:15",
+  "Host": "聖馬丁SJ",
+  "OddStake": "2/2.5球",
+  "Guest": "紐維爾舊生",
+  "Prefer": "大球",
+  "Odds": 1.11,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "02-26 08:38",
+  "Person": "身不由己"
+}

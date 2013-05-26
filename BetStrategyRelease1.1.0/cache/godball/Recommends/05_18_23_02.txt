@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "克亞甲",
+  "Time1": "05-19 01:00",
+  "Host": "施巴利亞",
+  "OddStake": "2/2.5球",
+  "Guest": "國際薩佩斯克",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-18 23:02",
+  "Person": "godball"
+}

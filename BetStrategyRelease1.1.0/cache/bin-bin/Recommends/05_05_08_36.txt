@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威甲",
+  "Time1": "05-05 21:00",
+  "Host": "廣士雲格",
+  "OddStake": "2.5/3球",
+  "Guest": "費德列斯達",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "05-05 08:36",
+  "Person": "bin-bin"
+}

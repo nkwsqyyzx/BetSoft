@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德西聯",
+  "Time1": "03-21 02:00",
+  "Host": "維柏特",
+  "OddStake": "2.5球",
+  "Guest": "科隆青年隊",
+  "Prefer": "大球",
+  "Odds": 0.99,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "03-20 23:05",
+  "Person": "身不由己"
+}

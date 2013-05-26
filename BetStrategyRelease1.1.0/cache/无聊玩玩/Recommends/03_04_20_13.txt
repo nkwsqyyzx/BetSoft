@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷乙",
+  "Time1": "03-05 03:00",
+  "Host": "幸運薛達",
+  "OddStake": "半/一",
+  "Guest": "阿梅爾城",
+  "Prefer": "幸運薛達",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "03-04 20:13",
+  "Person": "无聊玩玩"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "墨西聯",
+  "Time1": "02-03 09:00",
+  "Host": "塔格雷斯",
+  "OddStake": "2/2.5球",
+  "Guest": "提華納",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "02-02 14:45",
+  "Person": "心情"
+}

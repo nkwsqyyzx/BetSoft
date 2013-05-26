@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭甲",
+  "Time1": "05-17 23:59",
+  "Host": "魯治卓索",
+  "OddStake": "半球",
+  "Guest": "沙斯辛",
+  "Prefer": "沙斯辛",
+  "Odds": 0.91,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "05-17 17:42",
+  "Person": "积木"
+}

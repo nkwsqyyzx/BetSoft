@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英甲",
+  "Time1": "03-16 23:00",
+  "Host": "奧連特",
+  "OddStake": "半球",
+  "Guest": "卡素爾",
+  "Prefer": "卡素爾",
+  "Odds": 0.84,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "03-16 20:15",
+  "Person": "爷有旺仔"
+}

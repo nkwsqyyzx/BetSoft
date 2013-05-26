@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "格雷納盃",
+  "Time1": "01-10 18:15",
+  "Host": "芬蘭U18(中)",
+  "OddStake": "2.5球",
+  "Guest": "伊朗U18",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-10 17:13",
+  "Person": "摩连奴"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德東北聯",
+  "Time1": "05-23 01:00",
+  "Host": "奧雷布洛",
+  "OddStake": "球半",
+  "Guest": "安其爾何馬士",
+  "Prefer": "安其爾何馬士",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-23 00:38",
+  "Person": "低调的人"
+}

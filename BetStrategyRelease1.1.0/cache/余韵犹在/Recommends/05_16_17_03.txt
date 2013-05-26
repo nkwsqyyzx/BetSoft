@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-16 18:00",
+  "Host": "拉脫維亞U16(中)",
+  "OddStake": "受球半/两球",
+  "Guest": "俄羅斯U16",
+  "Prefer": "俄羅斯U16",
+  "Odds": 0.92,
+  "Result": "2-5",
+  "PreferResult": 5,
+  "Time2": "05-16 17:03",
+  "Person": "余韵犹在"
+}

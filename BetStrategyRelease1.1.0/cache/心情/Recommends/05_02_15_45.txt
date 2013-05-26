@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "05-03 07:15",
+  "Host": "聖保羅",
+  "OddStake": "平/半",
+  "Guest": "米內羅競技",
+  "Prefer": "米內羅競技",
+  "Odds": 0.96,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-02 15:45",
+  "Person": "心情"
+}

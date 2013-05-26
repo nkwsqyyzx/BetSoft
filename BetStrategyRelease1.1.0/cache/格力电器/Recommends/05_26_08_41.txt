@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "捷克甲",
+  "Time1": "05-26 23:59",
+  "Host": "塔比歷斯",
+  "OddStake": "受半球",
+  "Guest": "布拉格斯巴達",
+  "Prefer": "塔比歷斯",
+  "Odds": 0.9,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "05-26 08:41",
+  "Person": "格力电器"
+}

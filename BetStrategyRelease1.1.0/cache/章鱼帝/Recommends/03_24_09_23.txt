@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "美職業",
+  "Time1": "03-24 10:30",
+  "Host": "聖荷西地震",
+  "OddStake": "半球",
+  "Guest": "西雅圖音響",
+  "Prefer": "西雅圖音響",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-24 09:23",
+  "Person": "章鱼帝"
+}

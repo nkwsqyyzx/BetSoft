@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美職業",
+  "Time1": "05-20 05:00",
+  "Host": "華盛頓聯隊",
+  "OddStake": "受平/半",
+  "Guest": "肯薩斯城體育會",
+  "Prefer": "華盛頓聯隊",
+  "Odds": 0.81,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-20 04:26",
+  "Person": "无聊玩玩"
+}

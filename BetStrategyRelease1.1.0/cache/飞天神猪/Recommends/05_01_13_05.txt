@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓聯盟",
+  "Time1": "05-01 14:00",
+  "Host": "慶州KHNP",
+  "OddStake": "2/2.5球",
+  "Guest": "龍仁市FC",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-01 13:05",
+  "Person": "飞天神猪"
+}

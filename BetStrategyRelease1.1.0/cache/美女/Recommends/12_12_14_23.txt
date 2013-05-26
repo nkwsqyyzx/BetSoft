@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "東南錦",
+  "Time1": "12-12 20:00",
+  "Host": "新加坡",
+  "OddStake": "2球",
+  "Guest": "菲律賓",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-12 14:23",
+  "Person": "美女"
+}

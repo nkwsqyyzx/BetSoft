@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "玻利甲",
+  "Time1": "03-29 08:00",
+  "Host": "皇家帕托斯",
+  "OddStake": "2.5/3球",
+  "Guest": "史莊格斯特",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "03-29 04:27",
+  "Person": "jack"
+}

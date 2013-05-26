@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "蘇超",
+  "Time1": "03-09 23:00",
+  "Host": "羅斯郡",
+  "OddStake": "受一球",
+  "Guest": "些路迪",
+  "Prefer": "些路迪",
+  "Odds": 0.87,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "03-09 22:42",
+  "Person": "人在美洲"
+}

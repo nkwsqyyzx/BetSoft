@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "巴西甲",
+  "Time1": "10-18 09:00",
+  "Host": "高士路",
+  "OddStake": "半球",
+  "Guest": "哥連泰斯",
+  "Prefer": "高士路",
+  "Odds": 0.95,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "10-17 21:29",
+  "Person": "专搞下盘"
+}

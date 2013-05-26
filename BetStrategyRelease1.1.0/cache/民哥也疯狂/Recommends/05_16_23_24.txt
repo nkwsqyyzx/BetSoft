@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-17 01:00",
+  "Host": "洛辛堡",
+  "OddStake": "3/3.5球",
+  "Guest": "薩普斯堡08",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "4-2",
+  "PreferResult": 5,
+  "Time2": "05-16 23:24",
+  "Person": "民哥也疯狂"
+}

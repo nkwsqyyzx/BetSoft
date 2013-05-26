@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬超",
+  "Time1": "04-22 23:30",
+  "Host": "洪卡",
+  "OddStake": "受半球",
+  "Guest": "赫爾辛基",
+  "Prefer": "赫爾辛基",
+  "Odds": 0.82,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "04-22 14:33",
+  "Person": "无聊玩玩"
+}

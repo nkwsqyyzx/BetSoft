@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英足總盃",
+  "Time1": "01-06 21:30",
+  "Host": "史雲斯",
+  "OddStake": "受半球",
+  "Guest": "阿森納",
+  "Prefer": "史雲斯",
+  "Odds": 0.82,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "01-06 19:49",
+  "Person": "强人"
+}

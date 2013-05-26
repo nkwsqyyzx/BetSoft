@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西聯盃",
+  "Time1": "03-06 23:30",
+  "Host": "薩拉戈薩B隊",
+  "OddStake": "半球",
+  "Guest": "合亞",
+  "Prefer": "合亞",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-06 18:07",
+  "Person": "天巧星燕青"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-20 03:45",
+  "Host": "羅馬",
+  "OddStake": "3/3.5球",
+  "Guest": "拖連奴",
+  "Prefer": "小球",
+  "Odds": 1.04,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-19 18:59",
+  "Person": "专搞下盘"
+}

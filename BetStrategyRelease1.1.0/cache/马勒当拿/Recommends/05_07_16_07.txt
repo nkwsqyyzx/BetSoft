@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "印尼甲",
+  "Time1": "05-07 16:30",
+  "Host": "PPSM薩克蒂瑪格朗",
+  "OddStake": "2/2.5球",
+  "Guest": "帕塞萬吉",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "05-07 16:07",
+  "Person": "马勒当拿"
+}

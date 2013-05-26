@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意乙",
+  "Time1": "05-11 21:00",
+  "Host": "祖華史塔比亞",
+  "OddStake": "2.5球",
+  "Guest": "維羅納",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "05-11 20:42",
+  "Person": "大头"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "以超",
+  "Time1": "12-31 02:15",
+  "Host": "特拉維夫馬卡比",
+  "OddStake": "2.5球",
+  "Guest": "海法夏普爾",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "6-2",
+  "PreferResult": 1,
+  "Time2": "12-31 00:09",
+  "Person": "美女"
+}

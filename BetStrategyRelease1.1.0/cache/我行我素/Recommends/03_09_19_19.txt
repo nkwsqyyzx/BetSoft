@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英乙",
+  "Time1": "03-09 23:00",
+  "Host": "富力特城",
+  "OddStake": "2.5球",
+  "Guest": "艾斯特城",
+  "Prefer": "小球",
+  "Odds": 0.803,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-09 19:19",
+  "Person": "我行我素"
+}

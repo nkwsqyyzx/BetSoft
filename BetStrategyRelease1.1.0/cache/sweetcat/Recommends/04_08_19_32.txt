@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "伊朗甲",
+  "Time1": "04-08 19:45",
+  "Host": "弗蘭德亞茲德",
+  "OddStake": "半球",
+  "Guest": "斯蘭澤",
+  "Prefer": "弗蘭德亞茲德",
+  "Odds": 1.02,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-08 19:32",
+  "Person": "sweetcat"
+}

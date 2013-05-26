@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "印尼超",
+  "Time1": "04-11 16:30",
+  "Host": "密特拉庫卡",
+  "OddStake": "球半",
+  "Guest": "巴厘巴板",
+  "Prefer": "密特拉庫卡",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-11 14:50",
+  "Person": "天巧星燕青"
+}

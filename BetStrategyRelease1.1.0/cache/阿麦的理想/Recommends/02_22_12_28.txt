@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳職聯",
+  "Time1": "02-22 16:30",
+  "Host": "紐卡斯托",
+  "OddStake": "平手",
+  "Guest": "布里斯班獅吼",
+  "Prefer": "布里斯班獅吼",
+  "Odds": 1.15,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "02-22 12:28",
+  "Person": "阿麦的理想"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡U17附",
+  "Time1": "02-02 18:00",
+  "Host": "杜克拉布拉格(中)",
+  "OddStake": "3球",
+  "Guest": "帕都拜斯",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "02-02 17:44",
+  "Person": "飞天神猪"
+}

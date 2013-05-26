@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓聯盟",
+  "Time1": "04-19 18:00",
+  "Host": "蔚山造船",
+  "OddStake": "半球",
+  "Guest": "仁川地鐵",
+  "Prefer": "仁川地鐵",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "04-19 15:19",
+  "Person": "阿麦的理想"
+}

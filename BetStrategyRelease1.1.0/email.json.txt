@@ -1,0 +1,10 @@
+{
+  "CONTENT": {
+    "$type": "BetStrategy.Common.Configurations.EmailConfig, BetStrategy.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "Username": "your@gmail.com",
+    "Password": "password",
+    "ToAddress": [
+      "you email"
+    ]
+  }
+}

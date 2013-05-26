@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "以超",
+  "Time1": "04-30 01:50",
+  "Host": "海法馬卡比",
+  "OddStake": "平/半",
+  "Guest": "特拉維夫馬卡比",
+  "Prefer": "特拉維夫馬卡比",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "04-30 00:54",
+  "Person": "sos73"
+}

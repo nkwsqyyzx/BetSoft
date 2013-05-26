@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥超",
+  "Time1": "05-04 00:30",
+  "Host": "施克堡",
+  "OddStake": "受半球",
+  "Guest": "洛斯查蘭特",
+  "Prefer": "施克堡",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "05-03 23:33",
+  "Person": "马勒当拿"
+}

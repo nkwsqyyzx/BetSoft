@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "土耳其盃",
+  "Time1": "01-24 02:30",
+  "Host": "費倫巴治",
+  "OddStake": "半球",
+  "Guest": "柏薩士邦",
+  "Prefer": "費倫巴治",
+  "Odds": 0.98,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "01-23 20:56",
+  "Person": "大头"
+}

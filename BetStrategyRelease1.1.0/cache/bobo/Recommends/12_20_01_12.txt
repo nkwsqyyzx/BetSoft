@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "南非超",
+  "Time1": "12-20 01:30",
+  "Host": "超級聯隊",
+  "OddStake": "半球",
+  "Guest": "阿積士開普敦",
+  "Prefer": "超級聯隊",
+  "Odds": 0.97,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "12-20 01:12",
+  "Person": "bobo"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "秘魯春",
+  "Time1": "04-22 02:30",
+  "Host": "梅加",
+  "OddStake": "2.5球",
+  "Guest": "水晶競技",
+  "Prefer": "大球",
+  "Odds": 1.08,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "04-22 02:02",
+  "Person": "身不由己"
+}

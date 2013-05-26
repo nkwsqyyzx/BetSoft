@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷青聯",
+  "Time1": "12-10 20:00",
+  "Host": "維迪斯艾古青年隊",
+  "OddStake": "一球",
+  "Guest": "NEC尼美根奧斯青年隊",
+  "Prefer": "維迪斯艾古青年隊",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "12-10 13:08",
+  "Person": "飞天神猪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "CIS盃",
+  "Time1": "01-23 18:15",
+  "Host": "塔吉克斯坦U21(中)",
+  "OddStake": "平手",
+  "Guest": "立陶宛U21",
+  "Prefer": "立陶宛U21",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "01-23 18:03",
+  "Person": "明明白白"
+}

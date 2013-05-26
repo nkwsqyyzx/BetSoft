@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德北聯",
+  "Time1": "05-16 01:00",
+  "Host": "漢諾威96青年隊",
+  "OddStake": "半球",
+  "Guest": "紐曼斯特",
+  "Prefer": "漢諾威96青年隊",
+  "Odds": 0.82,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-15 22:01",
+  "Person": "jack"
+}

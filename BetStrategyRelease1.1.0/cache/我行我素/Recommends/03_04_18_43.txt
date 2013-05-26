@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "03-05 02:00",
+  "Host": "卡斯帕薩",
+  "OddStake": "平手",
+  "Guest": "特拉布宗",
+  "Prefer": "特拉布宗",
+  "Odds": 0.99,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "03-04 18:43",
+  "Person": "我行我素"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷甲",
+  "Time1": "05-05 18:30",
+  "Host": "海倫維恩",
+  "OddStake": "半球",
+  "Guest": "烏德勒支",
+  "Prefer": "烏德勒支",
+  "Odds": 0.98,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "05-05 12:00",
+  "Person": "阿麦的理想"
+}

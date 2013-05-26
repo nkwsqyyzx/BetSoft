@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德甲",
+  "Time1": "02-23 22:30",
+  "Host": "漢諾威",
+  "OddStake": "平手",
+  "Guest": "漢堡",
+  "Prefer": "漢堡",
+  "Odds": 0.93,
+  "Result": "5-1",
+  "PreferResult": 1,
+  "Time2": "02-23 20:04",
+  "Person": "天之骄子"
+}

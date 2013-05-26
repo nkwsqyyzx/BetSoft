@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英超",
+  "Time1": "03-09 23:00",
+  "Host": "雷丁",
+  "OddStake": "平手",
+  "Guest": "阿斯頓維拉",
+  "Prefer": "雷丁",
+  "Odds": 0.81,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "03-09 13:06",
+  "Person": "西班牙王子"
+}

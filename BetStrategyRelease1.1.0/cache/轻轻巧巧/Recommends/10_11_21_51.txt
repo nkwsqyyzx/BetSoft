@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐青U21",
+  "Time1": "10-12 02:45",
+  "Host": "西班牙U21",
+  "OddStake": "球半",
+  "Guest": "丹麥U21",
+  "Prefer": "西班牙U21",
+  "Odds": 0.87,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "10-11 21:51",
+  "Person": "轻轻巧巧"
+}

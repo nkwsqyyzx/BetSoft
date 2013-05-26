@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "05-01 18:00",
+  "Host": "濟州聯隊",
+  "OddStake": "半球",
+  "Guest": "慶南FC",
+  "Prefer": "濟州聯隊",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-01 12:48",
+  "Person": "轻轻巧巧"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "科王子盃",
+  "Time1": "11-20 22:30",
+  "Host": "阿爾科威特",
+  "OddStake": "半球",
+  "Guest": "阿拉畢科威特",
+  "Prefer": "阿拉畢科威特",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "11-20 20:31",
+  "Person": "轻轻巧巧"
+}

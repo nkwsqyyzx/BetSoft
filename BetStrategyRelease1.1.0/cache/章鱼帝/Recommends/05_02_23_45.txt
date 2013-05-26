@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥甲",
+  "Time1": "05-03 01:00",
+  "Host": "維積利科爾丁",
+  "OddStake": "2/2.5球",
+  "Guest": "域堡",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-02 23:45",
+  "Person": "章鱼帝"
+}

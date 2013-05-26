@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土耳其盃",
+  "Time1": "12-11 23:59",
+  "Host": "伊斯基錫海斯普",
+  "OddStake": "半球",
+  "Guest": "卡拉布克士邦",
+  "Prefer": "伊斯基錫海斯普",
+  "Odds": 0.9,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "12-11 21:27",
+  "Person": "大头"
+}

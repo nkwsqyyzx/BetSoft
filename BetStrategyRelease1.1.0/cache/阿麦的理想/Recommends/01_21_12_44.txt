@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-21 15:30",
+  "Host": "摩爾多瓦U17(中)",
+  "OddStake": "受球半",
+  "Guest": "烏克蘭U17",
+  "Prefer": "烏克蘭U17",
+  "Odds": 0.91,
+  "Result": "0-6",
+  "PreferResult": 5,
+  "Time2": "01-21 12:44",
+  "Person": "阿麦的理想"
+}

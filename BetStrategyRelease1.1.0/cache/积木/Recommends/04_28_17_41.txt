@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西乙",
+  "Time1": "04-28 18:00",
+  "Host": "艾爾切",
+  "OddStake": "半球",
+  "Guest": "赫羅納",
+  "Prefer": "赫羅納",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-28 17:41",
+  "Person": "积木"
+}

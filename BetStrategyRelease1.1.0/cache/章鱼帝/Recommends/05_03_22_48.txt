@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "05-04 06:00",
+  "Host": "葛度爾古斯",
+  "OddStake": "2/2.5球",
+  "Guest": "科隆競技",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-03 22:48",
+  "Person": "章鱼帝"
+}

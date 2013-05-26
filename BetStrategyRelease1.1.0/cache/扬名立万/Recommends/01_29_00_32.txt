@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意乙",
+  "Time1": "01-29 03:45",
+  "Host": "祖華史塔比亞",
+  "OddStake": "2.5球",
+  "Guest": "布雷西亞",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-29 00:32",
+  "Person": "扬名立万"
+}

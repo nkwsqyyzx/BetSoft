@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英非北",
+  "Time1": "01-09 03:45",
+  "Host": "史塔布理治",
+  "OddStake": "半球",
+  "Guest": "比夏史托福",
+  "Prefer": "比夏史托福",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "01-08 21:17",
+  "Person": "人在美洲"
+}

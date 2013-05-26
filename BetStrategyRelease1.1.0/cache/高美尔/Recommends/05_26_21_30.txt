@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西丁",
+  "Time1": "05-27 01:00",
+  "Host": "艾爾切艾利塔奴",
+  "OddStake": "2/2.5球",
+  "Guest": "奧烙特",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 21:30",
+  "Person": "高美尔"
+}

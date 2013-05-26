@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法丙",
+  "Time1": "05-25 02:00",
+  "Host": "盧昂",
+  "OddStake": "半/一",
+  "Guest": "埃皮內爾",
+  "Prefer": "埃皮內爾",
+  "Odds": 0.87,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "05-24 21:47",
+  "Person": "农夫果园"
+}

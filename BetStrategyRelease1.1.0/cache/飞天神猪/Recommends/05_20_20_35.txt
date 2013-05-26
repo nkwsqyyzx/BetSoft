@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威甲",
+  "Time1": "05-20 23:59",
+  "Host": "史托曼",
+  "OddStake": "2.5/3球",
+  "Guest": "費德列斯達",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-20 20:35",
+  "Person": "飞天神猪"
+}

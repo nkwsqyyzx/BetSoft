@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿乙",
+  "Time1": "05-27 02:30",
+  "Host": "新芝加哥",
+  "OddStake": "2/2.5球",
+  "Guest": "阿爾米蘭提布朗",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 00:25",
+  "Person": "空中飞人"
+}

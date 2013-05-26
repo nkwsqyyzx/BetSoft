@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "西甲",
+  "Time1": "03-17 01:00",
+  "Host": "加泰",
+  "OddStake": "平/半",
+  "Guest": "畢爾巴鄂競技",
+  "Prefer": "加泰",
+  "Odds": 1.08,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-16 23:06",
+  "Person": "夜是彩市圆"
+}

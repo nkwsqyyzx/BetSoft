@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "友誼賽",
+  "Time1": "10-12 01:00",
+  "Host": "葛斯多芬",
+  "OddStake": "受两球半",
+  "Guest": "奧斯堡",
+  "Prefer": "奧斯堡",
+  "Odds": 0.9,
+  "Result": "0-12",
+  "PreferResult": 1,
+  "Time2": "10-12 00:39",
+  "Person": "爷有旺仔"
+}

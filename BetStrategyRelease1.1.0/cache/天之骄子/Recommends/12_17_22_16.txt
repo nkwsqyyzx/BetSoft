@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德乙",
+  "Time1": "12-18 03:15",
+  "Host": "布倫瑞克",
+  "OddStake": "半/一",
+  "Guest": "柏林聯",
+  "Prefer": "柏林聯",
+  "Odds": 0.92,
+  "Result": "4-3",
+  "PreferResult": 2,
+  "Time2": "12-17 22:16",
+  "Person": "天之骄子"
+}

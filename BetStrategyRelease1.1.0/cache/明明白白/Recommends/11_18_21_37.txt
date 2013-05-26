@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德北聯",
+  "Time1": "11-18 22:00",
+  "Host": "雷登",
+  "OddStake": "2.5球",
+  "Guest": "紐曼斯特",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-18 21:37",
+  "Person": "明明白白"
+}

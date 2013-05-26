@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "05-14 08:30",
+  "Host": "學生隊",
+  "OddStake": "半球",
+  "Guest": "聖塔菲聯",
+  "Prefer": "學生隊",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-14 03:18",
+  "Person": "无聊玩玩"
+}

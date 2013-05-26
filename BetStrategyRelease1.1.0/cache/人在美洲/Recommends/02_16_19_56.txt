@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "蘇甲",
+  "Time1": "02-17 07:15",
+  "Host": "沙士菲",
+  "OddStake": "2/2.5球",
+  "Guest": "獨立隊",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-16 19:56",
+  "Person": "人在美洲"
+}

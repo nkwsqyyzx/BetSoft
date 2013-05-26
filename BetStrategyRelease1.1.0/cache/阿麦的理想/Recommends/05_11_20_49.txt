@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德甲",
+  "Time1": "05-11 21:30",
+  "Host": "格拉特霍夫",
+  "OddStake": "受半球",
+  "Guest": "費雷堡",
+  "Prefer": "格拉特霍夫",
+  "Odds": 0.98,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-11 20:49",
+  "Person": "阿麦的理想"
+}

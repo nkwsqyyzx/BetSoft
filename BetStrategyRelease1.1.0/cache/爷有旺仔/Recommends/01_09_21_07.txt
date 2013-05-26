@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法丁B",
+  "Time1": "01-09 23:00",
+  "Host": "烏德勒支",
+  "OddStake": "平/半",
+  "Guest": "柏林聯",
+  "Prefer": "柏林聯",
+  "Odds": 0.9,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "01-09 21:07",
+  "Person": "爷有旺仔"
+}

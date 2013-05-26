@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "加拿冠",
+  "Time1": "04-25 09:45",
+  "Host": "埃德蒙頓",
+  "OddStake": "受半/一",
+  "Guest": "溫哥華白帽",
+  "Prefer": "溫哥華白帽",
+  "Odds": 0.87,
+  "Result": "2-3",
+  "PreferResult": 4,
+  "Time2": "04-25 09:12",
+  "Person": "赢球偷着乐"
+}

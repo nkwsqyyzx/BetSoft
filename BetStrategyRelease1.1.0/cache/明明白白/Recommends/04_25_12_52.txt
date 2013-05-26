@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳南超",
+  "Time1": "04-25 15:30",
+  "Host": "地鐵之星",
+  "OddStake": "2.5/3球",
+  "Guest": "克羅伊登國王",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-25 12:52",
+  "Person": "明明白白"
+}

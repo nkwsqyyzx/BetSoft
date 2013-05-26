@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "馬來甲",
+  "Time1": "01-11 20:15",
+  "Host": "砂勞越",
+  "OddStake": "一球",
+  "Guest": "UiTM足球俱樂部",
+  "Prefer": "砂勞越",
+  "Odds": 0.8,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "01-11 18:36",
+  "Person": "明明白白"
+}

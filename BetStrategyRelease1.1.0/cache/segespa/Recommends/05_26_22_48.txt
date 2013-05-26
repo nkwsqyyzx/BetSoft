@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法甲",
+  "Time1": "05-27 03:00",
+  "Host": "阿些斯奧",
+  "OddStake": "2.5球",
+  "Guest": "奈斯",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 22:48",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷甲",
+  "Time1": "04-28 02:45",
+  "Host": "比達",
+  "OddStake": "受球半",
+  "Guest": "阿積士",
+  "Prefer": "阿積士",
+  "Odds": 0.92,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "04-28 02:02",
+  "Person": "墨斗红云"
+}

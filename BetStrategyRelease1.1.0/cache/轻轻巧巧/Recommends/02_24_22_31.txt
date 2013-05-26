@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-24 23:30",
+  "Host": "奧斯達(中)",
+  "OddStake": "半/一",
+  "Guest": "華保斯",
+  "Prefer": "奧斯達(中)",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-24 22:31",
+  "Person": "轻轻巧巧"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "波蘭盃",
+  "Time1": "02-27 23:59",
+  "Host": "斯拉斯克",
+  "OddStake": "2.5球",
+  "Guest": "弗洛塔",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "02-27 23:11",
+  "Person": "夜是彩市圆"
+}

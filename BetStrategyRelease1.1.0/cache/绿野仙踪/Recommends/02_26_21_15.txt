@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "芬聯盃",
+  "Time1": "02-27 00:30",
+  "Host": "路雲尼米",
+  "OddStake": "3球",
+  "Guest": "古比斯",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-26 21:15",
+  "Person": "绿野仙踪"
+}

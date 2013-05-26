@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "02-11 02:00",
+  "Host": "加拉塔沙雷",
+  "OddStake": "一球",
+  "Guest": "安迪亞斯堡",
+  "Prefer": "加拉塔沙雷",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-11 01:39",
+  "Person": "天巧星燕青"
+}

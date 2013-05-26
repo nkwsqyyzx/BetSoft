@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日職乙",
+  "Time1": "05-19 15:00",
+  "Host": "千葉市原",
+  "OddStake": "半/一",
+  "Guest": "松本山雅",
+  "Prefer": "千葉市原",
+  "Odds": 0.98,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "05-19 14:05",
+  "Person": "天之骄子"
+}

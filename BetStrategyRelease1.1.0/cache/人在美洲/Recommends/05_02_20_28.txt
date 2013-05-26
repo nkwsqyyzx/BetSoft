@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫盃",
+  "Time1": "05-03 09:00",
+  "Host": "布卡拉曼加體育會",
+  "OddStake": "2/2.5球",
+  "Guest": "庫庫塔",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "05-02 20:28",
+  "Person": "人在美洲"
+}

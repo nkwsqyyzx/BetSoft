@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法乙",
+  "Time1": "05-04 02:00",
+  "Host": "阿萊斯亞維農",
+  "OddStake": "2/2.5球",
+  "Guest": "甘岡",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 4,
+  "Time2": "05-03 15:22",
+  "Person": "sos73"
+}

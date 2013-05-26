@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷甲",
+  "Time1": "02-02 03:00",
+  "Host": "RKC華域克",
+  "OddStake": "半球",
+  "Guest": "海倫維恩",
+  "Prefer": "海倫維恩",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-02 01:33",
+  "Person": "jack"
+}

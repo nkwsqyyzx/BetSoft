@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-16 01:30",
+  "Host": "哈馬比(中)",
+  "OddStake": "半球",
+  "Guest": "天狼星",
+  "Prefer": "天狼星",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-15 21:53",
+  "Person": "中奖"
+}

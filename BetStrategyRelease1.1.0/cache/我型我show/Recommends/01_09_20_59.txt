@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "格雷納盃",
+  "Time1": "01-09 23:00",
+  "Host": "俄羅斯U18",
+  "OddStake": "2.5/3球",
+  "Guest": "斯洛文尼亞U18",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-09 20:59",
+  "Person": "我型我show"
+}

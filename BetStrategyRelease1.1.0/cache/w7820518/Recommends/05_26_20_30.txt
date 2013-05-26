@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "奧甲",
+  "Time1": "05-26 22:00",
+  "Host": "馬特斯堡",
+  "OddStake": "平手",
+  "Guest": "特倫克沃爾德艾特米拿",
+  "Prefer": "馬特斯堡",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-26 20:30",
+  "Person": "w7820518"
+}

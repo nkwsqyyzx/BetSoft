@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "02-16 22:00",
+  "Host": "伊斯基錫海斯普",
+  "OddStake": "半球",
+  "Guest": "基錫里士邦",
+  "Prefer": "基錫里士邦",
+  "Odds": 0.8,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "02-16 19:31",
+  "Person": "低调的人"
+}

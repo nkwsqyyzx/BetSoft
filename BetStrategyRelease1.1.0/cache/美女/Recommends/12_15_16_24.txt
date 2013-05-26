@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德青西",
+  "Time1": "12-15 20:30",
+  "Host": "慕遜加柏U19",
+  "OddStake": "3/3.5球",
+  "Guest": "比勒費爾德U19",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "1-7",
+  "PreferResult": 5,
+  "Time2": "12-15 16:24",
+  "Person": "美女"
+}

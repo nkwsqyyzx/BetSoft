@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-18 02:45",
+  "Host": "都柏林大學",
+  "OddStake": "受半球",
+  "Guest": "立麥立克",
+  "Prefer": "都柏林大學",
+  "Odds": 0.94,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-18 01:36",
+  "Person": "八月十日"
+}

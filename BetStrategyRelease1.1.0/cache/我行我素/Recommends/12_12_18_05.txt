@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西班牙盃",
+  "Time1": "12-13 05:00",
+  "Host": "馬德里體育會",
+  "OddStake": "一球/球半",
+  "Guest": "加泰",
+  "Prefer": "加泰",
+  "Odds": 0.94,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "12-12 18:05",
+  "Person": "我行我素"
+}

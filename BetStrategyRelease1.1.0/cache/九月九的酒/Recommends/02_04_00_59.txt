@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "哥倫甲",
+  "Time1": "02-04 06:30",
+  "Host": "米倫拿列奧",
+  "OddStake": "2/2.5球",
+  "Guest": "拉伊奎達德",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-04 00:59",
+  "Person": "九月九的酒"
+}

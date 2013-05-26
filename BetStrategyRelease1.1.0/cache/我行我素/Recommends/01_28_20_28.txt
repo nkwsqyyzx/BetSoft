@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意乙",
+  "Time1": "01-29 03:45",
+  "Host": "祖華史塔比亞",
+  "OddStake": "平/半",
+  "Guest": "布雷西亞",
+  "Prefer": "布雷西亞",
+  "Odds": 0.87,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "01-28 20:28",
+  "Person": "我行我素"
+}

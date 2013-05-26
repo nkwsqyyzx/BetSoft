@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡甲",
+  "Time1": "12-06 23:59",
+  "Host": "烏尼翁馬德拉",
+  "OddStake": "2/2.5球",
+  "Guest": "士砵亭B隊",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "12-06 15:23",
+  "Person": "心情"
+}

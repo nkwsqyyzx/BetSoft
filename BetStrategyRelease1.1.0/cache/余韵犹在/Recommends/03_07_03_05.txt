@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "03-07 03:45",
+  "Host": "巴黎聖日門",
+  "OddStake": "半球",
+  "Guest": "華倫西亞",
+  "Prefer": "華倫西亞",
+  "Odds": 0.99,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "03-07 03:05",
+  "Person": "余韵犹在"
+}

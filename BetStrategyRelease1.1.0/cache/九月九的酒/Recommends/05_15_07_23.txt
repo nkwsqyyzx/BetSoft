@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日聯盃",
+  "Time1": "05-15 18:00",
+  "Host": "大分三神",
+  "OddStake": "受一球/球半",
+  "Guest": "鹿島鹿角",
+  "Prefer": "大分三神",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 4,
+  "Time2": "05-15 07:23",
+  "Person": "九月九的酒"
+}

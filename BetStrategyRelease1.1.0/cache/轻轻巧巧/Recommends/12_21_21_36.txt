@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英甲",
+  "Time1": "12-22 03:45",
+  "Host": "史雲頓",
+  "OddStake": "半球",
+  "Guest": "特蘭米爾",
+  "Prefer": "特蘭米爾",
+  "Odds": 0.93,
+  "Result": "5-0",
+  "PreferResult": 1,
+  "Time2": "12-21 21:36",
+  "Person": "轻轻巧巧"
+}

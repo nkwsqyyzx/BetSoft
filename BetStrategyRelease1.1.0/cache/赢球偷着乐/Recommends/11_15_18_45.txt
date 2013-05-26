@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-15 19:00",
+  "Host": "菲律賓",
+  "OddStake": "2/2.5球",
+  "Guest": "新加坡",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-15 18:45",
+  "Person": "赢球偷着乐"
+}

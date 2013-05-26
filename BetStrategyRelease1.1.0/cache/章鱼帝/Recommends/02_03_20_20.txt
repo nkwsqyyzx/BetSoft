@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德甲",
+  "Time1": "02-04 00:30",
+  "Host": "利華古遜",
+  "OddStake": "受平/半",
+  "Guest": "多特蒙德",
+  "Prefer": "利華古遜",
+  "Odds": 1.05,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "02-03 20:20",
+  "Person": "章鱼帝"
+}

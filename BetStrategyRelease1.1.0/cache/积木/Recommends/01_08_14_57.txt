@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英錦賽",
+  "Time1": "01-09 03:45",
+  "Host": "牛津聯",
+  "OddStake": "平手",
+  "Guest": "修安聯",
+  "Prefer": "修安聯",
+  "Odds": 0.9,
+  "Result": "3-3",
+  "PreferResult": 3,
+  "Time2": "01-08 14:57",
+  "Person": "积木"
+}

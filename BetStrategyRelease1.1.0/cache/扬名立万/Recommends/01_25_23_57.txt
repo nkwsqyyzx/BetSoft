@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "非國盃",
+  "Time1": "01-26 02:00",
+  "Host": "伯基納法索(中)",
+  "OddStake": "2球",
+  "Guest": "埃塞俄比亞",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "01-25 23:57",
+  "Person": "扬名立万"
+}

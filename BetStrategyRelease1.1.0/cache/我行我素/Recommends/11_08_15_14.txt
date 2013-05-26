@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 02:00",
+  "Host": "拿玻里",
+  "OddStake": "2.5球",
+  "Guest": "迪尼普",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "4-2",
+  "PreferResult": 5,
+  "Time2": "11-08 15:14",
+  "Person": "我行我素"
+}

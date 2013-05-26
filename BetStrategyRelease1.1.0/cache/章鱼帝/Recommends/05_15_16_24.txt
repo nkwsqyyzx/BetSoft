@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "埃及甲",
+  "Time1": "05-15 21:30",
+  "Host": "達克爾野",
+  "OddStake": "2/2.5球",
+  "Guest": "塔拉雅",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-15 16:24",
+  "Person": "章鱼帝"
+}

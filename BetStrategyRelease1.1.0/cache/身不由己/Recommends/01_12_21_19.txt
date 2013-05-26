@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英冠",
+  "Time1": "01-12 23:00",
+  "Host": "布里斯托城",
+  "OddStake": "2.5/3球",
+  "Guest": "萊切斯特",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "01-12 21:19",
+  "Person": "身不由己"
+}

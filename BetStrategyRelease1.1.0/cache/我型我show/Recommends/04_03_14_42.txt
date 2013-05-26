@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "日聯盃",
+  "Time1": "04-03 18:00",
+  "Host": "新瀉天鵝",
+  "OddStake": "2/2.5球",
+  "Guest": "大阪櫻花",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-03 14:42",
+  "Person": "我型我show"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-21 15:00",
+  "Host": "蔚山現代",
+  "OddStake": "2.5球",
+  "Guest": "城南一和天馬",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-21 13:03",
+  "Person": "大头"
+}

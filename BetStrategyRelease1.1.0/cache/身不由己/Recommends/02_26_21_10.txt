@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英甲",
+  "Time1": "02-27 03:45",
+  "Host": "卡素爾",
+  "OddStake": "2.5球",
+  "Guest": "華素爾",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "02-26 21:10",
+  "Person": "身不由己"
+}

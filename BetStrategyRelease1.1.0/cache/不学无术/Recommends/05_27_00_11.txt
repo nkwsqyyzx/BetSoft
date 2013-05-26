@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西甲",
+  "Time1": "05-27 03:00",
+  "Host": "基斯奧馬",
+  "OddStake": "2/2.5球",
+  "Guest": "巴海亞",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 00:11",
+  "Person": "不学无术"
+}

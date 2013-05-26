@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英U21",
+  "Time1": "04-26 02:00",
+  "Host": "愛華頓U21",
+  "OddStake": "2.5/3球",
+  "Guest": "切爾西U21",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-25 23:09",
+  "Person": "jack"
+}

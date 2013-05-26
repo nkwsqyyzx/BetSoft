@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德東北聯",
+  "Time1": "05-14 23:00",
+  "Host": "格賴夫",
+  "OddStake": "2.5球",
+  "Guest": "哈伯斯泰德",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-14 22:08",
+  "Person": "农夫果园"
+}

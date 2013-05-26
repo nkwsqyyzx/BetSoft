@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "丹後備",
+  "Time1": "03-04 23:59",
+  "Host": "米迪蘭特後備隊",
+  "OddStake": "3球",
+  "Guest": "邦比後備隊",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-4",
+  "PreferResult": 3,
+  "Time2": "03-04 23:40",
+  "Person": "余韵犹在"
+}

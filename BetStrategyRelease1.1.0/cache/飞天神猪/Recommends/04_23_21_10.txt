@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-23 23:30",
+  "Host": "阿爾葛拉法",
+  "OddStake": "2.5/3球",
+  "Guest": "阿爾艾利吉達",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "04-23 21:10",
+  "Person": "飞天神猪"
+}

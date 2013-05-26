@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "02-24 02:45",
+  "Host": "雲路",
+  "OddStake": "2.5球",
+  "Guest": "RKC華域克",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-23 23:32",
+  "Person": "大头"
+}

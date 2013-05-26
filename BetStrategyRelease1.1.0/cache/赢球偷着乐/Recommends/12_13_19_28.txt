@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐U19冠",
+  "Time1": "12-13 21:00",
+  "Host": "托特納姆熱刺U19",
+  "OddStake": "半/一",
+  "Guest": "安德列治U19",
+  "Prefer": "托特納姆熱刺U19",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "12-13 19:28",
+  "Person": "赢球偷着乐"
+}

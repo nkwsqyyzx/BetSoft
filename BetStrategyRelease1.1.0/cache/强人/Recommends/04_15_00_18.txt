@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥超",
+  "Time1": "04-15 01:00",
+  "Host": "奧丹斯",
+  "OddStake": "2.5球",
+  "Guest": "阿爾堡",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "3-4",
+  "PreferResult": 5,
+  "Time2": "04-15 00:18",
+  "Person": "强人"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡U17附",
+  "Time1": "01-27 21:30",
+  "Host": "馬利漢姆",
+  "OddStake": "2.5球",
+  "Guest": "加費萊",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "01-27 21:15",
+  "Person": "大头"
+}

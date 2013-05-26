@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法甲",
+  "Time1": "04-27 02:30",
+  "Host": "利爾",
+  "OddStake": "球半",
+  "Guest": "索察",
+  "Prefer": "利爾",
+  "Odds": 0.99,
+  "Result": "3-3",
+  "PreferResult": 1,
+  "Time2": "04-27 01:21",
+  "Person": "民哥也疯狂"
+}

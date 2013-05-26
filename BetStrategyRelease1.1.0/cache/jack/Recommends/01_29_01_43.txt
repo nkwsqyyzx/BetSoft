@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英南超",
+  "Time1": "01-29 03:45",
+  "Host": "希治",
+  "OddStake": "3/3.5球",
+  "Guest": "斯尼茨",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "01-29 01:43",
+  "Person": "jack"
+}

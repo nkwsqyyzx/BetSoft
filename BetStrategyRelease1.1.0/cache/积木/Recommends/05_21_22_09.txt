@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "奧乙",
+  "Time1": "05-22 00:30",
+  "Host": "BW林茲",
+  "OddStake": "受平/半",
+  "Guest": "聖普爾頓",
+  "Prefer": "BW林茲",
+  "Odds": 1.04,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-21 22:09",
+  "Person": "积木"
+}

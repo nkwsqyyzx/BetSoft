@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "比U21",
+  "Time1": "11-13 02:30",
+  "Host": "洛格倫U21",
+  "OddStake": "3.5球",
+  "Guest": "梅赫倫U21",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "11-12 23:20",
+  "Person": "扬名立万"
+}

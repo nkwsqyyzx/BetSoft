@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "印尼超",
+  "Time1": "04-16 16:30",
+  "Host": "斯里維加亞",
+  "OddStake": "一球/球半",
+  "Guest": "佩西瓦",
+  "Prefer": "斯里維加亞",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "04-16 14:13",
+  "Person": "美女"
+}

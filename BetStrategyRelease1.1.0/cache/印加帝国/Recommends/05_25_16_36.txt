@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德北聯",
+  "Time1": "05-25 20:00",
+  "Host": "雷登",
+  "OddStake": "半球",
+  "Guest": "克勞平堡",
+  "Prefer": "克勞平堡",
+  "Odds": 0.8,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "05-25 16:36",
+  "Person": "印加帝国"
+}

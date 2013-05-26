@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "南非超",
+  "Time1": "12-06 01:30",
+  "Host": "黑羅帕德",
+  "OddStake": "平/半",
+  "Guest": "艾瑪祖魯",
+  "Prefer": "艾瑪祖魯",
+  "Odds": 0.85,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-05 23:48",
+  "Person": "爷有旺仔"
+}

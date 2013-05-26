@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷乙",
+  "Time1": "04-20 02:00",
+  "Host": "阿高斯",
+  "OddStake": "3.5球",
+  "Guest": "恩浩雲",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "04-19 22:58",
+  "Person": "格力电器"
+}

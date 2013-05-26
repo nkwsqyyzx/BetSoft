@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英甲",
+  "Time1": "03-13 03:45",
+  "Host": "史提芬納治",
+  "OddStake": "受半球",
+  "Guest": "般尼茅夫",
+  "Prefer": "般尼茅夫",
+  "Odds": 0.95,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-12 22:21",
+  "Person": "中奖"
+}

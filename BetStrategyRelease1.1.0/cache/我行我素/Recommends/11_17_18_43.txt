@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英冠",
+  "Time1": "11-18 01:20",
+  "Host": "彼德堡",
+  "OddStake": "受平/半",
+  "Guest": "布力般流浪",
+  "Prefer": "彼德堡",
+  "Odds": 0.9,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "11-17 18:43",
+  "Person": "我行我素"
+}

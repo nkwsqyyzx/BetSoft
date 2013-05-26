@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "05-03 23:59",
+  "Host": "特雷斯登",
+  "OddStake": "半/一",
+  "Guest": "派特博恩",
+  "Prefer": "特雷斯登",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-03 21:26",
+  "Person": "积木"
+}

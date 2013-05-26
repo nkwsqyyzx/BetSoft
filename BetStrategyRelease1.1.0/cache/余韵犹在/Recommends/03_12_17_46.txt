@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "03-12 19:00",
+  "Host": "布襦姆聯",
+  "OddStake": "受半球",
+  "Guest": "FC漢城",
+  "Prefer": "布襦姆聯",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-12 17:46",
+  "Person": "余韵犹在"
+}

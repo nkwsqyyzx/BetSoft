@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德南聯",
+  "Time1": "03-02 02:00",
+  "Host": "特里爾",
+  "OddStake": "2.5球",
+  "Guest": "FSV法蘭克福青年隊",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "03-01 22:11",
+  "Person": "中奖"
+}

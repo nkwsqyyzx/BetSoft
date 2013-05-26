@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-22 02:00",
+  "Host": "米塔利斯",
+  "OddStake": "半球",
+  "Guest": "紐卡素",
+  "Prefer": "紐卡素",
+  "Odds": 1.0,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-22 00:12",
+  "Person": "bobo"
+}

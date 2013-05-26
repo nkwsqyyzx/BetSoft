@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "南球盃",
+  "Time1": "11-23 08:45",
+  "Host": "堤格雷",
+  "OddStake": "平/半",
+  "Guest": "米倫拿列奧",
+  "Prefer": "堤格雷",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "11-23 07:53",
+  "Person": "赢球偷着乐"
+}

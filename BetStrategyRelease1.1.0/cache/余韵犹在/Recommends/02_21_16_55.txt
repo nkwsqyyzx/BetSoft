@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-21 18:00",
+  "Host": "西班牙女足U19",
+  "OddStake": "两球半/三球",
+  "Guest": "北愛爾蘭女足U19",
+  "Prefer": "西班牙女足U19",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-21 16:55",
+  "Person": "余韵犹在"
+}

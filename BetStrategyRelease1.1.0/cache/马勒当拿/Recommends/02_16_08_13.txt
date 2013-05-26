@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "厄瓜甲",
+  "Time1": "02-16 08:30",
+  "Host": "基多",
+  "OddStake": "2.5球",
+  "Guest": "國家報隊",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-16 08:13",
+  "Person": "马勒当拿"
+}

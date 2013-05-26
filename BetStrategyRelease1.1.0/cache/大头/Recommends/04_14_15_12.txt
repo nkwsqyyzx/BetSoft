@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西乙",
+  "Time1": "04-14 18:00",
+  "Host": "梅西亞",
+  "OddStake": "2.5球",
+  "Guest": "維拉利爾",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-14 15:12",
+  "Person": "大头"
+}

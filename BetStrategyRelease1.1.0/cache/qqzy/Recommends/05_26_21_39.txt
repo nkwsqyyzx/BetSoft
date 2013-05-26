@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "奧甲",
+  "Time1": "05-26 22:00",
+  "Host": "格拉茨",
+  "OddStake": "半球",
+  "Guest": "維也納新城",
+  "Prefer": "維也納新城",
+  "Odds": 0.92,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "05-26 21:39",
+  "Person": "qqzy"
+}

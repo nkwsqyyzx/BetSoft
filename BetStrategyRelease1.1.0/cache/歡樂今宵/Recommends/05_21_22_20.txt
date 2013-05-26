@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "捷克甲",
+  "Time1": "05-22 02:15",
+  "Host": "利巴域",
+  "OddStake": "2.5/3球",
+  "Guest": "塔比歷斯",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "05-21 22:20",
+  "Person": "歡樂今宵"
+}

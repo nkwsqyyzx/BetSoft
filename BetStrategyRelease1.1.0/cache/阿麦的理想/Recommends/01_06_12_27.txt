@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳職聯",
+  "Time1": "01-06 13:00",
+  "Host": "墨爾本赫爾",
+  "OddStake": "受平/半",
+  "Guest": "布里斯班獅吼",
+  "Prefer": "墨爾本赫爾",
+  "Odds": 0.92,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "01-06 12:27",
+  "Person": "阿麦的理想"
+}

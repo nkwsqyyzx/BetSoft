@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫甲",
+  "Time1": "05-05 06:30",
+  "Host": "曼特寧獨立",
+  "OddStake": "2/2.5球",
+  "Guest": "意達古",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-04 22:43",
+  "Person": "天巧星燕青"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "澳威超",
+  "Time1": "05-18 17:00",
+  "Host": "南部海岸狼隊",
+  "OddStake": "3球",
+  "Guest": "APIA萊洽德",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "4-4",
+  "PreferResult": 5,
+  "Time2": "05-18 16:47",
+  "Person": "飞天神猪"
+}

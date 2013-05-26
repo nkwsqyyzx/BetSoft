@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西甲",
+  "Time1": "05-27 05:30",
+  "Host": "富明尼斯RJ(中)",
+  "OddStake": "平/半",
+  "Guest": "帕拉尼恩斯",
+  "Prefer": "帕拉尼恩斯",
+  "Odds": 0.94,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 00:36",
+  "Person": "梅西的左脚"
+}

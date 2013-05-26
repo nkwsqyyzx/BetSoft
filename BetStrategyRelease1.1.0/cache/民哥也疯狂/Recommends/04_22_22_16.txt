@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-23 04:00",
+  "Host": "切爾達",
+  "OddStake": "平/半",
+  "Guest": "薩拉戈薩",
+  "Prefer": "切爾達",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-22 22:16",
+  "Person": "民哥也疯狂"
+}

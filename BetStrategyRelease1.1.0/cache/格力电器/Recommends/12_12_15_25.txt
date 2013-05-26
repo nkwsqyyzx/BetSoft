@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英聯盃",
+  "Time1": "12-13 03:45",
+  "Host": "史雲斯",
+  "OddStake": "半/一",
+  "Guest": "米德爾斯堡",
+  "Prefer": "史雲斯",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "12-12 15:25",
+  "Person": "格力电器"
+}

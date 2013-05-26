@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "秘魯春",
+  "Time1": "02-11 05:00",
+  "Host": "卡加馬卡",
+  "OddStake": "平手",
+  "Guest": "阿里薩利馬",
+  "Prefer": "阿里薩利馬",
+  "Odds": 1.06,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "02-11 01:05",
+  "Person": "扬名立万"
+}

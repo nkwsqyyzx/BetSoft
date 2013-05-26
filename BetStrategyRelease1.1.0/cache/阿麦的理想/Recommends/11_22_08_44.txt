@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "厄瓜甲",
+  "Time1": "11-22 09:00",
+  "Host": "泰尼科",
+  "OddStake": "2.5球",
+  "Guest": "歐梅多",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-22 08:44",
+  "Person": "阿麦的理想"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "05-03 18:00",
+  "Host": "千葉市原",
+  "OddStake": "2/2.5球",
+  "Guest": "愛媛",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "05-03 15:14",
+  "Person": "天巧星燕青"
+}

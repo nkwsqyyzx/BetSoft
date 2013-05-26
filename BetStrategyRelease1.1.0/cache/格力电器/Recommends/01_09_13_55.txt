@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "印度甲",
+  "Time1": "01-09 18:15",
+  "Host": "巴得斯尤",
+  "OddStake": "球半",
+  "Guest": "派欖阿羅",
+  "Prefer": "巴得斯尤",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-09 13:55",
+  "Person": "格力电器"
+}

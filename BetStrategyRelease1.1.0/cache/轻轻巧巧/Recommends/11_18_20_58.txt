@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "比甲",
+  "Time1": "11-18 21:30",
+  "Host": "威爾郡",
+  "OddStake": "2.5球",
+  "Guest": "標準列治",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-18 20:58",
+  "Person": "轻轻巧巧"
+}

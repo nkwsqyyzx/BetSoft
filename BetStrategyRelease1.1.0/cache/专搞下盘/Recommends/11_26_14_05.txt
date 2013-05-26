@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "以超",
+  "Time1": "11-27 01:30",
+  "Host": "特拉維夫夏普爾",
+  "OddStake": "一球",
+  "Guest": "比爾舒華夏普爾",
+  "Prefer": "比爾舒華夏普爾",
+  "Odds": 0.82,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "11-26 14:05",
+  "Person": "专搞下盘"
+}

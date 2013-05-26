@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日聯盃",
+  "Time1": "04-23 18:00",
+  "Host": "大宮松鼠",
+  "OddStake": "平/半",
+  "Guest": "清水心跳",
+  "Prefer": "清水心跳",
+  "Odds": 0.92,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "04-23 16:39",
+  "Person": "积木"
+}

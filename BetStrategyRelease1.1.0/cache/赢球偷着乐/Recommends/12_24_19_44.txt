@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "費王盃",
+  "Time1": "12-24 19:55",
+  "Host": "哈哲爾U21",
+  "OddStake": "半球",
+  "Guest": "阿爾菲斯U21",
+  "Prefer": "哈哲爾U21",
+  "Odds": 1.02,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "12-24 19:44",
+  "Person": "赢球偷着乐"
+}

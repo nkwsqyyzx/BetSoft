@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典甲",
+  "Time1": "04-16 01:00",
+  "Host": "柏瑞格",
+  "OddStake": "半球",
+  "Guest": "奧斯特桑斯",
+  "Prefer": "奧斯特桑斯",
+  "Odds": 1.02,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-16 00:30",
+  "Person": "强人"
+}

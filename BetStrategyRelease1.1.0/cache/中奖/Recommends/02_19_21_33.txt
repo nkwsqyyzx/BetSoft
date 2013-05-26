@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "02-20 03:45",
+  "Host": "德比郡",
+  "OddStake": "2.5球",
+  "Guest": "保頓",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-19 21:33",
+  "Person": "中奖"
+}

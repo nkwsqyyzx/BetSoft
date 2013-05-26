@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德乙",
+  "Time1": "12-08 01:00",
+  "Host": "柏林聯",
+  "OddStake": "2.5球",
+  "Guest": "凱沙羅頓",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "12-08 00:32",
+  "Person": "绿野仙踪"
+}

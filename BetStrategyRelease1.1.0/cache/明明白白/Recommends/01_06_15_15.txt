@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西丁",
+  "Time1": "01-06 19:00",
+  "Host": "喬艾斯潘諾",
+  "OddStake": "2.5球",
+  "Guest": "里巴羅賈",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-06 15:15",
+  "Person": "明明白白"
+}

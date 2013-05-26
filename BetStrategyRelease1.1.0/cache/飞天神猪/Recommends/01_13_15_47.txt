@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "格雷納盃",
+  "Time1": "01-13 16:00",
+  "Host": "斯洛文尼亞U18(中)",
+  "OddStake": "2/2.5球",
+  "Guest": "伊朗U18",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-13 15:47",
+  "Person": "飞天神猪"
+}

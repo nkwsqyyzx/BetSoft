@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-18 22:00",
+  "Host": "布諾馬博亞納",
+  "OddStake": "平/半",
+  "Guest": "西里安斯卡",
+  "Prefer": "布諾馬博亞納",
+  "Odds": 1.03,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "05-18 21:45",
+  "Person": "歡樂今宵"
+}

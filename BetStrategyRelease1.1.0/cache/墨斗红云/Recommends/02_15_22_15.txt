@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-15 22:30",
+  "Host": "格尼斯坦",
+  "OddStake": "受一球",
+  "Guest": "夏卡",
+  "Prefer": "格尼斯坦",
+  "Odds": 0.87,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-15 22:15",
+  "Person": "墨斗红云"
+}

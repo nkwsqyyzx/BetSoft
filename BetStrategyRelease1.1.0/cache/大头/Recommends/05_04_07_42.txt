@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "墨西聯",
+  "Time1": "05-04 08:30",
+  "Host": "賈奎斯",
+  "OddStake": "2.5球",
+  "Guest": "帕丘卡",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-04 07:42",
+  "Person": "大头"
+}

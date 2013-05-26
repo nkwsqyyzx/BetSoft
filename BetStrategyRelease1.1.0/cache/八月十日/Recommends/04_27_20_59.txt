@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德甲",
+  "Time1": "04-27 21:30",
+  "Host": "奧斯堡",
+  "OddStake": "平/半",
+  "Guest": "斯圖加特",
+  "Prefer": "斯圖加特",
+  "Odds": 1.04,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "04-27 20:59",
+  "Person": "八月十日"
+}

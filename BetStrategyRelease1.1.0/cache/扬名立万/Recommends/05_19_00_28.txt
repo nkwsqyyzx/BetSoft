@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法甲",
+  "Time1": "05-19 03:00",
+  "Host": "索察",
+  "OddStake": "2/2.5球",
+  "Guest": "圖魯茲",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-19 00:28",
+  "Person": "扬名立万"
+}

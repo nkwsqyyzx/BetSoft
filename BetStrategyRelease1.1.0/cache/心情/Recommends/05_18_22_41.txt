@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "烏拉甲秋",
+  "Time1": "05-19 02:30",
+  "Host": "艾斯潘諾中心",
+  "OddStake": "2.5球",
+  "Guest": "切洛",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "05-18 22:41",
+  "Person": "心情"
+}

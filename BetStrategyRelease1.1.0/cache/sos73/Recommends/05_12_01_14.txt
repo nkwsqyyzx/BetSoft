@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法丙",
+  "Time1": "05-12 02:00",
+  "Host": "奧爾良",
+  "OddStake": "2/2.5球",
+  "Guest": "梅斯",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "0-2",
+  "PreferResult": 4,
+  "Time2": "05-12 01:14",
+  "Person": "sos73"
+}

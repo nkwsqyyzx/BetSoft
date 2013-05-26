@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-21 15:00",
+  "Host": "橫濱",
+  "OddStake": "受半球",
+  "Guest": "神戶勝利船",
+  "Prefer": "神戶勝利船",
+  "Odds": 1.12,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "04-21 14:39",
+  "Person": "歡樂今宵"
+}

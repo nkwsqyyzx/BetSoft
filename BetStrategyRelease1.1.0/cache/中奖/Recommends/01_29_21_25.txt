@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意盃",
+  "Time1": "01-30 03:45",
+  "Host": "拉素",
+  "OddStake": "2.5球",
+  "Guest": "祖雲達斯",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-29 21:25",
+  "Person": "中奖"
+}

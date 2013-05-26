@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-20 03:15",
+  "Host": "哈化柏林",
+  "OddStake": "半/一",
+  "Guest": "聖保利",
+  "Prefer": "聖保利",
+  "Odds": 1.09,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "11-19 22:20",
+  "Person": "轻轻巧巧"
+}

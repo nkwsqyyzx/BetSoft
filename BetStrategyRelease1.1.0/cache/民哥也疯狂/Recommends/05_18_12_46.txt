@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日職聯",
+  "Time1": "05-18 13:00",
+  "Host": "廣島三箭",
+  "OddStake": "半球",
+  "Guest": "甲府風林",
+  "Prefer": "廣島三箭",
+  "Odds": 0.82,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "05-18 12:46",
+  "Person": "民哥也疯狂"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "埃及甲",
+  "Time1": "05-14 21:30",
+  "Host": "高納",
+  "OddStake": "2球",
+  "Guest": "索莫哈",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-14 16:37",
+  "Person": "godball"
+}

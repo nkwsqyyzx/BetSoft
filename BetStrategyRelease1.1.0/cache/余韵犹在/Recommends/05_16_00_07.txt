@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美職業",
+  "Time1": "05-16 07:30",
+  "Host": "費城聯合",
+  "OddStake": "平手",
+  "Guest": "洛杉磯銀河",
+  "Prefer": "費城聯合",
+  "Odds": 0.97,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "05-16 00:07",
+  "Person": "余韵犹在"
+}

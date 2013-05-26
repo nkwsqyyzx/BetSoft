@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿乙",
+  "Time1": "05-18 09:00",
+  "Host": "圖庫曼體育會",
+  "OddStake": "半球",
+  "Guest": "聯合隊",
+  "Prefer": "聯合隊",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-17 22:46",
+  "Person": "sos73"
+}

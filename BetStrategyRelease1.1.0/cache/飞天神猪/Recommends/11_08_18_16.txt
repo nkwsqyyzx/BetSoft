@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 04:05",
+  "Host": "巴素利",
+  "OddStake": "2.5/3球",
+  "Guest": "維迪奧頓",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-08 18:16",
+  "Person": "飞天神猪"
+}

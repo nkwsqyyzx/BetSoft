@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "委内超秋",
+  "Time1": "01-31 08:00",
+  "Host": "卡拉卡斯",
+  "OddStake": "半/一",
+  "Guest": "祖積蘭奴斯",
+  "Prefer": "卡拉卡斯",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-31 07:48",
+  "Person": "阿麦的理想"
+}

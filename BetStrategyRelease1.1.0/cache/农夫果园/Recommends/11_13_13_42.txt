@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英足總盃",
+  "Time1": "11-14 03:45",
+  "Host": "羅奇代爾",
+  "OddStake": "半球",
+  "Guest": "莫利金比",
+  "Prefer": "莫利金比",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-13 13:42",
+  "Person": "农夫果园"
+}

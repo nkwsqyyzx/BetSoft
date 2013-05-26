@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳職聯",
+  "Time1": "02-16 14:30",
+  "Host": "悉尼",
+  "OddStake": "2.5/3球",
+  "Guest": "阿德萊得聯",
+  "Prefer": "大球",
+  "Odds": 0.91,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "02-16 14:07",
+  "Person": "jack"
+}

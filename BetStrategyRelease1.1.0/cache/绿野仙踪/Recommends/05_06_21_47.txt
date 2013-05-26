@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "愛超",
+  "Time1": "05-06 22:00",
+  "Host": "杜希達聯",
+  "OddStake": "受平/半",
+  "Guest": "聖巴特里",
+  "Prefer": "杜希達聯",
+  "Odds": 1.09,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-06 21:47",
+  "Person": "绿野仙踪"
+}

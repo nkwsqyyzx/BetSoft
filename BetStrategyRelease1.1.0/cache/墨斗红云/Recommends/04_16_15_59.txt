@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英非聯",
+  "Time1": "04-17 02:45",
+  "Host": "威斯漢姆",
+  "OddStake": "半/一",
+  "Guest": "布瑞特伊",
+  "Prefer": "威斯漢姆",
+  "Odds": 1.08,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-16 15:59",
+  "Person": "墨斗红云"
+}

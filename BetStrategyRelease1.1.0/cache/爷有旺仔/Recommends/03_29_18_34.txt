@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "烏克U21",
+  "Time1": "03-29 19:00",
+  "Host": "河維拉U21",
+  "OddStake": "受一球",
+  "Guest": "伊利捷維斯U21",
+  "Prefer": "河維拉U21",
+  "Odds": 0.99,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-29 18:34",
+  "Person": "爷有旺仔"
+}

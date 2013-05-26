@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "科威聯盃",
+  "Time1": "11-22 22:10",
+  "Host": "阿爾沙希爾",
+  "OddStake": "受两球",
+  "Guest": "卡德西亞",
+  "Prefer": "卡德西亞",
+  "Odds": 0.8,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "11-22 21:09",
+  "Person": "我行我素"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法甲",
+  "Time1": "05-27 03:00",
+  "Host": "布雷斯特",
+  "OddStake": "平手",
+  "Guest": "南錫",
+  "Prefer": "布雷斯特",
+  "Odds": 0.94,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 21:54",
+  "Person": "老鬼看盘"
+}

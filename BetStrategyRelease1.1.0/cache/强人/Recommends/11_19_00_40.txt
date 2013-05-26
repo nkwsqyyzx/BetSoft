@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西乙",
+  "Time1": "11-19 01:00",
+  "Host": "米蘭迪斯",
+  "OddStake": "平/半",
+  "Guest": "皇家馬德里卡斯蒂亞",
+  "Prefer": "米蘭迪斯",
+  "Odds": 0.94,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "11-19 00:40",
+  "Person": "强人"
+}

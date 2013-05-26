@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "自由盃",
+  "Time1": "04-12 08:30",
+  "Host": "拉拉",
+  "OddStake": "2.5/3球",
+  "Guest": "智利國家隊",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "04-12 04:31",
+  "Person": "绿茵红魔"
+}

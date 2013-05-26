@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-15 04:05",
+  "Host": "斯圖加特",
+  "OddStake": "一球",
+  "Guest": "亨克",
+  "Prefer": "亨克",
+  "Odds": 1.02,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-14 23:47",
+  "Person": "爷有旺仔"
+}

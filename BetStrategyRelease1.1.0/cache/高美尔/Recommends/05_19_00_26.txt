@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法甲",
+  "Time1": "05-19 03:00",
+  "Host": "巴黎聖日門",
+  "OddStake": "两球半",
+  "Guest": "布雷斯特",
+  "Prefer": "布雷斯特",
+  "Odds": 1.05,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "05-19 00:26",
+  "Person": "高美尔"
+}

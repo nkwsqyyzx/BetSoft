@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法乙",
+  "Time1": "03-02 03:00",
+  "Host": "伊斯特",
+  "OddStake": "2球",
+  "Guest": "色當",
+  "Prefer": "小球",
+  "Odds": 1.06,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-01 19:32",
+  "Person": "我行我素"
+}

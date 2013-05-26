@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿乙",
+  "Time1": "02-19 08:15",
+  "Host": "甘拿斯亞",
+  "OddStake": "2/2.5球",
+  "Guest": "烏拉坎",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-18 20:47",
+  "Person": "人在美洲"
+}

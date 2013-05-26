@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法國盃",
+  "Time1": "01-06 21:15",
+  "Host": "沙特魯",
+  "OddStake": "受半球",
+  "Guest": "波爾多",
+  "Prefer": "波爾多",
+  "Odds": 1.06,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "01-06 19:53",
+  "Person": "马勒当拿"
+}

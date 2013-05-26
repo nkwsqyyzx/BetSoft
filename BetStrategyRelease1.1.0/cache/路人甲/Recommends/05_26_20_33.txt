@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-26 23:59",
+  "Host": "維京",
+  "OddStake": "半球",
+  "Guest": "特羅素",
+  "Prefer": "維京",
+  "Odds": 0.99,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-26 20:33",
+  "Person": "路人甲"
+}

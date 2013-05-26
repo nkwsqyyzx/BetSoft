@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德乙",
+  "Time1": "04-09 02:15",
+  "Host": "哈化柏林",
+  "OddStake": "半球",
+  "Guest": "布倫瑞克",
+  "Prefer": "哈化柏林",
+  "Odds": 0.86,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "04-08 18:35",
+  "Person": "大头"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷青聯",
+  "Time1": "05-07 00:30",
+  "Host": "洛達青年隊",
+  "OddStake": "3.5球",
+  "Guest": "幸運薛達青年隊",
+  "Prefer": "小球",
+  "Odds": 1.0,
+  "Result": "3-3",
+  "PreferResult": 1,
+  "Time2": "05-06 21:26",
+  "Person": "中奖"
+}

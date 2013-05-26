@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭乙",
+  "Time1": "05-19 01:00",
+  "Host": "札維斯札",
+  "OddStake": "2.5球",
+  "Guest": "克雷亞茲",
+  "Prefer": "大球",
+  "Odds": 1.13,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-19 00:27",
+  "Person": "马勒当拿"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-22 18:00",
+  "Host": "柏雷素爾",
+  "OddStake": "2.5/3球",
+  "Guest": "全北現代",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "05-22 17:32",
+  "Person": "中奖太简单啦"
+}

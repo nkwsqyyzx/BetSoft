@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西丁",
+  "Time1": "10-12 23:00",
+  "Host": "拉瑞都",
+  "OddStake": "2.5球",
+  "Guest": "特羅佩松",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "10-12 22:39",
+  "Person": "大头"
+}

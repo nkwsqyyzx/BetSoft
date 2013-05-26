@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英甲",
+  "Time1": "05-06 15:00",
+  "Host": "大分三神",
+  "OddStake": "受半球",
+  "Guest": "鳥栖沙根",
+  "Prefer": "鳥栖沙根",
+  "Odds": 1.0,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "05-06 12:26",
+  "Person": "积木"
+}

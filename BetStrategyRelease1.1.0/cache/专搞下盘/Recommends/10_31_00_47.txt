@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德國盃",
+  "Time1": "10-31 03:30",
+  "Host": "VFR亞倫",
+  "OddStake": "受球半/两球",
+  "Guest": "多特蒙德",
+  "Prefer": "多特蒙德",
+  "Odds": 0.84,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "10-31 00:47",
+  "Person": "专搞下盘"
+}

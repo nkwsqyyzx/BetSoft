@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-06 22:00",
+  "Host": "AC米蘭",
+  "OddStake": "球半",
+  "Guest": "錫耶納",
+  "Prefer": "錫耶納",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "01-06 21:20",
+  "Person": "轻轻巧巧"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-06 19:00",
+  "Host": "切爾達",
+  "OddStake": "半球",
+  "Guest": "華拉度列",
+  "Prefer": "切爾達",
+  "Odds": 0.91,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-06 14:00",
+  "Person": "积木"
+}

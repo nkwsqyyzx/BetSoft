@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "自由盃",
+  "Time1": "01-24 08:00",
+  "Host": "奎托",
+  "OddStake": "2/2.5球",
+  "Guest": "甘美奧",
+  "Prefer": "小球",
+  "Odds": 0.823,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-24 03:47",
+  "Person": "低调的人"
+}

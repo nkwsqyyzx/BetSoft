@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "印尼超",
+  "Time1": "03-14 16:30",
+  "Host": "佩西加雅加達(中)",
+  "OddStake": "半球",
+  "Guest": "伯瑟龐",
+  "Prefer": "佩西加雅加達(中)",
+  "Odds": 0.96,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "03-14 16:09",
+  "Person": "阿麦的理想"
+}

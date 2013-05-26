@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-14 05:30",
+  "Host": "丹麥女足",
+  "OddStake": "两球半",
+  "Guest": "葡萄牙女足",
+  "Prefer": "丹麥女足",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "12-13 16:35",
+  "Person": "九月九的酒"
+}

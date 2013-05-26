@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德U17南",
+  "Time1": "05-09 17:00",
+  "Host": "紐倫堡U17",
+  "OddStake": "半球",
+  "Guest": "費雷堡U17",
+  "Prefer": "費雷堡U17",
+  "Odds": 0.99,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "05-09 16:45",
+  "Person": "马勒当拿"
+}

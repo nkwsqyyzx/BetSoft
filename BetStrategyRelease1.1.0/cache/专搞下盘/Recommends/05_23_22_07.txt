@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-23 23:30",
+  "Host": "路雲尼米",
+  "OddStake": "平手",
+  "Guest": "英特杜古",
+  "Prefer": "路雲尼米",
+  "Odds": 0.99,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-23 22:07",
+  "Person": "专搞下盘"
+}

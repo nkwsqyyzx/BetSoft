@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "02-13 08:30",
+  "Host": "尹美利克",
+  "OddStake": "2球",
+  "Guest": "沙士菲",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-12 22:35",
+  "Person": "印加帝国"
+}

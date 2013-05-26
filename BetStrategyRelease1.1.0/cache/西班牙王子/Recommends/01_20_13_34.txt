@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳職聯",
+  "Time1": "01-20 14:00",
+  "Host": "布里斯班獅吼",
+  "OddStake": "平/半",
+  "Guest": "西部悉尼流浪者",
+  "Prefer": "布里斯班獅吼",
+  "Odds": 1.03,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "01-20 13:34",
+  "Person": "西班牙王子"
+}

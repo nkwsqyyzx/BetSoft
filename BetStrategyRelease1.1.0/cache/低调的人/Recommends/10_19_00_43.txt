@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "葡盃",
+  "Time1": "10-19 03:15",
+  "Host": "費雷姆德",
+  "OddStake": "受两球",
+  "Guest": "賓菲加",
+  "Prefer": "費雷姆德",
+  "Odds": 1.03,
+  "Result": "0-4",
+  "PreferResult": 1,
+  "Time2": "10-19 00:43",
+  "Person": "低调的人"
+}

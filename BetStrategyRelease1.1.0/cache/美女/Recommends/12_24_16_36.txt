@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "費王盃",
+  "Time1": "12-24 20:50",
+  "Host": "阿爾艾利吉達U21",
+  "OddStake": "3球",
+  "Guest": "沙巴柏利雅德U21",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "12-24 16:36",
+  "Person": "美女"
+}

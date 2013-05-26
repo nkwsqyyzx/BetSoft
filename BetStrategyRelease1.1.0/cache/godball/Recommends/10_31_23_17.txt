@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德國盃",
+  "Time1": "11-01 03:30",
+  "Host": "沃爾夫斯堡",
+  "OddStake": "球半",
+  "Guest": "FSV法蘭克福",
+  "Prefer": "FSV法蘭克福",
+  "Odds": 1.09,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "10-31 23:17",
+  "Person": "godball"
+}

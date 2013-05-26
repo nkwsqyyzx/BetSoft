@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "03-12 19:40",
+  "Host": "江蘇舜天",
+  "OddStake": "受平/半",
+  "Guest": "仙台维加泰",
+  "Prefer": "江蘇舜天",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "03-12 17:54",
+  "Person": "西班牙王子"
+}

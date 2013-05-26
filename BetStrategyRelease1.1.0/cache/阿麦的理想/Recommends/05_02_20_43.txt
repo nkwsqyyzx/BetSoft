@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "匈U19甲",
+  "Time1": "05-02 21:00",
+  "Host": "由加佩斯特U19",
+  "OddStake": "受半球",
+  "Guest": "普斯卡斯學院U19",
+  "Prefer": "普斯卡斯學院U19",
+  "Odds": 0.9,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "05-02 20:43",
+  "Person": "阿麦的理想"
+}

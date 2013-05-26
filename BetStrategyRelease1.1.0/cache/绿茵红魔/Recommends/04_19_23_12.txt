@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法乙",
+  "Time1": "04-20 02:00",
+  "Host": "甘岡",
+  "OddStake": "半/一",
+  "Guest": "利文斯",
+  "Prefer": "甘岡",
+  "Odds": 0.89,
+  "Result": "6-1",
+  "PreferResult": 5,
+  "Time2": "04-19 23:12",
+  "Person": "绿茵红魔"
+}

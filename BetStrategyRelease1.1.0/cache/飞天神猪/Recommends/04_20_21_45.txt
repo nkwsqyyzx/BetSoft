@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "04-20 22:00",
+  "Host": "沃特福德",
+  "OddStake": "2.5/3球",
+  "Guest": "布力般流浪",
+  "Prefer": "大球",
+  "Odds": 0.99,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "04-20 21:45",
+  "Person": "飞天神猪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美乙",
+  "Time1": "04-27 10:30",
+  "Host": "洛杉磯布魯斯",
+  "OddStake": "2.5球",
+  "Guest": "威明頓鎚頭",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "04-27 02:58",
+  "Person": "身不由己"
+}

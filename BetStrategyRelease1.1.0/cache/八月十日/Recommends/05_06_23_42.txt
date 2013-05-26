@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "05-07 01:05",
+  "Host": "AIK蘇納",
+  "OddStake": "平/半",
+  "Guest": "IFK哥德堡",
+  "Prefer": "IFK哥德堡",
+  "Odds": 0.82,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "05-06 23:42",
+  "Person": "八月十日"
+}

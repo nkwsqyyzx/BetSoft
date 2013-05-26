@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 02:00",
+  "Host": "皮爾森",
+  "OddStake": "球半",
+  "Guest": "特拉維夫夏普爾",
+  "Prefer": "特拉維夫夏普爾",
+  "Odds": 0.85,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "11-08 22:37",
+  "Person": "心情"
+}

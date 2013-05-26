@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "巴西甲",
+  "Time1": "11-04 07:00",
+  "Host": "法林明高RJ",
+  "OddStake": "2.5/3球",
+  "Guest": "費古倫斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-03 23:31",
+  "Person": "农夫果园"
+}

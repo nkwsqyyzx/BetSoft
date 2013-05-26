@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德東北聯",
+  "Time1": "05-23 00:30",
+  "Host": "哈伯斯泰德",
+  "OddStake": "受平/半",
+  "Guest": "茨維嵪",
+  "Prefer": "茨維嵪",
+  "Odds": 0.95,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "05-22 22:17",
+  "Person": "印加帝国"
+}

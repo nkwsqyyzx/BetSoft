@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-14 23:45",
+  "Host": "阿爾葛拉法",
+  "OddStake": "2.5球",
+  "Guest": "沙巴柏利雅德",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-14 22:38",
+  "Person": "绿野仙踪"
+}

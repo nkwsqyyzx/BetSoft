@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "愛甲",
+  "Time1": "05-11 03:00",
+  "Host": "威福特青年隊",
+  "OddStake": "半球",
+  "Guest": "薩爾斯爾戴文",
+  "Prefer": "威福特青年隊",
+  "Odds": 0.92,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-11 01:16",
+  "Person": "jack"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "蘇甲",
+  "Time1": "02-13 03:45",
+  "Host": "考登比亞夫",
+  "OddStake": "受半/一",
+  "Guest": "鄧弗姆林",
+  "Prefer": "鄧弗姆林",
+  "Odds": 1.14,
+  "Result": "4-2",
+  "PreferResult": 1,
+  "Time2": "02-13 00:08",
+  "Person": "爷有旺仔"
+}

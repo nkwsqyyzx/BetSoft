@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "委内超秋",
+  "Time1": "01-28 03:30",
+  "Host": "伊斯普爾",
+  "OddStake": "2/2.5球",
+  "Guest": "佩塔雷體育會",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-27 23:14",
+  "Person": "心情"
+}

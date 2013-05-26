@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美乙",
+  "Time1": "05-01 07:30",
+  "Host": "奧蘭多市",
+  "OddStake": "2.5球",
+  "Guest": "VSI坦帕灣",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-30 23:57",
+  "Person": "心情"
+}

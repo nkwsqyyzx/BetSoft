@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛聯盃",
+  "Time1": "05-21 02:45",
+  "Host": "杜希達聯",
+  "OddStake": "2.5球",
+  "Guest": "朗福特城",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "6-0",
+  "PreferResult": 5,
+  "Time2": "05-21 01:45",
+  "Person": "强人"
+}

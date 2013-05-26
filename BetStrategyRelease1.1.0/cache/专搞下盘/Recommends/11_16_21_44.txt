@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英甲",
+  "Time1": "11-17 03:45",
+  "Host": "特蘭米爾",
+  "OddStake": "2/2.5球",
+  "Guest": "米爾頓凱恩斯",
+  "Prefer": "小球",
+  "Odds": 0.97,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-16 21:44",
+  "Person": "专搞下盘"
+}

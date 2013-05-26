@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥甲",
+  "Time1": "04-25 01:00",
+  "Host": "霍布羅",
+  "OddStake": "2/2.5球",
+  "Guest": "布朗薛治",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "04-24 15:35",
+  "Person": "天巧星燕青"
+}

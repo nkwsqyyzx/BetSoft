@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "希臘超",
+  "Time1": "04-21 23:59",
+  "Host": "奧林比亞高斯CFP",
+  "OddStake": "球半/两球",
+  "Guest": "彭里安奧斯",
+  "Prefer": "奧林比亞高斯CFP",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-21 17:27",
+  "Person": "印加帝国"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中超",
+  "Time1": "05-14 19:35",
+  "Host": "山東魯能泰山",
+  "OddStake": "2.5/3球",
+  "Guest": "青島中能",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "3-0",
+  "PreferResult": 2,
+  "Time2": "05-14 17:39",
+  "Person": "夜是彩市圆"
+}

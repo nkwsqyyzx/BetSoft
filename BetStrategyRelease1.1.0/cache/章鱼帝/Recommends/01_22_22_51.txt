@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "蘇超",
+  "Time1": "01-23 03:45",
+  "Host": "些路迪",
+  "OddStake": "球半",
+  "Guest": "登地聯",
+  "Prefer": "些路迪",
+  "Odds": 1.06,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "01-22 22:51",
+  "Person": "章鱼帝"
+}

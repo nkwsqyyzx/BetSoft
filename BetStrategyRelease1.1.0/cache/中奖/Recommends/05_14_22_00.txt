@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-14 23:59",
+  "Host": "賈徐卡塔爾",
+  "OddStake": "2.5球",
+  "Guest": "阿爾艾利吉達",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-14 22:00",
+  "Person": "中奖"
+}

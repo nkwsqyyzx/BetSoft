@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "印度甲",
+  "Time1": "02-01 16:30",
+  "Host": "莫亨巴根",
+  "OddStake": "2.5球",
+  "Guest": "ONGC足球俱樂部",
+  "Prefer": "大球",
+  "Odds": 1.1,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-01 16:11",
+  "Person": "飞天神猪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "04-28 01:00",
+  "Host": "特拉布宗",
+  "OddStake": "半球",
+  "Guest": "真格拿拜列治",
+  "Prefer": "真格拿拜列治",
+  "Odds": 0.87,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-28 00:17",
+  "Person": "积木"
+}

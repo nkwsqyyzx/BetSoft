@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英U21",
+  "Time1": "04-08 20:00",
+  "Host": "保頓U21",
+  "OddStake": "受平/半",
+  "Guest": "曼城U21",
+  "Prefer": "保頓U21",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-08 19:48",
+  "Person": "爷有旺仔"
+}

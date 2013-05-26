@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德乙",
+  "Time1": "04-12 23:59",
+  "Host": "柏林聯",
+  "OddStake": "半球",
+  "Guest": "特雷斯登",
+  "Prefer": "特雷斯登",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-12 19:24",
+  "Person": "九月九的酒"
+}

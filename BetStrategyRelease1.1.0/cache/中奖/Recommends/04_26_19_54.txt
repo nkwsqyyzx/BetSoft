@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "俄後賽",
+  "Time1": "04-26 20:30",
+  "Host": "塔利克U21",
+  "OddStake": "半球",
+  "Guest": "阿馬卡U21",
+  "Prefer": "阿馬卡U21",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-26 19:54",
+  "Person": "中奖"
+}

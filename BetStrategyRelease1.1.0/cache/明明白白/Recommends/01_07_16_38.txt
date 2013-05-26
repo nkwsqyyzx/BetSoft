@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "格雷納盃",
+  "Time1": "01-07 18:15",
+  "Host": "阿塞拜疆U18(中)",
+  "OddStake": "3球",
+  "Guest": "捷克U18",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "01-07 16:38",
+  "Person": "明明白白"
+}

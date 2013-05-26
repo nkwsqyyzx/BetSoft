@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-30 03:15",
+  "Host": "哈化柏林",
+  "OddStake": "一球",
+  "Guest": "科隆",
+  "Prefer": "哈化柏林",
+  "Odds": 1.04,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "11-29 21:35",
+  "Person": "飞天神猪"
+}

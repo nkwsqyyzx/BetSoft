@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德巴聯",
+  "Time1": "05-18 20:00",
+  "Host": "埃特斯多夫",
+  "OddStake": "半球",
+  "Guest": "印戈斯塔德青年隊",
+  "Prefer": "印戈斯塔德青年隊",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-18 17:31",
+  "Person": "印加帝国"
+}

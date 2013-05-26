@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法甲",
+  "Time1": "05-27 03:00",
+  "Host": "巴斯蒂亞",
+  "OddStake": "平手",
+  "Guest": "索察",
+  "Prefer": "索察",
+  "Odds": 0.88,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 14:29",
+  "Person": "BUICKfifa"
+}

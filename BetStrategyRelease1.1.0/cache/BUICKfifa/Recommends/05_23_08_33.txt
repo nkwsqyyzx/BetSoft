@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "自由盃",
+  "Time1": "05-23 09:00",
+  "Host": "富明尼斯RJ(中)",
+  "OddStake": "一球/球半",
+  "Guest": "奧林匹亞",
+  "Prefer": "奧林匹亞",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-23 08:33",
+  "Person": "BUICKfifa"
+}

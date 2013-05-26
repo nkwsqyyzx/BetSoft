@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德國盃",
+  "Time1": "02-28 02:00",
+  "Host": "斯圖加特",
+  "OddStake": "3球",
+  "Guest": "波鴻",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 3,
+  "Time2": "02-27 23:33",
+  "Person": "身不由己"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "希盃",
+  "Time1": "02-28 23:59",
+  "Host": "PAOK沙朗歷基",
+  "OddStake": "一球",
+  "Guest": "利雲達高斯",
+  "Prefer": "PAOK沙朗歷基",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-28 13:37",
+  "Person": "余韵犹在"
+}

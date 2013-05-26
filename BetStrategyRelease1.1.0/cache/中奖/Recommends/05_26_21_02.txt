@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西乙",
+  "Time1": "05-27 01:00",
+  "Host": "桑坦德",
+  "OddStake": "2.5球",
+  "Guest": "CD瓜達拉哈拉",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 21:02",
+  "Person": "中奖"
+}

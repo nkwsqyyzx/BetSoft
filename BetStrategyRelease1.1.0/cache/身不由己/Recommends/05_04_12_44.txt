@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意乙",
+  "Time1": "05-04 21:00",
+  "Host": "格羅瑟托",
+  "OddStake": "2.5/3球",
+  "Guest": "瓦雷澤",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "05-04 12:44",
+  "Person": "身不由己"
+}

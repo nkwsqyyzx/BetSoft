@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "比甲",
+  "Time1": "05-17 02:30",
+  "Host": "亨克",
+  "OddStake": "平/半",
+  "Guest": "標準列治",
+  "Prefer": "亨克",
+  "Odds": 1.01,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "05-16 22:36",
+  "Person": "歡樂今宵"
+}

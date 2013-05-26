@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英足總盃",
+  "Time1": "12-12 03:45",
+  "Host": "荷利霍特",
+  "OddStake": "2.5球",
+  "Guest": "車頓咸",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-11 21:30",
+  "Person": "轻轻巧巧"
+}

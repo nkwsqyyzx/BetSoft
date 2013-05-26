@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意丙盃",
+  "Time1": "11-21 21:30",
+  "Host": "維亞萊喬",
+  "OddStake": "2.5球",
+  "Guest": "特里提姆",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "11-21 15:29",
+  "Person": "心情"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "意盃",
+  "Time1": "05-26 23:59",
+  "Host": "羅馬(中)",
+  "OddStake": "2.5球",
+  "Guest": "拉素",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-26 22:37",
+  "Person": "冥王"
+}

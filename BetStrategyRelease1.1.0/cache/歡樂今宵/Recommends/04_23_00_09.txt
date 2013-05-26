@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹後備",
+  "Time1": "04-23 00:30",
+  "Host": "魯治卓索",
+  "OddStake": "平/半",
+  "Guest": "華沙普隆尼亞",
+  "Prefer": "魯治卓索",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-23 00:09",
+  "Person": "歡樂今宵"
+}

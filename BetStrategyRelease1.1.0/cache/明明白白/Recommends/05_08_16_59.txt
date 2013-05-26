@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓足總",
+  "Time1": "05-08 18:00",
+  "Host": "金海",
+  "OddStake": "2.5球",
+  "Guest": "釜山偶像",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-08 16:59",
+  "Person": "明明白白"
+}

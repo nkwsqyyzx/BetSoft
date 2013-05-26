@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "意丙B",
+  "Time1": "10-14 21:00",
+  "Host": "拉蒂納",
+  "OddStake": "平/半",
+  "Guest": "弗洛辛諾內",
+  "Prefer": "弗洛辛諾內",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "10-14 20:50",
+  "Person": "爷有旺仔"
+}

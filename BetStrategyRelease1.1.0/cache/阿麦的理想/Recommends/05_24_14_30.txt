@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "印尼超",
+  "Time1": "05-24 15:00",
+  "Host": "佩西瓦",
+  "OddStake": "受半球",
+  "Guest": "斯里維加亞",
+  "Prefer": "佩西瓦",
+  "Odds": 0.94,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-24 14:30",
+  "Person": "阿麦的理想"
+}

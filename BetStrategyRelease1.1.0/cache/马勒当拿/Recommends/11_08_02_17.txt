@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "11-08 03:45",
+  "Host": "祖雲達斯",
+  "OddStake": "两球/两球半",
+  "Guest": "洛斯查蘭特",
+  "Prefer": "祖雲達斯",
+  "Odds": 1.01,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "11-08 02:17",
+  "Person": "马勒当拿"
+}

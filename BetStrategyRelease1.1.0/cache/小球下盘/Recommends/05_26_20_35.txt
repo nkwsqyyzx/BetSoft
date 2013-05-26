@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-26 22:00",
+  "Host": "法肯柏爾",
+  "OddStake": "2.5球",
+  "Guest": "瓂斯哥德堡",
+  "Prefer": "小球",
+  "Odds": 0.813,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "05-26 20:35",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-22 04:05",
+  "Host": "費倫巴治",
+  "OddStake": "半/一",
+  "Guest": "波里索夫巴迪",
+  "Prefer": "費倫巴治",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "02-22 02:14",
+  "Person": "无聊玩玩"
+}

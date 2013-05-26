@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西丙3",
+  "Time1": "02-10 19:00",
+  "Host": "克斯坦夏",
+  "OddStake": "受平/半",
+  "Guest": "瑞厄斯",
+  "Prefer": "瑞厄斯",
+  "Odds": 0.95,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "02-10 18:35",
+  "Person": "飞天神猪"
+}

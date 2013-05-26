@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "葡超",
+  "Time1": "03-18 04:30",
+  "Host": "甘馬雷斯",
+  "OddStake": "受球半",
+  "Guest": "賓菲加",
+  "Prefer": "甘馬雷斯",
+  "Odds": 0.8,
+  "Result": "0-4",
+  "PreferResult": 1,
+  "Time2": "03-17 20:52",
+  "Person": "低调的人"
+}

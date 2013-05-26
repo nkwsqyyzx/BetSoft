@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-27 22:00",
+  "Host": "愛華頓",
+  "OddStake": "2.5/3球",
+  "Guest": "富勒姆",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-27 20:58",
+  "Person": "民哥也疯狂"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "韓挑K聯",
+  "Time1": "05-20 18:30",
+  "Host": "水原FC",
+  "OddStake": "2.5球",
+  "Guest": "尚州尚武鳳凰",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-20 15:51",
+  "Person": "BUICKfifa"
+}

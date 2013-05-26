@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典超",
+  "Time1": "04-23 01:00",
+  "Host": "加費萊",
+  "OddStake": "受平/半",
+  "Guest": "AIK蘇納",
+  "Prefer": "加費萊",
+  "Odds": 0.9,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "04-22 14:34",
+  "Person": "积木"
+}

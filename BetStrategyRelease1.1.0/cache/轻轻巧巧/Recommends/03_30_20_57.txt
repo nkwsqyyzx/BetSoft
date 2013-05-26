@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意甲",
+  "Time1": "03-30 22:00",
+  "Host": "烏甸尼斯",
+  "OddStake": "半球",
+  "Guest": "博洛尼亞",
+  "Prefer": "博洛尼亞",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-30 20:57",
+  "Person": "轻轻巧巧"
+}

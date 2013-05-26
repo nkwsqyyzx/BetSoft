@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "加夫盃",
+  "Time1": "03-07 01:00",
+  "Host": "丹麥女足(中)",
+  "OddStake": "受球半/两球",
+  "Guest": "德國女足",
+  "Prefer": "德國女足",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "03-06 23:52",
+  "Person": "人在美洲"
+}

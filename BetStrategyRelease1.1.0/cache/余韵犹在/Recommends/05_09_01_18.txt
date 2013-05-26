@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞士甲",
+  "Time1": "05-09 01:45",
+  "Host": "羅卡諾",
+  "OddStake": "受一球",
+  "Guest": "貝林佐納",
+  "Prefer": "羅卡諾",
+  "Odds": 1.0,
+  "Result": "2-6",
+  "PreferResult": 1,
+  "Time2": "05-09 01:18",
+  "Person": "余韵犹在"
+}

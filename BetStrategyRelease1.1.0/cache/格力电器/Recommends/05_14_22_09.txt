@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-15 01:00",
+  "Host": "威登布拉克",
+  "OddStake": "2.5/3球",
+  "Guest": "慕士達",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-14 22:09",
+  "Person": "格力电器"
+}

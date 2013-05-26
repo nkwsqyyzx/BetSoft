@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "05-04 22:00",
+  "Host": "富勒姆",
+  "OddStake": "半/一",
+  "Guest": "雷丁",
+  "Prefer": "富勒姆",
+  "Odds": 0.99,
+  "Result": "2-4",
+  "PreferResult": 1,
+  "Time2": "05-04 21:29",
+  "Person": "积木"
+}

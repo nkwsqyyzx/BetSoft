@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "04-23 01:30",
+  "Host": "安德列治U21",
+  "OddStake": "球半",
+  "Guest": "海文利U21",
+  "Prefer": "安德列治U21",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "04-22 19:18",
+  "Person": "轻轻巧巧"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意盃",
+  "Time1": "01-10 03:45",
+  "Host": "祖雲達斯",
+  "OddStake": "半/一",
+  "Guest": "AC米蘭",
+  "Prefer": "祖雲達斯",
+  "Odds": 1.02,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "01-09 16:53",
+  "Person": "天之骄子"
+}

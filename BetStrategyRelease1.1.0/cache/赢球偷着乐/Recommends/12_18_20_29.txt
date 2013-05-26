@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西亞盃",
+  "Time1": "12-18 22:30",
+  "Host": "阿曼(中)",
+  "OddStake": "受平/半",
+  "Guest": "伊拉克",
+  "Prefer": "阿曼(中)",
+  "Odds": 0.83,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "12-18 20:29",
+  "Person": "赢球偷着乐"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "比甲",
+  "Time1": "12-24 01:00",
+  "Host": "亨克",
+  "OddStake": "2.5/3球",
+  "Guest": "安德列治",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "12-23 21:40",
+  "Person": "身不由己"
+}

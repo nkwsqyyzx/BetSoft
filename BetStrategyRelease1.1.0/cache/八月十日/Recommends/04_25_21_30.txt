@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬蘭盃",
+  "Time1": "04-25 23:00",
+  "Host": "TPS杜古(中)",
+  "OddStake": "半/一",
+  "Guest": "馬利漢姆",
+  "Prefer": "馬利漢姆",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "04-25 21:30",
+  "Person": "八月十日"
+}

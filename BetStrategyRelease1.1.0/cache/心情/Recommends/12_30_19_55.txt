@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意乙",
+  "Time1": "12-30 22:00",
+  "Host": "施達迪那",
+  "OddStake": "2/2.5球",
+  "Guest": "巴里",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-30 19:55",
+  "Person": "心情"
+}

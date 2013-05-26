@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威甲",
+  "Time1": "05-20 23:59",
+  "Host": "廣士雲格",
+  "OddStake": "2.5/3球",
+  "Guest": "雷黑姆",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "05-20 19:33",
+  "Person": "飘雪"
+}

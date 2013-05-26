@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西乙",
+  "Time1": "05-25 06:30",
+  "Host": "歐斯特",
+  "OddStake": "2/2.5球",
+  "Guest": "阿瓦伊",
+  "Prefer": "大球",
+  "Odds": 0.81,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-25 05:51",
+  "Person": "身不由己"
+}

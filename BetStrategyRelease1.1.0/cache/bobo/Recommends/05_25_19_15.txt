@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德東北聯",
+  "Time1": "05-25 19:30",
+  "Host": "VfB阿爾巴赫",
+  "OddStake": "平手",
+  "Guest": "哈伯斯泰德",
+  "Prefer": "VfB阿爾巴赫",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-25 19:15",
+  "Person": "bobo"
+}

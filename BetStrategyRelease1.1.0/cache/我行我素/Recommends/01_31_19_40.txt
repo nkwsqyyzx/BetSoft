@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "自由盃",
+  "Time1": "02-01 06:15",
+  "Host": "奧林匹亞",
+  "OddStake": "2/2.5球",
+  "Guest": "德豐索體育隊",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "01-31 19:40",
+  "Person": "我行我素"
+}

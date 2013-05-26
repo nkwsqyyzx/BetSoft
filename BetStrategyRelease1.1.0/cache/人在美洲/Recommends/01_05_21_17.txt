@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英甲",
+  "Time1": "01-05 23:00",
+  "Host": "史雲頓",
+  "OddStake": "一球",
+  "Guest": "卡素爾",
+  "Prefer": "卡素爾",
+  "Odds": 0.95,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "01-05 21:17",
+  "Person": "人在美洲"
+}

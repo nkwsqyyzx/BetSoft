@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "03-08 08:30",
+  "Host": "米內羅競技",
+  "OddStake": "两球/两球半",
+  "Guest": "史莊格斯特",
+  "Prefer": "米內羅競技",
+  "Odds": 1.0,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-07 12:00",
+  "Person": "我型我show"
+}

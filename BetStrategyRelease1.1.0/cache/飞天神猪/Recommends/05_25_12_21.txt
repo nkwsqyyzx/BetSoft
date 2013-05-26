@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "澳維超",
+  "Time1": "05-25 13:00",
+  "Host": "丹德農迅雷",
+  "OddStake": "3球",
+  "Guest": "帕斯科華倫",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "05-25 12:21",
+  "Person": "飞天神猪"
+}

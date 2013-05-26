@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "05-04 19:45",
+  "Host": "查爾頓",
+  "OddStake": "2.5球",
+  "Guest": "布里斯托城",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "05-04 13:19",
+  "Person": "轻轻巧巧"
+}

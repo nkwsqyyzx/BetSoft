@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "03-02 00:30",
+  "Host": "薩普斯堡08(中)",
+  "OddStake": "半球",
+  "Guest": "桑德菲傑",
+  "Prefer": "薩普斯堡08(中)",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-01 21:26",
+  "Person": "大头"
+}

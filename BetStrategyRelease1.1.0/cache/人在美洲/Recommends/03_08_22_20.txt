@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "03-08 23:30",
+  "Host": "加拿大女足(中)",
+  "OddStake": "半/一",
+  "Guest": "芬蘭女足",
+  "Prefer": "加拿大女足(中)",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "03-08 22:20",
+  "Person": "人在美洲"
+}

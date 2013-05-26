@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "02-03 21:30",
+  "Host": "西布朗",
+  "OddStake": "2.5球",
+  "Guest": "托特納姆熱刺",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-03 20:45",
+  "Person": "大头"
+}

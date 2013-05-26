@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "荷乙",
+  "Time1": "03-30 03:00",
+  "Host": "多積治",
+  "OddStake": "一球",
+  "Guest": "FC奧斯",
+  "Prefer": "FC奧斯",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-30 02:15",
+  "Person": "中奖太简单啦"
+}

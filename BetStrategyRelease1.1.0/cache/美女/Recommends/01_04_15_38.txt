@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "北愛超",
+  "Time1": "01-05 04:00",
+  "Host": "巴利米納",
+  "OddStake": "2.5/3球",
+  "Guest": "巴里納馬勒聯",
+  "Prefer": "大球",
+  "Odds": 0.81,
+  "Result": "3-0",
+  "PreferResult": 4,
+  "Time2": "01-04 15:38",
+  "Person": "美女"
+}

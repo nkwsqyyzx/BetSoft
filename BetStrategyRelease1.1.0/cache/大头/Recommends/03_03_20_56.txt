@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意甲",
+  "Time1": "03-03 22:00",
+  "Host": "卡坦尼亞",
+  "OddStake": "2.5球",
+  "Guest": "國際米蘭",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "03-03 20:56",
+  "Person": "大头"
+}

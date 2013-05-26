@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英冠",
+  "Time1": "03-17 01:20",
+  "Host": "德比郡",
+  "OddStake": "受平/半",
+  "Guest": "萊切斯特",
+  "Prefer": "萊切斯特",
+  "Odds": 1.02,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-17 00:06",
+  "Person": "我型我show"
+}

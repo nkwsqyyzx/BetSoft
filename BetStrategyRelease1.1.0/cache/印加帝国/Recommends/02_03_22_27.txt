@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西乙",
+  "Time1": "02-03 23:59",
+  "Host": "哥杜巴",
+  "OddStake": "半/一",
+  "Guest": "盧戈",
+  "Prefer": "哥杜巴",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "02-03 22:27",
+  "Person": "印加帝国"
+}

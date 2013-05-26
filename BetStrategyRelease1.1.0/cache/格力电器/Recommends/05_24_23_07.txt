@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法乙",
+  "Time1": "05-25 02:30",
+  "Host": "卡昂",
+  "OddStake": "一球/球半",
+  "Guest": "GFC阿些斯奧",
+  "Prefer": "卡昂",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "05-24 23:07",
+  "Person": "格力电器"
+}

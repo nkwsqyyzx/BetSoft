@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "04-24 02:45",
+  "Host": "米禾爾",
+  "OddStake": "平/半",
+  "Guest": "布力般流浪",
+  "Prefer": "布力般流浪",
+  "Odds": 0.83,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "04-24 00:30",
+  "Person": "绿野仙踪"
+}

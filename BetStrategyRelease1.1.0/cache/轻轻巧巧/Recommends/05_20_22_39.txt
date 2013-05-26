@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "俄超",
+  "Time1": "05-20 23:00",
+  "Host": "安芝",
+  "OddStake": "2.5球",
+  "Guest": "莫斯科火車頭",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-20 22:39",
+  "Person": "轻轻巧巧"
+}

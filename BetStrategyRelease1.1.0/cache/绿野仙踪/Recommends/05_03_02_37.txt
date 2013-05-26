@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐霸盃",
+  "Time1": "05-03 03:05",
+  "Host": "賓菲加",
+  "OddStake": "2.5/3球",
+  "Guest": "費倫巴治",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "05-03 02:37",
+  "Person": "绿野仙踪"
+}

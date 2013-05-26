@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐霸盃",
+  "Time1": "03-15 04:05",
+  "Host": "紐卡素",
+  "OddStake": "2/2.5球",
+  "Guest": "安芝",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-14 23:22",
+  "Person": "心情"
+}

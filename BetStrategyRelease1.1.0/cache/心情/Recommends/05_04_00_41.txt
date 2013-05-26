@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "05-04 06:00",
+  "Host": "葛度爾古斯",
+  "OddStake": "2/2.5球",
+  "Guest": "科隆競技",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-04 00:41",
+  "Person": "心情"
+}

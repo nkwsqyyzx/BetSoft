@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "希盃",
+  "Time1": "03-14 21:00",
+  "Host": "泰利普利斯",
+  "OddStake": "一球",
+  "Guest": "普拉坦亞斯",
+  "Prefer": "泰利普利斯",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "03-14 20:48",
+  "Person": "墨斗红云"
+}

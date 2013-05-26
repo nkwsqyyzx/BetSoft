@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬甲",
+  "Time1": "05-13 23:30",
+  "Host": "古迪比",
+  "OddStake": "受平/半",
+  "Guest": "夏卡",
+  "Prefer": "古迪比",
+  "Odds": 1.07,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-13 14:43",
+  "Person": "积木"
+}

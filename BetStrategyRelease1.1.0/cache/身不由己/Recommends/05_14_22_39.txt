@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美乙",
+  "Time1": "05-15 07:00",
+  "Host": "夏洛特鷹",
+  "OddStake": "2.5球",
+  "Guest": "查爾斯頓電池",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-14 22:39",
+  "Person": "身不由己"
+}

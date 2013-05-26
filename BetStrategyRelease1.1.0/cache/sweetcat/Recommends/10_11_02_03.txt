@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西聯盃",
+  "Time1": "10-11 02:30",
+  "Host": "卡拉班切",
+  "OddStake": "半球",
+  "Guest": "華歷簡奴B隊",
+  "Prefer": "卡拉班切",
+  "Odds": 0.9,
+  "Result": "6-3",
+  "PreferResult": 5,
+  "Time2": "10-11 02:03",
+  "Person": "sweetcat"
+}

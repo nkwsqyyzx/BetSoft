@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "04-19 09:00",
+  "Host": "富明尼斯RJ",
+  "OddStake": "球半/两球",
+  "Guest": "卡拉卡斯",
+  "Prefer": "卡拉卡斯",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-19 05:57",
+  "Person": "低调的人"
+}

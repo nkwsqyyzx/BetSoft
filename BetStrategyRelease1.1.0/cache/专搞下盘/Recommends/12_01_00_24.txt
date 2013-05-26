@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "荷乙",
+  "Time1": "12-01 03:00",
+  "Host": "阿梅爾城",
+  "OddStake": "平/半",
+  "Guest": "SBV精英隊",
+  "Prefer": "SBV精英隊",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "12-01 00:24",
+  "Person": "专搞下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "秘魯春",
+  "Time1": "04-24 06:45",
+  "Host": "聖馬丁(中)",
+  "OddStake": "2/2.5球",
+  "Guest": "萊昂瓦努科",
+  "Prefer": "小球",
+  "Odds": 0.99,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-23 23:00",
+  "Person": "天巧星燕青"
+}

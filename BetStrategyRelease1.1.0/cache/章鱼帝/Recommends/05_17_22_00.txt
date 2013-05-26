@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法丙",
+  "Time1": "05-18 02:00",
+  "Host": "維那斯",
+  "OddStake": "2/2.5球",
+  "Guest": "布羅尼",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-17 22:00",
+  "Person": "章鱼帝"
+}

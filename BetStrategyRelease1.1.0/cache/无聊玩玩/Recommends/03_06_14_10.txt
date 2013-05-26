@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德北聯",
+  "Time1": "03-06 21:00",
+  "Host": "漢諾威青年隊",
+  "OddStake": "半/一",
+  "Guest": "漢堡青年隊",
+  "Prefer": "漢諾威青年隊",
+  "Odds": 0.86,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "03-06 14:10",
+  "Person": "无聊玩玩"
+}

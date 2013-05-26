@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "塞浦甲",
+  "Time1": "12-15 23:59",
+  "Host": "阿亞納帕",
+  "OddStake": "2.5球",
+  "Guest": "奧摩尼亞",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "12-15 23:33",
+  "Person": "明明白白"
+}

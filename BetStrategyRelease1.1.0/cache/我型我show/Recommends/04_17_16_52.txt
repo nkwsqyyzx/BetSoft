@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "04-18 06:45",
+  "Host": "巴塞隆拿SC",
+  "OddStake": "2.5球",
+  "Guest": "蒙特維多國民隊",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-17 16:52",
+  "Person": "我型我show"
+}

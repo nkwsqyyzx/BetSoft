@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "荷乙",
+  "Time1": "03-19 03:00",
+  "Host": "阿高斯",
+  "OddStake": "半/一",
+  "Guest": "SBV精英隊",
+  "Prefer": "SBV精英隊",
+  "Odds": 0.92,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "03-18 23:10",
+  "Person": "印加帝国"
+}

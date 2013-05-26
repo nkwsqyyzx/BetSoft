@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "03-03 21:30",
+  "Host": "洛達",
+  "OddStake": "平/半",
+  "Guest": "高寧根",
+  "Prefer": "洛達",
+  "Odds": 1.01,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "03-03 21:20",
+  "Person": "夜是彩市圆"
+}

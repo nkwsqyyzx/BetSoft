@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西聯盃",
+  "Time1": "03-08 03:30",
+  "Host": "聖特安德雷",
+  "OddStake": "半/一",
+  "Guest": "特內里費B隊",
+  "Prefer": "聖特安德雷",
+  "Odds": 0.86,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "03-07 20:43",
+  "Person": "无聊玩玩"
+}

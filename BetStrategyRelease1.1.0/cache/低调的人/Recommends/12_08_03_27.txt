@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英冠",
+  "Time1": "12-08 03:45",
+  "Host": "布力般流浪",
+  "OddStake": "平手",
+  "Guest": "卡迪夫城",
+  "Prefer": "卡迪夫城",
+  "Odds": 0.97,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "12-08 03:27",
+  "Person": "低调的人"
+}

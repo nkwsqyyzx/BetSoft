@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-28 03:45",
+  "Host": "桑德蘭",
+  "OddStake": "平/半",
+  "Guest": "昆士柏流浪",
+  "Prefer": "桑德蘭",
+  "Odds": 0.93,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "11-27 14:54",
+  "Person": "扬名立万"
+}

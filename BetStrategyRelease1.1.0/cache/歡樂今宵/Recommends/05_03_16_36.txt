@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英甲",
+  "Time1": "05-03 17:00",
+  "Host": "鳥栖沙根",
+  "OddStake": "受平/半",
+  "Guest": "FC東京",
+  "Prefer": "鳥栖沙根",
+  "Odds": 0.95,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "05-03 16:36",
+  "Person": "歡樂今宵"
+}

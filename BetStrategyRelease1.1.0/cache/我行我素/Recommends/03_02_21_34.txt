@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意乙",
+  "Time1": "03-02 22:00",
+  "Host": "克努托內",
+  "OddStake": "半球",
+  "Guest": "阿斯科利",
+  "Prefer": "克努托內",
+  "Odds": 1.12,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "03-02 21:34",
+  "Person": "我行我素"
+}

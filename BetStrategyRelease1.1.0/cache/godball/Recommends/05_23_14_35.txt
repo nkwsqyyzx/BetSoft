@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威甲",
+  "Time1": "05-24 01:00",
+  "Host": "侯治森華特",
+  "OddStake": "受平/半",
+  "Guest": "廣士雲格",
+  "Prefer": "侯治森華特",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "05-23 14:35",
+  "Person": "godball"
+}

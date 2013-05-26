@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "韓國K",
+  "Time1": "11-04 13:00",
+  "Host": "FC漢城",
+  "OddStake": "2.5球",
+  "Guest": "水原三星",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "11-04 12:49",
+  "Person": "赢球偷着乐"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意盃",
+  "Time1": "11-28 23:59",
+  "Host": "博洛尼亞",
+  "OddStake": "平/半",
+  "Guest": "利禾奴",
+  "Prefer": "利禾奴",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-28 22:00",
+  "Person": "专搞下盘"
+}

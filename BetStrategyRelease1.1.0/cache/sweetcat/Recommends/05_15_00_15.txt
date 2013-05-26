@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿拉冠",
+  "Time1": "05-15 00:30",
+  "Host": "USM阿爾格",
+  "OddStake": "2球",
+  "Guest": "阿拉畢科威特",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "05-15 00:15",
+  "Person": "sweetcat"
+}

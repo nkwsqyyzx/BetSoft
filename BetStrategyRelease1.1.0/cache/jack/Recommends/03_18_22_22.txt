@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德南聯",
+  "Time1": "03-19 02:00",
+  "Host": "凱沙羅頓青年隊",
+  "OddStake": "平手",
+  "Guest": "赫森卡瑟",
+  "Prefer": "赫森卡瑟",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "03-18 22:22",
+  "Person": "jack"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "南球盃",
+  "Time1": "11-02 08:45",
+  "Host": "獨立隊",
+  "OddStake": "2/2.5球",
+  "Guest": "卡托利卡",
+  "Prefer": "小球",
+  "Odds": 0.93,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "11-02 07:48",
+  "Person": "赢球偷着乐"
+}

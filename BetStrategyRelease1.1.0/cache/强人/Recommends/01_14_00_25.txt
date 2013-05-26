@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡超",
+  "Time1": "01-14 04:15",
+  "Host": "賓菲加",
+  "OddStake": "平/半",
+  "Guest": "波圖",
+  "Prefer": "波圖",
+  "Odds": 0.9,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "01-14 00:25",
+  "Person": "强人"
+}

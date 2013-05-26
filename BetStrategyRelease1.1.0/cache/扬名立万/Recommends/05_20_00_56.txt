@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "烏拉甲秋",
+  "Time1": "05-20 03:00",
+  "Host": "佩納羅爾",
+  "OddStake": "2.5/3球",
+  "Guest": "萬特雷斯",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-20 00:56",
+  "Person": "扬名立万"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "委内超秋",
+  "Time1": "11-05 08:00",
+  "Host": "安索阿特吉",
+  "OddStake": "一球",
+  "Guest": "亞拉庫雅諾斯",
+  "Prefer": "安索阿特吉",
+  "Odds": 0.84,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-05 07:17",
+  "Person": "飞天神猪"
+}

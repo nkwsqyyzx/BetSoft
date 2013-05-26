@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "丹麥甲",
+  "Time1": "11-04 22:00",
+  "Host": "AB哥本哈根",
+  "OddStake": "受平/半",
+  "Guest": "布朗薛治",
+  "Prefer": "AB哥本哈根",
+  "Odds": 0.85,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "11-04 19:15",
+  "Person": "农夫果园"
+}

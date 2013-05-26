@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "比甲",
+  "Time1": "11-01 03:30",
+  "Host": "色格拉布魯日",
+  "OddStake": "半球",
+  "Guest": "比爾肖特",
+  "Prefer": "比爾肖特",
+  "Odds": 0.83,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "10-31 22:53",
+  "Person": "轻轻巧巧"
+}

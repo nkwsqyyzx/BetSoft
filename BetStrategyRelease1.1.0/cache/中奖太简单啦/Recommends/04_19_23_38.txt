@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "04-19 23:59",
+  "Host": "雷根斯堡",
+  "OddStake": "受平/半",
+  "Guest": "印戈斯塔德",
+  "Prefer": "印戈斯塔德",
+  "Odds": 1.02,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "04-19 23:38",
+  "Person": "中奖太简单啦"
+}

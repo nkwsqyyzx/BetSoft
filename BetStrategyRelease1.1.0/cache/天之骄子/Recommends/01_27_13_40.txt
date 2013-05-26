@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-27 19:00",
+  "Host": "皇家馬德里",
+  "OddStake": "两球/两球半",
+  "Guest": "加泰",
+  "Prefer": "皇家馬德里",
+  "Odds": 0.92,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "01-27 13:40",
+  "Person": "天之骄子"
+}

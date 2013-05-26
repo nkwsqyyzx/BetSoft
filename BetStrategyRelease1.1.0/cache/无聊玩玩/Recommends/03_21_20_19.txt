@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "友誼賽",
+  "Time1": "03-22 03:30",
+  "Host": "英格蘭U19",
+  "OddStake": "半/一",
+  "Guest": "土耳其U19",
+  "Prefer": "英格蘭U19",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "03-21 20:19",
+  "Person": "无聊玩玩"
+}

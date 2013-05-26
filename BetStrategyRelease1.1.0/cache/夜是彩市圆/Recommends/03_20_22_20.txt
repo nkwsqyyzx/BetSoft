@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "埃及甲",
+  "Time1": "03-20 23:30",
+  "Host": "恩彼",
+  "OddStake": "半/一",
+  "Guest": "高納",
+  "Prefer": "恩彼",
+  "Odds": 0.92,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "03-20 22:20",
+  "Person": "夜是彩市圆"
+}

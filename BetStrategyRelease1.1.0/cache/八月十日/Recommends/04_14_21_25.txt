@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典超",
+  "Time1": "04-14 23:30",
+  "Host": "加費萊",
+  "OddStake": "平/半",
+  "Guest": "咸史泰斯",
+  "Prefer": "加費萊",
+  "Odds": 0.82,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-14 21:25",
+  "Person": "八月十日"
+}

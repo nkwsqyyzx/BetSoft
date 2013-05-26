@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法甲",
+  "Time1": "12-08 23:59",
+  "Host": "巴黎聖日門",
+  "OddStake": "球半/两球",
+  "Guest": "伊維恩",
+  "Prefer": "伊維恩",
+  "Odds": 0.97,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "12-08 23:07",
+  "Person": "绿野仙踪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士超",
+  "Time1": "05-26 19:45",
+  "Host": "聖加倫",
+  "OddStake": "半/一",
+  "Guest": "塞維特",
+  "Prefer": "聖加倫",
+  "Odds": 0.85,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "05-26 17:24",
+  "Person": "墨斗红云"
+}

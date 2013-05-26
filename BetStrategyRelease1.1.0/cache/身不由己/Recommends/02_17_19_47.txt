@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "瑞士超",
+  "Time1": "02-17 20:45",
+  "Host": "盧森",
+  "OddStake": "2/2.5球",
+  "Guest": "蘇黎世",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "02-17 19:47",
+  "Person": "身不由己"
+}

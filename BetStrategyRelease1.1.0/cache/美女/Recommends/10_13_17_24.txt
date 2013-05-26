@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "日聯盃",
+  "Time1": "10-13 18:00",
+  "Host": "柏雷素爾",
+  "OddStake": "2.5/3球",
+  "Guest": "鹿島鹿角",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "10-13 17:24",
+  "Person": "美女"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐青U19",
+  "Time1": "10-11 17:15",
+  "Host": "聖馬力諾U19(中)",
+  "OddStake": "5.5/6球",
+  "Guest": "荷蘭U19",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "10-11 17:02",
+  "Person": "明明白白"
+}

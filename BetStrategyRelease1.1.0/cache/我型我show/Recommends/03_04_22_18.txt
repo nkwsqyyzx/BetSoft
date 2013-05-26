@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法乙",
+  "Time1": "03-05 03:30",
+  "Host": "朗斯",
+  "OddStake": "平手",
+  "Guest": "南特",
+  "Prefer": "朗斯",
+  "Odds": 0.85,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "03-04 22:18",
+  "Person": "我型我show"
+}

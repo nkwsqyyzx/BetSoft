@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "斯伐甲",
+  "Time1": "05-11 23:30",
+  "Host": "柯西斯",
+  "OddStake": "2/2.5球",
+  "Guest": "拜斯迪卡",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-11 08:44",
+  "Person": "sos73"
+}

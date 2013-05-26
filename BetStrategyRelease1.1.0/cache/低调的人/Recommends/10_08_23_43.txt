@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "羅甲",
+  "Time1": "10-08 23:59",
+  "Host": "巴索夫",
+  "OddStake": "一球/球半",
+  "Guest": "CSMS伊啊斯",
+  "Prefer": "CSMS伊啊斯",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "10-08 23:43",
+  "Person": "低调的人"
+}

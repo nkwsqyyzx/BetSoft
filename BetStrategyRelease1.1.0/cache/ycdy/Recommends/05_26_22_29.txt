@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "沙歐足",
+  "Time1": "05-26 23:00",
+  "Host": "薩克達",
+  "OddStake": "一球/球半",
+  "Guest": "當尼斯克",
+  "Prefer": "當尼斯克",
+  "Odds": 1.05,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "05-26 22:29",
+  "Person": "ycdy"
+}

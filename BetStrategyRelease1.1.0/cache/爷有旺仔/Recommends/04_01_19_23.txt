@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德北聯",
+  "Time1": "04-01 20:00",
+  "Host": "梅彭",
+  "OddStake": "平/半",
+  "Guest": "維切",
+  "Prefer": "維切",
+  "Odds": 0.81,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "04-01 19:23",
+  "Person": "爷有旺仔"
+}

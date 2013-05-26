@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "02-20 08:30",
+  "Host": "米倫拿列奧",
+  "OddStake": "半/一",
+  "Guest": "提華納",
+  "Prefer": "提華納",
+  "Odds": 0.92,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-20 01:18",
+  "Person": "心情"
+}

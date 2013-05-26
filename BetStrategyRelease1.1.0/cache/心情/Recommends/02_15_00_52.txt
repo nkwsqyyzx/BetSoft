@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-15 02:00",
+  "Host": "利雲特",
+  "OddStake": "2/2.5球",
+  "Guest": "奧林比亞高斯CFP",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "02-15 00:52",
+  "Person": "心情"
+}

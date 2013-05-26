@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "阿塞超",
+  "Time1": "10-08 19:00",
+  "Host": "巴庫尼菲治",
+  "OddStake": "3球",
+  "Guest": "托武茲",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "10-08 17:13",
+  "Person": "格力电器"
+}

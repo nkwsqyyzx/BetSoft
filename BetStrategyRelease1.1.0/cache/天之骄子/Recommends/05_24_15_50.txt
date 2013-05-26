@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿甲",
+  "Time1": "05-25 07:15",
+  "Host": "沙士菲",
+  "OddStake": "半球",
+  "Guest": "基爾梅斯",
+  "Prefer": "沙士菲",
+  "Odds": 1.05,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-24 15:50",
+  "Person": "天之骄子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "05-09 02:45",
+  "Host": "森多利亞",
+  "OddStake": "2.5球",
+  "Guest": "卡坦尼亞",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-08 20:55",
+  "Person": "轻轻巧巧"
+}

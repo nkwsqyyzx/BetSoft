@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "法丁B",
+  "Time1": "03-20 21:00",
+  "Host": "桑德菲傑(中)",
+  "OddStake": "半球",
+  "Guest": "史達比克",
+  "Prefer": "桑德菲傑(中)",
+  "Odds": 1.02,
+  "Result": "3-3",
+  "PreferResult": 1,
+  "Time2": "03-20 19:26",
+  "Person": "中奖太简单啦"
+}

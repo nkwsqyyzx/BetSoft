@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "土超",
+  "Time1": "04-01 01:15",
+  "Host": "獨立隊",
+  "OddStake": "平/半",
+  "Guest": "小保加",
+  "Prefer": "小保加",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-01 00:30",
+  "Person": "马勒当拿"
+}

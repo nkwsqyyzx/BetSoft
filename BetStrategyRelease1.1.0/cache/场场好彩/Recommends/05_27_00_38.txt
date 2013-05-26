@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西甲",
+  "Time1": "05-27 02:00",
+  "Host": "皇家貝迪斯",
+  "OddStake": "2.5/3球",
+  "Guest": "薩拉戈薩",
+  "Prefer": "大球",
+  "Odds": 1.02,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 00:38",
+  "Person": "场场好彩"
+}

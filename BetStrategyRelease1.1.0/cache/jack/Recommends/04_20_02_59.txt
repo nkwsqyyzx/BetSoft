@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "墨西聯",
+  "Time1": "04-20 10:30",
+  "Host": "聖多斯",
+  "OddStake": "平/半",
+  "Guest": "蒙特瑞",
+  "Prefer": "聖多斯",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-20 02:59",
+  "Person": "jack"
+}

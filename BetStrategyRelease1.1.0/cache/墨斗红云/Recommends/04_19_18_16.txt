@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷甲",
+  "Time1": "04-20 02:00",
+  "Host": "阿積士",
+  "OddStake": "3.5/4球",
+  "Guest": "海倫維恩",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-19 18:16",
+  "Person": "墨斗红云"
+}

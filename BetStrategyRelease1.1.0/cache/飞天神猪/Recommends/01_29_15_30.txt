@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "芬聯盃",
+  "Time1": "01-29 21:00",
+  "Host": "英特杜古",
+  "OddStake": "2.5球",
+  "Guest": "韋斯屈萊",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "01-29 15:30",
+  "Person": "飞天神猪"
+}

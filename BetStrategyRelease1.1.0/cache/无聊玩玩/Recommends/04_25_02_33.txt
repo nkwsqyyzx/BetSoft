@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英非聯",
+  "Time1": "04-25 02:45",
+  "Host": "甘士比",
+  "OddStake": "平/半",
+  "Guest": "紐波特",
+  "Prefer": "紐波特",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-25 02:33",
+  "Person": "无聊玩玩"
+}

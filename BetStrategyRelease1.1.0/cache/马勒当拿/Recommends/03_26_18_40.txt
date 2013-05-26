@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "亞洲預選",
+  "Time1": "03-26 19:00",
+  "Host": "南韓",
+  "OddStake": "球半/两球",
+  "Guest": "卡塔爾",
+  "Prefer": "卡塔爾",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "03-26 18:40",
+  "Person": "马勒当拿"
+}

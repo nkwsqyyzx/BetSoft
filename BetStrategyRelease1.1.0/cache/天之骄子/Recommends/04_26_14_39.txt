@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西乙",
+  "Time1": "04-26 18:00",
+  "Host": "柏雷素爾",
+  "OddStake": "平/半",
+  "Guest": "大宮松鼠",
+  "Prefer": "大宮松鼠",
+  "Odds": 0.97,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "04-26 14:39",
+  "Person": "天之骄子"
+}

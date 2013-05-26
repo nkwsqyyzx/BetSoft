@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德東北聯",
+  "Time1": "05-02 19:30",
+  "Host": "科特布斯青年隊",
+  "OddStake": "2/2.5球",
+  "Guest": "哈伯斯泰德",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-02 14:50",
+  "Person": "赢球偷着乐"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法乙",
+  "Time1": "04-27 02:00",
+  "Host": "歐塞爾",
+  "OddStake": "半球",
+  "Guest": "沙特魯",
+  "Prefer": "沙特魯",
+  "Odds": 0.84,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-27 01:42",
+  "Person": "马勒当拿"
+}

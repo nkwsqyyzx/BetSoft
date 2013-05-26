@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-20 23:59",
+  "Host": "侯尼霍斯",
+  "OddStake": "平/半",
+  "Guest": "利尼史特朗",
+  "Prefer": "利尼史特朗",
+  "Odds": 0.98,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-20 21:48",
+  "Person": "中奖"
+}

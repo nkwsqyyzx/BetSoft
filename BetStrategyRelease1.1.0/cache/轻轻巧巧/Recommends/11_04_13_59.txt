@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "日職乙",
+  "Time1": "11-04 15:00",
+  "Host": "愛媛",
+  "OddStake": "平/半",
+  "Guest": "草津溫泉",
+  "Prefer": "草津溫泉",
+  "Odds": 0.9,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "11-04 13:59",
+  "Person": "轻轻巧巧"
+}

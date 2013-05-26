@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "匈甲",
+  "Time1": "05-24 23:00",
+  "Host": "烏比斯",
+  "OddStake": "平/半",
+  "Guest": "哈拉德斯",
+  "Prefer": "烏比斯",
+  "Odds": 0.81,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-24 19:13",
+  "Person": "摩连奴"
+}

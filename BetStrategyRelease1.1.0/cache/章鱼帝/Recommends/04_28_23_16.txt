@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫甲",
+  "Time1": "04-29 08:45",
+  "Host": "修羅",
+  "OddStake": "2/2.5球",
+  "Guest": "卡爾打斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-28 23:16",
+  "Person": "章鱼帝"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿乙",
+  "Time1": "05-27 02:30",
+  "Host": "新芝加哥",
+  "OddStake": "2/2.5球",
+  "Guest": "阿爾米蘭提布朗",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 22:59",
+  "Person": "凤凰谷"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日聯盃",
+  "Time1": "05-22 18:00",
+  "Host": "大阪櫻花",
+  "OddStake": "平手",
+  "Guest": "鹿島鹿角",
+  "Prefer": "大阪櫻花",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-22 17:23",
+  "Person": "余韵犹在"
+}

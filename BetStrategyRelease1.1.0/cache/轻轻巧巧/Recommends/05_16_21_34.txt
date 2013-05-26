@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "自由盃",
+  "Time1": "05-17 07:00",
+  "Host": "奧林匹亞(中)",
+  "OddStake": "半球",
+  "Guest": "堤格雷",
+  "Prefer": "奧林匹亞(中)",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-16 21:34",
+  "Person": "轻轻巧巧"
+}

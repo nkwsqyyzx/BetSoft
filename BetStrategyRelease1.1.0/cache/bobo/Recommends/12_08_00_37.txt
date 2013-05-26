@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德乙",
+  "Time1": "12-08 01:00",
+  "Host": "VFR亞倫",
+  "OddStake": "平/半",
+  "Guest": "杜伊斯堡",
+  "Prefer": "杜伊斯堡",
+  "Odds": 1.04,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-08 00:37",
+  "Person": "bobo"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美職業",
+  "Time1": "05-12 07:30",
+  "Host": "新英倫革命",
+  "OddStake": "受平/半",
+  "Guest": "紐約紅牛",
+  "Prefer": "新英倫革命",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-11 23:03",
+  "Person": "天巧星燕青"
+}

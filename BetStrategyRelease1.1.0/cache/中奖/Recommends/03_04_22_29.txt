@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德乙",
+  "Time1": "03-05 03:15",
+  "Host": "杜伊斯堡",
+  "OddStake": "2/2.5球",
+  "Guest": "布倫瑞克",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-04 22:29",
+  "Person": "中奖"
+}

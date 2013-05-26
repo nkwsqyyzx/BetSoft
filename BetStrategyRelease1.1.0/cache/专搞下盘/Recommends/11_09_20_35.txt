@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "荷乙",
+  "Time1": "11-10 03:00",
+  "Host": "馬士積治",
+  "OddStake": "平/半",
+  "Guest": "丹博斯治",
+  "Prefer": "丹博斯治",
+  "Odds": 0.87,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "11-09 20:35",
+  "Person": "专搞下盘"
+}

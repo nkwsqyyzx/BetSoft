@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "蘇超",
+  "Time1": "04-04 02:45",
+  "Host": "基馬諾克",
+  "OddStake": "2.5球",
+  "Guest": "聖米倫",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-03 23:32",
+  "Person": "大头"
+}

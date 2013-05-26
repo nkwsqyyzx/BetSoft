@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德乙",
+  "Time1": "02-02 01:00",
+  "Host": "柏林聯",
+  "OddStake": "一球",
+  "Guest": "桑德豪森",
+  "Prefer": "柏林聯",
+  "Odds": 0.97,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-02 00:02",
+  "Person": "天之骄子"
+}

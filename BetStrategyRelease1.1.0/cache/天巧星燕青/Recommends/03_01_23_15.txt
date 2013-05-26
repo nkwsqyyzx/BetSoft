@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿乙",
+  "Time1": "03-02 08:00",
+  "Host": "薩爾米安杜竹寧",
+  "OddStake": "2/2.5球",
+  "Guest": "保加聯隊",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "03-01 23:15",
+  "Person": "天巧星燕青"
+}

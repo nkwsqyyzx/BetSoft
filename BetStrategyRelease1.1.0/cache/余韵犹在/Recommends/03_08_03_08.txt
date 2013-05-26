@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "03-08 04:05",
+  "Host": "托特納姆熱刺",
+  "OddStake": "半/一",
+  "Guest": "國際米蘭",
+  "Prefer": "托特納姆熱刺",
+  "Odds": 0.82,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "03-08 03:08",
+  "Person": "余韵犹在"
+}

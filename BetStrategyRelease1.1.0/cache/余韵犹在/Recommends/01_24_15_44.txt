@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-24 16:00",
+  "Host": "摩爾多瓦U17",
+  "OddStake": "受半球",
+  "Guest": "拉脫維亞U17",
+  "Prefer": "拉脫維亞U17",
+  "Odds": 0.85,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "01-24 15:44",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英冠",
+  "Time1": "12-22 03:45",
+  "Host": "黑池",
+  "OddStake": "半球",
+  "Guest": "狼隊",
+  "Prefer": "黑池",
+  "Odds": 0.99,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "12-21 21:41",
+  "Person": "赢球偷着乐"
+}

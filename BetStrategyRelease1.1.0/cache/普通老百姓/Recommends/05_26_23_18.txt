@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-26 23:30",
+  "Host": "赫爾辛基",
+  "OddStake": "球半",
+  "Guest": "路雲尼米",
+  "Prefer": "赫爾辛基",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-26 23:18",
+  "Person": "普通老百姓"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "斯伐甲",
+  "Time1": "04-27 20:30",
+  "Host": "扑雷索夫",
+  "OddStake": "半球",
+  "Guest": "尼特拉",
+  "Prefer": "尼特拉",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-27 20:20",
+  "Person": "马勒当拿"
+}

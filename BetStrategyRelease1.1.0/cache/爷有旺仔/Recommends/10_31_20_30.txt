@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "伊朗超",
+  "Time1": "10-31 22:15",
+  "Host": "柏斯波利斯",
+  "OddStake": "半球",
+  "Guest": "派肯",
+  "Prefer": "派肯",
+  "Odds": 1.02,
+  "Result": "6-0",
+  "PreferResult": 1,
+  "Time2": "10-31 20:30",
+  "Person": "爷有旺仔"
+}

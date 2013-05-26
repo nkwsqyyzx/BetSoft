@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "墨西聯",
+  "Time1": "05-24 10:00",
+  "Host": "阿蘇爾",
+  "OddStake": "平手",
+  "Guest": "阿美利加會",
+  "Prefer": "阿蘇爾",
+  "Odds": 1.14,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-24 09:23",
+  "Person": "美女"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐霸盃",
+  "Time1": "03-15 02:00",
+  "Host": "國際米蘭",
+  "OddStake": "平/半",
+  "Guest": "托特納姆熱刺",
+  "Prefer": "托特納姆熱刺",
+  "Odds": 0.9,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "03-14 15:53",
+  "Person": "西班牙王子"
+}

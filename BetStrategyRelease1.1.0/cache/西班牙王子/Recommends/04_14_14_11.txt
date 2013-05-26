@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "04-14 21:30",
+  "Host": "薩普斯堡08",
+  "OddStake": "平/半",
+  "Guest": "阿利辛特",
+  "Prefer": "阿利辛特",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "04-14 14:11",
+  "Person": "西班牙王子"
+}

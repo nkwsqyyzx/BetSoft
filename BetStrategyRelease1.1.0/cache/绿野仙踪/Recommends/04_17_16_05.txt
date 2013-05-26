@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-17 18:00",
+  "Host": "神戶勝利船",
+  "OddStake": "2.5球",
+  "Guest": "北九州向日葵",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-17 16:05",
+  "Person": "绿野仙踪"
+}

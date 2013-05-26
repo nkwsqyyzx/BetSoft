@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "白俄超",
+  "Time1": "11-03 19:00",
+  "Host": "斯拉維亞莫茲里(中)",
+  "OddStake": "2.5球",
+  "Guest": "紐曼",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "11-03 18:02",
+  "Person": "明明白白"
+}

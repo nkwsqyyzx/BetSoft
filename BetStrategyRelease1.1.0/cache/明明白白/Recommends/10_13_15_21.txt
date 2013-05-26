@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "羅乙1",
+  "Time1": "10-13 16:00",
+  "Host": "尤尼史洛波西亞",
+  "OddStake": "2.5/3球",
+  "Guest": "德爾塔",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "10-13 15:21",
+  "Person": "明明白白"
+}

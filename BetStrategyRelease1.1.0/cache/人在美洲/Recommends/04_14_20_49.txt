@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "04-14 21:00",
+  "Host": "卡利亞里",
+  "OddStake": "平手",
+  "Guest": "國際米蘭",
+  "Prefer": "國際米蘭",
+  "Odds": 0.86,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-14 20:49",
+  "Person": "人在美洲"
+}

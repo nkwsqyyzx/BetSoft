@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-27 22:00",
+  "Host": "愛華頓",
+  "OddStake": "一球",
+  "Guest": "富勒姆",
+  "Prefer": "愛華頓",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "04-27 20:18",
+  "Person": "人在美洲"
+}

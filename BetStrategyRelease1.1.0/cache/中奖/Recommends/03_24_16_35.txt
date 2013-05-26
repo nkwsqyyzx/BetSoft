@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "丹麥甲",
+  "Time1": "03-24 21:00",
+  "Host": "西希蘭",
+  "OddStake": "半球",
+  "Guest": "布朗薛治",
+  "Prefer": "布朗薛治",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-24 16:35",
+  "Person": "中奖"
+}

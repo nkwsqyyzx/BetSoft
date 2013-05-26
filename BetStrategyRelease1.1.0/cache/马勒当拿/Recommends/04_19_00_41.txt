@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "04-19 01:00",
+  "Host": "IFK哥德堡",
+  "OddStake": "2.5球",
+  "Guest": "西里安斯卡",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-19 00:41",
+  "Person": "马勒当拿"
+}

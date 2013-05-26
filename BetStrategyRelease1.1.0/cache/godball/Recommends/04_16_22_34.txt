@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意乙",
+  "Time1": "04-17 02:45",
+  "Host": "維琴察",
+  "OddStake": "2/2.5球",
+  "Guest": "阿斯科利",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-16 22:34",
+  "Person": "godball"
+}

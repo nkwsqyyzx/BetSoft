@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德北聯",
+  "Time1": "05-05 21:00",
+  "Host": "雷登",
+  "OddStake": "2.5/3球",
+  "Guest": "哈韋爾斯",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "0-3",
+  "PreferResult": 4,
+  "Time2": "05-05 20:49",
+  "Person": "明明白白"
+}

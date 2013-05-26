@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-28 15:00",
+  "Host": "北九州向日葵",
+  "OddStake": "受平/半",
+  "Guest": "槴木SC",
+  "Prefer": "北九州向日葵",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "04-28 12:05",
+  "Person": "阿麦的理想"
+}

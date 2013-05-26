@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬乙西",
+  "Time1": "05-14 23:30",
+  "Host": "瑪斯庫",
+  "OddStake": "受半球",
+  "Guest": "奧博",
+  "Prefer": "瑪斯庫",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-14 23:10",
+  "Person": "马勒当拿"
+}

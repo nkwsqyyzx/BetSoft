@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德北聯",
+  "Time1": "04-24 00:30",
+  "Host": "聖保利青年隊",
+  "OddStake": "受平/半",
+  "Guest": "雲達不萊梅青年隊",
+  "Prefer": "雲達不萊梅青年隊",
+  "Odds": 0.89,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-23 22:59",
+  "Person": "墨斗红云"
+}

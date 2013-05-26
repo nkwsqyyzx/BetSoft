@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "比乙",
+  "Time1": "03-21 03:30",
+  "Host": "聖圖爾登",
+  "OddStake": "一球",
+  "Guest": "阿爾斯特",
+  "Prefer": "聖圖爾登",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "03-20 18:44",
+  "Person": "绿茵红魔"
+}

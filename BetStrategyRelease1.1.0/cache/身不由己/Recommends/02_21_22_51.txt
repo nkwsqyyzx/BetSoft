@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-22 02:00",
+  "Host": "克盧日",
+  "OddStake": "2/2.5球",
+  "Guest": "國際米蘭",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "02-21 22:51",
+  "Person": "身不由己"
+}

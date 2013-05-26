@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "秘魯春",
+  "Time1": "11-02 01:00",
+  "Host": "萬卡",
+  "OddStake": "2/2.5球",
+  "Guest": "迪波特斯",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "11-01 23:28",
+  "Person": "我型我show"
+}

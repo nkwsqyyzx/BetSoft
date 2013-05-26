@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "02-02 23:00",
+  "Host": "愛華頓",
+  "OddStake": "一球/球半",
+  "Guest": "阿斯頓維拉",
+  "Prefer": "愛華頓",
+  "Odds": 0.87,
+  "Result": "3-3",
+  "PreferResult": 1,
+  "Time2": "02-02 21:19",
+  "Person": "夜是彩市圆"
+}

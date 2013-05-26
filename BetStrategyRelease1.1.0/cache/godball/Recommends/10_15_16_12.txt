@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "烏克乙",
+  "Time1": "10-15 20:00",
+  "Host": "茲爾卡",
+  "OddStake": "2/2.5球",
+  "Guest": "塞瓦斯托波爾",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "10-15 16:12",
+  "Person": "godball"
+}

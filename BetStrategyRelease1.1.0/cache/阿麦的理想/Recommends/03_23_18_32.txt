@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "匈U19甲",
+  "Time1": "03-23 19:00",
+  "Host": "佩奇U19",
+  "OddStake": "3球",
+  "Guest": "費倫斯華路士U19",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-3",
+  "PreferResult": 3,
+  "Time2": "03-23 18:32",
+  "Person": "阿麦的理想"
+}

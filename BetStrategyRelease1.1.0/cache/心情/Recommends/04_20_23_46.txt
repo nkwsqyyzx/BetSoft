@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美職業",
+  "Time1": "04-21 08:30",
+  "Host": "芝加哥火燄",
+  "OddStake": "2.5球",
+  "Guest": "哥倫布機員",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-20 23:46",
+  "Person": "心情"
+}

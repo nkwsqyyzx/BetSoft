@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "女歐U19",
+  "Time1": "04-04 22:30",
+  "Host": "愛爾蘭女足U19(中)",
+  "OddStake": "受半球",
+  "Guest": "意大利女足U19",
+  "Prefer": "意大利女足U19",
+  "Odds": 1.0,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-04 22:17",
+  "Person": "马勒当拿"
+}

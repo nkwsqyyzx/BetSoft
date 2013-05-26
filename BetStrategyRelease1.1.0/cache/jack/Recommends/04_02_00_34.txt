@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "挪威超",
+  "Time1": "04-02 01:00",
+  "Host": "華拿倫加",
+  "OddStake": "2.5球",
+  "Guest": "桑恩達",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-02 00:34",
+  "Person": "jack"
+}

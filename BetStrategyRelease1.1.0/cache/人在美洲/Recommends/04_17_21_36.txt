@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "保盃",
+  "Time1": "04-17 22:45",
+  "Host": "索菲亞利夫斯基",
+  "OddStake": "2.5球",
+  "Guest": "索菲亞火車頭",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-17 21:36",
+  "Person": "人在美洲"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典盃",
+  "Time1": "05-01 19:30",
+  "Host": "奧斯達",
+  "OddStake": "受平/半",
+  "Guest": "IFK哥德堡",
+  "Prefer": "奧斯達",
+  "Odds": 0.95,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "05-01 19:10",
+  "Person": "歡樂今宵"
+}

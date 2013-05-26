@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "日職乙",
+  "Time1": "03-10 17:00",
+  "Host": "熊本深紅",
+  "OddStake": "受平/半",
+  "Guest": "千葉市原",
+  "Prefer": "熊本深紅",
+  "Odds": 1.083,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "03-10 16:21",
+  "Person": "绿野仙踪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-15 17:30",
+  "Host": "中央海岸",
+  "OddStake": "2.5球",
+  "Guest": "廣州恆大",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-15 17:00",
+  "Person": "夜是彩市圆"
+}

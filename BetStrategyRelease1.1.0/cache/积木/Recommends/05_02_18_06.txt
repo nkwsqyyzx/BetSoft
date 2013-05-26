@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美職業",
+  "Time1": "05-03 10:30",
+  "Host": "波特蘭木材",
+  "OddStake": "2.5球",
+  "Guest": "新英倫革命",
+  "Prefer": "大球",
+  "Odds": 1.04,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-02 18:06",
+  "Person": "积木"
+}

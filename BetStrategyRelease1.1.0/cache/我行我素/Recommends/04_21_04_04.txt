@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "墨西聯",
+  "Time1": "04-21 06:00",
+  "Host": "克雷塔羅",
+  "OddStake": "2/2.5球",
+  "Guest": "聖路易斯",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-21 04:04",
+  "Person": "我行我素"
+}

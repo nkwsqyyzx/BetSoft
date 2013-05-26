@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "伊朗甲",
+  "Time1": "11-21 18:30",
+  "Host": "艾塔卡葛根",
+  "OddStake": "2/2.5球",
+  "Guest": "拿芙馬塞索利曼",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "2-0",
+  "PreferResult": 2,
+  "Time2": "11-21 15:50",
+  "Person": "扬名立万"
+}

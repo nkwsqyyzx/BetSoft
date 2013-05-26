@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "捷克甲",
+  "Time1": "11-10 01:00",
+  "Host": "杜克拉布拉格",
+  "OddStake": "半/一",
+  "Guest": "奧斯泰華",
+  "Prefer": "奧斯泰華",
+  "Odds": 0.89,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "11-09 19:51",
+  "Person": "农夫果园"
+}

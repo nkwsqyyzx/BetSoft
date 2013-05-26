@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "自由盃",
+  "Time1": "01-31 08:00",
+  "Host": "甘美奧",
+  "OddStake": "球半",
+  "Guest": "奎托",
+  "Prefer": "奎托",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-30 21:50",
+  "Person": "轻轻巧巧"
+}

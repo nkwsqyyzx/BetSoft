@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-28 15:00",
+  "Host": "富山勝利",
+  "OddStake": "受半球",
+  "Guest": "東京日視",
+  "Prefer": "富山勝利",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-28 08:50",
+  "Person": "人在美洲"
+}

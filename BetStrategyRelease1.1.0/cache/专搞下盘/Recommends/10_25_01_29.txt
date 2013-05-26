@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英冠",
+  "Time1": "10-25 02:45",
+  "Host": "布力般流浪",
+  "OddStake": "半球",
+  "Guest": "錫周三",
+  "Prefer": "錫周三",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "10-25 01:29",
+  "Person": "专搞下盘"
+}

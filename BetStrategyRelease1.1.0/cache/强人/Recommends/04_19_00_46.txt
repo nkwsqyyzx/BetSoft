@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "04-19 01:00",
+  "Host": "IFK諾科平",
+  "OddStake": "2.5球",
+  "Guest": "希爾星堡",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "04-19 00:46",
+  "Person": "强人"
+}

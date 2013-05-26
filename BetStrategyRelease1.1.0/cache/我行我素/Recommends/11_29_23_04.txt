@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西班牙盃",
+  "Time1": "11-30 02:30",
+  "Host": "格拉納達",
+  "OddStake": "2/2.5球",
+  "Guest": "薩拉戈薩",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-29 23:04",
+  "Person": "我行我素"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-28 15:00",
+  "Host": "大阪飛腳",
+  "OddStake": "球半/两球",
+  "Guest": "鳥取SC",
+  "Prefer": "鳥取SC",
+  "Odds": 0.99,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-28 14:26",
+  "Person": "八月十日"
+}

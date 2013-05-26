@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "澳職聯",
+  "Time1": "11-03 18:45",
+  "Host": "珀斯光榮",
+  "OddStake": "2.5球",
+  "Guest": "紐卡斯托",
+  "Prefer": "小球",
+  "Odds": 0.97,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "11-03 14:54",
+  "Person": "格力电器"
+}

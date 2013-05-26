@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "巴西甲",
+  "Time1": "10-15 03:00",
+  "Host": "納帝科PE",
+  "OddStake": "半球",
+  "Guest": "彭美拉斯",
+  "Prefer": "納帝科PE",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "10-14 23:45",
+  "Person": "专搞下盘"
+}

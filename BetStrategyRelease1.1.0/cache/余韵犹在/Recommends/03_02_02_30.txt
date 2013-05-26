@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷乙",
+  "Time1": "03-02 03:00",
+  "Host": "鹿特丹斯巴達",
+  "OddStake": "3球",
+  "Guest": "迪加史卓普",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "03-02 02:30",
+  "Person": "余韵犹在"
+}

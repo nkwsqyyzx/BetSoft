@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-20 22:00",
+  "Host": "昆士柏流浪",
+  "OddStake": "2/2.5球",
+  "Guest": "斯托克城",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "0-2",
+  "PreferResult": 4,
+  "Time2": "04-20 19:56",
+  "Person": "人在美洲"
+}

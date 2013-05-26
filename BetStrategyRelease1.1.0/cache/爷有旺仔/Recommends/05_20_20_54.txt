@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "丹麥超",
+  "Time1": "05-20 23:00",
+  "Host": "奧丹斯",
+  "OddStake": "半球",
+  "Guest": "施克堡",
+  "Prefer": "施克堡",
+  "Odds": 0.99,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "05-20 20:54",
+  "Person": "爷有旺仔"
+}

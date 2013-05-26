@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-16 18:00",
+  "Host": "江原FC",
+  "OddStake": "受半/一",
+  "Guest": "浦項制鐵",
+  "Prefer": "浦項制鐵",
+  "Odds": 0.82,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "04-16 12:09",
+  "Person": "无聊玩玩"
+}

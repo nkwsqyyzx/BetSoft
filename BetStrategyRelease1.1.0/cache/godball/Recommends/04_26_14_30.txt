@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典超",
+  "Time1": "04-27 01:00",
+  "Host": "IFK諾科平",
+  "OddStake": "受平/半",
+  "Guest": "哈肯",
+  "Prefer": "IFK諾科平",
+  "Odds": 0.8,
+  "Result": "4-2",
+  "PreferResult": 5,
+  "Time2": "04-26 14:30",
+  "Person": "godball"
+}

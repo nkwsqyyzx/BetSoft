@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬甲",
+  "Time1": "05-02 23:30",
+  "Host": "伊爾韋斯",
+  "OddStake": "一球",
+  "Guest": "卡傑尼",
+  "Prefer": "伊爾韋斯",
+  "Odds": 0.97,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "05-02 20:44",
+  "Person": "sweetcat"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "非國盃",
+  "Time1": "01-30 01:00",
+  "Host": "埃塞俄比亞(中)",
+  "OddStake": "受球半",
+  "Guest": "尼日利亞",
+  "Prefer": "埃塞俄比亞(中)",
+  "Odds": 0.93,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "01-29 19:25",
+  "Person": "天之骄子"
+}

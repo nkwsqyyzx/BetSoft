@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "02-26 02:00",
+  "Host": "加拉塔沙雷",
+  "OddStake": "一球/球半",
+  "Guest": "奧度斯普",
+  "Prefer": "加拉塔沙雷",
+  "Odds": 0.99,
+  "Result": "4-2",
+  "PreferResult": 5,
+  "Time2": "02-25 19:58",
+  "Person": "绿茵红魔"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士超",
+  "Time1": "05-25 23:45",
+  "Host": "洛桑體育隊",
+  "OddStake": "2.5球",
+  "Guest": "盧森",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-25 23:32",
+  "Person": "绿茵红魔"
+}

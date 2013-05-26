@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "墨西聯",
+  "Time1": "01-14 02:00",
+  "Host": "托拉卡",
+  "OddStake": "半/一",
+  "Guest": "普埃布拉",
+  "Prefer": "托拉卡",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "01-14 01:28",
+  "Person": "低调的人"
+}

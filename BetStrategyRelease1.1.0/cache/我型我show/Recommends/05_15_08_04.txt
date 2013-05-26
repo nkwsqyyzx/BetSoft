@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德北聯",
+  "Time1": "05-15 23:59",
+  "Host": "哥斯勒",
+  "OddStake": "2.5球",
+  "Guest": "沃爾夫斯堡青年隊",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-15 08:04",
+  "Person": "我型我show"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "墨西乙",
+  "Time1": "05-09 05:30",
+  "Host": "托羅斯尼澤",
+  "OddStake": "2.5球",
+  "Guest": "拿加沙",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-08 23:29",
+  "Person": "天巧星燕青"
+}

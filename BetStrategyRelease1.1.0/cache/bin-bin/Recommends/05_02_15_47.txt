@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英乙",
+  "Time1": "05-03 02:45",
+  "Host": "巴拉福特",
+  "OddStake": "2.5球",
+  "Guest": "保頓艾爾賓",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "05-02 15:47",
+  "Person": "bin-bin"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日職聯",
+  "Time1": "05-18 13:00",
+  "Host": "廣島三箭",
+  "OddStake": "2.5球",
+  "Guest": "甲府風林",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "5-1",
+  "PreferResult": 1,
+  "Time2": "05-18 12:46",
+  "Person": "明明白白"
+}

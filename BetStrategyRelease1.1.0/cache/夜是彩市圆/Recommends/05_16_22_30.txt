@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-16 23:59",
+  "Host": "華拿倫加",
+  "OddStake": "平手",
+  "Guest": "特羅素",
+  "Prefer": "華拿倫加",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-16 22:30",
+  "Person": "夜是彩市圆"
+}

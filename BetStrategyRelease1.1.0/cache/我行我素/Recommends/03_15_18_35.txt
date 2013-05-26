@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "西甲",
+  "Time1": "03-16 04:45",
+  "Host": "拉科魯尼亞",
+  "OddStake": "平/半",
+  "Guest": "切爾達",
+  "Prefer": "拉科魯尼亞",
+  "Odds": 0.97,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "03-15 18:35",
+  "Person": "我行我素"
+}

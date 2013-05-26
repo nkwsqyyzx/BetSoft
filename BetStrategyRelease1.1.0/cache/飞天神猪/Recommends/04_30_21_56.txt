@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德北聯",
+  "Time1": "04-30 23:59",
+  "Host": "沃爾夫斯堡青年隊",
+  "OddStake": "2.5球",
+  "Guest": "雲達不萊梅青年隊",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-30 21:56",
+  "Person": "飞天神猪"
+}

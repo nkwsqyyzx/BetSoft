@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "烏克U19",
+  "Time1": "05-07 20:00",
+  "Host": "米塔利斯U19",
+  "OddStake": "半球",
+  "Guest": "迪尼普U19",
+  "Prefer": "迪尼普U19",
+  "Odds": 0.8,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "05-07 19:16",
+  "Person": "sweetcat"
+}

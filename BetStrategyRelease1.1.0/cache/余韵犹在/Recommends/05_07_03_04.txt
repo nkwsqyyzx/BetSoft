@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "冰岛超",
+  "Time1": "05-07 03:15",
+  "Host": "夏拿佐杜亞",
+  "OddStake": "球半",
+  "Guest": "凱夫拉維克",
+  "Prefer": "夏拿佐杜亞",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-07 03:04",
+  "Person": "余韵犹在"
+}

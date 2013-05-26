@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德甲",
+  "Time1": "01-26 22:30",
+  "Host": "奧斯堡",
+  "OddStake": "受半球",
+  "Guest": "史浩克04",
+  "Prefer": "史浩克04",
+  "Odds": 1.03,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-26 21:28",
+  "Person": "强人"
+}

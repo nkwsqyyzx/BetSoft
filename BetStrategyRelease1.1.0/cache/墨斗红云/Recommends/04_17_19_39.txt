@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德巴聯",
+  "Time1": "04-17 20:00",
+  "Host": "KF拉斯",
+  "OddStake": "2.5球",
+  "Guest": "庫克斯",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-17 19:39",
+  "Person": "墨斗红云"
+}

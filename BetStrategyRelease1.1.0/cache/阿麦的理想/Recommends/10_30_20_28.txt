@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英非北",
+  "Time1": "10-31 03:45",
+  "Host": "沃京頓",
+  "OddStake": "半球",
+  "Guest": "特羅斯登",
+  "Prefer": "特羅斯登",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-30 20:28",
+  "Person": "阿麦的理想"
+}

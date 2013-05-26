@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日職乙",
+  "Time1": "05-26 15:00",
+  "Host": "槴木SC",
+  "OddStake": "平/半",
+  "Guest": "橫濱",
+  "Prefer": "橫濱",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "05-26 14:47",
+  "Person": "歡樂今宵"
+}

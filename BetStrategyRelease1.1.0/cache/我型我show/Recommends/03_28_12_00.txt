@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意乙",
+  "Time1": "03-29 03:45",
+  "Host": "維塞利",
+  "OddStake": "2.5球",
+  "Guest": "恩波里",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-28 12:00",
+  "Person": "我型我show"
+}

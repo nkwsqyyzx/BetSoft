@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-27 22:00",
+  "Host": "利雲特",
+  "OddStake": "平/半",
+  "Guest": "切爾達",
+  "Prefer": "切爾達",
+  "Odds": 0.87,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-27 21:42",
+  "Person": "绿野仙踪"
+}

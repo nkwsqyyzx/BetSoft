@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法乙",
+  "Time1": "02-23 03:00",
+  "Host": "歐塞爾",
+  "OddStake": "2/2.5球",
+  "Guest": "甘岡",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-22 15:52",
+  "Person": "身不由己"
+}

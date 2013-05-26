@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "巴西盃",
+  "Time1": "05-08 08:50",
+  "Host": "美國MG",
+  "OddStake": "平/半",
+  "Guest": "阿瓦伊",
+  "Prefer": "阿瓦伊",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-08 04:13",
+  "Person": "无聊玩玩"
+}

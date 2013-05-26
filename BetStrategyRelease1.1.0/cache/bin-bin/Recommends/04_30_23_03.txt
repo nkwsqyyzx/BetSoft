@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "05-01 07:15",
+  "Host": "堤格雷",
+  "OddStake": "2/2.5球",
+  "Guest": "奧林匹亞",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-30 23:03",
+  "Person": "bin-bin"
+}

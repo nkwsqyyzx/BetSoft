@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-15 08:30",
+  "Host": "玻利維亞",
+  "OddStake": "半/一",
+  "Guest": "哥斯達黎加",
+  "Prefer": "玻利維亞",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "11-14 22:10",
+  "Person": "农夫果园"
+}

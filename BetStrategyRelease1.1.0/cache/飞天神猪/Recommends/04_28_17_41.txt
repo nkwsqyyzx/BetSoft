@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷甲",
+  "Time1": "04-28 18:30",
+  "Host": "川迪",
+  "OddStake": "3球",
+  "Guest": "NEC尼美根",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "5-2",
+  "PreferResult": 5,
+  "Time2": "04-28 17:41",
+  "Person": "飞天神猪"
+}

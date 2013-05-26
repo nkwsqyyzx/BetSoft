@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "非國盃",
+  "Time1": "01-23 02:00",
+  "Host": "突尼西亞(中)",
+  "OddStake": "2球",
+  "Guest": "阿爾及利亞",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-23 00:24",
+  "Person": "人在美洲"
+}

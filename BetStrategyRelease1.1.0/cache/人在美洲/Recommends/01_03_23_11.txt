@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇超",
+  "Time1": "01-04 03:45",
+  "Host": "赫斯",
+  "OddStake": "2.5球",
+  "Guest": "喜百年",
+  "Prefer": "大球",
+  "Odds": 1.02,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-03 23:11",
+  "Person": "人在美洲"
+}

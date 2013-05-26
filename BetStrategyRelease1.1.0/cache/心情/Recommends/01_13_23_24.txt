@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西乙",
+  "Time1": "01-13 23:59",
+  "Host": "威斯卡",
+  "OddStake": "2/2.5球",
+  "Guest": "維爾瓦",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-13 23:24",
+  "Person": "心情"
+}

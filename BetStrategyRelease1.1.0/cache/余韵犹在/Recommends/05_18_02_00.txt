@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法乙",
+  "Time1": "05-18 02:30",
+  "Host": "歐塞爾",
+  "OddStake": "平/半",
+  "Guest": "克萊蒙特",
+  "Prefer": "克萊蒙特",
+  "Odds": 0.91,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-18 02:00",
+  "Person": "余韵犹在"
+}

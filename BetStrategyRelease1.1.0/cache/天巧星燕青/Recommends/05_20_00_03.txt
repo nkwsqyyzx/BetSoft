@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴拉甲春",
+  "Time1": "05-20 06:20",
+  "Host": "奧林匹亞(中)",
+  "OddStake": "2.5球",
+  "Guest": "瓜拉尼",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "05-20 00:03",
+  "Person": "天巧星燕青"
+}

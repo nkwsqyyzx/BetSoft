@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德東北聯",
+  "Time1": "05-26 03:20",
+  "Host": "積安維爾",
+  "OddStake": "平/半",
+  "Guest": "伯拉根森",
+  "Prefer": "伯拉根森",
+  "Odds": 0.95,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-26 00:22",
+  "Person": "玩球全靠蒙"
+}

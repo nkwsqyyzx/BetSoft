@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-15 04:05",
+  "Host": "巴素利",
+  "OddStake": "平手",
+  "Guest": "迪尼普",
+  "Prefer": "巴素利",
+  "Odds": 0.84,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-15 00:24",
+  "Person": "无聊玩玩"
+}

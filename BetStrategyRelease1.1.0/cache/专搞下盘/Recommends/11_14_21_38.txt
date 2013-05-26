@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-15 05:30",
+  "Host": "巴拿馬",
+  "OddStake": "受球半/两球",
+  "Guest": "西班牙",
+  "Prefer": "西班牙",
+  "Odds": 0.86,
+  "Result": "1-5",
+  "PreferResult": 5,
+  "Time2": "11-14 21:38",
+  "Person": "专搞下盘"
+}

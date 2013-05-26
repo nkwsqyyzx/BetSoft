@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "丹麥甲",
+  "Time1": "05-17 01:00",
+  "Host": "寧比",
+  "OddStake": "2.5/3球",
+  "Guest": "維積利科爾丁",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "05-17 00:28",
+  "Person": "扬名立万"
+}

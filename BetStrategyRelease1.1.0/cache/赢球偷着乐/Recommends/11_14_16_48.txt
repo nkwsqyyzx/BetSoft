@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-14 18:00",
+  "Host": "德國U18",
+  "OddStake": "半/一",
+  "Guest": "意大利U18",
+  "Prefer": "德國U18",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "11-14 16:48",
+  "Person": "赢球偷着乐"
+}

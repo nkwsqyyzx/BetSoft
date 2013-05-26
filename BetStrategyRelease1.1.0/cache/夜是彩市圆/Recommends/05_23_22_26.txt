@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬甲",
+  "Time1": "05-23 23:30",
+  "Host": "維京吉特",
+  "OddStake": "平/半",
+  "Guest": "伊爾韋斯",
+  "Prefer": "伊爾韋斯",
+  "Odds": 0.94,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-23 22:26",
+  "Person": "夜是彩市圆"
+}

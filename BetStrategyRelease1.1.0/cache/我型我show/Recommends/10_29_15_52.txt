@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意丙A",
+  "Time1": "10-30 03:45",
+  "Host": "科雷蒙尼斯",
+  "OddStake": "2/2.5球",
+  "Guest": "雷吉亞那",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "10-29 15:52",
+  "Person": "我型我show"
+}

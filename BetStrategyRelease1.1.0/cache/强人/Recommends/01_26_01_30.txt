@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "01-26 03:00",
+  "Host": "安格斯",
+  "OddStake": "半/一",
+  "Guest": "阿萊斯亞維農",
+  "Prefer": "阿萊斯亞維農",
+  "Odds": 0.86,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-26 01:30",
+  "Person": "强人"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-08 23:30",
+  "Host": "鹿特丹斯巴達(中)",
+  "OddStake": "3球",
+  "Guest": "賀芬咸",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-08 21:46",
+  "Person": "格力电器"
+}

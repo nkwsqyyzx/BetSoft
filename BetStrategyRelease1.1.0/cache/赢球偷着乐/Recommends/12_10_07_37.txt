@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿乙",
+  "Time1": "12-10 08:00",
+  "Host": "艾度思維",
+  "OddStake": "平/半",
+  "Guest": "薩爾米安杜竹寧",
+  "Prefer": "薩爾米安杜竹寧",
+  "Odds": 1.04,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-10 07:37",
+  "Person": "赢球偷着乐"
+}

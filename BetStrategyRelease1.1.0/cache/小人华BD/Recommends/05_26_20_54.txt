@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-26 21:30",
+  "Host": "利尼史特朗",
+  "OddStake": "平/半",
+  "Guest": "候格森德",
+  "Prefer": "候格森德",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-26 20:54",
+  "Person": "小人华BD"
+}

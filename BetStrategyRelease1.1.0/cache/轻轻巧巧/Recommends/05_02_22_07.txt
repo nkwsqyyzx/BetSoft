@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美職業",
+  "Time1": "05-03 10:30",
+  "Host": "波特蘭木材",
+  "OddStake": "2.5球",
+  "Guest": "新英倫革命",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-02 22:07",
+  "Person": "轻轻巧巧"
+}

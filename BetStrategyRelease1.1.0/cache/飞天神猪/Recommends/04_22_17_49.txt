@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法乙",
+  "Time1": "04-23 02:30",
+  "Host": "摩納哥",
+  "OddStake": "2/2.5球",
+  "Guest": "克萊蒙特",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "04-22 17:49",
+  "Person": "飞天神猪"
+}

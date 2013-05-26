@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英甲",
+  "Time1": "02-23 23:00",
+  "Host": "奧咸",
+  "OddStake": "半/一",
+  "Guest": "樸茨茅夫",
+  "Prefer": "奧咸",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "02-23 22:47",
+  "Person": "轻轻巧巧"
+}

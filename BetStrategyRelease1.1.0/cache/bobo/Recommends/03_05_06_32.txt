@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "哥倫乙",
+  "Time1": "03-05 09:10",
+  "Host": "卡利阿美利加",
+  "OddStake": "球半",
+  "Guest": "巴瑞庫拉",
+  "Prefer": "巴瑞庫拉",
+  "Odds": 0.9,
+  "Result": "5-1",
+  "PreferResult": 1,
+  "Time2": "03-05 06:32",
+  "Person": "bobo"
+}

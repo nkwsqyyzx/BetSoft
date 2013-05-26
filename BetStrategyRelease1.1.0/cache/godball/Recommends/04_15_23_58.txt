@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法乙",
+  "Time1": "04-16 02:30",
+  "Host": "沙特魯",
+  "OddStake": "受平/半",
+  "Guest": "南特",
+  "Prefer": "沙特魯",
+  "Odds": 0.82,
+  "Result": "0-4",
+  "PreferResult": 1,
+  "Time2": "04-15 23:58",
+  "Person": "godball"
+}

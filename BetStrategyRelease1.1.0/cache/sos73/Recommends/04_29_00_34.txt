@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "葡超",
+  "Time1": "04-29 03:15",
+  "Host": "科英布拉大學",
+  "OddStake": "2/2.5球",
+  "Guest": "摩里倫斯",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-29 00:34",
+  "Person": "sos73"
+}

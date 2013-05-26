@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "奧乙",
+  "Time1": "04-06 00:30",
+  "Host": "聖普爾頓",
+  "OddStake": "半球",
+  "Guest": "BW林茲",
+  "Prefer": "BW林茲",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-05 21:57",
+  "Person": "中奖"
+}

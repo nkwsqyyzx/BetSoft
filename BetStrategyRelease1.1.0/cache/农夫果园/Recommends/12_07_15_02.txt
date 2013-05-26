@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "羅甲",
+  "Time1": "12-08 02:30",
+  "Host": "潘杜歷",
+  "OddStake": "2.5球",
+  "Guest": "加斯梅登",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-07 15:02",
+  "Person": "农夫果园"
+}

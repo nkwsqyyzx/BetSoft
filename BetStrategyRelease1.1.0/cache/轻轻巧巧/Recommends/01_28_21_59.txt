@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷青聯",
+  "Time1": "01-29 01:30",
+  "Host": "RKC華域克青年隊",
+  "OddStake": "受平/半",
+  "Guest": "飛燕諾SBV精英隊青年隊",
+  "Prefer": "RKC華域克青年隊",
+  "Odds": 0.82,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "01-28 21:59",
+  "Person": "轻轻巧巧"
+}

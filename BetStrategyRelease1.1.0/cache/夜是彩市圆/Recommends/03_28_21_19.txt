@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意丙B",
+  "Time1": "03-28 21:30",
+  "Host": "帕加尼斯",
+  "OddStake": "受平/半",
+  "Guest": "拉蒂納",
+  "Prefer": "帕加尼斯",
+  "Odds": 0.85,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "03-28 21:19",
+  "Person": "夜是彩市圆"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "印尼超",
+  "Time1": "02-13 16:30",
+  "Host": "培斯塔坦格朗",
+  "OddStake": "2.5球",
+  "Guest": "巴厘巴板",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-13 13:22",
+  "Person": "明明白白"
+}

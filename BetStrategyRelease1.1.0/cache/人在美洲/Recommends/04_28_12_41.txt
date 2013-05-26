@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳維超",
+  "Time1": "04-28 13:00",
+  "Host": "休姆",
+  "OddStake": "受平/半",
+  "Guest": "班特列",
+  "Prefer": "班特列",
+  "Odds": 0.8,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "04-28 12:41",
+  "Person": "人在美洲"
+}

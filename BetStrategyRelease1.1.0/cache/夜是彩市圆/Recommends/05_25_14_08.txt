@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西乙",
+  "Time1": "05-25 14:30",
+  "Host": "大分三神",
+  "OddStake": "2.5/3球",
+  "Guest": "磐田山葉",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-25 14:08",
+  "Person": "夜是彩市圆"
+}

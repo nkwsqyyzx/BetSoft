@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美乙",
+  "Time1": "04-24 07:00",
+  "Host": "夏洛特鷹",
+  "OddStake": "受半球",
+  "Guest": "奧蘭多市",
+  "Prefer": "夏洛特鷹",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-24 00:49",
+  "Person": "九月九的酒"
+}

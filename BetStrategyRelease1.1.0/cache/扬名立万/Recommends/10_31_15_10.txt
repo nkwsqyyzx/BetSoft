@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法聯盃",
+  "Time1": "11-01 01:45",
+  "Host": "蒙彼利埃",
+  "OddStake": "平/半",
+  "Guest": "波爾多",
+  "Prefer": "波爾多",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "10-31 15:10",
+  "Person": "扬名立万"
+}

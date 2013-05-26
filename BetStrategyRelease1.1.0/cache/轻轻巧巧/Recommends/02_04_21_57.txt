@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "希臘超",
+  "Time1": "02-05 01:30",
+  "Host": "利雲達高斯",
+  "OddStake": "半球",
+  "Guest": "基亞連拿",
+  "Prefer": "基亞連拿",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-04 21:57",
+  "Person": "轻轻巧巧"
+}

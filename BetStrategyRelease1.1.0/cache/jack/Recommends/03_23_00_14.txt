@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "友誼賽",
+  "Time1": "03-23 01:00",
+  "Host": "德國U18",
+  "OddStake": "2.5/3球",
+  "Guest": "法國U18",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "03-23 00:14",
+  "Person": "jack"
+}

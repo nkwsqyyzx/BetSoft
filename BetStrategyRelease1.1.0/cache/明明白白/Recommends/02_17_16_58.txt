@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德U17北",
+  "Time1": "02-17 18:00",
+  "Host": "VfL奧爾登堡U17",
+  "OddStake": "3.5球",
+  "Guest": "基爾高士丁U17",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-17 16:58",
+  "Person": "明明白白"
+}

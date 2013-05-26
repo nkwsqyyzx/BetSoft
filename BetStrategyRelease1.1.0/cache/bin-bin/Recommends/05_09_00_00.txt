@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美職業",
+  "Time1": "05-09 07:30",
+  "Host": "紐約紅牛",
+  "OddStake": "半/一",
+  "Guest": "蒙特利爾衝擊",
+  "Prefer": "紐約紅牛",
+  "Odds": 0.92,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-09 00:00",
+  "Person": "bin-bin"
+}

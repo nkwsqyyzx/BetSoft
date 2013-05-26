@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-17 18:00",
+  "Host": "神戶勝利船",
+  "OddStake": "一球/球半",
+  "Guest": "北九州向日葵",
+  "Prefer": "北九州向日葵",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "04-17 15:58",
+  "Person": "天之骄子"
+}

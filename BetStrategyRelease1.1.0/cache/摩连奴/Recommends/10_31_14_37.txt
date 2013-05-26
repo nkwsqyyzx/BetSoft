@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "比甲",
+  "Time1": "11-01 03:30",
+  "Host": "威爾郡",
+  "OddStake": "半/一",
+  "Guest": "查內爾",
+  "Prefer": "威爾郡",
+  "Odds": 0.82,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "10-31 14:37",
+  "Person": "摩连奴"
+}

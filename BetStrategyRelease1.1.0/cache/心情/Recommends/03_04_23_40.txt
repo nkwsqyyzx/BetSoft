@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "哥倫乙",
+  "Time1": "03-05 07:00",
+  "Host": "波哥塔",
+  "OddStake": "2.5球",
+  "Guest": "瓦倫杜帕爾",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "03-04 23:40",
+  "Person": "心情"
+}

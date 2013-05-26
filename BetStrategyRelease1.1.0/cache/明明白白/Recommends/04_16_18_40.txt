@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "蘇青聯",
+  "Time1": "04-16 21:00",
+  "Host": "鄧弗姆林U20",
+  "OddStake": "3.5球",
+  "Guest": "阿伯丁U20",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-16 18:40",
+  "Person": "明明白白"
+}

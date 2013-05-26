@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-24 02:45",
+  "Host": "拜仁慕尼黑",
+  "OddStake": "2.5球",
+  "Guest": "巴塞羅那",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "04-24 00:25",
+  "Person": "绿茵红魔"
+}

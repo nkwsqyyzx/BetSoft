@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "土耳其盃",
+  "Time1": "05-23 01:45",
+  "Host": "費倫巴治(中)",
+  "OddStake": "半球",
+  "Guest": "特拉布宗",
+  "Prefer": "費倫巴治(中)",
+  "Odds": 0.94,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-22 17:04",
+  "Person": "墨斗红云"
+}

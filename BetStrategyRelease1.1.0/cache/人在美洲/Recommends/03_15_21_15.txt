@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "黑山甲",
+  "Time1": "03-15 22:00",
+  "Host": "模格瑞",
+  "OddStake": "2球",
+  "Guest": "吉帕利",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "03-15 21:15",
+  "Person": "人在美洲"
+}

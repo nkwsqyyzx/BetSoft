@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-14 03:30",
+  "Host": "英格蘭U19",
+  "OddStake": "3/3.5球",
+  "Guest": "芬蘭U19",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-13 22:20",
+  "Person": "专搞下盘"
+}

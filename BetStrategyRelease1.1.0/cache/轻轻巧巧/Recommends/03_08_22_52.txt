@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "墨西聯",
+  "Time1": "03-09 09:30",
+  "Host": "莫雷利亞",
+  "OddStake": "2.5球",
+  "Guest": "阿美利加會",
+  "Prefer": "小球",
+  "Odds": 0.93,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "03-08 22:52",
+  "Person": "轻轻巧巧"
+}

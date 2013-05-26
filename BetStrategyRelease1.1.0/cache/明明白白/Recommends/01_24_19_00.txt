@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "伊朗超",
+  "Time1": "01-24 20:00",
+  "Host": "沙巴罕",
+  "OddStake": "球半",
+  "Guest": "派肯",
+  "Prefer": "派肯",
+  "Odds": 0.82,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-24 19:00",
+  "Person": "明明白白"
+}

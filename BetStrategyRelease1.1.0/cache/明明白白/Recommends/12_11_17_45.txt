@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "格魯超",
+  "Time1": "12-11 18:00",
+  "Host": "切克乎拉山切赫拉",
+  "OddStake": "2.5球",
+  "Guest": "賽塔芙尼",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-11 17:45",
+  "Person": "明明白白"
+}

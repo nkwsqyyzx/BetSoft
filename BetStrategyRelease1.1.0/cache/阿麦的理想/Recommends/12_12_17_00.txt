@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "世冠盃",
+  "Time1": "12-12 18:30",
+  "Host": "阿爾艾利開羅(中)",
+  "OddStake": "受一球/球半",
+  "Guest": "哥連泰斯",
+  "Prefer": "哥連泰斯",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 2,
+  "Time2": "12-12 17:00",
+  "Person": "阿麦的理想"
+}

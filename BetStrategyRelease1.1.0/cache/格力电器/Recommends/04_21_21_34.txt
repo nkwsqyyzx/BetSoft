@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意丙盃",
+  "Time1": "04-21 22:30",
+  "Host": "安芝",
+  "OddStake": "2/2.5球",
+  "Guest": "莫斯科戴拿模",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "3-3",
+  "PreferResult": 1,
+  "Time2": "04-21 21:34",
+  "Person": "格力电器"
+}

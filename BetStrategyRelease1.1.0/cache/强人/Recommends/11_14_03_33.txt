@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "阿甲",
+  "Time1": "11-14 04:00",
+  "Host": "小阿根廷人",
+  "OddStake": "受平/半",
+  "Guest": "學生隊",
+  "Prefer": "小阿根廷人",
+  "Odds": 0.81,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-14 03:33",
+  "Person": "强人"
+}

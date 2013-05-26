@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "自由盃",
+  "Time1": "05-17 09:30",
+  "Host": "聖塔菲",
+  "OddStake": "2/2.5球",
+  "Guest": "甘美奧",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-16 20:37",
+  "Person": "大头"
+}

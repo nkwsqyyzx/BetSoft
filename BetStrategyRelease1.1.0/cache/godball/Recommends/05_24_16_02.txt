@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "也門甲",
+  "Time1": "05-24 21:00",
+  "Host": "提拉爾阿丹",
+  "OddStake": "2/2.5球",
+  "Guest": "瑞森德泰茲",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "05-24 16:02",
+  "Person": "godball"
+}

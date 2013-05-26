@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "丹麥超",
+  "Time1": "04-07 23:00",
+  "Host": "蘭達斯",
+  "OddStake": "2/2.5球",
+  "Guest": "邦比",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-07 22:08",
+  "Person": "身不由己"
+}

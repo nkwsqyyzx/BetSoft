@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法丁D",
+  "Time1": "01-10 02:00",
+  "Host": "波德拉斯",
+  "OddStake": "2.5球",
+  "Guest": "孔卡爾諾",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "01-09 21:21",
+  "Person": "扬名立万"
+}

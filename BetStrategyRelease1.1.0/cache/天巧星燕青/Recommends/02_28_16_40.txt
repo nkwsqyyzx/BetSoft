@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "伊朗超",
+  "Time1": "02-28 21:50",
+  "Host": "柏斯波利斯",
+  "OddStake": "2/2.5球",
+  "Guest": "塞帕",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "02-28 16:40",
+  "Person": "天巧星燕青"
+}

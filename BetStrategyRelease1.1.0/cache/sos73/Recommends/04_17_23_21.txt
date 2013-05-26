@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德青南",
+  "Time1": "04-17 23:59",
+  "Host": "莫斯科中央陸軍",
+  "OddStake": "两球/两球半",
+  "Guest": "克拉斯諾亞爾斯克",
+  "Prefer": "克拉斯諾亞爾斯克",
+  "Odds": 1.07,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "04-17 23:21",
+  "Person": "sos73"
+}

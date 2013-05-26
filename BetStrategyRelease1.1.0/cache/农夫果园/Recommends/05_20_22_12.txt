@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛聯盃",
+  "Time1": "05-21 02:45",
+  "Host": "威福特青年隊",
+  "OddStake": "2.5球",
+  "Guest": "科克城",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-4",
+  "PreferResult": 1,
+  "Time2": "05-20 22:12",
+  "Person": "农夫果园"
+}

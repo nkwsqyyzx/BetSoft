@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中甲",
+  "Time1": "05-04 15:00",
+  "Host": "北京理工大學",
+  "OddStake": "2.5球",
+  "Guest": "延邊長白虎",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "05-04 14:09",
+  "Person": "明明白白"
+}

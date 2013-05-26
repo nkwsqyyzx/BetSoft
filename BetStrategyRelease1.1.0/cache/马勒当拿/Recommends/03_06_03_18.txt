@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英乙",
+  "Time1": "03-06 03:45",
+  "Host": "車頓咸",
+  "OddStake": "半球",
+  "Guest": "車士打菲特",
+  "Prefer": "車士打菲特",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-06 03:18",
+  "Person": "马勒当拿"
+}

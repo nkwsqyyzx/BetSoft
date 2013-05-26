@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "澳職聯",
+  "Time1": "01-01 17:30",
+  "Host": "布里斯班獅吼",
+  "OddStake": "2.5球",
+  "Guest": "威寧頓復活",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "01-01 16:09",
+  "Person": "轻轻巧巧"
+}

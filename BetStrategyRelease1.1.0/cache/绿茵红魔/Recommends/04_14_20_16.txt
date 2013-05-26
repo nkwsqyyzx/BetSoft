@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "04-14 21:00",
+  "Host": "帕爾馬",
+  "OddStake": "2/2.5球",
+  "Guest": "烏甸尼斯",
+  "Prefer": "大球",
+  "Odds": 0.91,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "04-14 20:16",
+  "Person": "绿茵红魔"
+}

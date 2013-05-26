@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西乙",
+  "Time1": "02-24 23:59",
+  "Host": "艾美利亞",
+  "OddStake": "2.5球",
+  "Guest": "邦弗拉甸拿",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "02-24 21:53",
+  "Person": "扬名立万"
+}

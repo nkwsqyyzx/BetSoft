@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷乙",
+  "Time1": "04-20 02:00",
+  "Host": "特士達",
+  "OddStake": "2.5/3球",
+  "Guest": "FC奧斯",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "04-19 18:13",
+  "Person": "飞天神猪"
+}

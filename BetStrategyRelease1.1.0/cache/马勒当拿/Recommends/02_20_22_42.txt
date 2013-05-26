@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "匈聯盃",
+  "Time1": "02-20 23:00",
+  "Host": "費倫斯華路士",
+  "OddStake": "一球",
+  "Guest": "隆巴德",
+  "Prefer": "隆巴德",
+  "Odds": 1.18,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "02-20 22:42",
+  "Person": "马勒当拿"
+}

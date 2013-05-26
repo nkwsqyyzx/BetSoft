@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "捷克丙",
+  "Time1": "05-24 23:59",
+  "Host": "卓穆托夫",
+  "OddStake": "半球",
+  "Guest": "柔奈斯納拉班",
+  "Prefer": "卓穆托夫",
+  "Odds": 0.82,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "05-24 19:05",
+  "Person": "飘雪"
+}

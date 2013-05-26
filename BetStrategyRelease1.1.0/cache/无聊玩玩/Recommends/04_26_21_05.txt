@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "04-26 23:59",
+  "Host": "印戈斯塔德",
+  "OddStake": "受平/半",
+  "Guest": "布倫瑞克",
+  "Prefer": "印戈斯塔德",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-26 21:05",
+  "Person": "无聊玩玩"
+}

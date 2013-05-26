@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意丙A",
+  "Time1": "11-11 21:30",
+  "Host": "隆美辛尼",
+  "OddStake": "2/2.5球",
+  "Guest": "庫尼奧1905",
+  "Prefer": "大球",
+  "Odds": 1.04,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "11-11 19:57",
+  "Person": "扬名立万"
+}

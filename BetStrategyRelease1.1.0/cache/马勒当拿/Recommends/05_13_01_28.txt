@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "烏拉甲秋",
+  "Time1": "05-13 02:30",
+  "Host": "坦基西斯萊",
+  "OddStake": "平手",
+  "Guest": "蒙特維多競賽會",
+  "Prefer": "坦基西斯萊",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "05-13 01:28",
+  "Person": "马勒当拿"
+}

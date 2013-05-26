@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "以超",
+  "Time1": "03-16 23:00",
+  "Host": "伊若尼奇亞夏普爾",
+  "OddStake": "平/半",
+  "Guest": "特拉維夫夏普爾",
+  "Prefer": "特拉維夫夏普爾",
+  "Odds": 0.87,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-16 21:22",
+  "Person": "我行我素"
+}

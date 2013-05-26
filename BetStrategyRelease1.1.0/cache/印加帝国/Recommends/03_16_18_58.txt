@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "冰聯盃",
+  "Time1": "03-16 20:00",
+  "Host": "凱夫拉維克(中)",
+  "OddStake": "3.5球",
+  "Guest": "萊尼雷克查域克",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "6-1",
+  "PreferResult": 5,
+  "Time2": "03-16 18:58",
+  "Person": "印加帝国"
+}

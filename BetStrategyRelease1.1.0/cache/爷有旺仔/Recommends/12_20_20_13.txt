@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿聯酋杯",
+  "Time1": "12-20 20:40",
+  "Host": "瓦斯爾",
+  "OddStake": "一球/球半",
+  "Guest": "渡巴阿富查伊拉",
+  "Prefer": "瓦斯爾",
+  "Odds": 0.87,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "12-20 20:13",
+  "Person": "爷有旺仔"
+}

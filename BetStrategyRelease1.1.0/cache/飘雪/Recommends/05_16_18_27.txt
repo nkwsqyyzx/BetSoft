@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威甲",
+  "Time1": "05-16 23:59",
+  "Host": "艾維洛姆",
+  "OddStake": "受半球",
+  "Guest": "莫達倫",
+  "Prefer": "莫達倫",
+  "Odds": 0.92,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "05-16 18:27",
+  "Person": "飘雪"
+}

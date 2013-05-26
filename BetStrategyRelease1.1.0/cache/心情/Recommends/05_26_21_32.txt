@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴拉甲春",
+  "Time1": "05-27 03:00",
+  "Host": "迪亞茲",
+  "OddStake": "2/2.5球",
+  "Guest": "瓜拉尼",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 21:32",
+  "Person": "心情"
+}

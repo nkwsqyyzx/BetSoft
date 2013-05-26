@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡超",
+  "Time1": "01-06 23:59",
+  "Host": "馬里迪莫",
+  "OddStake": "半球",
+  "Guest": "比拉馬",
+  "Prefer": "比拉馬",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-06 18:21",
+  "Person": "摩连奴"
+}

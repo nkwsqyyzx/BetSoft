@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "03-03 03:00",
+  "Host": "奧薩蘇納",
+  "OddStake": "平/半",
+  "Guest": "畢爾巴鄂競技",
+  "Prefer": "奧薩蘇納",
+  "Odds": 0.97,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "03-03 02:35",
+  "Person": "中奖太简单啦"
+}

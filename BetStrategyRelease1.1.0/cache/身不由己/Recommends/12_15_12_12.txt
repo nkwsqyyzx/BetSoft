@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英冠",
+  "Time1": "12-15 23:00",
+  "Host": "般尼",
+  "OddStake": "2.5/3球",
+  "Guest": "沃特福德",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "12-15 12:12",
+  "Person": "身不由己"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "阿爾甲",
+  "Time1": "03-20 01:00",
+  "Host": "哈拉徹",
+  "OddStake": "半/一",
+  "Guest": "紹烏拉",
+  "Prefer": "哈拉徹",
+  "Odds": 0.97,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "03-20 00:02",
+  "Person": "夜是彩市圆"
+}

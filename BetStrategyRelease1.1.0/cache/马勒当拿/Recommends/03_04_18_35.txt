@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "伊朗甲",
+  "Time1": "03-04 19:15",
+  "Host": "亞蘇季",
+  "OddStake": "一球",
+  "Guest": "弗蘭德亞茲德",
+  "Prefer": "弗蘭德亞茲德",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-04 18:35",
+  "Person": "马勒当拿"
+}

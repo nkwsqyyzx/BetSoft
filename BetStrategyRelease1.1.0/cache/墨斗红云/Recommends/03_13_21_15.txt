@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "03-14 01:30",
+  "Host": "希拉爾",
+  "OddStake": "2.5/3球",
+  "Guest": "艾爾雷恩",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "03-13 21:15",
+  "Person": "墨斗红云"
+}

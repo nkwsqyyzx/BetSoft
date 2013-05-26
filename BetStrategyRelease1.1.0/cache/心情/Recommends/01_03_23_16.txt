@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿聯酋甲",
+  "Time1": "01-03 23:35",
+  "Host": "阿爾歐魯巴富吉拉",
+  "OddStake": "3/3.5球",
+  "Guest": "泰德",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-03 23:16",
+  "Person": "心情"
+}

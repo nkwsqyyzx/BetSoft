@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典超",
+  "Time1": "04-18 01:00",
+  "Host": "AIK蘇納",
+  "OddStake": "平/半",
+  "Guest": "馬模",
+  "Prefer": "馬模",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-17 16:55",
+  "Person": "阿麦的理想"
+}

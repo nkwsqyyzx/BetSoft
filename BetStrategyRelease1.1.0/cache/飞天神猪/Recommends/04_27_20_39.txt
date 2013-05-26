@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "保超",
+  "Time1": "04-27 21:00",
+  "Host": "索菲亞利夫斯基(中)",
+  "OddStake": "2球",
+  "Guest": "索菲亞中央陸軍",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-27 20:39",
+  "Person": "飞天神猪"
+}

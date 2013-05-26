@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威甲",
+  "Time1": "05-09 23:59",
+  "Host": "艾維洛姆",
+  "OddStake": "受半球",
+  "Guest": "雷黑姆",
+  "Prefer": "雷黑姆",
+  "Odds": 0.98,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "05-09 22:01",
+  "Person": "轻轻巧巧"
+}

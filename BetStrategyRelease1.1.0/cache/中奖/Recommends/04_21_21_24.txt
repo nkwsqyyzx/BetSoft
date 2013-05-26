@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "愛超",
+  "Time1": "04-21 22:00",
+  "Host": "布雷",
+  "OddStake": "受半球",
+  "Guest": "立麥立克",
+  "Prefer": "立麥立克",
+  "Odds": 0.92,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "04-21 21:24",
+  "Person": "中奖"
+}

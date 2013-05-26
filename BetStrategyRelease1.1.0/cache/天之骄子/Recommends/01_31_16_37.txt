@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英冠",
+  "Time1": "02-01 03:45",
+  "Host": "萊切斯特",
+  "OddStake": "2.5/3球",
+  "Guest": "狼隊",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "01-31 16:37",
+  "Person": "天之骄子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "冰岛超",
+  "Time1": "05-21 03:15",
+  "Host": "凱夫拉維克",
+  "OddStake": "平/半",
+  "Guest": "費基亞",
+  "Prefer": "費基亞",
+  "Odds": 0.83,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "05-21 03:03",
+  "Person": "八月十日"
+}

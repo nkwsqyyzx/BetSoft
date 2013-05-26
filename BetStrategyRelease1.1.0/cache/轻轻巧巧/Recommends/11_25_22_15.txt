@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-25 23:59",
+  "Host": "切爾西",
+  "OddStake": "2.5/3球",
+  "Guest": "曼城",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-25 22:15",
+  "Person": "轻轻巧巧"
+}

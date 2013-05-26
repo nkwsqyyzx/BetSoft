@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "印尼超",
+  "Time1": "05-21 16:30",
+  "Host": "巴日托",
+  "OddStake": "2.5球",
+  "Guest": "密特拉庫卡",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "05-21 14:08",
+  "Person": "明明白白"
+}

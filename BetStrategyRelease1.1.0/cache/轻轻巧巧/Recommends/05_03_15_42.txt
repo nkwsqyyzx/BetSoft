@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英甲",
+  "Time1": "05-03 17:00",
+  "Host": "鳥栖沙根",
+  "OddStake": "2.5球",
+  "Guest": "FC東京",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "05-03 15:42",
+  "Person": "轻轻巧巧"
+}

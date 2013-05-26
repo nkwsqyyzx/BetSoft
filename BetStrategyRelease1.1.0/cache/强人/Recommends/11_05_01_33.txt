@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "玻利甲",
+  "Time1": "11-05 02:00",
+  "Host": "拉佩茲",
+  "OddStake": "2.5球",
+  "Guest": "歐里恩特",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-4",
+  "PreferResult": 5,
+  "Time2": "11-05 01:33",
+  "Person": "强人"
+}

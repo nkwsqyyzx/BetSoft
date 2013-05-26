@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "比甲",
+  "Time1": "05-19 20:30",
+  "Host": "安德列治",
+  "OddStake": "一球",
+  "Guest": "威爾郡",
+  "Prefer": "威爾郡",
+  "Odds": 1.02,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-19 19:56",
+  "Person": "积木"
+}

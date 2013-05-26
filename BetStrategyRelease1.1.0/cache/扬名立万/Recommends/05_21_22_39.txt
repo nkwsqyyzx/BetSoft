@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿乙曼特",
+  "Time1": "05-22 08:00",
+  "Host": "阿卡蘇索(中)",
+  "OddStake": "半球",
+  "Guest": "特里斯頓",
+  "Prefer": "特里斯頓",
+  "Odds": 0.91,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-21 22:39",
+  "Person": "扬名立万"
+}

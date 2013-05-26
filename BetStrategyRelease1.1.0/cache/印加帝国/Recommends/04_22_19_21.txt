@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "捷U21",
+  "Time1": "04-22 21:00",
+  "Host": "博萊斯拉夫U21",
+  "OddStake": "球半",
+  "Guest": "泰博斯寇U21",
+  "Prefer": "博萊斯拉夫U21",
+  "Odds": 0.81,
+  "Result": "4-2",
+  "PreferResult": 5,
+  "Time2": "04-22 19:21",
+  "Person": "印加帝国"
+}

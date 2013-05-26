@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "俄後賽",
+  "Time1": "05-02 18:00",
+  "Host": "摩爾多維亞U21",
+  "OddStake": "受球半",
+  "Guest": "莫斯科斯巴達U21",
+  "Prefer": "莫斯科斯巴達U21",
+  "Odds": 0.83,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-02 17:32",
+  "Person": "大头"
+}

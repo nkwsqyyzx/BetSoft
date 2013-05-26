@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法U19B",
+  "Time1": "01-28 02:00",
+  "Host": "托拉卡",
+  "OddStake": "2.5球",
+  "Guest": "普馬斯",
+  "Prefer": "大球",
+  "Odds": 1.1,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-27 23:24",
+  "Person": "扬名立万"
+}

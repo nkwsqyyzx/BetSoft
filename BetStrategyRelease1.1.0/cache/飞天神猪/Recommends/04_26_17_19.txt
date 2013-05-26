@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓聯盟",
+  "Time1": "04-26 18:00",
+  "Host": "金海",
+  "OddStake": "2/2.5球",
+  "Guest": "江陵",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "04-26 17:19",
+  "Person": "飞天神猪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "05-01 09:30",
+  "Host": "提華納",
+  "OddStake": "半/一",
+  "Guest": "彭美拉斯",
+  "Prefer": "彭美拉斯",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-01 08:53",
+  "Person": "歡樂今宵"
+}

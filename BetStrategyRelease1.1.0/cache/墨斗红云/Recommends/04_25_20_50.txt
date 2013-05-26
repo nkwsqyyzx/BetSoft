@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬蘭盃",
+  "Time1": "04-25 23:30",
+  "Host": "路雲尼米",
+  "OddStake": "受一球/球半",
+  "Guest": "赫爾辛基",
+  "Prefer": "赫爾辛基",
+  "Odds": 0.99,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-25 20:50",
+  "Person": "墨斗红云"
+}

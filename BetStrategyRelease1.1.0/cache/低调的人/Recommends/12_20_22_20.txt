@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土耳其盃",
+  "Time1": "12-20 23:59",
+  "Host": "梅爾辛",
+  "OddStake": "受平/半",
+  "Guest": "安迪亞斯堡",
+  "Prefer": "梅爾辛",
+  "Odds": 0.86,
+  "Result": "0-5",
+  "PreferResult": 1,
+  "Time2": "12-20 22:20",
+  "Person": "低调的人"
+}

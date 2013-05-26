@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "巴聖錦標",
+  "Time1": "03-02 06:30",
+  "Host": "歐斯特",
+  "OddStake": "2.5球",
+  "Guest": "巴巴倫斯",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "03-01 22:50",
+  "Person": "身不由己"
+}

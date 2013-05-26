@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "澳維超",
+  "Time1": "05-24 18:15",
+  "Host": "班特列",
+  "OddStake": "3球",
+  "Guest": "墨爾本騎士",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "05-24 17:59",
+  "Person": "飞天神猪"
+}

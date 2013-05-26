@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "日職乙",
+  "Time1": "11-04 15:00",
+  "Host": "湘南比馬",
+  "OddStake": "一球",
+  "Guest": "鳥取SC",
+  "Prefer": "湘南比馬",
+  "Odds": 0.94,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "11-04 12:37",
+  "Person": "飞天神猪"
+}

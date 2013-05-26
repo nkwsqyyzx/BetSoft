@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "02-05 03:30",
+  "Host": "阿萊斯亞維農",
+  "OddStake": "2球",
+  "Guest": "摩納哥",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-2",
+  "PreferResult": 3,
+  "Time2": "02-04 20:08",
+  "Person": "无聊玩玩"
+}

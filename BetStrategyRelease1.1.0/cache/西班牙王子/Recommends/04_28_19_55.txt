@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "04-28 21:00",
+  "Host": "拖連奴",
+  "OddStake": "受半/一",
+  "Guest": "祖雲達斯",
+  "Prefer": "祖雲達斯",
+  "Odds": 0.81,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "04-28 19:55",
+  "Person": "西班牙王子"
+}

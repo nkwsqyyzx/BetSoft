@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法丙",
+  "Time1": "03-10 01:00",
+  "Host": "CA巴斯蒂亞",
+  "OddStake": "半球",
+  "Guest": "紅星聖歐恩",
+  "Prefer": "CA巴斯蒂亞",
+  "Odds": 1.08,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "03-10 00:12",
+  "Person": "天巧星燕青"
+}

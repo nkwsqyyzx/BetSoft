@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "意丙附",
+  "Time1": "05-26 22:00",
+  "Host": "恩特拉",
+  "OddStake": "受平/半",
+  "Guest": "萊切",
+  "Prefer": "恩特拉",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-26 21:22",
+  "Person": "上下摆风"
+}

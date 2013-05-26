@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "希臘超",
+  "Time1": "11-12 01:30",
+  "Host": "AEK雅典",
+  "OddStake": "受一球",
+  "Guest": "奧林比亞高斯CFP",
+  "Prefer": "AEK雅典",
+  "Odds": 0.8,
+  "Result": "0-4",
+  "PreferResult": 1,
+  "Time2": "11-11 20:11",
+  "Person": "农夫果园"
+}

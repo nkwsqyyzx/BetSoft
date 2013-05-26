@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "俄盃",
+  "Time1": "05-07 22:00",
+  "Host": "羅斯托夫",
+  "OddStake": "受一球",
+  "Guest": "莫斯科中央陸軍",
+  "Prefer": "莫斯科中央陸軍",
+  "Odds": 1.04,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-07 21:48",
+  "Person": "余韵犹在"
+}

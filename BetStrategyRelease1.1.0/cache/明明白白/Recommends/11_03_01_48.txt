@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德巴聯",
+  "Time1": "11-03 02:00",
+  "Host": "黒木斯德騰",
+  "OddStake": "2.5球",
+  "Guest": "佛羅納契",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-03 01:48",
+  "Person": "明明白白"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英非聯",
+  "Time1": "05-05 22:00",
+  "Host": "威斯漢姆(中)",
+  "OddStake": "2.5球",
+  "Guest": "紐波特",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "05-05 21:46",
+  "Person": "中奖"
+}

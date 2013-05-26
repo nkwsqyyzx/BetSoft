@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "俄後賽",
+  "Time1": "12-06 17:00",
+  "Host": "羅斯托夫U21",
+  "OddStake": "半球",
+  "Guest": "克拉斯諾達爾U21",
+  "Prefer": "羅斯托夫U21",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-06 16:17",
+  "Person": "明明白白"
+}

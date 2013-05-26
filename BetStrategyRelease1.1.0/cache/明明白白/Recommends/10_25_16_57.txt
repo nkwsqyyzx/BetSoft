@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "俄後賽",
+  "Time1": "10-25 18:00",
+  "Host": "莫斯科火車頭U21",
+  "OddStake": "3/3.5球",
+  "Guest": "阿馬卡U21",
+  "Prefer": "大球",
+  "Odds": 0.81,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "10-25 16:57",
+  "Person": "明明白白"
+}

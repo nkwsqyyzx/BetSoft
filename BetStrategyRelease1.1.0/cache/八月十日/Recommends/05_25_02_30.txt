@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-25 02:45",
+  "Host": "布雷",
+  "OddStake": "2.5/3球",
+  "Guest": "杜希達聯",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "05-25 02:30",
+  "Person": "八月十日"
+}

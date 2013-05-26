@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "東亞錦",
+  "Time1": "12-05 17:50",
+  "Host": "台灣(中)",
+  "OddStake": "3球",
+  "Guest": "關島",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "12-05 16:02",
+  "Person": "印加帝国"
+}

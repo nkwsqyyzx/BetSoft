@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "捷克甲",
+  "Time1": "04-20 02:45",
+  "Host": "皮爾森",
+  "OddStake": "2.5/3球",
+  "Guest": "普利布蘭",
+  "Prefer": "大球",
+  "Odds": 0.91,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-19 23:11",
+  "Person": "农夫果园"
+}

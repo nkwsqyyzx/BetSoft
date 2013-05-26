@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-28 22:30",
+  "Host": "錫耶納",
+  "OddStake": "2.5球",
+  "Guest": "聖彼德斯堡澤尼特",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-28 21:46",
+  "Person": "夜是彩市圆"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "荷乙",
+  "Time1": "05-17 01:45",
+  "Host": "馬士積治",
+  "OddStake": "受平/半",
+  "Guest": "華倫丹",
+  "Prefer": "馬士積治",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-16 14:51",
+  "Person": "章鱼帝"
+}

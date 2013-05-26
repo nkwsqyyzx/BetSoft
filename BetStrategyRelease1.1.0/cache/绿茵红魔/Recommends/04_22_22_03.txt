@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "04-23 01:05",
+  "Host": "艾夫斯堡",
+  "OddStake": "半/一",
+  "Guest": "佐加頓斯",
+  "Prefer": "艾夫斯堡",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-22 22:03",
+  "Person": "绿茵红魔"
+}

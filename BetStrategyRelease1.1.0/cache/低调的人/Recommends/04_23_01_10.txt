@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法乙",
+  "Time1": "04-23 02:30",
+  "Host": "摩納哥",
+  "OddStake": "一球/球半",
+  "Guest": "克萊蒙特",
+  "Prefer": "克萊蒙特",
+  "Odds": 0.82,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "04-23 01:10",
+  "Person": "低调的人"
+}

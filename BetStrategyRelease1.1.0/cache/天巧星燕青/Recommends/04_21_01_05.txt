@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "葡超",
+  "Time1": "04-21 01:15",
+  "Host": "費利拿",
+  "OddStake": "2/2.5球",
+  "Guest": "里奧阿維",
+  "Prefer": "小球",
+  "Odds": 1.05,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-21 01:05",
+  "Person": "天巧星燕青"
+}

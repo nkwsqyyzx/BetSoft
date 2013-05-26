@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "埃及甲",
+  "Time1": "02-28 23:30",
+  "Host": "哈伊赫多",
+  "OddStake": "受半球",
+  "Guest": "阿爾艾利開羅",
+  "Prefer": "阿爾艾利開羅",
+  "Odds": 0.92,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "02-28 21:58",
+  "Person": "轻轻巧巧"
+}

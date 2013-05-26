@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "南球盃",
+  "Time1": "10-24 08:45",
+  "Host": "米倫拿列奧",
+  "OddStake": "半/一",
+  "Guest": "彭美拉斯",
+  "Prefer": "米倫拿列奧",
+  "Odds": 0.87,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "10-23 14:27",
+  "Person": "专搞下盘"
+}

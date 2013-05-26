@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-30 23:50",
+  "Host": "艾恩",
+  "OddStake": "半球",
+  "Guest": "艾斯迪格拿",
+  "Prefer": "艾斯迪格拿",
+  "Odds": 0.98,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-30 20:58",
+  "Person": "我行我素"
+}

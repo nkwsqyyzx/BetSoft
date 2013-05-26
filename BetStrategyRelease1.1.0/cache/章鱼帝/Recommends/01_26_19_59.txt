@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德甲",
+  "Time1": "01-26 22:30",
+  "Host": "格拉特霍夫",
+  "OddStake": "受平/半",
+  "Guest": "緬恩斯",
+  "Prefer": "緬恩斯",
+  "Odds": 1.05,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "01-26 19:59",
+  "Person": "章鱼帝"
+}

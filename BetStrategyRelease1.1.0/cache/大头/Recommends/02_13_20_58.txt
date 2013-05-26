@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "維亞盃",
+  "Time1": "02-13 22:00",
+  "Host": "里耶卡U19(中)",
+  "OddStake": "半球",
+  "Guest": "聖多斯U19",
+  "Prefer": "里耶卡U19(中)",
+  "Odds": 1.04,
+  "Result": "0-5",
+  "PreferResult": 1,
+  "Time2": "02-13 20:58",
+  "Person": "大头"
+}

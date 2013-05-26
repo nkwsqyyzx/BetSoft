@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "意乙",
+  "Time1": "10-09 02:45",
+  "Host": "利禾奴",
+  "OddStake": "2/2.5球",
+  "Guest": "士比西亞",
+  "Prefer": "大球",
+  "Odds": 0.81,
+  "Result": "1-5",
+  "PreferResult": 5,
+  "Time2": "10-08 22:09",
+  "Person": "格力电器"
+}

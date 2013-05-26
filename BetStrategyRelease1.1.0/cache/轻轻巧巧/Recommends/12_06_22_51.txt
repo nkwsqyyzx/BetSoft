@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西丙2",
+  "Time1": "12-07 00:30",
+  "Host": "利爾達",
+  "OddStake": "半球",
+  "Guest": "諾加",
+  "Prefer": "利爾達",
+  "Odds": 0.91,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "12-06 22:51",
+  "Person": "轻轻巧巧"
+}

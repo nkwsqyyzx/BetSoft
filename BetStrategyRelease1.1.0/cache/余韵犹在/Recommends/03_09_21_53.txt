@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英足總盃",
+  "Time1": "03-10 01:30",
+  "Host": "曼城",
+  "OddStake": "两球半",
+  "Guest": "班士利",
+  "Prefer": "曼城",
+  "Odds": 0.94,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "03-09 21:53",
+  "Person": "余韵犹在"
+}

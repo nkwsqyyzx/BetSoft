@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-12 20:00",
+  "Host": "贊比亞",
+  "OddStake": "平/半",
+  "Guest": "挪威",
+  "Prefer": "挪威",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "01-12 17:44",
+  "Person": "爷有旺仔"
+}

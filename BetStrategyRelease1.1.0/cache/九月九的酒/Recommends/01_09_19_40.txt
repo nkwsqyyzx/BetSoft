@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡聯盃",
+  "Time1": "01-10 01:00",
+  "Host": "士砵亭",
+  "OddStake": "半球",
+  "Guest": "費利拿",
+  "Prefer": "費利拿",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-09 19:40",
+  "Person": "九月九的酒"
+}

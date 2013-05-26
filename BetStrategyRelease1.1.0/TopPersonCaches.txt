@@ -1,0 +1,3913 @@
+{
+  "LastUpdateTime": "\/Date(1369471164063+0800)\/",
+  "TopPersons": [
+    {
+      "Total": 11,
+      "Profit": 7.0,
+      "Win": 8,
+      "HalfWin": 1,
+      "Lose": 1,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "格力电器"
+    },
+    {
+      "Total": 12,
+      "Profit": 6.5,
+      "Win": 6,
+      "HalfWin": 3,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "八月十日"
+    },
+    {
+      "Total": 11,
+      "Profit": 6.5,
+      "Win": 7,
+      "HalfWin": 1,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "飘雪"
+    },
+    {
+      "Total": 8,
+      "Profit": 6.5,
+      "Win": 5,
+      "HalfWin": 3,
+      "Lose": 0,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "godball"
+    },
+    {
+      "Total": 11,
+      "Profit": 6.0,
+      "Win": 6,
+      "HalfWin": 3,
+      "Lose": 1,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "农夫果园"
+    },
+    {
+      "Total": 10,
+      "Profit": 6.0,
+      "Win": 8,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "轻轻巧巧"
+    },
+    {
+      "Total": 9,
+      "Profit": 6.0,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "扬名立万"
+    },
+    {
+      "Total": 11,
+      "Profit": 5.5,
+      "Win": 5,
+      "HalfWin": 3,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "心情"
+    },
+    {
+      "Total": 8,
+      "Profit": 5.5,
+      "Win": 6,
+      "HalfWin": 1,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "玩球全靠蒙"
+    },
+    {
+      "Total": 8,
+      "Profit": 5.5,
+      "Win": 6,
+      "HalfWin": 1,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "bin-bin"
+    },
+    {
+      "Total": 12,
+      "Profit": 5.0,
+      "Win": 5,
+      "HalfWin": 4,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "人在美洲"
+    },
+    {
+      "Total": 11,
+      "Profit": 5.0,
+      "Win": 8,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "民哥也疯狂"
+    },
+    {
+      "Total": 10,
+      "Profit": 5.0,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "高美尔"
+    },
+    {
+      "Total": 10,
+      "Profit": 5.0,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "低调的人"
+    },
+    {
+      "Total": 10,
+      "Profit": 5.0,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "爷有旺仔"
+    },
+    {
+      "Total": 12,
+      "Profit": 4.5,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 2,
+      "Name": "小破车"
+    },
+    {
+      "Total": 10,
+      "Profit": 4.5,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "中奖"
+    },
+    {
+      "Total": 9,
+      "Profit": 4.5,
+      "Win": 4,
+      "HalfWin": 3,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "我型我show"
+    },
+    {
+      "Total": 6,
+      "Profit": 4.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 0,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "我行我素"
+    },
+    {
+      "Total": 13,
+      "Profit": 4.0,
+      "Win": 6,
+      "HalfWin": 2,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "天之骄子"
+    },
+    {
+      "Total": 13,
+      "Profit": 4.0,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 2,
+      "Draw": 1,
+      "Name": "夜是彩市圆"
+    },
+    {
+      "Total": 12,
+      "Profit": 4.0,
+      "Win": 8,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "玉中华"
+    },
+    {
+      "Total": 12,
+      "Profit": 4.0,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 2,
+      "Draw": 1,
+      "Name": "中奖太简单啦"
+    },
+    {
+      "Total": 11,
+      "Profit": 4.0,
+      "Win": 6,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "余韵犹在"
+    },
+    {
+      "Total": 11,
+      "Profit": 4.0,
+      "Win": 5,
+      "HalfWin": 2,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 2,
+      "Name": "BUICKfifa"
+    },
+    {
+      "Total": 10,
+      "Profit": 4.0,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "大头"
+    },
+    {
+      "Total": 10,
+      "Profit": 4.0,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "菠菜大胜"
+    },
+    {
+      "Total": 8,
+      "Profit": 4.0,
+      "Win": 4,
+      "HalfWin": 2,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "专搞下盘"
+    },
+    {
+      "Total": 8,
+      "Profit": 4.0,
+      "Win": 6,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "心有不甘"
+    },
+    {
+      "Total": 7,
+      "Profit": 4.0,
+      "Win": 4,
+      "HalfWin": 2,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "九月九的酒"
+    },
+    {
+      "Total": 6,
+      "Profit": 4.0,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 0,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "75683672"
+    },
+    {
+      "Total": 14,
+      "Profit": 3.5,
+      "Win": 4,
+      "HalfWin": 4,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 3,
+      "Name": "飞天神猪"
+    },
+    {
+      "Total": 12,
+      "Profit": 3.5,
+      "Win": 6,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 2,
+      "Draw": 0,
+      "Name": "印加帝国"
+    },
+    {
+      "Total": 11,
+      "Profit": 3.5,
+      "Win": 6,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "东北球王"
+    },
+    {
+      "Total": 11,
+      "Profit": 3.5,
+      "Win": 6,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "积木"
+    },
+    {
+      "Total": 11,
+      "Profit": 3.5,
+      "Win": 6,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "摩连奴"
+    },
+    {
+      "Total": 10,
+      "Profit": 3.5,
+      "Win": 6,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "长虹贯日"
+    },
+    {
+      "Total": 10,
+      "Profit": 3.5,
+      "Win": 5,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "waley"
+    },
+    {
+      "Total": 10,
+      "Profit": 3.5,
+      "Win": 5,
+      "HalfWin": 1,
+      "Lose": 1,
+      "HalfLose": 2,
+      "Draw": 1,
+      "Name": "wqu003"
+    },
+    {
+      "Total": 9,
+      "Profit": 3.5,
+      "Win": 6,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "慢慢来"
+    },
+    {
+      "Total": 7,
+      "Profit": 3.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "凤凰谷"
+    },
+    {
+      "Total": 7,
+      "Profit": 3.5,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "挑帘式"
+    },
+    {
+      "Total": 13,
+      "Profit": 3.0,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "茶居"
+    },
+    {
+      "Total": 12,
+      "Profit": 3.0,
+      "Win": 5,
+      "HalfWin": 2,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 2,
+      "Name": "苍穹"
+    },
+    {
+      "Total": 12,
+      "Profit": 3.0,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "明明白白"
+    },
+    {
+      "Total": 11,
+      "Profit": 3.0,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "lzzw0076"
+    },
+    {
+      "Total": 10,
+      "Profit": 3.0,
+      "Win": 6,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 2,
+      "Draw": 0,
+      "Name": "学习专家"
+    },
+    {
+      "Total": 9,
+      "Profit": 3.0,
+      "Win": 5,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "mf520"
+    },
+    {
+      "Total": 9,
+      "Profit": 3.0,
+      "Win": 4,
+      "HalfWin": 2,
+      "Lose": 1,
+      "HalfLose": 2,
+      "Draw": 0,
+      "Name": "歡樂今宵"
+    },
+    {
+      "Total": 8,
+      "Profit": 3.0,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "bobo"
+    },
+    {
+      "Total": 6,
+      "Profit": 3.0,
+      "Win": 3,
+      "HalfWin": 2,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "10分钟到账"
+    },
+    {
+      "Total": 6,
+      "Profit": 3.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "清水心跳"
+    },
+    {
+      "Total": 6,
+      "Profit": 3.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "强人"
+    },
+    {
+      "Total": 5,
+      "Profit": 3.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "xiada"
+    },
+    {
+      "Total": 12,
+      "Profit": 2.5,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "H7N9"
+    },
+    {
+      "Total": 12,
+      "Profit": 2.5,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "浪子668"
+    },
+    {
+      "Total": 11,
+      "Profit": 2.5,
+      "Win": 5,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "lijin"
+    },
+    {
+      "Total": 11,
+      "Profit": 2.5,
+      "Win": 4,
+      "HalfWin": 3,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "赢球偷着乐"
+    },
+    {
+      "Total": 10,
+      "Profit": 2.5,
+      "Win": 6,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "3000元"
+    },
+    {
+      "Total": 10,
+      "Profit": 2.5,
+      "Win": 5,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "爱在西元后"
+    },
+    {
+      "Total": 9,
+      "Profit": 2.5,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 1,
+      "Draw": 2,
+      "Name": "美女"
+    },
+    {
+      "Total": 8,
+      "Profit": 2.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "墨斗红云"
+    },
+    {
+      "Total": 8,
+      "Profit": 2.5,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "辉煌先锋"
+    },
+    {
+      "Total": 5,
+      "Profit": 2.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "飞黄腾达2"
+    },
+    {
+      "Total": 12,
+      "Profit": 2.0,
+      "Win": 7,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "珊湖秀才"
+    },
+    {
+      "Total": 12,
+      "Profit": 2.0,
+      "Win": 4,
+      "HalfWin": 3,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "鄙视天华"
+    },
+    {
+      "Total": 11,
+      "Profit": 2.0,
+      "Win": 6,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "super"
+    },
+    {
+      "Total": 10,
+      "Profit": 2.0,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 2,
+      "Draw": 1,
+      "Name": "se7en"
+    },
+    {
+      "Total": 10,
+      "Profit": 2.0,
+      "Win": 5,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "钱龙大帝"
+    },
+    {
+      "Total": 9,
+      "Profit": 2.0,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "足求胜果"
+    },
+    {
+      "Total": 9,
+      "Profit": 2.0,
+      "Win": 4,
+      "HalfWin": 2,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "小花"
+    },
+    {
+      "Total": 8,
+      "Profit": 2.0,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "天巧星燕青"
+    },
+    {
+      "Total": 8,
+      "Profit": 2.0,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "大浪人"
+    },
+    {
+      "Total": 7,
+      "Profit": 2.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "马前炮"
+    },
+    {
+      "Total": 7,
+      "Profit": 2.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "哥是杯清茶"
+    },
+    {
+      "Total": 7,
+      "Profit": 2.0,
+      "Win": 3,
+      "HalfWin": 2,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "十万火急"
+    },
+    {
+      "Total": 7,
+      "Profit": 2.0,
+      "Win": 2,
+      "HalfWin": 2,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "四爷"
+    },
+    {
+      "Total": 6,
+      "Profit": 2.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "剑岛"
+    },
+    {
+      "Total": 5,
+      "Profit": 2.0,
+      "Win": 2,
+      "HalfWin": 2,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "鬼鬼1991"
+    },
+    {
+      "Total": 12,
+      "Profit": 1.5,
+      "Win": 6,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "热血青年"
+    },
+    {
+      "Total": 12,
+      "Profit": 1.5,
+      "Win": 3,
+      "HalfWin": 4,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "ycdy"
+    },
+    {
+      "Total": 12,
+      "Profit": 1.5,
+      "Win": 4,
+      "HalfWin": 2,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 1,
+      "Name": "小人华BD"
+    },
+    {
+      "Total": 11,
+      "Profit": 1.5,
+      "Win": 6,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "小兵突击"
+    },
+    {
+      "Total": 11,
+      "Profit": 1.5,
+      "Win": 6,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "阿麦的理想"
+    },
+    {
+      "Total": 11,
+      "Profit": 1.5,
+      "Win": 5,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 2,
+      "Draw": 0,
+      "Name": "大热天"
+    },
+    {
+      "Total": 10,
+      "Profit": 1.5,
+      "Win": 3,
+      "HalfWin": 3,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "A乐乐"
+    },
+    {
+      "Total": 10,
+      "Profit": 1.5,
+      "Win": 3,
+      "HalfWin": 3,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "dfyj1111"
+    },
+    {
+      "Total": 10,
+      "Profit": 1.5,
+      "Win": 5,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "绿茵红魔"
+    },
+    {
+      "Total": 10,
+      "Profit": 1.5,
+      "Win": 4,
+      "HalfWin": 2,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "运达不来霉"
+    },
+    {
+      "Total": 9,
+      "Profit": 1.5,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "力霸天"
+    },
+    {
+      "Total": 9,
+      "Profit": 1.5,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "启蒙"
+    },
+    {
+      "Total": 8,
+      "Profit": 1.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "小红帽"
+    },
+    {
+      "Total": 6,
+      "Profit": 1.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "提子味"
+    },
+    {
+      "Total": 2,
+      "Profit": 1.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 0,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "hellokitty"
+    },
+    {
+      "Total": 12,
+      "Profit": 1.0,
+      "Win": 6,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "森林"
+    },
+    {
+      "Total": 12,
+      "Profit": 1.0,
+      "Win": 5,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "身不由己"
+    },
+    {
+      "Total": 12,
+      "Profit": 1.0,
+      "Win": 6,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "一飞冲天"
+    },
+    {
+      "Total": 11,
+      "Profit": 1.0,
+      "Win": 6,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "足球冠军"
+    },
+    {
+      "Total": 11,
+      "Profit": 1.0,
+      "Win": 6,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "足球老青年"
+    },
+    {
+      "Total": 11,
+      "Profit": 1.0,
+      "Win": 4,
+      "HalfWin": 2,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "球盘杀手"
+    },
+    {
+      "Total": 11,
+      "Profit": 1.0,
+      "Win": 6,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "北风呼啸"
+    },
+    {
+      "Total": 10,
+      "Profit": 1.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 3,
+      "Name": "cxm383"
+    },
+    {
+      "Total": 10,
+      "Profit": 1.0,
+      "Win": 4,
+      "HalfWin": 2,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "跳舞草"
+    },
+    {
+      "Total": 9,
+      "Profit": 1.0,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "Klaus"
+    },
+    {
+      "Total": 8,
+      "Profit": 1.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 2,
+      "Draw": 1,
+      "Name": "斌少"
+    },
+    {
+      "Total": 7,
+      "Profit": 1.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "不懂球"
+    },
+    {
+      "Total": 7,
+      "Profit": 1.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 2,
+      "Name": "holdykwan"
+    },
+    {
+      "Total": 6,
+      "Profit": 1.0,
+      "Win": 2,
+      "HalfWin": 2,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "jaddeking"
+    },
+    {
+      "Total": 5,
+      "Profit": 1.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "纽约红牛"
+    },
+    {
+      "Total": 5,
+      "Profit": 1.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "矿工"
+    },
+    {
+      "Total": 5,
+      "Profit": 1.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "晓飞2177"
+    },
+    {
+      "Total": 4,
+      "Profit": 1.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 0,
+      "HalfLose": 2,
+      "Draw": 0,
+      "Name": "long597465612"
+    },
+    {
+      "Total": 3,
+      "Profit": 1.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "maitaohua"
+    },
+    {
+      "Total": 1,
+      "Profit": 1.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 0,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "0度心凉"
+    },
+    {
+      "Total": 1,
+      "Profit": 1.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 0,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "yuelao200"
+    },
+    {
+      "Total": 1,
+      "Profit": 1.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 0,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "救世主"
+    },
+    {
+      "Total": 1,
+      "Profit": 1.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 0,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "及时雨"
+    },
+    {
+      "Total": 1,
+      "Profit": 1.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 0,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "古惑仔"
+    },
+    {
+      "Total": 1,
+      "Profit": 1.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 0,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "率赢"
+    },
+    {
+      "Total": 1,
+      "Profit": 1.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 0,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "重杀狗庄"
+    },
+    {
+      "Total": 1,
+      "Profit": 1.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 0,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "雨"
+    },
+    {
+      "Total": 13,
+      "Profit": 0.5,
+      "Win": 5,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 2,
+      "Draw": 1,
+      "Name": "asd3388"
+    },
+    {
+      "Total": 12,
+      "Profit": 0.5,
+      "Win": 5,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "澳门盘口"
+    },
+    {
+      "Total": 11,
+      "Profit": 0.5,
+      "Win": 5,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "上上签"
+    },
+    {
+      "Total": 10,
+      "Profit": 0.5,
+      "Win": 3,
+      "HalfWin": 3,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "默默非金"
+    },
+    {
+      "Total": 9,
+      "Profit": 0.5,
+      "Win": 3,
+      "HalfWin": 2,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "扇影舞"
+    },
+    {
+      "Total": 9,
+      "Profit": 0.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "godkiller"
+    },
+    {
+      "Total": 9,
+      "Profit": 0.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "竹叶青"
+    },
+    {
+      "Total": 8,
+      "Profit": 0.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "我叫冲水勇"
+    },
+    {
+      "Total": 8,
+      "Profit": 0.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "场场好彩"
+    },
+    {
+      "Total": 8,
+      "Profit": 0.5,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "林"
+    },
+    {
+      "Total": 7,
+      "Profit": 0.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "名花有主"
+    },
+    {
+      "Total": 7,
+      "Profit": 0.5,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 1,
+      "Name": "海里昙花"
+    },
+    {
+      "Total": 7,
+      "Profit": 0.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "章鱼帝"
+    },
+    {
+      "Total": 6,
+      "Profit": 0.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "挑战者"
+    },
+    {
+      "Total": 3,
+      "Profit": 0.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "圣婴"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.5,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 0,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "A段操盘手"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.5,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 0,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "riri"
+    },
+    {
+      "Total": 13,
+      "Profit": 0.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 5,
+      "Name": "Owen"
+    },
+    {
+      "Total": 11,
+      "Profit": 0.0,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 1,
+      "Draw": 1,
+      "Name": "从头来过"
+    },
+    {
+      "Total": 11,
+      "Profit": 0.0,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "zzbb3344"
+    },
+    {
+      "Total": 11,
+      "Profit": 0.0,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "阿根廷"
+    },
+    {
+      "Total": 11,
+      "Profit": 0.0,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "solisa"
+    },
+    {
+      "Total": 11,
+      "Profit": 0.0,
+      "Win": 4,
+      "HalfWin": 2,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "亚盘高手"
+    },
+    {
+      "Total": 10,
+      "Profit": 0.0,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "为梦等你"
+    },
+    {
+      "Total": 10,
+      "Profit": 0.0,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "中国博球盟主"
+    },
+    {
+      "Total": 10,
+      "Profit": 0.0,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "高原"
+    },
+    {
+      "Total": 10,
+      "Profit": 0.0,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "路人甲"
+    },
+    {
+      "Total": 9,
+      "Profit": 0.0,
+      "Win": 3,
+      "HalfWin": 2,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "兰帕德"
+    },
+    {
+      "Total": 8,
+      "Profit": 0.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "马勒当拿"
+    },
+    {
+      "Total": 8,
+      "Profit": 0.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "不是传说"
+    },
+    {
+      "Total": 8,
+      "Profit": 0.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "hws1966"
+    },
+    {
+      "Total": 7,
+      "Profit": 0.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "w7820518"
+    },
+    {
+      "Total": 6,
+      "Profit": 0.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "susan"
+    },
+    {
+      "Total": 6,
+      "Profit": 0.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "精彩一瞬奸"
+    },
+    {
+      "Total": 6,
+      "Profit": 0.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "哥是一把刀"
+    },
+    {
+      "Total": 6,
+      "Profit": 0.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "世界第一操盘手"
+    },
+    {
+      "Total": 6,
+      "Profit": 0.0,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "神拳出击"
+    },
+    {
+      "Total": 6,
+      "Profit": 0.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "雁荡山洗刀"
+    },
+    {
+      "Total": 6,
+      "Profit": 0.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "小布宝贝"
+    },
+    {
+      "Total": 5,
+      "Profit": 0.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "风林"
+    },
+    {
+      "Total": 5,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 2,
+      "Name": "yhddzcl"
+    },
+    {
+      "Total": 4,
+      "Profit": 0.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "pois"
+    },
+    {
+      "Total": 4,
+      "Profit": 0.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "gxfc"
+    },
+    {
+      "Total": 4,
+      "Profit": 0.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "金宝博玉女吧总代理"
+    },
+    {
+      "Total": 4,
+      "Profit": 0.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "妈，他弄我"
+    },
+    {
+      "Total": 4,
+      "Profit": 0.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "职业玩家"
+    },
+    {
+      "Total": 3,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "dong258"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "ells"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "goals"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "zhongle"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "yuess"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "zqcp"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "wrim"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "xby112"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "暗杠发财"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "青年的鬼"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "风中独步"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "五大联赛"
+    },
+    {
+      "Total": 2,
+      "Profit": 0.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "小青"
+    },
+    {
+      "Total": 1,
+      "Profit": 0.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 0,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "活在当下"
+    },
+    {
+      "Total": 13,
+      "Profit": -0.5,
+      "Win": 4,
+      "HalfWin": 2,
+      "Lose": 5,
+      "HalfLose": 1,
+      "Draw": 1,
+      "Name": "爱雨浪漫"
+    },
+    {
+      "Total": 11,
+      "Profit": -0.5,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "蓝天火"
+    },
+    {
+      "Total": 11,
+      "Profit": -0.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "谷雨"
+    },
+    {
+      "Total": 11,
+      "Profit": -0.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "你是我的最爱"
+    },
+    {
+      "Total": 11,
+      "Profit": -0.5,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "新加坡武裝部隊"
+    },
+    {
+      "Total": 8,
+      "Profit": -0.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "无冕之王"
+    },
+    {
+      "Total": 8,
+      "Profit": -0.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "神兵"
+    },
+    {
+      "Total": 7,
+      "Profit": -0.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "天下问我"
+    },
+    {
+      "Total": 7,
+      "Profit": -0.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "小头"
+    },
+    {
+      "Total": 7,
+      "Profit": -0.5,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "咖啡病毒"
+    },
+    {
+      "Total": 7,
+      "Profit": -0.5,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "春游记"
+    },
+    {
+      "Total": 6,
+      "Profit": -0.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "帮主"
+    },
+    {
+      "Total": 6,
+      "Profit": -0.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 2,
+      "Name": "火流星"
+    },
+    {
+      "Total": 6,
+      "Profit": -0.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "风之子"
+    },
+    {
+      "Total": 5,
+      "Profit": -0.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "海阔天空"
+    },
+    {
+      "Total": 5,
+      "Profit": -0.5,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "球倾天下"
+    },
+    {
+      "Total": 4,
+      "Profit": -0.5,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 1,
+      "Draw": 1,
+      "Name": "┽深水老骨鱼"
+    },
+    {
+      "Total": 3,
+      "Profit": -0.5,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "bwin24"
+    },
+    {
+      "Total": 3,
+      "Profit": -0.5,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "航空母舰"
+    },
+    {
+      "Total": 3,
+      "Profit": -0.5,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "疯狂玩球十余年"
+    },
+    {
+      "Total": 3,
+      "Profit": -0.5,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "易胜博"
+    },
+    {
+      "Total": 2,
+      "Profit": -0.5,
+      "Win": 0,
+      "HalfWin": 1,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "仲夏恒星"
+    },
+    {
+      "Total": 2,
+      "Profit": -0.5,
+      "Win": 0,
+      "HalfWin": 1,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "老韩看盘"
+    },
+    {
+      "Total": 2,
+      "Profit": -0.5,
+      "Win": 0,
+      "HalfWin": 1,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "【给力哥】"
+    },
+    {
+      "Total": 13,
+      "Profit": -1.0,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 1,
+      "Draw": 1,
+      "Name": "长沙地王"
+    },
+    {
+      "Total": 13,
+      "Profit": -1.0,
+      "Win": 4,
+      "HalfWin": 2,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "一天一点赢"
+    },
+    {
+      "Total": 11,
+      "Profit": -1.0,
+      "Win": 5,
+      "HalfWin": 0,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "泰然处之"
+    },
+    {
+      "Total": 11,
+      "Profit": -1.0,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "jack"
+    },
+    {
+      "Total": 10,
+      "Profit": -1.0,
+      "Win": 3,
+      "HalfWin": 2,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "打救"
+    },
+    {
+      "Total": 10,
+      "Profit": -1.0,
+      "Win": 3,
+      "HalfWin": 2,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "广东梁朝伟"
+    },
+    {
+      "Total": 10,
+      "Profit": -1.0,
+      "Win": 3,
+      "HalfWin": 2,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "红中"
+    },
+    {
+      "Total": 10,
+      "Profit": -1.0,
+      "Win": 3,
+      "HalfWin": 2,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "笑妹"
+    },
+    {
+      "Total": 10,
+      "Profit": -1.0,
+      "Win": 3,
+      "HalfWin": 2,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "庄家倒霉了"
+    },
+    {
+      "Total": 9,
+      "Profit": -1.0,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "泰国本田"
+    },
+    {
+      "Total": 9,
+      "Profit": -1.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 2,
+      "Draw": 0,
+      "Name": "浪人心声"
+    },
+    {
+      "Total": 9,
+      "Profit": -1.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "凌风少爷"
+    },
+    {
+      "Total": 9,
+      "Profit": -1.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 2,
+      "Name": "流风"
+    },
+    {
+      "Total": 9,
+      "Profit": -1.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "瑪莉皇后2號郵輪"
+    },
+    {
+      "Total": 8,
+      "Profit": -1.0,
+      "Win": 2,
+      "HalfWin": 2,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "木棉树"
+    },
+    {
+      "Total": 8,
+      "Profit": -1.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "俄罗斯香料"
+    },
+    {
+      "Total": 8,
+      "Profit": -1.0,
+      "Win": 2,
+      "HalfWin": 2,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "无聊玩玩"
+    },
+    {
+      "Total": 7,
+      "Profit": -1.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "匈奴帝王"
+    },
+    {
+      "Total": 7,
+      "Profit": -1.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "星星点灯"
+    },
+    {
+      "Total": 7,
+      "Profit": -1.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "xytlove"
+    },
+    {
+      "Total": 7,
+      "Profit": -1.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "banma"
+    },
+    {
+      "Total": 6,
+      "Profit": -1.0,
+      "Win": 1,
+      "HalfWin": 2,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "doxx"
+    },
+    {
+      "Total": 6,
+      "Profit": -1.0,
+      "Win": 1,
+      "HalfWin": 2,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "黄金一代"
+    },
+    {
+      "Total": 6,
+      "Profit": -1.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "何济公"
+    },
+    {
+      "Total": 6,
+      "Profit": -1.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "逆天狂"
+    },
+    {
+      "Total": 5,
+      "Profit": -1.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "龙泉之吻"
+    },
+    {
+      "Total": 5,
+      "Profit": -1.0,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "mzzzzzzm"
+    },
+    {
+      "Total": 5,
+      "Profit": -1.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "怎么买都能中"
+    },
+    {
+      "Total": 4,
+      "Profit": -1.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "国税局"
+    },
+    {
+      "Total": 3,
+      "Profit": -1.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "胖子"
+    },
+    {
+      "Total": 3,
+      "Profit": -1.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "不死鸟"
+    },
+    {
+      "Total": 2,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "lxs529"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "laughing哥"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "leehom"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "juzixiaoping"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "Mr酸"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "p2f2003"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "rose"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "sdgr"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "chen"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "huajia"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "98765"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "ahao520"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "迟一步"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "wcnm"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "sweetcat"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "txdy"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "txzl"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "z163"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "zhongti"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "炮哥"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "沛橙"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "球道"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "开心赢小钱"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "凤凰城的不死鸟"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "朵朵"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "一叶扁舟"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "樱木花道"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "赢钱护失足"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "小楼一夜听春雨"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "西班牙劲啊"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "西班牙王子"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "西北狼"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "仙丹"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "仙人指路"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "咸鱼翻生"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "四大名捕"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "事事為王"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "神算子"
+    },
+    {
+      "Total": 1,
+      "Profit": -1.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "神一样的玩家"
+    },
+    {
+      "Total": 12,
+      "Profit": -1.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "莫追、求稳"
+    },
+    {
+      "Total": 12,
+      "Profit": -1.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "贝多芬"
+    },
+    {
+      "Total": 11,
+      "Profit": -1.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "V哇鬼叫"
+    },
+    {
+      "Total": 11,
+      "Profit": -1.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "球王之王"
+    },
+    {
+      "Total": 11,
+      "Profit": -1.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "量力而為"
+    },
+    {
+      "Total": 11,
+      "Profit": -1.5,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "明年今日"
+    },
+    {
+      "Total": 10,
+      "Profit": -1.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "老鬼看盘"
+    },
+    {
+      "Total": 10,
+      "Profit": -1.5,
+      "Win": 2,
+      "HalfWin": 3,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "shl2012"
+    },
+    {
+      "Total": 10,
+      "Profit": -1.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 2,
+      "Name": "不学无术"
+    },
+    {
+      "Total": 9,
+      "Profit": -1.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "天啊"
+    },
+    {
+      "Total": 9,
+      "Profit": -1.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "鱼肝油"
+    },
+    {
+      "Total": 8,
+      "Profit": -1.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "高尔夫球场"
+    },
+    {
+      "Total": 6,
+      "Profit": -1.5,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "马小姐也疯狂"
+    },
+    {
+      "Total": 6,
+      "Profit": -1.5,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "刀城仔"
+    },
+    {
+      "Total": 5,
+      "Profit": -1.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "islys"
+    },
+    {
+      "Total": 5,
+      "Profit": -1.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "中场换人"
+    },
+    {
+      "Total": 5,
+      "Profit": -1.5,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "乌龙波"
+    },
+    {
+      "Total": 4,
+      "Profit": -1.5,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "凤凰传奇"
+    },
+    {
+      "Total": 3,
+      "Profit": -1.5,
+      "Win": 0,
+      "HalfWin": 1,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "国枫888"
+    },
+    {
+      "Total": 2,
+      "Profit": -1.5,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 1,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "过路人"
+    },
+    {
+      "Total": 12,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 4,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "空山新雨"
+    },
+    {
+      "Total": 12,
+      "Profit": -2.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "lili369"
+    },
+    {
+      "Total": 12,
+      "Profit": -2.0,
+      "Win": 4,
+      "HalfWin": 1,
+      "Lose": 6,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "lk930"
+    },
+    {
+      "Total": 11,
+      "Profit": -2.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "路人专用VIP"
+    },
+    {
+      "Total": 10,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 2,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "冷云"
+    },
+    {
+      "Total": 10,
+      "Profit": -2.0,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "不孕不育专家"
+    },
+    {
+      "Total": 9,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 2,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "LXF1234"
+    },
+    {
+      "Total": 9,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 2,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "6688ball"
+    },
+    {
+      "Total": 8,
+      "Profit": -2.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "234678136"
+    },
+    {
+      "Total": 7,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "公爵王"
+    },
+    {
+      "Total": 7,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "飞天戟"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "丰山绝技"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "江南暴雨"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "绿野仙踪"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "摩云金翅麒麟"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "去他个球"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "上下摆风"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "大D哥"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "tjqalqf"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "zbjsmg"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "爽爽"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.0,
+      "Win": 0,
+      "HalfWin": 2,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "萧十一郎"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "战无不胜"
+    },
+    {
+      "Total": 5,
+      "Profit": -2.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "足球擂台"
+    },
+    {
+      "Total": 5,
+      "Profit": -2.0,
+      "Win": 0,
+      "HalfWin": 2,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "长工七号"
+    },
+    {
+      "Total": 4,
+      "Profit": -2.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "千门公子襄"
+    },
+    {
+      "Total": 4,
+      "Profit": -2.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "紫色洛神"
+    },
+    {
+      "Total": 4,
+      "Profit": -2.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "西更天"
+    },
+    {
+      "Total": 3,
+      "Profit": -2.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "放弃是美"
+    },
+    {
+      "Total": 2,
+      "Profit": -2.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "点球成金"
+    },
+    {
+      "Total": 2,
+      "Profit": -2.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "红到让你信"
+    },
+    {
+      "Total": 2,
+      "Profit": -2.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "好給力"
+    },
+    {
+      "Total": 2,
+      "Profit": -2.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "红蜻蜓"
+    },
+    {
+      "Total": 2,
+      "Profit": -2.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "麦卡"
+    },
+    {
+      "Total": 2,
+      "Profit": -2.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "95988"
+    },
+    {
+      "Total": 2,
+      "Profit": -2.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "幸福死了"
+    },
+    {
+      "Total": 2,
+      "Profit": -2.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 2,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "生为足球"
+    },
+    {
+      "Total": 11,
+      "Profit": -2.5,
+      "Win": 2,
+      "HalfWin": 3,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "张三丰"
+    },
+    {
+      "Total": 11,
+      "Profit": -2.5,
+      "Win": 4,
+      "HalfWin": 0,
+      "Lose": 6,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "karlmarx"
+    },
+    {
+      "Total": 11,
+      "Profit": -2.5,
+      "Win": 3,
+      "HalfWin": 1,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "mozaozi"
+    },
+    {
+      "Total": 9,
+      "Profit": -2.5,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "香鸡脚"
+    },
+    {
+      "Total": 8,
+      "Profit": -2.5,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 1,
+      "Draw": 1,
+      "Name": "学习中"
+    },
+    {
+      "Total": 8,
+      "Profit": -2.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "操B不操盘"
+    },
+    {
+      "Total": 8,
+      "Profit": -2.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 2,
+      "Name": "面包果"
+    },
+    {
+      "Total": 7,
+      "Profit": -2.5,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "杀出个黎明"
+    },
+    {
+      "Total": 7,
+      "Profit": -2.5,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "阿汉"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "963118818"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "独卧云台"
+    },
+    {
+      "Total": 6,
+      "Profit": -2.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "柑蕉桔梨萝柚"
+    },
+    {
+      "Total": 5,
+      "Profit": -2.5,
+      "Win": 0,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "红到星期天"
+    },
+    {
+      "Total": 5,
+      "Profit": -2.5,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "帅的躲家里"
+    },
+    {
+      "Total": 4,
+      "Profit": -2.5,
+      "Win": 0,
+      "HalfWin": 1,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "重在参与"
+    },
+    {
+      "Total": 11,
+      "Profit": -3.0,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 1,
+      "Draw": 2,
+      "Name": "zx01668"
+    },
+    {
+      "Total": 9,
+      "Profit": -3.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 2,
+      "Name": "zxy60120"
+    },
+    {
+      "Total": 8,
+      "Profit": -3.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 2,
+      "Draw": 0,
+      "Name": "无极旋风"
+    },
+    {
+      "Total": 7,
+      "Profit": -3.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "云里金刚虎"
+    },
+    {
+      "Total": 5,
+      "Profit": -3.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "zy530"
+    },
+    {
+      "Total": 5,
+      "Profit": -3.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "BVBReus"
+    },
+    {
+      "Total": 5,
+      "Profit": -3.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "公测"
+    },
+    {
+      "Total": 5,
+      "Profit": -3.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "动听的乐章"
+    },
+    {
+      "Total": 5,
+      "Profit": -3.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "地狱黑仔王"
+    },
+    {
+      "Total": 5,
+      "Profit": -3.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "锐壮壮"
+    },
+    {
+      "Total": 3,
+      "Profit": -3.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "龙缘"
+    },
+    {
+      "Total": 3,
+      "Profit": -3.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "低调玩球一齐杀庄"
+    },
+    {
+      "Total": 3,
+      "Profit": -3.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "燕南天"
+    },
+    {
+      "Total": 3,
+      "Profit": -3.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "希望之星"
+    },
+    {
+      "Total": 3,
+      "Profit": -3.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 3,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "夏天狂暴"
+    },
+    {
+      "Total": 11,
+      "Profit": -3.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "小李飞刀"
+    },
+    {
+      "Total": 10,
+      "Profit": -3.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "东航空乘"
+    },
+    {
+      "Total": 8,
+      "Profit": -3.5,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "红日"
+    },
+    {
+      "Total": 7,
+      "Profit": -3.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "普通老百姓"
+    },
+    {
+      "Total": 7,
+      "Profit": -3.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "lijian520"
+    },
+    {
+      "Total": 7,
+      "Profit": -3.5,
+      "Win": 0,
+      "HalfWin": 2,
+      "Lose": 4,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "顺水顺风"
+    },
+    {
+      "Total": 5,
+      "Profit": -3.5,
+      "Win": 0,
+      "HalfWin": 1,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "sos73"
+    },
+    {
+      "Total": 11,
+      "Profit": -4.0,
+      "Win": 2,
+      "HalfWin": 2,
+      "Lose": 7,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "世界第一"
+    },
+    {
+      "Total": 10,
+      "Profit": -4.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 7,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "iq"
+    },
+    {
+      "Total": 10,
+      "Profit": -4.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 7,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "红红火火"
+    },
+    {
+      "Total": 10,
+      "Profit": -4.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 7,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "金牌出击"
+    },
+    {
+      "Total": 8,
+      "Profit": -4.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 2,
+      "Name": "水龙头"
+    },
+    {
+      "Total": 6,
+      "Profit": -4.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "ronapigu"
+    },
+    {
+      "Total": 6,
+      "Profit": -4.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 5,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "蛋定"
+    },
+    {
+      "Total": 4,
+      "Profit": -4.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "弹弓六"
+    },
+    {
+      "Total": 4,
+      "Profit": -4.0,
+      "Win": 0,
+      "HalfWin": 0,
+      "Lose": 4,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "哥哥"
+    },
+    {
+      "Total": 11,
+      "Profit": -4.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 7,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "segespa"
+    },
+    {
+      "Total": 11,
+      "Profit": -4.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 7,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "12388123"
+    },
+    {
+      "Total": 9,
+      "Profit": -4.5,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 6,
+      "HalfLose": 1,
+      "Draw": 0,
+      "Name": "梅西的左脚"
+    },
+    {
+      "Total": 12,
+      "Profit": -5.0,
+      "Win": 3,
+      "HalfWin": 0,
+      "Lose": 8,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "罗纳尔多"
+    },
+    {
+      "Total": 8,
+      "Profit": -5.0,
+      "Win": 1,
+      "HalfWin": 0,
+      "Lose": 6,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "lanquan11"
+    },
+    {
+      "Total": 13,
+      "Profit": -5.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 8,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "杀手47"
+    },
+    {
+      "Total": 11,
+      "Profit": -5.5,
+      "Win": 2,
+      "HalfWin": 1,
+      "Lose": 8,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "空中飞人"
+    },
+    {
+      "Total": 10,
+      "Profit": -5.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 7,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "1300100915"
+    },
+    {
+      "Total": 10,
+      "Profit": -5.5,
+      "Win": 1,
+      "HalfWin": 1,
+      "Lose": 7,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "wintion"
+    },
+    {
+      "Total": 12,
+      "Profit": -6.0,
+      "Win": 1,
+      "HalfWin": 2,
+      "Lose": 8,
+      "HalfLose": 0,
+      "Draw": 1,
+      "Name": "qqzy"
+    },
+    {
+      "Total": 10,
+      "Profit": -6.0,
+      "Win": 2,
+      "HalfWin": 0,
+      "Lose": 8,
+      "HalfLose": 0,
+      "Draw": 0,
+      "Name": "小球下盘"
+    }
+  ],
+  "PreferMost": [
+    "jack",
+    "sos73",
+    "sweetcat",
+    "阿麦的理想",
+    "绿野仙踪",
+    "马勒当拿",
+    "民哥也疯狂",
+    "明明白白",
+    "身不由己",
+    "天巧星燕青",
+    "天之骄子",
+    "无聊玩玩",
+    "西班牙王子",
+    "章鱼帝",
+    "绿茵红魔"
+  ],
+  "IsReady": true
+}

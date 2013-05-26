@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "斯亞甲",
+  "Time1": "05-22 23:30",
+  "Host": "當薩勒",
+  "OddStake": "2.5球",
+  "Guest": "哥里卡",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-22 21:31",
+  "Person": "我行我素"
+}

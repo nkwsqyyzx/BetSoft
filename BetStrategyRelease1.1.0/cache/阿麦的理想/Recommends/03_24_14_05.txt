@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "日職乙",
+  "Time1": "03-24 15:00",
+  "Host": "大阪飛腳",
+  "OddStake": "半球",
+  "Guest": "千葉市原",
+  "Prefer": "千葉市原",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "03-24 14:05",
+  "Person": "阿麦的理想"
+}

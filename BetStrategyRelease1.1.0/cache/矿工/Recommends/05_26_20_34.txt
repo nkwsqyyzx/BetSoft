@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "奧甲",
+  "Time1": "05-26 22:00",
+  "Host": "紅牛薩爾斯堡",
+  "OddStake": "半球",
+  "Guest": "奧地利維也納",
+  "Prefer": "奧地利維也納",
+  "Odds": 0.99,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-26 20:34",
+  "Person": "矿工"
+}

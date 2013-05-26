@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "羅甲",
+  "Time1": "04-15 23:59",
+  "Host": "瓦斯路易",
+  "OddStake": "半/一",
+  "Guest": "巴索夫",
+  "Prefer": "瓦斯路易",
+  "Odds": 0.83,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-15 20:07",
+  "Person": "墨斗红云"
+}

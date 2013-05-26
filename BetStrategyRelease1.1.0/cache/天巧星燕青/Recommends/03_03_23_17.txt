@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "哥倫甲",
+  "Time1": "03-04 06:30",
+  "Host": "曼特寧獨立",
+  "OddStake": "2/2.5球",
+  "Guest": "依維加杜",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-03 23:17",
+  "Person": "天巧星燕青"
+}

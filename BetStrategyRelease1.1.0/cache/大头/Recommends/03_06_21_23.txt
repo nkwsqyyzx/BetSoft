@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "加夫盃",
+  "Time1": "03-06 22:00",
+  "Host": "美國女足(中)",
+  "OddStake": "3.5球",
+  "Guest": "冰島女足",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "03-06 21:23",
+  "Person": "大头"
+}

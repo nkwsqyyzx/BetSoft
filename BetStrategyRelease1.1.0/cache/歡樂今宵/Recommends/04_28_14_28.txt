@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-28 15:00",
+  "Host": "福岡黃蜂",
+  "OddStake": "受平/半",
+  "Guest": "松本山雅",
+  "Prefer": "松本山雅",
+  "Odds": 1.05,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-28 14:28",
+  "Person": "歡樂今宵"
+}

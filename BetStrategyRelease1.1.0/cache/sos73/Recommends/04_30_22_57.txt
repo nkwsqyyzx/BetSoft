@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英南超",
+  "Time1": "05-01 02:45",
+  "Host": "車斯曼",
+  "OddStake": "半球",
+  "Guest": "赫默爾亨普斯特德城",
+  "Prefer": "赫默爾亨普斯特德城",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "04-30 22:57",
+  "Person": "sos73"
+}

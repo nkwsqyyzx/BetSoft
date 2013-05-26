@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英U21",
+  "Time1": "04-16 02:00",
+  "Host": "修咸頓U21",
+  "OddStake": "2.5/3球",
+  "Guest": "西漢姆聯U21",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "5-2",
+  "PreferResult": 5,
+  "Time2": "04-16 01:18",
+  "Person": "jack"
+}

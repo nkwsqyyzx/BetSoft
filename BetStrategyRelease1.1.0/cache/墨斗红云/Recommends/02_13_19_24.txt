@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法丁B",
+  "Time1": "02-13 20:30",
+  "Host": "索菲亞利夫斯基(中)",
+  "OddStake": "3球",
+  "Guest": "杜克拉布拉格",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "02-13 19:24",
+  "Person": "墨斗红云"
+}

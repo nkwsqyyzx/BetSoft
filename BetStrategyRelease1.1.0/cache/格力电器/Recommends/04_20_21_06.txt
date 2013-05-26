@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德甲",
+  "Time1": "04-20 21:30",
+  "Host": "漢堡",
+  "OddStake": "2.5球",
+  "Guest": "杜塞爾多夫",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-20 21:06",
+  "Person": "格力电器"
+}

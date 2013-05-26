@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法國盃",
+  "Time1": "04-17 02:50",
+  "Host": "聖伊天",
+  "OddStake": "2.5球",
+  "Guest": "羅連安特",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "04-16 22:02",
+  "Person": "中奖"
+}

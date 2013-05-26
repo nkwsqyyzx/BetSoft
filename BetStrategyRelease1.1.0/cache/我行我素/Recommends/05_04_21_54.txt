@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法甲",
+  "Time1": "05-05 02:00",
+  "Host": "特魯瓦",
+  "OddStake": "平/半",
+  "Guest": "伊維恩",
+  "Prefer": "伊維恩",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-04 21:54",
+  "Person": "我行我素"
+}

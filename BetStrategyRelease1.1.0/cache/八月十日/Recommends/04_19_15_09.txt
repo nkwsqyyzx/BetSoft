@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷乙",
+  "Time1": "04-20 02:00",
+  "Host": "多積治",
+  "OddStake": "平/半",
+  "Guest": "迪加史卓普",
+  "Prefer": "迪加史卓普",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-19 15:09",
+  "Person": "八月十日"
+}

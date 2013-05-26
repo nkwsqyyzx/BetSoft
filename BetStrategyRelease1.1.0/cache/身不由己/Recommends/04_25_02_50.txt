@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法丁B",
+  "Time1": "04-25 09:00",
+  "Host": "巴西",
+  "OddStake": "3球",
+  "Guest": "智利",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "04-25 02:50",
+  "Person": "身不由己"
+}

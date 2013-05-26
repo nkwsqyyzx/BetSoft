@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "澳職聯",
+  "Time1": "12-27 14:30",
+  "Host": "威寧頓復活",
+  "OddStake": "半球",
+  "Guest": "墨爾本赫爾",
+  "Prefer": "威寧頓復活",
+  "Odds": 0.8,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "12-27 14:07",
+  "Person": "赢球偷着乐"
+}

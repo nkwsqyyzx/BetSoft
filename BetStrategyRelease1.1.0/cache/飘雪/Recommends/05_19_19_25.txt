@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "比甲",
+  "Time1": "05-19 20:30",
+  "Host": "布魯日",
+  "OddStake": "半/一",
+  "Guest": "亨克",
+  "Prefer": "布魯日",
+  "Odds": 0.81,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "05-19 19:25",
+  "Person": "飘雪"
+}

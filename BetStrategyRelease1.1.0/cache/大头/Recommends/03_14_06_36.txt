@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "哥斯甲",
+  "Time1": "03-14 10:00",
+  "Host": "珊卡洛斯",
+  "OddStake": "2.5球",
+  "Guest": "沙普利薩",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "03-14 06:36",
+  "Person": "大头"
+}

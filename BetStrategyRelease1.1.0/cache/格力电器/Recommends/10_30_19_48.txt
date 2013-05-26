@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德國盃",
+  "Time1": "10-31 03:30",
+  "Host": "緬恩斯",
+  "OddStake": "2.5/3球",
+  "Guest": "艾格比治",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "10-30 19:48",
+  "Person": "格力电器"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "丹麥甲",
+  "Time1": "05-17 01:00",
+  "Host": "寧比",
+  "OddStake": "平/半",
+  "Guest": "維積利科爾丁",
+  "Prefer": "維積利科爾丁",
+  "Odds": 0.8,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "05-17 00:04",
+  "Person": "九月九的酒"
+}

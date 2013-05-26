@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "蘇青聯",
+  "Time1": "04-23 01:45",
+  "Host": "韋爾",
+  "OddStake": "受半球",
+  "Guest": "貝林佐納",
+  "Prefer": "貝林佐納",
+  "Odds": 0.96,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "04-22 22:25",
+  "Person": "中奖"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德西聯",
+  "Time1": "02-23 02:30",
+  "Host": "奧柏侯遜",
+  "OddStake": "受半/一",
+  "Guest": "維多利科隆",
+  "Prefer": "維多利科隆",
+  "Odds": 0.84,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-22 23:32",
+  "Person": "中奖"
+}

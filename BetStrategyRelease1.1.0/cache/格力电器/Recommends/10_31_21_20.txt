@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "荷蘭盃",
+  "Time1": "11-01 01:45",
+  "Host": "RKC華域克",
+  "OddStake": "半/一",
+  "Guest": "施禾尼",
+  "Prefer": "施禾尼",
+  "Odds": 0.84,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "10-31 21:20",
+  "Person": "格力电器"
+}

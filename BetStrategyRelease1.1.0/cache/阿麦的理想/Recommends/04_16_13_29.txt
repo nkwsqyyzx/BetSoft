@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英非聯",
+  "Time1": "04-17 02:45",
+  "Host": "威斯漢姆",
+  "OddStake": "半/一",
+  "Guest": "布瑞特伊",
+  "Prefer": "布瑞特伊",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-16 13:29",
+  "Person": "阿麦的理想"
+}

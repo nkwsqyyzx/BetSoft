@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "蘇超",
+  "Time1": "11-11 20:45",
+  "Host": "喜百年",
+  "OddStake": "2.5球",
+  "Guest": "登地聯",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-11 19:58",
+  "Person": "赢球偷着乐"
+}

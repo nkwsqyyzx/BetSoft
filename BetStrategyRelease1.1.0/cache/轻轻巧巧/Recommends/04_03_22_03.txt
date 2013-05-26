@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "巴聖錦標",
+  "Time1": "04-04 06:30",
+  "Host": "伊圖阿諾",
+  "OddStake": "2.5球",
+  "Guest": "巴巴倫斯",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-03 22:03",
+  "Person": "轻轻巧巧"
+}

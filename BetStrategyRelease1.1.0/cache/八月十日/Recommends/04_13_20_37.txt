@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英超",
+  "Time1": "04-13 22:00",
+  "Host": "阿斯頓維拉",
+  "OddStake": "平/半",
+  "Guest": "富勒姆",
+  "Prefer": "阿斯頓維拉",
+  "Odds": 0.91,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "04-13 20:37",
+  "Person": "八月十日"
+}

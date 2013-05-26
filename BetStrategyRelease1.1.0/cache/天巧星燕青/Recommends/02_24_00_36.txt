@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "02-24 05:00",
+  "Host": "巴塞羅那",
+  "OddStake": "3.5/4球",
+  "Guest": "塞維利亞",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-24 00:36",
+  "Person": "天巧星燕青"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "04-17 08:15",
+  "Host": "波特諾",
+  "OddStake": "受平/半",
+  "Guest": "托利馬",
+  "Prefer": "波特諾",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "04-16 16:01",
+  "Person": "bin-bin"
+}

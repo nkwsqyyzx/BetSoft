@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "多塞納盃",
+  "Time1": "05-18 23:59",
+  "Host": "阿特蘭大U19",
+  "OddStake": "2.5/3球",
+  "Guest": "切沃U19",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-18 21:49",
+  "Person": "农夫果园"
+}

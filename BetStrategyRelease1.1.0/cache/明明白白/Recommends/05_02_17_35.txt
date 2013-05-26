@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "烏克U21",
+  "Time1": "05-02 18:00",
+  "Host": "當尼斯克U21",
+  "OddStake": "3球",
+  "Guest": "沃恩U21",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-02 17:35",
+  "Person": "明明白白"
+}

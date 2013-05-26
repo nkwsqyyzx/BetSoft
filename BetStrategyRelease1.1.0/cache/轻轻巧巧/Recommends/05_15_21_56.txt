@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞協盃",
+  "Time1": "05-16 01:00",
+  "Host": "瓂斯哥德堡",
+  "OddStake": "半球",
+  "Guest": "盧恩斯基爾",
+  "Prefer": "盧恩斯基爾",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-15 21:56",
+  "Person": "轻轻巧巧"
+}

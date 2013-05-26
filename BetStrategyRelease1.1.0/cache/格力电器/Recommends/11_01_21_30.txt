@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-02 03:45",
+  "Host": "熱拿亞",
+  "OddStake": "受平/半",
+  "Guest": "費倫天拿",
+  "Prefer": "費倫天拿",
+  "Odds": 0.89,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-01 21:30",
+  "Person": "格力电器"
+}

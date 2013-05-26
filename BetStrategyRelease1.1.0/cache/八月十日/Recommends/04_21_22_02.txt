@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西乙",
+  "Time1": "04-22 01:00",
+  "Host": "維拉利爾",
+  "OddStake": "一球/球半",
+  "Guest": "桑坦德",
+  "Prefer": "維拉利爾",
+  "Odds": 0.99,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "04-21 22:02",
+  "Person": "八月十日"
+}

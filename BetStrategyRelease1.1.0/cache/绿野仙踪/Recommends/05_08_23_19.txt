@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "俄盃",
+  "Time1": "05-08 23:30",
+  "Host": "聖彼德斯堡澤尼特",
+  "OddStake": "平/半",
+  "Guest": "安芝",
+  "Prefer": "聖彼德斯堡澤尼特",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-08 23:19",
+  "Person": "绿野仙踪"
+}

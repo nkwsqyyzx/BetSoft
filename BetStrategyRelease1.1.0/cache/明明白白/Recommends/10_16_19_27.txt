@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "友誼賽",
+  "Time1": "10-16 19:45",
+  "Host": "新加坡",
+  "OddStake": "2.5/3球",
+  "Guest": "印度",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "10-16 19:27",
+  "Person": "明明白白"
+}

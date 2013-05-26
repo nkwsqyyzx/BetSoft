@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德北聯",
+  "Time1": "11-10 02:00",
+  "Host": "雲達不萊梅青年隊",
+  "OddStake": "3/3.5球",
+  "Guest": "梅彭",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "11-10 01:07",
+  "Person": "明明白白"
+}

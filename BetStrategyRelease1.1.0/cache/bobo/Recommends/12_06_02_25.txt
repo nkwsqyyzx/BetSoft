@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英錦賽",
+  "Time1": "12-06 03:45",
+  "Host": "諾咸頓",
+  "OddStake": "平/半",
+  "Guest": "奧連特",
+  "Prefer": "奧連特",
+  "Odds": 0.84,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "12-06 02:25",
+  "Person": "bobo"
+}

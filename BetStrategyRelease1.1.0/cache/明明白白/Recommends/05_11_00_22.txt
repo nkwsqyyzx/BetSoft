@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "巴林超",
+  "Time1": "05-11 00:45",
+  "Host": "沙巴柏麥納麥",
+  "OddStake": "3球",
+  "Guest": "布賽丁",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "05-11 00:22",
+  "Person": "明明白白"
+}

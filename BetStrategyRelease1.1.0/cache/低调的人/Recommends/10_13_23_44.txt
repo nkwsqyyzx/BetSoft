@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西乙",
+  "Time1": "10-13 23:59",
+  "Host": "CD瓜達拉哈拉",
+  "OddStake": "受平/半",
+  "Guest": "邦弗拉甸拿",
+  "Prefer": "CD瓜達拉哈拉",
+  "Odds": 0.83,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "10-13 23:44",
+  "Person": "低调的人"
+}

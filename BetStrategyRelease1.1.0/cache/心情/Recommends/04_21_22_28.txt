@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "委内超秋",
+  "Time1": "04-22 06:00",
+  "Host": "麥尼拉斯",
+  "OddStake": "2.5球",
+  "Guest": "薩馬拉",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-21 22:28",
+  "Person": "心情"
+}

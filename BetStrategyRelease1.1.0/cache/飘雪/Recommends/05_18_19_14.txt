@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德丙聯",
+  "Time1": "05-18 19:30",
+  "Host": "斯圖加特青年隊",
+  "OddStake": "受半球",
+  "Guest": "多特蒙德青年隊",
+  "Prefer": "多特蒙德青年隊",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-18 19:14",
+  "Person": "飘雪"
+}

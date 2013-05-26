@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫盃",
+  "Time1": "05-02 08:30",
+  "Host": "奇科",
+  "OddStake": "一球",
+  "Guest": "皇家桑坦德",
+  "Prefer": "奇科",
+  "Odds": 0.97,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "05-02 08:18",
+  "Person": "马勒当拿"
+}

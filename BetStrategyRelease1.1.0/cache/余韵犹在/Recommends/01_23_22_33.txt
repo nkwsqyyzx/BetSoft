@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "非國盃",
+  "Time1": "01-23 23:00",
+  "Host": "南非",
+  "OddStake": "半球",
+  "Guest": "安哥拉",
+  "Prefer": "南非",
+  "Odds": 1.03,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "01-23 22:33",
+  "Person": "余韵犹在"
+}

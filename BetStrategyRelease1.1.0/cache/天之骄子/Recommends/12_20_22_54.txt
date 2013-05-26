@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西甲",
+  "Time1": "12-21 05:00",
+  "Host": "愛斯賓奴",
+  "OddStake": "半/一",
+  "Guest": "拉科魯尼亞",
+  "Prefer": "愛斯賓奴",
+  "Odds": 1.02,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "12-20 22:54",
+  "Person": "天之骄子"
+}

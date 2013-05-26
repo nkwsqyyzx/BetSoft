@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "蘇青聯",
+  "Time1": "04-19 21:00",
+  "Host": "阿伯丁U20",
+  "OddStake": "半/一",
+  "Guest": "聖米倫U20",
+  "Prefer": "阿伯丁U20",
+  "Odds": 0.88,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "04-19 20:42",
+  "Person": "西班牙王子"
+}

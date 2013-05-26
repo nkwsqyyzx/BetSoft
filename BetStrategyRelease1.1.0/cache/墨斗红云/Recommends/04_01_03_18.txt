@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "玻利甲",
+  "Time1": "04-01 03:30",
+  "Host": "皇家帕托斯",
+  "OddStake": "3球",
+  "Guest": "佩特萊羅",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-01 03:18",
+  "Person": "墨斗红云"
+}

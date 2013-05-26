@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "丹麥超",
+  "Time1": "11-03 01:30",
+  "Host": "艾斯堡",
+  "OddStake": "2.5/3球",
+  "Guest": "施克堡",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-02 20:46",
+  "Person": "阿麦的理想"
+}

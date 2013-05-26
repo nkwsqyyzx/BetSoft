@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷蘭盃",
+  "Time1": "05-09 23:59",
+  "Host": "艾克馬亞(中)",
+  "OddStake": "受一球",
+  "Guest": "PSV燕豪芬",
+  "Prefer": "PSV燕豪芬",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-09 23:19",
+  "Person": "中奖太简单啦"
+}

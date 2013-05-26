@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意丙B",
+  "Time1": "01-13 21:30",
+  "Host": "比薩",
+  "OddStake": "半/一",
+  "Guest": "安得瑞亞",
+  "Prefer": "比薩",
+  "Odds": 0.99,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "01-13 21:06",
+  "Person": "爷有旺仔"
+}

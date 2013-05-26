@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛沙甲",
+  "Time1": "05-25 00:30",
+  "Host": "雷瓦狄亞",
+  "OddStake": "2.5球",
+  "Guest": "科羅拉",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-24 22:00",
+  "Person": "中奖"
+}

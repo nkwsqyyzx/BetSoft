@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "亞協盃",
+  "Time1": "04-03 16:00",
+  "Host": "帕莊內格洛(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "日之泉JC晨曦",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "04-03 15:45",
+  "Person": "墨斗红云"
+}

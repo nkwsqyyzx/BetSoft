@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "伊朗超",
+  "Time1": "10-29 22:15",
+  "Host": "高赫紮格魯",
+  "OddStake": "受半球",
+  "Guest": "艾斯迪格拿",
+  "Prefer": "艾斯迪格拿",
+  "Odds": 0.97,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "10-29 21:43",
+  "Person": "低调的人"
+}

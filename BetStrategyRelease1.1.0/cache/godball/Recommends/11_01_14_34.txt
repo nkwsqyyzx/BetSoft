@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西班牙盃",
+  "Time1": "11-02 01:00",
+  "Host": "美利拉",
+  "OddStake": "受半球",
+  "Guest": "利雲特",
+  "Prefer": "美利拉",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-01 14:34",
+  "Person": "godball"
+}

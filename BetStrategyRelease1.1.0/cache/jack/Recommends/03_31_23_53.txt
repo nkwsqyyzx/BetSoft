@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "巴拉甲春",
+  "Time1": "04-01 06:20",
+  "Host": "瓜拉尼",
+  "OddStake": "半球",
+  "Guest": "索爾美洲隊",
+  "Prefer": "瓜拉尼",
+  "Odds": 0.92,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "03-31 23:53",
+  "Person": "jack"
+}

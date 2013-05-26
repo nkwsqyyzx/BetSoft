@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "亞冠盃",
+  "Time1": "02-26 20:00",
+  "Host": "廣州恆大",
+  "OddStake": "半/一",
+  "Guest": "浦和紅鑽",
+  "Prefer": "廣州恆大",
+  "Odds": 1.02,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "02-26 19:47",
+  "Person": "中奖太简单啦"
+}

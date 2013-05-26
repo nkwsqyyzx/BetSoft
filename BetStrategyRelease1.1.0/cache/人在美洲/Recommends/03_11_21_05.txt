@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意乙",
+  "Time1": "03-12 03:45",
+  "Host": "克努托內",
+  "OddStake": "2/2.5球",
+  "Guest": "切辛納",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-11 21:05",
+  "Person": "人在美洲"
+}

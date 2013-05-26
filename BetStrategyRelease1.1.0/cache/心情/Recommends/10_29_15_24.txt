@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "波蘭甲",
+  "Time1": "10-30 01:30",
+  "Host": "魯治卓索",
+  "OddStake": "2/2.5球",
+  "Guest": "薩比利斯",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "10-29 15:24",
+  "Person": "心情"
+}

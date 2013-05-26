@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬超",
+  "Time1": "05-09 22:00",
+  "Host": "古比斯",
+  "OddStake": "2/2.5球",
+  "Guest": "TPS杜古",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "05-09 19:08",
+  "Person": "绿茵红魔"
+}

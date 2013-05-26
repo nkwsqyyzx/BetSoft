@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "格雷納盃",
+  "Time1": "01-12 16:30",
+  "Host": "ONGC足球俱樂部",
+  "OddStake": "2.5球",
+  "Guest": "薩爾高卡",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-12 15:52",
+  "Person": "明明白白"
+}

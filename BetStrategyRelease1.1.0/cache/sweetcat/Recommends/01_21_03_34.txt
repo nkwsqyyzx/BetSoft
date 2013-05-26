@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-21 04:00",
+  "Host": "華倫西亞",
+  "OddStake": "受半球",
+  "Guest": "皇家馬德里",
+  "Prefer": "皇家馬德里",
+  "Odds": 1.02,
+  "Result": "0-5",
+  "PreferResult": 5,
+  "Time2": "01-21 03:34",
+  "Person": "sweetcat"
+}

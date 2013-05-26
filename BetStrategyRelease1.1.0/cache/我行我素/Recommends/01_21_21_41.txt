@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "01-22 03:30",
+  "Host": "甘岡",
+  "OddStake": "半球",
+  "Guest": "安格斯",
+  "Prefer": "安格斯",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "01-21 21:41",
+  "Person": "我行我素"
+}

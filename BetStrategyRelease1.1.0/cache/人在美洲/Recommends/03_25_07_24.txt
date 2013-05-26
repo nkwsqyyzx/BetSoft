@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "哥倫乙",
+  "Time1": "03-25 08:45",
+  "Host": "喀他基那",
+  "OddStake": "2.5球",
+  "Guest": "巴瑞庫拉",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "03-25 07:24",
+  "Person": "人在美洲"
+}

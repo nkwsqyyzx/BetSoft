@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英超",
+  "Time1": "03-17 23:59",
+  "Host": "切爾西",
+  "OddStake": "3/3.5球",
+  "Guest": "西漢姆",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "03-17 16:25",
+  "Person": "绿茵红魔"
+}

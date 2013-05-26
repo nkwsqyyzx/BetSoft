@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "葡聯盃",
+  "Time1": "02-28 03:45",
+  "Host": "布拉加",
+  "OddStake": "受半球",
+  "Guest": "賓菲加",
+  "Prefer": "布拉加",
+  "Odds": 0.84,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "02-28 01:22",
+  "Person": "bobo"
+}

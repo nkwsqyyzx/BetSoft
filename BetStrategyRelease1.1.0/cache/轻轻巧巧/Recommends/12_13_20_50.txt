@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西班牙盃",
+  "Time1": "12-14 03:00",
+  "Host": "利雲特",
+  "OddStake": "半球",
+  "Guest": "薩拉戈薩",
+  "Prefer": "薩拉戈薩",
+  "Odds": 0.94,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-13 20:50",
+  "Person": "轻轻巧巧"
+}

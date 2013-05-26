@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "斯亞甲",
+  "Time1": "05-18 23:00",
+  "Host": "哥里卡",
+  "OddStake": "2.5球",
+  "Guest": "拖里格拉瓦",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-18 21:05",
+  "Person": "格力电器"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-17 23:30",
+  "Host": "赫爾辛基",
+  "OddStake": "2.5球",
+  "Guest": "TPS杜古",
+  "Prefer": "小球",
+  "Odds": 0.97,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "05-17 17:36",
+  "Person": "格力电器"
+}

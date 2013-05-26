@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "荷乙",
+  "Time1": "11-25 21:30",
+  "Host": "鹿特丹斯巴達",
+  "OddStake": "半球",
+  "Guest": "多積治",
+  "Prefer": "鹿特丹斯巴達",
+  "Odds": 0.9,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "11-25 20:07",
+  "Person": "扬名立万"
+}

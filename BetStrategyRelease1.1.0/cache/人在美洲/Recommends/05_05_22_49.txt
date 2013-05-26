@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "05-05 23:00",
+  "Host": "曼聯",
+  "OddStake": "平/半",
+  "Guest": "切爾西",
+  "Prefer": "曼聯",
+  "Odds": 0.94,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-05 22:49",
+  "Person": "人在美洲"
+}

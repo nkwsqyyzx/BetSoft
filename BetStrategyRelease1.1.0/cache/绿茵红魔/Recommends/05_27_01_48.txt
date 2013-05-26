@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西甲",
+  "Time1": "05-27 02:00",
+  "Host": "皇家蘇斯達",
+  "OddStake": "平手",
+  "Guest": "皇家馬德里",
+  "Prefer": "皇家馬德里",
+  "Odds": 1.06,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 01:48",
+  "Person": "绿茵红魔"
+}

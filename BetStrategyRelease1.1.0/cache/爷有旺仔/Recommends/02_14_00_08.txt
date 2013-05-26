@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "蘇超",
+  "Time1": "02-14 03:45",
+  "Host": "恩華利斯",
+  "OddStake": "半球",
+  "Guest": "基馬諾克",
+  "Prefer": "基馬諾克",
+  "Odds": 1.08,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-14 00:08",
+  "Person": "爷有旺仔"
+}

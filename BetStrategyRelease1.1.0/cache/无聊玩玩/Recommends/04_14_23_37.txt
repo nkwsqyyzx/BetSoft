@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "04-14 23:59",
+  "Host": "特羅素",
+  "OddStake": "半/一",
+  "Guest": "山達勒斯",
+  "Prefer": "特羅素",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-14 23:37",
+  "Person": "无聊玩玩"
+}

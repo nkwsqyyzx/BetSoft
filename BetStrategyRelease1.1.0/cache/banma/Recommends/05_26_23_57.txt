@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西甲",
+  "Time1": "05-27 02:00",
+  "Host": "皇家貝迪斯",
+  "OddStake": "半球",
+  "Guest": "薩拉戈薩",
+  "Prefer": "薩拉戈薩",
+  "Odds": 0.91,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 23:57",
+  "Person": "banma"
+}

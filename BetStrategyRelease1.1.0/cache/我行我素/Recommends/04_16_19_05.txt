@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德巴聯",
+  "Time1": "04-17 00:15",
+  "Host": "佛羅納契",
+  "OddStake": "受半球",
+  "Guest": "1860羅森海姆隊",
+  "Prefer": "1860羅森海姆隊",
+  "Odds": 0.89,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "04-16 19:05",
+  "Person": "我行我素"
+}

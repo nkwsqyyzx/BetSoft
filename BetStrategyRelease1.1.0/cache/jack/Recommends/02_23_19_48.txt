@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德乙",
+  "Time1": "02-23 20:00",
+  "Host": "科隆",
+  "OddStake": "2.5球",
+  "Guest": "柏林聯",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-23 19:48",
+  "Person": "jack"
+}

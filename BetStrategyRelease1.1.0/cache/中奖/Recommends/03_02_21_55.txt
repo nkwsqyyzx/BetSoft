@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德甲",
+  "Time1": "03-02 22:30",
+  "Host": "漢堡",
+  "OddStake": "2.5球",
+  "Guest": "格拉特霍夫",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "03-02 21:55",
+  "Person": "中奖"
+}

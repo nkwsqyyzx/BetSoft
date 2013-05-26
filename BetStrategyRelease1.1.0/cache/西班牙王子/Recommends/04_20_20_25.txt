@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法聯盃",
+  "Time1": "04-21 03:00",
+  "Host": "聖伊天(中)",
+  "OddStake": "2/2.5球",
+  "Guest": "雷恩",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-20 20:25",
+  "Person": "西班牙王子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭乙",
+  "Time1": "05-20 01:00",
+  "Host": "克拉科維亞",
+  "OddStake": "2/2.5球",
+  "Guest": "弗洛塔",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-19 21:59",
+  "Person": "农夫果园"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡甲",
+  "Time1": "01-27 23:00",
+  "Host": "士砵亭B隊",
+  "OddStake": "2.5球",
+  "Guest": "葡萄牙體育會",
+  "Prefer": "小球",
+  "Odds": 1.0,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-27 22:46",
+  "Person": "印加帝国"
+}

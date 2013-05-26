@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "04-19 01:00",
+  "Host": "米亞爾比",
+  "OddStake": "平/半",
+  "Guest": "加費萊",
+  "Prefer": "米亞爾比",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-18 21:12",
+  "Person": "中奖"
+}

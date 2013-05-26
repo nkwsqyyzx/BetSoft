@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "03-06 03:45",
+  "Host": "般尼",
+  "OddStake": "半球",
+  "Guest": "班士利",
+  "Prefer": "班士利",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "03-05 21:42",
+  "Person": "轻轻巧巧"
+}

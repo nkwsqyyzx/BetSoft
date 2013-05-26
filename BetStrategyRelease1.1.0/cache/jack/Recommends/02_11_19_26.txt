@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-12 03:00",
+  "Host": "KR雷克查域克(中)",
+  "OddStake": "3.5球",
+  "Guest": "萊尼雷克查域克",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "02-11 19:26",
+  "Person": "jack"
+}

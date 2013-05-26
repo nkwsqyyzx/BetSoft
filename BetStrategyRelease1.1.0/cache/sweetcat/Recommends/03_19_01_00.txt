@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "希臘超",
+  "Time1": "03-19 01:30",
+  "Host": "彭拉伊高斯",
+  "OddStake": "半球",
+  "Guest": "薩丁",
+  "Prefer": "薩丁",
+  "Odds": 0.95,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "03-19 01:00",
+  "Person": "sweetcat"
+}

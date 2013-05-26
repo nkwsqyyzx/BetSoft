@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中超",
+  "Time1": "05-19 15:35",
+  "Host": "武漢卓爾",
+  "OddStake": "平手",
+  "Guest": "杭州綠城",
+  "Prefer": "武漢卓爾",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-19 13:10",
+  "Person": "玩球全靠蒙"
+}

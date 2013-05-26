@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭甲",
+  "Time1": "05-21 00:30",
+  "Host": "維澤夫洛茲",
+  "OddStake": "2/2.5球",
+  "Guest": "列治亞",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-20 23:07",
+  "Person": "我型我show"
+}

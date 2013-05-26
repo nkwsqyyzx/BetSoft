@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "04-28 23:59",
+  "Host": "特羅素",
+  "OddStake": "半/一",
+  "Guest": "候格森德",
+  "Prefer": "特羅素",
+  "Odds": 0.98,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "04-28 23:33",
+  "Person": "马勒当拿"
+}

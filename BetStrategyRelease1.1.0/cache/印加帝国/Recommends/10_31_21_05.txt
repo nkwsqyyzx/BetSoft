@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "葡聯盃",
+  "Time1": "10-31 23:59",
+  "Host": "伊斯托里爾",
+  "OddStake": "2/2.5球",
+  "Guest": "烏尼翁馬德拉",
+  "Prefer": "大球",
+  "Odds": 0.91,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "10-31 21:05",
+  "Person": "印加帝国"
+}

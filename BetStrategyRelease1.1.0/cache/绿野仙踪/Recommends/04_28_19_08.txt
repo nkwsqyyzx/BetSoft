@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "04-28 19:30",
+  "Host": "科隆",
+  "OddStake": "一球",
+  "Guest": "慕尼黑1860",
+  "Prefer": "慕尼黑1860",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-28 19:08",
+  "Person": "绿野仙踪"
+}

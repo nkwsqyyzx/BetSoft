@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "厄瓜甲",
+  "Time1": "05-20 01:00",
+  "Host": "曼塔",
+  "OddStake": "2/2.5球",
+  "Guest": "奎托",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-19 22:29",
+  "Person": "sos73"
+}

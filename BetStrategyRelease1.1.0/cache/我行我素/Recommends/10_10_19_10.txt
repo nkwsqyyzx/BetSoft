@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "巴西甲",
+  "Time1": "10-11 06:30",
+  "Host": "博塔福格RJ",
+  "OddStake": "半/一",
+  "Guest": "山度士",
+  "Prefer": "山度士",
+  "Odds": 0.95,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "10-10 19:10",
+  "Person": "我行我素"
+}

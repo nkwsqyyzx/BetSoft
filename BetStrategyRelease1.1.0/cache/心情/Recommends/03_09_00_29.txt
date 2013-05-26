@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "厄瓜甲",
+  "Time1": "03-09 08:45",
+  "Host": "羅加",
+  "OddStake": "2/2.5球",
+  "Guest": "奎托",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "03-09 00:29",
+  "Person": "心情"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-28 22:00",
+  "Host": "切爾西",
+  "OddStake": "球半",
+  "Guest": "史雲斯",
+  "Prefer": "史雲斯",
+  "Odds": 0.85,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-28 16:43",
+  "Person": "余韵犹在"
+}

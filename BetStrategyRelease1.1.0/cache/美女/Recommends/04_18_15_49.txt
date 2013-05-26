@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "印尼超",
+  "Time1": "04-18 16:30",
+  "Host": "伯希三普特拉沙馬林達",
+  "OddStake": "半/一",
+  "Guest": "巴厘巴板",
+  "Prefer": "伯希三普特拉沙馬林達",
+  "Odds": 0.88,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "04-18 15:49",
+  "Person": "美女"
+}

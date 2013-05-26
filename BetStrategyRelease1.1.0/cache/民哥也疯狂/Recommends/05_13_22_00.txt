@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬超",
+  "Time1": "05-13 23:30",
+  "Host": "拉迪",
+  "OddStake": "受半球",
+  "Guest": "赫爾辛基",
+  "Prefer": "赫爾辛基",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-13 22:00",
+  "Person": "民哥也疯狂"
+}

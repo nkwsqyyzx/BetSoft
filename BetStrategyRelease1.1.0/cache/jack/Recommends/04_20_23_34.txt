@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞士甲",
+  "Time1": "04-20 23:45",
+  "Host": "基亞索",
+  "OddStake": "平手",
+  "Guest": "溫特圖爾",
+  "Prefer": "溫特圖爾",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-20 23:34",
+  "Person": "jack"
+}

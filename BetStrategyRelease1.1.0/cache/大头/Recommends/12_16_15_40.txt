@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德U17南",
+  "Time1": "12-16 18:00",
+  "Host": "拜仁慕尼黑U17",
+  "OddStake": "半球",
+  "Guest": "緬恩斯U17",
+  "Prefer": "拜仁慕尼黑U17",
+  "Odds": 0.91,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "12-16 15:40",
+  "Person": "大头"
+}

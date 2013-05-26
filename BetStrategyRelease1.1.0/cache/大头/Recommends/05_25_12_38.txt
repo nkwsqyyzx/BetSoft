@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西乙",
+  "Time1": "05-25 13:00",
+  "Host": "清水心跳",
+  "OddStake": "2.5球",
+  "Guest": "仙台维加泰",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-25 12:38",
+  "Person": "大头"
+}

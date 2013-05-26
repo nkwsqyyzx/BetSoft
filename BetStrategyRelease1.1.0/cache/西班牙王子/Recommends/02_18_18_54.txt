@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意甲",
+  "Time1": "02-19 03:45",
+  "Host": "錫耶納",
+  "OddStake": "受平/半",
+  "Guest": "拉素",
+  "Prefer": "錫耶納",
+  "Odds": 0.84,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "02-18 18:54",
+  "Person": "西班牙王子"
+}

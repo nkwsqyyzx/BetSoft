@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "丹麥超",
+  "Time1": "03-04 02:00",
+  "Host": "奧丹斯",
+  "OddStake": "受半球",
+  "Guest": "哥本哈根",
+  "Prefer": "哥本哈根",
+  "Odds": 0.91,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "03-04 01:35",
+  "Person": "bobo"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "葡甲",
+  "Time1": "04-17 22:00",
+  "Host": "烏尼翁馬德拉",
+  "OddStake": "2/2.5球",
+  "Guest": "科維拉",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-17 21:39",
+  "Person": "余韵犹在"
+}

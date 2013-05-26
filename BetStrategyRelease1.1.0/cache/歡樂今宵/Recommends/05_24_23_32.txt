@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿甲",
+  "Time1": "05-25 05:10",
+  "Host": "科隆競技",
+  "OddStake": "半球",
+  "Guest": "男孩競技",
+  "Prefer": "科隆競技",
+  "Odds": 1.06,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-24 23:32",
+  "Person": "歡樂今宵"
+}

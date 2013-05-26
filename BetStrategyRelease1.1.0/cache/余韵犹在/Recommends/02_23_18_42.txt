@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "冰聯盃",
+  "Time1": "02-23 19:00",
+  "Host": "貝雷達比歷克(中)",
+  "OddStake": "半球",
+  "Guest": "華路",
+  "Prefer": "華路",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-23 18:42",
+  "Person": "余韵犹在"
+}

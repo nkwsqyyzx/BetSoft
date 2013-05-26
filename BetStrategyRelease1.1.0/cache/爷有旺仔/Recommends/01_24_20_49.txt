@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "土耳其盃",
+  "Time1": "01-25 00:30",
+  "Host": "伊斯基錫海斯普",
+  "OddStake": "半球",
+  "Guest": "安迪亞斯堡",
+  "Prefer": "安迪亞斯堡",
+  "Odds": 1.01,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-24 20:49",
+  "Person": "爷有旺仔"
+}

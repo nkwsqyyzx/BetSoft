@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-16 23:59",
+  "Host": "莫迪",
+  "OddStake": "2.5/3球",
+  "Guest": "候格森德",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-5",
+  "PreferResult": 5,
+  "Time2": "05-16 23:19",
+  "Person": "中奖太简单啦"
+}

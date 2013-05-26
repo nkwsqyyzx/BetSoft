@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法聯盃",
+  "Time1": "10-31 03:00",
+  "Host": "雷恩",
+  "OddStake": "一球/球半",
+  "Guest": "阿萊斯亞維農",
+  "Prefer": "雷恩",
+  "Odds": 0.93,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "10-30 17:53",
+  "Person": "我行我素"
+}

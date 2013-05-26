@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "02-09 03:00",
+  "Host": "卡昂",
+  "OddStake": "半/一",
+  "Guest": "色當",
+  "Prefer": "卡昂",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-08 23:35",
+  "Person": "人在美洲"
+}

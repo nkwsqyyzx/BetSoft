@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "哥倫甲",
+  "Time1": "02-04 08:45",
+  "Host": "托利馬",
+  "OddStake": "2/2.5球",
+  "Guest": "曼特寧獨立",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-03 22:32",
+  "Person": "扬名立万"
+}

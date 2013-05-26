@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "意丙附",
+  "Time1": "05-26 22:00",
+  "Host": "雷納特",
+  "OddStake": "平/半",
+  "Guest": "威尼基亞",
+  "Prefer": "威尼基亞",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-26 20:50",
+  "Person": "兰帕德"
+}

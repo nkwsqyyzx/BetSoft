@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "羅乙1",
+  "Time1": "12-01 19:00",
+  "Host": "歐特佩尼",
+  "OddStake": "2.5/3球",
+  "Guest": "蘇西瓦迅速",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "12-01 18:10",
+  "Person": "我行我素"
+}

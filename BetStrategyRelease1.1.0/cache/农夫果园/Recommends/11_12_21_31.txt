@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "希臘超",
+  "Time1": "11-13 01:30",
+  "Host": "克基拉",
+  "OddStake": "受半球",
+  "Guest": "彭拿典奈高斯",
+  "Prefer": "克基拉",
+  "Odds": 0.97,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-12 21:31",
+  "Person": "农夫果园"
+}

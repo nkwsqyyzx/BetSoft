@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐霸盃",
+  "Time1": "04-26 03:05",
+  "Host": "巴素利",
+  "OddStake": "受平/半",
+  "Guest": "切爾西",
+  "Prefer": "巴素利",
+  "Odds": 0.81,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "04-25 23:58",
+  "Person": "我行我素"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威甲",
+  "Time1": "05-23 01:00",
+  "Host": "克里斯達桑德",
+  "OddStake": "半球",
+  "Guest": "禾特",
+  "Prefer": "禾特",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-23 00:44",
+  "Person": "马勒当拿"
+}

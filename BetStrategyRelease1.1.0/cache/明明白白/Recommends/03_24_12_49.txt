@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "韓挑K聯",
+  "Time1": "03-24 13:00",
+  "Host": "光州足球俱樂部",
+  "OddStake": "2.5球",
+  "Guest": "忠州胡默爾",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "03-24 12:49",
+  "Person": "明明白白"
+}

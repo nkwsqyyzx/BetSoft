@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "04-03 02:45",
+  "Host": "拜仁慕尼黑",
+  "OddStake": "一球",
+  "Guest": "祖雲達斯",
+  "Prefer": "祖雲達斯",
+  "Odds": 0.81,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-02 22:37",
+  "Person": "天之骄子"
+}

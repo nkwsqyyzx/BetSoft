@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中超",
+  "Time1": "04-20 15:35",
+  "Host": "武漢卓爾",
+  "OddStake": "受平/半",
+  "Guest": "廣州富力",
+  "Prefer": "武漢卓爾",
+  "Odds": 0.81,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "04-20 13:43",
+  "Person": "美女"
+}

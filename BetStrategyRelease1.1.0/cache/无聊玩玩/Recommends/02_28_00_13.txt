@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "匈盃",
+  "Time1": "02-28 01:00",
+  "Host": "吉奧利",
+  "OddStake": "半/一",
+  "Guest": "漢維德",
+  "Prefer": "吉奧利",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-28 00:13",
+  "Person": "无聊玩玩"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德甲",
+  "Time1": "02-02 22:30",
+  "Host": "緬恩斯",
+  "OddStake": "受一球",
+  "Guest": "拜仁慕尼黑",
+  "Prefer": "緬恩斯",
+  "Odds": 1.09,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "02-02 20:25",
+  "Person": "天之骄子"
+}

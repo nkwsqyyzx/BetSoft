@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "北美預選",
+  "Time1": "03-23 10:00",
+  "Host": "美國",
+  "OddStake": "半/一",
+  "Guest": "哥斯達黎加",
+  "Prefer": "美國",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "03-23 09:38",
+  "Person": "绿茵红魔"
+}

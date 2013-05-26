@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-20 18:30",
+  "Host": "布里斯本前鋒",
+  "OddStake": "受半球",
+  "Guest": "潘尼蘇拉",
+  "Prefer": "潘尼蘇拉",
+  "Odds": 0.85,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "02-20 18:13",
+  "Person": "bobo"
+}

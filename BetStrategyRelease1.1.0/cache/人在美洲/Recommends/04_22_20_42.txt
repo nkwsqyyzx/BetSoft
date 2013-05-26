@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典甲",
+  "Time1": "04-23 01:20",
+  "Host": "奧基迪",
+  "OddStake": "平/半",
+  "Guest": "柏瑞格",
+  "Prefer": "奧基迪",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-22 20:42",
+  "Person": "人在美洲"
+}

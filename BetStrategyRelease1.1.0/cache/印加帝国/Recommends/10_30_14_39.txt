@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英非南",
+  "Time1": "10-31 03:45",
+  "Host": "侯恩喬奇",
+  "OddStake": "2.5/3球",
+  "Guest": "切爾弗德",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "10-30 14:39",
+  "Person": "印加帝国"
+}

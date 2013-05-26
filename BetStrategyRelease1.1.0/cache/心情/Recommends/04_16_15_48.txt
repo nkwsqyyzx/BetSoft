@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "馬足總",
+  "Time1": "04-16 20:15",
+  "Host": "砂勞越",
+  "OddStake": "2.5/3球",
+  "Guest": "吉蘭丹",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "04-16 15:48",
+  "Person": "心情"
+}

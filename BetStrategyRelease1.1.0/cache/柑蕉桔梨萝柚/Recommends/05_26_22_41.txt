@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西甲",
+  "Time1": "05-27 02:00",
+  "Host": "皇家蘇斯達",
+  "OddStake": "平手",
+  "Guest": "皇家馬德里",
+  "Prefer": "皇家蘇斯達",
+  "Odds": 0.88,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 22:41",
+  "Person": "柑蕉桔梨萝柚"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "委内超秋",
+  "Time1": "05-23 07:30",
+  "Host": "祖積蘭奴斯",
+  "OddStake": "一球",
+  "Guest": "艾爾維吉亞",
+  "Prefer": "祖積蘭奴斯",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-23 07:12",
+  "Person": "八月十日"
+}

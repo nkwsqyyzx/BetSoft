@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英乙",
+  "Time1": "01-26 23:00",
+  "Host": "保頓艾爾賓",
+  "OddStake": "半球",
+  "Guest": "班列特",
+  "Prefer": "班列特",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-26 21:49",
+  "Person": "中奖"
+}

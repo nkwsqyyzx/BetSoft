@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬超",
+  "Time1": "05-02 23:30",
+  "Host": "英特杜古",
+  "OddStake": "受半/一",
+  "Guest": "赫爾辛基",
+  "Prefer": "英特杜古",
+  "Odds": 0.9,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "05-02 14:25",
+  "Person": "天巧星燕青"
+}

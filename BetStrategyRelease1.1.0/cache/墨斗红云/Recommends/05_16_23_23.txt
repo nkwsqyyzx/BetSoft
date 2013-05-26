@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士超",
+  "Time1": "05-17 01:45",
+  "Host": "巴素利",
+  "OddStake": "两球",
+  "Guest": "洛桑體育隊",
+  "Prefer": "巴素利",
+  "Odds": 1.01,
+  "Result": "2-0",
+  "PreferResult": 3,
+  "Time2": "05-16 23:23",
+  "Person": "墨斗红云"
+}

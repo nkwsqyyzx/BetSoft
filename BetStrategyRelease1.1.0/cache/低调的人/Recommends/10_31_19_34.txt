@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄盃",
+  "Time1": "10-31 20:00",
+  "Host": "安芝",
+  "OddStake": "球半",
+  "Guest": "蘇維杜夫",
+  "Prefer": "蘇維杜夫",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "10-31 19:34",
+  "Person": "低调的人"
+}

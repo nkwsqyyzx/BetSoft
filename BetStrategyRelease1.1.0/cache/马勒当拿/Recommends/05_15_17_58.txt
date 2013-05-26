@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日聯盃",
+  "Time1": "05-15 18:30",
+  "Host": "橫濱水手",
+  "OddStake": "半球",
+  "Guest": "磐田山葉",
+  "Prefer": "磐田山葉",
+  "Odds": 0.89,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-15 17:58",
+  "Person": "马勒当拿"
+}

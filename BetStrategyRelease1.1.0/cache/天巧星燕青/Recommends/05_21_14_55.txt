@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "印尼超",
+  "Time1": "05-21 16:30",
+  "Host": "巴日托",
+  "OddStake": "2.5/3球",
+  "Guest": "密特拉庫卡",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "5-1",
+  "PreferResult": 1,
+  "Time2": "05-21 14:55",
+  "Person": "天巧星燕青"
+}

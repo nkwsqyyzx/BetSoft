@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-24 01:00",
+  "Host": "艾夫斯堡",
+  "OddStake": "球半",
+  "Guest": "布諾馬博亞納",
+  "Prefer": "艾夫斯堡",
+  "Odds": 0.94,
+  "Result": "6-0",
+  "PreferResult": 5,
+  "Time2": "05-23 23:50",
+  "Person": "余韵犹在"
+}

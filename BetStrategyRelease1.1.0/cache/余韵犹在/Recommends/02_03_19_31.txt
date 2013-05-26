@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷甲",
+  "Time1": "02-03 21:30",
+  "Host": "雲路",
+  "OddStake": "受球半",
+  "Guest": "阿積士",
+  "Prefer": "阿積士",
+  "Odds": 0.98,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "02-03 19:31",
+  "Person": "余韵犹在"
+}

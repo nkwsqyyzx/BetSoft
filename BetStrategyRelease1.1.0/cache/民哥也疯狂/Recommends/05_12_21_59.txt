@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "05-12 23:00",
+  "Host": "皇家貝迪斯",
+  "OddStake": "半球",
+  "Guest": "切爾達",
+  "Prefer": "皇家貝迪斯",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-12 21:59",
+  "Person": "民哥也疯狂"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "羅甲",
+  "Time1": "05-18 00:30",
+  "Host": "克盧日",
+  "OddStake": "半球",
+  "Guest": "康戈迪亞齊安",
+  "Prefer": "康戈迪亞齊安",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-17 21:25",
+  "Person": "农夫果园"
+}

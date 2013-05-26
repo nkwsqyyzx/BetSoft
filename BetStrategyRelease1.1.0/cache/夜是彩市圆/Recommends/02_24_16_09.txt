@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "瑞士超",
+  "Time1": "02-24 20:45",
+  "Host": "杜安",
+  "OddStake": "2/2.5球",
+  "Guest": "錫昂",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "02-24 16:09",
+  "Person": "夜是彩市圆"
+}

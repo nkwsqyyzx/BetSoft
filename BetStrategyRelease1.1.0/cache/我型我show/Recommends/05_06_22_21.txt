@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "以色列甲",
+  "Time1": "05-07 00:15",
+  "Host": "彼達提克瓦夏普",
+  "OddStake": "2/2.5球",
+  "Guest": "拿撒勒伊里特夏普爾",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-06 22:21",
+  "Person": "我型我show"
+}

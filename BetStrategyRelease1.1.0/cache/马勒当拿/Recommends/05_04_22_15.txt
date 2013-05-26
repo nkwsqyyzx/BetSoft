@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "葡甲",
+  "Time1": "05-04 23:00",
+  "Host": "士砵亭B隊",
+  "OddStake": "半球",
+  "Guest": "通迪拉",
+  "Prefer": "通迪拉",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-04 22:15",
+  "Person": "马勒当拿"
+}

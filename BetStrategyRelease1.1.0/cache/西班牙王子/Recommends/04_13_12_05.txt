@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "芬超",
+  "Time1": "04-13 19:00",
+  "Host": "TPS杜古",
+  "OddStake": "半球",
+  "Guest": "洪卡",
+  "Prefer": "洪卡",
+  "Odds": 0.94,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-13 12:05",
+  "Person": "西班牙王子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德甲",
+  "Time1": "03-02 03:30",
+  "Host": "法蘭克福",
+  "OddStake": "半球",
+  "Guest": "慕遜加柏",
+  "Prefer": "慕遜加柏",
+  "Odds": 0.83,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-01 23:04",
+  "Person": "bobo"
+}

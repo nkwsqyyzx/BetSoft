@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "非國盃",
+  "Time1": "01-25 02:00",
+  "Host": "尼日爾(中)",
+  "OddStake": "受半/一",
+  "Guest": "剛果民主共和國",
+  "Prefer": "尼日爾(中)",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-25 00:25",
+  "Person": "天之骄子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "02-05 22:00",
+  "Host": "斯洛伐克U17(中)",
+  "OddStake": "受半球",
+  "Guest": "丹麥U17",
+  "Prefer": "斯洛伐克U17(中)",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-05 20:54",
+  "Person": "大头"
+}

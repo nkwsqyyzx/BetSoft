@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英乙",
+  "Time1": "02-23 23:00",
+  "Host": "杜根咸",
+  "OddStake": "半球",
+  "Guest": "威布雷登",
+  "Prefer": "威布雷登",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-23 22:44",
+  "Person": "bobo"
+}

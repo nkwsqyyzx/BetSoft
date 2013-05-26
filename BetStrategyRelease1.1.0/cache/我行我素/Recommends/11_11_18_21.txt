@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "挪威甲",
+  "Time1": "11-11 20:00",
+  "Host": "歐倫薩可",
+  "OddStake": "半球",
+  "Guest": "拜尼",
+  "Prefer": "拜尼",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "11-11 18:21",
+  "Person": "我行我素"
+}

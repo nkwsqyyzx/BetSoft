@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-15 01:00",
+  "Host": "安哥拉(中)",
+  "OddStake": "半球",
+  "Guest": "剛果",
+  "Prefer": "剛果",
+  "Odds": 0.81,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "11-14 22:26",
+  "Person": "爷有旺仔"
+}

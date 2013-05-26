@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "以色列甲",
+  "Time1": "02-05 01:00",
+  "Host": "耶路撒冷夏普爾",
+  "OddStake": "半球",
+  "Guest": "法薩巴夏普爾",
+  "Prefer": "耶路撒冷夏普爾",
+  "Odds": 0.84,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-04 20:40",
+  "Person": "大头"
+}

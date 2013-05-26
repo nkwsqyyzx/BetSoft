@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "波蘭甲",
+  "Time1": "02-23 20:30",
+  "Host": "保德比斯基",
+  "OddStake": "受平/半",
+  "Guest": "喬治羅尼亞",
+  "Prefer": "保德比斯基",
+  "Odds": 0.97,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "02-23 20:15",
+  "Person": "爷有旺仔"
+}

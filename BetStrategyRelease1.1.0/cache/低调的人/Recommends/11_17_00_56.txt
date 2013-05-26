@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-17 03:30",
+  "Host": "慕尼黑1860",
+  "OddStake": "平/半",
+  "Guest": "科隆",
+  "Prefer": "科隆",
+  "Odds": 0.93,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "11-17 00:56",
+  "Person": "低调的人"
+}

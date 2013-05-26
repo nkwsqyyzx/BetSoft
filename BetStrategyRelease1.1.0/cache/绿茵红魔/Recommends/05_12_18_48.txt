@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "05-12 20:30",
+  "Host": "斯托克城",
+  "OddStake": "受半球",
+  "Guest": "托特納姆熱刺",
+  "Prefer": "斯托克城",
+  "Odds": 0.99,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-12 18:48",
+  "Person": "绿茵红魔"
+}

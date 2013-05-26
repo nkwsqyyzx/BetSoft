@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "05-14 01:00",
+  "Host": "布諾馬博亞納",
+  "OddStake": "平手",
+  "Guest": "加費萊",
+  "Prefer": "加費萊",
+  "Odds": 1.08,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "05-13 23:02",
+  "Person": "sos73"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "加拿超",
+  "Time1": "05-11 08:30",
+  "Host": "倫敦城",
+  "OddStake": "平/半",
+  "Guest": "尼亞加拉聯",
+  "Prefer": "尼亞加拉聯",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "05-11 03:33",
+  "Person": "无聊玩玩"
+}

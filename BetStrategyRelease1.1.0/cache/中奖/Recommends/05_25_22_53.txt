@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西甲",
+  "Time1": "05-26 05:30",
+  "Host": "華斯高RJ",
+  "OddStake": "2.5球",
+  "Guest": "波圖加沙",
+  "Prefer": "小球",
+  "Odds": 0.813,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-25 22:53",
+  "Person": "中奖"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "厄瓜甲",
+  "Time1": "01-31 04:15",
+  "Host": "基多",
+  "OddStake": "2/2.5球",
+  "Guest": "奎維多體育",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "01-30 18:06",
+  "Person": "我型我show"
+}

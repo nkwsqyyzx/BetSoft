@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳青聯",
+  "Time1": "02-17 13:00",
+  "Host": "悉尼青年隊U21",
+  "OddStake": "受半球",
+  "Guest": "中央海岸青年隊U21",
+  "Prefer": "中央海岸青年隊U21",
+  "Odds": 0.97,
+  "Result": "0-4",
+  "PreferResult": 3,
+  "Time2": "02-17 12:47",
+  "Person": "明明白白"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-16 23:59",
+  "Host": "西布朗",
+  "OddStake": "半球",
+  "Guest": "西漢姆",
+  "Prefer": "西漢姆",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "12-16 16:41",
+  "Person": "天之骄子"
+}

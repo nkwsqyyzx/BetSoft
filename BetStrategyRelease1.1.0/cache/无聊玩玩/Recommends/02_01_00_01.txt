@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "02-01 05:00",
+  "Host": "馬德里體育會",
+  "OddStake": "半/一",
+  "Guest": "塞維利亞",
+  "Prefer": "馬德里體育會",
+  "Odds": 0.99,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "02-01 00:01",
+  "Person": "无聊玩玩"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "友誼賽",
+  "Time1": "10-11 22:00",
+  "Host": "里德(中)",
+  "OddStake": "半球",
+  "Guest": "布迪祖懷斯",
+  "Prefer": "布迪祖懷斯",
+  "Odds": 0.83,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "10-11 21:22",
+  "Person": "sweetcat"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "伊朗超",
+  "Time1": "02-08 20:00",
+  "Host": "弗蘭候薩斯坦",
+  "OddStake": "2/2.5球",
+  "Guest": "紮巴漢",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-08 19:39",
+  "Person": "九月九的酒"
+}

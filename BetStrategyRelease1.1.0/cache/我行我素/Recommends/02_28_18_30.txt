@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "03-01 06:15",
+  "Host": "利伯泰德",
+  "OddStake": "半球",
+  "Guest": "彭美拉斯",
+  "Prefer": "利伯泰德",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-28 18:30",
+  "Person": "我行我素"
+}

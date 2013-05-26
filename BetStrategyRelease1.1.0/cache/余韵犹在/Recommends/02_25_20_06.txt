@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "羅甲",
+  "Time1": "02-25 23:59",
+  "Host": "阿斯特拉吉爾古",
+  "OddStake": "一球",
+  "Guest": "維托魯康斯坦薩",
+  "Prefer": "阿斯特拉吉爾古",
+  "Odds": 1.01,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-25 20:06",
+  "Person": "余韵犹在"
+}

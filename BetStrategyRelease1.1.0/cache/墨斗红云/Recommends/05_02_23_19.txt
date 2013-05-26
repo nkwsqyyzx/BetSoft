@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "塞爾甲",
+  "Time1": "05-03 00:30",
+  "Host": "柏迪遜",
+  "OddStake": "2.5/3球",
+  "Guest": "尼斯拉德尼基",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "05-02 23:19",
+  "Person": "墨斗红云"
+}

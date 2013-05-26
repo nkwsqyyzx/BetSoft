@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "土甲",
+  "Time1": "10-09 01:00",
+  "Host": "特拉仲",
+  "OddStake": "2/2.5球",
+  "Guest": "馬尼沙斯堡",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "10-09 00:26",
+  "Person": "godball"
+}

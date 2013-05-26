@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "02-22 06:15",
+  "Host": "波特諾",
+  "OddStake": "2.5球",
+  "Guest": "皇家加西拉索",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-21 21:00",
+  "Person": "中奖"
+}

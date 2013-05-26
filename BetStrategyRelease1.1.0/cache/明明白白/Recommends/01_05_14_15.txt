@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "高級銀牌",
+  "Time1": "01-05 14:30",
+  "Host": "公民",
+  "OddStake": "受一球",
+  "Guest": "南華",
+  "Prefer": "公民",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-05 14:15",
+  "Person": "明明白白"
+}

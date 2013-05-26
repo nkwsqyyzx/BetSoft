@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "01-26 03:00",
+  "Host": "尼歐特",
+  "OddStake": "2/2.5球",
+  "Guest": "拉華爾",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-25 19:52",
+  "Person": "九月九的酒"
+}

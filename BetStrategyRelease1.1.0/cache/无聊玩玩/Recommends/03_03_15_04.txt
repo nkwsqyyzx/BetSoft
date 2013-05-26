@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "葡甲",
+  "Time1": "03-03 23:59",
+  "Host": "辛達卡拉",
+  "OddStake": "半/一",
+  "Guest": "甘馬雷斯B隊",
+  "Prefer": "辛達卡拉",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "03-03 15:04",
+  "Person": "无聊玩玩"
+}

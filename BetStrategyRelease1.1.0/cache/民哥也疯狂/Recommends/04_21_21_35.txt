@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-21 23:00",
+  "Host": "利物浦",
+  "OddStake": "2.5/3球",
+  "Guest": "切爾西",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "04-21 21:35",
+  "Person": "民哥也疯狂"
+}

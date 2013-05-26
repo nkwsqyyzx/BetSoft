@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法乙",
+  "Time1": "05-18 02:30",
+  "Host": "尼歐特",
+  "OddStake": "半球",
+  "Guest": "奈梅斯",
+  "Prefer": "尼歐特",
+  "Odds": 0.82,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-17 22:28",
+  "Person": "BUICKfifa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "05-08 23:59",
+  "Host": "比斯卡拉",
+  "OddStake": "3/3.5球",
+  "Guest": "AC米蘭",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "05-08 22:35",
+  "Person": "绿茵红魔"
+}

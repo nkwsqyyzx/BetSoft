@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-16 21:30",
+  "Host": "托特納姆熱刺",
+  "OddStake": "半/一",
+  "Guest": "史雲斯",
+  "Prefer": "托特納姆熱刺",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "12-16 12:36",
+  "Person": "赢球偷着乐"
+}

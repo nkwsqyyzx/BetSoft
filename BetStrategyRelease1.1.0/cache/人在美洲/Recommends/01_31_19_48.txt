@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷蘭盃",
+  "Time1": "02-01 03:45",
+  "Host": "維迪斯(中)",
+  "OddStake": "受半/一",
+  "Guest": "阿積士",
+  "Prefer": "阿積士",
+  "Odds": 0.92,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "01-31 19:48",
+  "Person": "人在美洲"
+}

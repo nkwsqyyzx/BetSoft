@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "烏克U21",
+  "Time1": "05-17 21:00",
+  "Host": "基輔阿森納U21",
+  "OddStake": "平/半",
+  "Guest": "沃斯卡拉U21",
+  "Prefer": "沃斯卡拉U21",
+  "Odds": 0.8,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "05-17 20:33",
+  "Person": "飘雪"
+}

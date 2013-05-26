@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德丙聯",
+  "Time1": "05-05 00:15",
+  "Host": "聖彼德斯堡澤尼特",
+  "OddStake": "2.5/3球",
+  "Guest": "阿蘭尼亞瓦拉",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "05-05 00:05",
+  "Person": "jack"
+}

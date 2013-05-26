@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-13 19:00",
+  "Host": "博爾切圖",
+  "OddStake": "2.5球",
+  "Guest": "維澤夫洛茲",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "12-13 15:24",
+  "Person": "格力电器"
+}

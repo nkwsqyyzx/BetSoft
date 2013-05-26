@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德乙",
+  "Time1": "02-23 01:00",
+  "Host": "聖保利",
+  "OddStake": "2.5球",
+  "Guest": "FSV法蘭克福",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "02-23 00:02",
+  "Person": "大头"
+}

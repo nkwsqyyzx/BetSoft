@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德甲",
+  "Time1": "01-26 03:30",
+  "Host": "多特蒙德",
+  "OddStake": "两球",
+  "Guest": "紐倫堡",
+  "Prefer": "多特蒙德",
+  "Odds": 0.98,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "01-25 15:07",
+  "Person": "天之骄子"
+}

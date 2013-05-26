@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "埃及甲",
+  "Time1": "05-07 21:30",
+  "Host": "依斯麥里",
+  "OddStake": "半/一",
+  "Guest": "達克爾野",
+  "Prefer": "達克爾野",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-07 16:54",
+  "Person": "我型我show"
+}

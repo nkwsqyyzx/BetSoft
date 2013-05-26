@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意丙2A",
+  "Time1": "03-13 21:30",
+  "Host": "瓦利歐斯特",
+  "OddStake": "2/2.5球",
+  "Guest": "亞歷山德利亞",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-13 19:01",
+  "Person": "格力电器"
+}

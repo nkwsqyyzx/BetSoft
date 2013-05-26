@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法甲",
+  "Time1": "04-28 02:00",
+  "Host": "華倫西恩斯",
+  "OddStake": "平/半",
+  "Guest": "南錫",
+  "Prefer": "南錫",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "04-28 00:36",
+  "Person": "无聊玩玩"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "伊朗超",
+  "Time1": "12-25 19:30",
+  "Host": "瑪拉宛",
+  "OddStake": "2/2.5球",
+  "Guest": "高赫紮格魯",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-25 14:26",
+  "Person": "美女"
+}

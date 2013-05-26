@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "智利春",
+  "Time1": "04-21 03:00",
+  "Host": "伊庫伊奎",
+  "OddStake": "2.5球",
+  "Guest": "紐柏萊斯",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-20 23:18",
+  "Person": "农夫果园"
+}

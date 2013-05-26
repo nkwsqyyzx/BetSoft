@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典女超",
+  "Time1": "05-15 01:20",
+  "Host": "烏米亞IK女足",
+  "OddStake": "球半/两球",
+  "Guest": "桑納納女足",
+  "Prefer": "烏米亞IK女足",
+  "Odds": 0.88,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "05-14 22:13",
+  "Person": "印加帝国"
+}

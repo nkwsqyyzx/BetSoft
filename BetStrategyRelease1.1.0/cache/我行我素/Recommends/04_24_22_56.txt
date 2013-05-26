@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德青西",
+  "Time1": "04-25 00:30",
+  "Host": "波鴻U19",
+  "OddStake": "受平/半",
+  "Guest": "利華古遜U19",
+  "Prefer": "波鴻U19",
+  "Odds": 0.83,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-24 22:56",
+  "Person": "我行我素"
+}

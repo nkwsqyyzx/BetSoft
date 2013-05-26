@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫甲",
+  "Time1": "04-17 09:10",
+  "Host": "國家體育會",
+  "OddStake": "2/2.5球",
+  "Guest": "米倫拿列奧",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-17 07:59",
+  "Person": "身不由己"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意乙",
+  "Time1": "04-17 02:45",
+  "Host": "恩波里",
+  "OddStake": "2.5球",
+  "Guest": "祖華史塔比亞",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "04-16 18:58",
+  "Person": "轻轻巧巧"
+}

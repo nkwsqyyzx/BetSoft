@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德東北聯",
+  "Time1": "05-26 08:00",
+  "Host": "ABCRN",
+  "OddStake": "2.5球",
+  "Guest": "柏拉拿",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "05-26 00:26",
+  "Person": "10分钟到账"
+}

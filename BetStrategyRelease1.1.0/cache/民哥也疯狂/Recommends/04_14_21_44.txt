@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-15 01:00",
+  "Host": "薩拉戈薩",
+  "OddStake": "2.5/3球",
+  "Guest": "巴塞羅那",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "0-3",
+  "PreferResult": 4,
+  "Time2": "04-14 21:44",
+  "Person": "民哥也疯狂"
+}

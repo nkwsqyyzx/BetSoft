@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-24 01:00",
+  "Host": "蘭斯干拿",
+  "OddStake": "2.5/3球",
+  "Guest": "法肯柏爾",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-23 15:00",
+  "Person": "扬名立万"
+}

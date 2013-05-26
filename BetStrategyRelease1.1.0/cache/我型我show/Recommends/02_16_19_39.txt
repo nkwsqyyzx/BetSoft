@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "马来超",
+  "Time1": "02-16 21:30",
+  "Host": "鉑星",
+  "OddStake": "半/一",
+  "Guest": "阿積士開普敦",
+  "Prefer": "鉑星",
+  "Odds": 1.06,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "02-16 19:39",
+  "Person": "我型我show"
+}

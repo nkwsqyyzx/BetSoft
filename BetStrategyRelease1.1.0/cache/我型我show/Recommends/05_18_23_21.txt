@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "秘魯春",
+  "Time1": "05-19 04:45",
+  "Host": "萬卡",
+  "OddStake": "2/2.5球",
+  "Guest": "皇家加西拉索",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-18 23:21",
+  "Person": "我型我show"
+}

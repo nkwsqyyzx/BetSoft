@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-21 01:05",
+  "Host": "希爾星堡",
+  "OddStake": "半球",
+  "Guest": "艾夫斯堡",
+  "Prefer": "希爾星堡",
+  "Odds": 1.08,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-21 00:49",
+  "Person": "中奖太简单啦"
+}

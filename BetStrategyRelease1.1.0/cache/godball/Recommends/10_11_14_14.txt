@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "巴西甲",
+  "Time1": "10-12 08:00",
+  "Host": "彭美拉斯",
+  "OddStake": "2.5球",
+  "Guest": "哥里迪巴",
+  "Prefer": "小球",
+  "Odds": 0.97,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "10-11 14:14",
+  "Person": "godball"
+}

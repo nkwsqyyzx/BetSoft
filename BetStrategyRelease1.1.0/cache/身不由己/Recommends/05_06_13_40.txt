@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英甲",
+  "Time1": "05-06 23:30",
+  "Host": "賓福特",
+  "OddStake": "2/2.5球",
+  "Guest": "史雲頓",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "05-06 13:40",
+  "Person": "身不由己"
+}

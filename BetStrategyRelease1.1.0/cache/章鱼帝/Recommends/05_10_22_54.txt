@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "斯伐甲",
+  "Time1": "05-11 00:30",
+  "Host": "辛尼卡",
+  "OddStake": "2.5球",
+  "Guest": "特倫辛",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-10 22:54",
+  "Person": "章鱼帝"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "斯亞甲",
+  "Time1": "04-17 22:00",
+  "Host": "亞魯米尼",
+  "OddStake": "2.5/3球",
+  "Guest": "奧林比查",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-17 20:38",
+  "Person": "我行我素"
+}

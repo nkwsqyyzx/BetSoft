@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-30 18:30",
+  "Host": "貴州人和",
+  "OddStake": "半球",
+  "Guest": "水原三星",
+  "Prefer": "水原三星",
+  "Odds": 0.94,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "04-30 14:45",
+  "Person": "马勒当拿"
+}

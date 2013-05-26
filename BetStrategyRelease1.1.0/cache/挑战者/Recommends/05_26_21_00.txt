@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "捷克甲",
+  "Time1": "05-26 23:59",
+  "Host": "普利布蘭",
+  "OddStake": "半/一",
+  "Guest": "澤伯約維卡般奴",
+  "Prefer": "澤伯約維卡般奴",
+  "Odds": 1.09,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-26 21:00",
+  "Person": "挑战者"
+}

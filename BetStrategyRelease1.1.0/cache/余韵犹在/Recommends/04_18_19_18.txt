@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "04-19 09:00",
+  "Host": "華奇巴托",
+  "OddStake": "受平/半",
+  "Guest": "甘美奧",
+  "Prefer": "華奇巴托",
+  "Odds": 1.04,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-18 19:18",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "墨西乙",
+  "Time1": "11-18 06:00",
+  "Host": "羅伯士BUAP",
+  "OddStake": "半球",
+  "Guest": "梅利達",
+  "Prefer": "梅利達",
+  "Odds": 0.8,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "11-18 00:58",
+  "Person": "心情"
+}

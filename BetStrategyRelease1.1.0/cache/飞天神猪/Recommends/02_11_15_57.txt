@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "塞浦甲",
+  "Time1": "02-12 01:00",
+  "Host": "阿亞納帕",
+  "OddStake": "受球半/两球",
+  "Guest": "阿普爾",
+  "Prefer": "阿普爾",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 4,
+  "Time2": "02-11 15:57",
+  "Person": "飞天神猪"
+}

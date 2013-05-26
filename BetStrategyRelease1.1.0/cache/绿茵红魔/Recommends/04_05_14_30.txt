@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "澳洲甲",
+  "Time1": "04-05 16:30",
+  "Host": "墨爾本勝利",
+  "OddStake": "2.5/3球",
+  "Guest": "珀斯光榮",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-05 14:30",
+  "Person": "绿茵红魔"
+}

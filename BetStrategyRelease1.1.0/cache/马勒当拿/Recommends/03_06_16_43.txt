@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "亞挑盃",
+  "Time1": "03-06 17:00",
+  "Host": "斯里蘭卡(中)",
+  "OddStake": "受半球",
+  "Guest": "蒙古",
+  "Prefer": "斯里蘭卡(中)",
+  "Odds": 0.82,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "03-06 16:43",
+  "Person": "马勒当拿"
+}

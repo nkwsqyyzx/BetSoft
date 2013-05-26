@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-17 23:30",
+  "Host": "英特杜古",
+  "OddStake": "半球",
+  "Guest": "VPS華沙",
+  "Prefer": "VPS華沙",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-17 20:10",
+  "Person": "爷有旺仔"
+}

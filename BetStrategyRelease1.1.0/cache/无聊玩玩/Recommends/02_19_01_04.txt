@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷乙",
+  "Time1": "02-19 03:00",
+  "Host": "馬士積治",
+  "OddStake": "半/一",
+  "Guest": "雲登",
+  "Prefer": "馬士積治",
+  "Odds": 0.98,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-19 01:04",
+  "Person": "无聊玩玩"
+}

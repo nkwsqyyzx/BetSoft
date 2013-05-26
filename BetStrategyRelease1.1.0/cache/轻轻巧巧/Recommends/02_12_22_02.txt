@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英乙",
+  "Time1": "02-13 03:45",
+  "Host": "修安聯",
+  "OddStake": "2.5球",
+  "Guest": "車頓咸",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "02-12 22:02",
+  "Person": "轻轻巧巧"
+}

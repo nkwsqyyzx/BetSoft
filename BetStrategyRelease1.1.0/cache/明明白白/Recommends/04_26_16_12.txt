@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "越南甲",
+  "Time1": "04-26 16:30",
+  "Host": "雄王安江",
+  "OddStake": "2.5/3球",
+  "Guest": "芹苴",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "04-26 16:12",
+  "Person": "明明白白"
+}

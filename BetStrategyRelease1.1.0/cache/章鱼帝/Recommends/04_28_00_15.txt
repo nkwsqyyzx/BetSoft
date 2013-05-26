@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "阿乙",
+  "Time1": "04-28 08:00",
+  "Host": "班菲特",
+  "OddStake": "半球",
+  "Guest": "圖庫曼體育會",
+  "Prefer": "圖庫曼體育會",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-28 00:15",
+  "Person": "章鱼帝"
+}

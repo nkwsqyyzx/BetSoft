@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-20 23:59",
+  "Host": "托特納姆熱刺",
+  "OddStake": "受平/半",
+  "Guest": "曼聯",
+  "Prefer": "托特納姆熱刺",
+  "Odds": 0.83,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "01-20 23:41",
+  "Person": "天之骄子"
+}

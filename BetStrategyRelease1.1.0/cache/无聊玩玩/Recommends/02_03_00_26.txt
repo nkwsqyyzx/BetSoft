@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "02-03 01:30",
+  "Host": "富勒姆",
+  "OddStake": "受一球",
+  "Guest": "曼聯",
+  "Prefer": "曼聯",
+  "Odds": 1.01,
+  "Result": "0-1",
+  "PreferResult": 3,
+  "Time2": "02-03 00:26",
+  "Person": "无聊玩玩"
+}

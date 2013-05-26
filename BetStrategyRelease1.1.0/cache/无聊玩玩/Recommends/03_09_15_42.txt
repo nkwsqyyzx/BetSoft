@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "羅甲",
+  "Time1": "03-10 01:00",
+  "Host": "阿斯特拉吉爾古",
+  "OddStake": "半/一",
+  "Guest": "巴索夫",
+  "Prefer": "阿斯特拉吉爾古",
+  "Odds": 0.81,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "03-09 15:42",
+  "Person": "无聊玩玩"
+}

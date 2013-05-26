@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "05-05 21:00",
+  "Host": "帕爾馬",
+  "OddStake": "2球",
+  "Guest": "阿特蘭大",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "2-0",
+  "PreferResult": 3,
+  "Time2": "05-05 20:38",
+  "Person": "绿野仙踪"
+}

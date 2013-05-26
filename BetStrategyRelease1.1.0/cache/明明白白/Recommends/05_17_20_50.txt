@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "也門甲",
+  "Time1": "05-17 21:00",
+  "Host": "哈德瑞馬特",
+  "OddStake": "2.5球",
+  "Guest": "塔利亞塔茲",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-17 20:50",
+  "Person": "明明白白"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "捷克甲",
+  "Time1": "04-15 23:59",
+  "Host": "博萊斯拉夫",
+  "OddStake": "半球",
+  "Guest": "奧斯泰華",
+  "Prefer": "博萊斯拉夫",
+  "Odds": 0.83,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-15 23:30",
+  "Person": "无聊玩玩"
+}

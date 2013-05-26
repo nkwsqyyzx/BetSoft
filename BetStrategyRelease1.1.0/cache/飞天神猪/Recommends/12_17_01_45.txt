@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "玻利甲",
+  "Time1": "12-17 03:30",
+  "Host": "波托西",
+  "OddStake": "2.5球",
+  "Guest": "約治",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "12-17 01:45",
+  "Person": "飞天神猪"
+}

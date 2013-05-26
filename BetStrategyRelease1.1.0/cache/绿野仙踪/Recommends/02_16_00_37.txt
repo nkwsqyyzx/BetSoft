@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德乙",
+  "Time1": "02-16 01:00",
+  "Host": "雷根斯堡",
+  "OddStake": "2/2.5球",
+  "Guest": "布倫瑞克",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-16 00:37",
+  "Person": "绿野仙踪"
+}

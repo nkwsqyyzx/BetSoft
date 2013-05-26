@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "哥倫甲",
+  "Time1": "12-08 04:15",
+  "Host": "卡利阿美利加",
+  "OddStake": "半球",
+  "Guest": "庫庫塔",
+  "Prefer": "庫庫塔",
+  "Odds": 0.88,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "12-08 00:44",
+  "Person": "心情"
+}

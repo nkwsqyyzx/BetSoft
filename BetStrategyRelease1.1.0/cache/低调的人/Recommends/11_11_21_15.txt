@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-11 21:30",
+  "Host": "曼城",
+  "OddStake": "一球/球半",
+  "Guest": "托特納姆熱刺",
+  "Prefer": "托特納姆熱刺",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "11-11 21:15",
+  "Person": "低调的人"
+}

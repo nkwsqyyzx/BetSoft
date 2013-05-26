@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西甲",
+  "Time1": "05-21 04:00",
+  "Host": "馬略卡",
+  "OddStake": "2.5/3球",
+  "Guest": "皇家貝迪斯",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-21 03:30",
+  "Person": "低调的人"
+}

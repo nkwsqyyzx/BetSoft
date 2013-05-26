@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-19 20:00",
+  "Host": "以色列U18",
+  "OddStake": "2.5/3球",
+  "Guest": "羅馬尼亞U18",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "11-19 19:20",
+  "Person": "明明白白"
+}

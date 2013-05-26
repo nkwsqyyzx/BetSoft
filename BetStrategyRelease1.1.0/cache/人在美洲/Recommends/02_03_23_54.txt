@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "02-04 04:00",
+  "Host": "馬德里體育會",
+  "OddStake": "一球/球半",
+  "Guest": "皇家貝迪斯",
+  "Prefer": "皇家貝迪斯",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "02-03 23:54",
+  "Person": "人在美洲"
+}

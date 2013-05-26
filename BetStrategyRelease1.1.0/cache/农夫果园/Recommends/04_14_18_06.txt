@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "04-14 18:30",
+  "Host": "巴勒莫",
+  "OddStake": "半球",
+  "Guest": "博洛尼亞",
+  "Prefer": "博洛尼亞",
+  "Odds": 1.11,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-14 18:06",
+  "Person": "农夫果园"
+}

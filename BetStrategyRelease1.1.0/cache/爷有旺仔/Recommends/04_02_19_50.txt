@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "斯伐甲",
+  "Time1": "04-02 22:00",
+  "Host": "邁加華斯巴達",
+  "OddStake": "平/半",
+  "Guest": "摩拉瓦斯",
+  "Prefer": "邁加華斯巴達",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "04-02 19:50",
+  "Person": "爷有旺仔"
+}

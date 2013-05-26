@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡超",
+  "Time1": "01-27 23:59",
+  "Host": "摩里倫斯",
+  "OddStake": "2/2.5球",
+  "Guest": "費利拿",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "0-5",
+  "PreferResult": 1,
+  "Time2": "01-27 22:30",
+  "Person": "中奖"
+}

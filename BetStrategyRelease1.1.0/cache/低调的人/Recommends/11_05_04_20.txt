@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "巴西甲",
+  "Time1": "11-05 05:30",
+  "Host": "波圖加沙",
+  "OddStake": "半球",
+  "Guest": "巴海亞",
+  "Prefer": "巴海亞",
+  "Odds": 0.91,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-05 04:20",
+  "Person": "低调的人"
+}

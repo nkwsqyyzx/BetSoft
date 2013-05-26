@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意青盃",
+  "Time1": "01-31 04:00",
+  "Host": "皇家馬德里",
+  "OddStake": "受平/半",
+  "Guest": "巴塞羅那",
+  "Prefer": "巴塞羅那",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "01-30 23:48",
+  "Person": "扬名立万"
+}

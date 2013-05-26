@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德U17北",
+  "Time1": "12-01 18:00",
+  "Host": "沃爾夫斯堡U17",
+  "OddStake": "3.5球",
+  "Guest": "漢諾威U17",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "12-01 17:43",
+  "Person": "飞天神猪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-24 01:00",
+  "Host": "西里安斯卡",
+  "OddStake": "受半球",
+  "Guest": "哈肯",
+  "Prefer": "哈肯",
+  "Odds": 1.1,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "05-24 00:50",
+  "Person": "bobo"
+}

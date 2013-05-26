@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "捷克甲",
+  "Time1": "05-23 02:30",
+  "Host": "澤伯約維卡般奴",
+  "OddStake": "2.5球",
+  "Guest": "布拉格斯巴達",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "05-23 01:46",
+  "Person": "飘雪"
+}

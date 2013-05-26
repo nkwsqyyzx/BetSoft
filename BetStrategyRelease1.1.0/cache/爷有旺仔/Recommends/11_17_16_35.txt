@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德丙聯",
+  "Time1": "11-17 20:00",
+  "Host": "莫斯科戴拿模",
+  "OddStake": "受半球",
+  "Guest": "聖彼德斯堡澤尼特",
+  "Prefer": "莫斯科戴拿模",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-17 16:35",
+  "Person": "爷有旺仔"
+}

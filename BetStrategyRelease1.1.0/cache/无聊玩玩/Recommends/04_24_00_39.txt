@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德巴聯",
+  "Time1": "04-24 01:00",
+  "Host": "慕尼黑1860青年隊",
+  "OddStake": "一球",
+  "Guest": "布赫巴赫",
+  "Prefer": "慕尼黑1860青年隊",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-24 00:39",
+  "Person": "无聊玩玩"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "04-19 06:45",
+  "Host": "水晶競技",
+  "OddStake": "平手",
+  "Guest": "彭美拉斯",
+  "Prefer": "彭美拉斯",
+  "Odds": 0.97,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-19 06:21",
+  "Person": "天之骄子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "約旦盃",
+  "Time1": "10-12 22:00",
+  "Host": "雷斯",
+  "OddStake": "2.5球",
+  "Guest": "藍慕沙",
+  "Prefer": "小球",
+  "Odds": 1.0,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "10-12 21:41",
+  "Person": "明明白白"
+}

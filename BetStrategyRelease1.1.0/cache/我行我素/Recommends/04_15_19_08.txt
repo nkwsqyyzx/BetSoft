@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "04-16 02:45",
+  "Host": "拉齊奧",
+  "OddStake": "受半球",
+  "Guest": "尤文圖斯",
+  "Prefer": "尤文圖斯",
+  "Odds": 0.94,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "04-15 19:08",
+  "Person": "我行我素"
+}

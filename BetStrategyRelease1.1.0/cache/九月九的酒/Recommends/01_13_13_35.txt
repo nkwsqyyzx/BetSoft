@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡甲",
+  "Time1": "01-13 23:00",
+  "Host": "葡萄牙體育會",
+  "OddStake": "2/2.5球",
+  "Guest": "彭拿費爾",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "01-13 13:35",
+  "Person": "九月九的酒"
+}

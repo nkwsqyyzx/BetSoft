@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-18 20:30",
+  "Host": "杜伊斯堡",
+  "OddStake": "半球",
+  "Guest": "艾格比治",
+  "Prefer": "艾格比治",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-18 18:47",
+  "Person": "农夫果园"
+}

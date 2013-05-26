@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法乙",
+  "Time1": "05-25 02:30",
+  "Host": "色當",
+  "OddStake": "平手",
+  "Guest": "安格斯",
+  "Prefer": "色當",
+  "Odds": 0.94,
+  "Result": "2-2",
+  "PreferResult": 3,
+  "Time2": "05-24 23:33",
+  "Person": "专搞下盘"
+}

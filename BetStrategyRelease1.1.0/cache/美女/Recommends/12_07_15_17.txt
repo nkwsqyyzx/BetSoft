@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "俄後賽",
+  "Time1": "12-07 17:00",
+  "Host": "莫斯科火車頭U21",
+  "OddStake": "3.5球",
+  "Guest": "諾夫哥羅德U21",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "12-07 15:17",
+  "Person": "美女"
+}

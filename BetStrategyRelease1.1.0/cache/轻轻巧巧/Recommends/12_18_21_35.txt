@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德國盃",
+  "Time1": "12-19 02:00",
+  "Host": "卡斯魯厄",
+  "OddStake": "受半/一",
+  "Guest": "費雷堡",
+  "Prefer": "費雷堡",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 4,
+  "Time2": "12-18 21:35",
+  "Person": "轻轻巧巧"
+}

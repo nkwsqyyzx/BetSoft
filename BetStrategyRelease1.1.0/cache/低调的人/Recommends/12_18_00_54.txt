@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德乙",
+  "Time1": "12-18 03:15",
+  "Host": "布倫瑞克",
+  "OddStake": "半/一",
+  "Guest": "柏林聯",
+  "Prefer": "布倫瑞克",
+  "Odds": 1.04,
+  "Result": "4-3",
+  "PreferResult": 4,
+  "Time2": "12-18 00:54",
+  "Person": "低调的人"
+}

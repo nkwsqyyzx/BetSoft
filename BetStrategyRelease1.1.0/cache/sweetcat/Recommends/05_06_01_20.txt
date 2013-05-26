@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "阿乙",
+  "Time1": "05-06 05:30",
+  "Host": "門多薩獨立",
+  "OddStake": "平/半",
+  "Guest": "烏拉坎",
+  "Prefer": "烏拉坎",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-06 01:20",
+  "Person": "sweetcat"
+}

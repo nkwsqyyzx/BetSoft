@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日聯盃",
+  "Time1": "05-22 18:00",
+  "Host": "鳥栖沙根",
+  "OddStake": "半/一",
+  "Guest": "大分三神",
+  "Prefer": "鳥栖沙根",
+  "Odds": 0.97,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "05-22 14:59",
+  "Person": "赢球偷着乐"
+}

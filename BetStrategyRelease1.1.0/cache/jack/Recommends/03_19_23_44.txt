@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意乙",
+  "Time1": "03-20 03:45",
+  "Host": "祖華史塔比亞",
+  "OddStake": "受平/半",
+  "Guest": "森索羅",
+  "Prefer": "森索羅",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "03-19 23:44",
+  "Person": "jack"
+}

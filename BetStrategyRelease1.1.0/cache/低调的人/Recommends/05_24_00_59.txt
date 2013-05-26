@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德乙",
+  "Time1": "05-24 02:30",
+  "Host": "賀芬咸",
+  "OddStake": "半球",
+  "Guest": "凱沙羅頓",
+  "Prefer": "凱沙羅頓",
+  "Odds": 0.95,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "05-24 00:59",
+  "Person": "低调的人"
+}

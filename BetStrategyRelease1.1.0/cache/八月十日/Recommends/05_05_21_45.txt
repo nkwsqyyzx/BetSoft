@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德北聯",
+  "Time1": "05-05 22:30",
+  "Host": "烏比斯",
+  "OddStake": "受平/半",
+  "Guest": "吉奧利",
+  "Prefer": "吉奧利",
+  "Odds": 0.82,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-05 21:45",
+  "Person": "八月十日"
+}

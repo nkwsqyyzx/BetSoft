@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法乙",
+  "Time1": "03-09 03:00",
+  "Host": "奈梅斯",
+  "OddStake": "半球",
+  "Guest": "托爾司",
+  "Prefer": "奈梅斯",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-08 20:03",
+  "Person": "无聊玩玩"
+}

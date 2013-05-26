@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-09 02:00",
+  "Host": "費倫巴治",
+  "OddStake": "半球",
+  "Guest": "亨克",
+  "Prefer": "亨克",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-09 00:06",
+  "Person": "bobo"
+}

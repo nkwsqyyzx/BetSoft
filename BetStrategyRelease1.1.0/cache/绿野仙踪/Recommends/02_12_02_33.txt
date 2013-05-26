@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意乙",
+  "Time1": "02-12 03:45",
+  "Host": "恩波里",
+  "OddStake": "平手",
+  "Guest": "利禾奴",
+  "Prefer": "恩波里",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-12 02:33",
+  "Person": "绿野仙踪"
+}

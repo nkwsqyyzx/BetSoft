@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英乙",
+  "Time1": "12-26 21:00",
+  "Host": "普利茅夫",
+  "OddStake": "2.5球",
+  "Guest": "托基聯",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-26 18:06",
+  "Person": "轻轻巧巧"
+}

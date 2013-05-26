@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "奧甲",
+  "Time1": "05-23 02:30",
+  "Host": "華卡迪路",
+  "OddStake": "平手",
+  "Guest": "格拉茨",
+  "Prefer": "華卡迪路",
+  "Odds": 0.81,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-22 07:09",
+  "Person": "格力电器"
+}

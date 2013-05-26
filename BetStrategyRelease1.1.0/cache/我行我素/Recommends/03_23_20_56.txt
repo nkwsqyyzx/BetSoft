@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英非聯",
+  "Time1": "03-23 23:00",
+  "Host": "林肯城",
+  "OddStake": "半球",
+  "Guest": "泰福特",
+  "Prefer": "林肯城",
+  "Odds": 0.85,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "03-23 20:56",
+  "Person": "我行我素"
+}

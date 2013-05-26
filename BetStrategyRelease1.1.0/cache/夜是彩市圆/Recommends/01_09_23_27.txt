@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "塞浦盃",
+  "Time1": "01-09 23:59",
+  "Host": "艾治拿斯",
+  "OddStake": "2/2.5球",
+  "Guest": "奧摩尼亞",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "0-2",
+  "PreferResult": 2,
+  "Time2": "01-09 23:27",
+  "Person": "夜是彩市圆"
+}

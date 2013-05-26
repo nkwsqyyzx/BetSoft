@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英非南",
+  "Time1": "12-12 03:45",
+  "Host": "海斯葉丁",
+  "OddStake": "2.5/3球",
+  "Guest": "布羅雷",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "12-11 21:09",
+  "Person": "身不由己"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德東北聯",
+  "Time1": "03-30 20:30",
+  "Host": "紐斯特里茨",
+  "OddStake": "半球",
+  "Guest": "柏林聯青年隊",
+  "Prefer": "柏林聯青年隊",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-30 20:02",
+  "Person": "sweetcat"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "中超",
+  "Time1": "03-17 14:35",
+  "Host": "遼寧宏運",
+  "OddStake": "半球",
+  "Guest": "天津泰達",
+  "Prefer": "天津泰達",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "03-17 13:46",
+  "Person": "大头"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-22 04:05",
+  "Host": "賓菲加",
+  "OddStake": "半球",
+  "Guest": "利華古遜",
+  "Prefer": "利華古遜",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-21 20:19",
+  "Person": "轻轻巧巧"
+}

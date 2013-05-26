@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "希臘超",
+  "Time1": "01-08 01:30",
+  "Host": "薩丁",
+  "OddStake": "半球",
+  "Guest": "OFI克雷迪",
+  "Prefer": "薩丁",
+  "Odds": 0.84,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "01-07 13:20",
+  "Person": "阿麦的理想"
+}

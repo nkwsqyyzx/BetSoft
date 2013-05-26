@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英足總盃",
+  "Time1": "02-13 03:30",
+  "Host": "萊切斯特",
+  "OddStake": "3球",
+  "Guest": "哈德斯菲爾德",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "1-2",
+  "PreferResult": 3,
+  "Time2": "02-12 22:05",
+  "Person": "我型我show"
+}

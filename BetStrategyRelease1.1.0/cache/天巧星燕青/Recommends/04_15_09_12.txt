@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典超",
+  "Time1": "04-16 01:05",
+  "Host": "艾夫斯堡",
+  "OddStake": "2/2.5球",
+  "Guest": "IFK哥德堡",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-15 09:12",
+  "Person": "天巧星燕青"
+}

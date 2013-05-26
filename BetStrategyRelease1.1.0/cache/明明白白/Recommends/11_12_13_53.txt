@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "室內世盃",
+  "Time1": "11-12 17:00",
+  "Host": "意大利室內(中)",
+  "OddStake": "6.5球",
+  "Guest": "埃及室內",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "5-1",
+  "PreferResult": 1,
+  "Time2": "11-12 13:53",
+  "Person": "明明白白"
+}

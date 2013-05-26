@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "非國盃",
+  "Time1": "01-26 02:00",
+  "Host": "伯基納法索(中)",
+  "OddStake": "半球",
+  "Guest": "埃塞俄比亞",
+  "Prefer": "埃塞俄比亞",
+  "Odds": 0.89,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "01-25 21:30",
+  "Person": "我行我素"
+}

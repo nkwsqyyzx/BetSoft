@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英甲",
+  "Time1": "02-02 03:45",
+  "Host": "謝菲爾德聯",
+  "OddStake": "平/半",
+  "Guest": "高雲地利",
+  "Prefer": "高雲地利",
+  "Odds": 0.83,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "02-01 22:14",
+  "Person": "印加帝国"
+}

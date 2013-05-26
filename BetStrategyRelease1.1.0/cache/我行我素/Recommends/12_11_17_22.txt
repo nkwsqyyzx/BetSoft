@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土耳其盃",
+  "Time1": "12-11 21:30",
+  "Host": "加辛塔士邦",
+  "OddStake": "2/2.5球",
+  "Guest": "希維斯堡",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "12-11 17:22",
+  "Person": "我行我素"
+}

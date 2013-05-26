@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "羅甲",
+  "Time1": "05-26 22:00",
+  "Host": "古積大學",
+  "OddStake": "2.5球",
+  "Guest": "佩特羅魯",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "05-26 21:14",
+  "Person": "一飞冲天"
+}

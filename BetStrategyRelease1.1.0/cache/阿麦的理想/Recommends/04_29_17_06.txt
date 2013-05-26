@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷青聯",
+  "Time1": "04-29 20:00",
+  "Host": "高寧根青年隊",
+  "OddStake": "半球",
+  "Guest": "PSV燕豪芬青年隊",
+  "Prefer": "PSV燕豪芬青年隊",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-29 17:06",
+  "Person": "阿麦的理想"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "美職業",
+  "Time1": "11-02 10:30",
+  "Host": "洛杉磯銀河",
+  "OddStake": "球半",
+  "Guest": "溫哥華白帽",
+  "Prefer": "溫哥華白帽",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-02 08:08",
+  "Person": "阿麦的理想"
+}

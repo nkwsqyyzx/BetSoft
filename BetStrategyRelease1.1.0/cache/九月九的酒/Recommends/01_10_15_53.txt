@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "01-11 02:30",
+  "Host": "加泰",
+  "OddStake": "受平/半",
+  "Guest": "馬德里體育會",
+  "Prefer": "加泰",
+  "Odds": 1.01,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "01-10 15:53",
+  "Person": "九月九的酒"
+}

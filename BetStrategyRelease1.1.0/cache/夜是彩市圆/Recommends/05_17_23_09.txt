@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-17 23:30",
+  "Host": "邁柏",
+  "OddStake": "半球",
+  "Guest": "拉迪",
+  "Prefer": "邁柏",
+  "Odds": 1.1,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-17 23:09",
+  "Person": "夜是彩市圆"
+}

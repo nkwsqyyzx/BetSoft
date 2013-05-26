@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-23 18:00",
+  "Host": "柏雷素爾",
+  "OddStake": "一球",
+  "Guest": "貴州人和",
+  "Prefer": "貴州人和",
+  "Odds": 1.05,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-23 14:59",
+  "Person": "天之骄子"
+}

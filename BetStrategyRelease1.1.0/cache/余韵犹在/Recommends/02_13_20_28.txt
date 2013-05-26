@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "02-14 03:45",
+  "Host": "薩克達",
+  "OddStake": "平手",
+  "Guest": "多特蒙德",
+  "Prefer": "多特蒙德",
+  "Odds": 0.86,
+  "Result": "2-2",
+  "PreferResult": 3,
+  "Time2": "02-13 20:28",
+  "Person": "余韵犹在"
+}

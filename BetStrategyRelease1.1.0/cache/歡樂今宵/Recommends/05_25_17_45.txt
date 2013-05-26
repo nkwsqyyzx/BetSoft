@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西乙",
+  "Time1": "05-25 18:00",
+  "Host": "大阪櫻花",
+  "OddStake": "平/半",
+  "Guest": "名古屋鯨魚",
+  "Prefer": "大阪櫻花",
+  "Odds": 1.1,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-25 17:45",
+  "Person": "歡樂今宵"
+}

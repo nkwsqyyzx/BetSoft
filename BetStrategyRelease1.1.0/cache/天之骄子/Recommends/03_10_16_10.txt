@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德乙",
+  "Time1": "03-10 20:30",
+  "Host": "艾格比治",
+  "OddStake": "平/半",
+  "Guest": "特雷斯登",
+  "Prefer": "特雷斯登",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-10 16:10",
+  "Person": "天之骄子"
+}

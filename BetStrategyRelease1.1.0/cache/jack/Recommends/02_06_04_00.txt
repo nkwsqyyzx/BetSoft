@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "阿乙曼特",
+  "Time1": "02-06 04:30",
+  "Host": "埃斯蒂特斯卡塞羅斯",
+  "OddStake": "半球",
+  "Guest": "瑪倫",
+  "Prefer": "埃斯蒂特斯卡塞羅斯",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "02-06 04:00",
+  "Person": "jack"
+}

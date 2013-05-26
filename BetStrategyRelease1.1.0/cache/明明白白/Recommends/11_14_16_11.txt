@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-14 16:30",
+  "Host": "印尼",
+  "OddStake": "3.5球",
+  "Guest": "東帝汶",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-14 16:11",
+  "Person": "明明白白"
+}

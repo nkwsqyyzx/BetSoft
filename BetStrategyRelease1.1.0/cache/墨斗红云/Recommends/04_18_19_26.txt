@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "04-19 01:00",
+  "Host": "卡馬亞",
+  "OddStake": "2/2.5球",
+  "Guest": "艾夫斯堡",
+  "Prefer": "大球",
+  "Odds": 1.03,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "04-18 19:26",
+  "Person": "墨斗红云"
+}

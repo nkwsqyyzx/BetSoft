@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德西聯",
+  "Time1": "05-09 01:00",
+  "Host": "史浩克04青年隊",
+  "OddStake": "半球",
+  "Guest": "杜塞爾多夫青年隊",
+  "Prefer": "杜塞爾多夫青年隊",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "05-09 00:23",
+  "Person": "马勒当拿"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德北聯",
+  "Time1": "11-02 23:59",
+  "Host": "科斯克米提",
+  "OddStake": "半球",
+  "Guest": "迪歐斯捷爾",
+  "Prefer": "迪歐斯捷爾",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "11-02 17:51",
+  "Person": "农夫果园"
+}

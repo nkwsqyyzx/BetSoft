@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法國盃",
+  "Time1": "03-01 03:50",
+  "Host": "朗斯",
+  "OddStake": "一球/球半",
+  "Guest": "埃皮內爾",
+  "Prefer": "埃皮內爾",
+  "Odds": 0.85,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-28 22:02",
+  "Person": "中奖"
+}

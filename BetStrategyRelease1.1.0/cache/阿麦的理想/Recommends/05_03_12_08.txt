@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "05-03 13:00",
+  "Host": "熊本深紅",
+  "OddStake": "平/半",
+  "Guest": "水戶霍利克",
+  "Prefer": "熊本深紅",
+  "Odds": 1.03,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "05-03 12:08",
+  "Person": "阿麦的理想"
+}

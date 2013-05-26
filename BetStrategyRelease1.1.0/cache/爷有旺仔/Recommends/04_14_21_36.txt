@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典乙北",
+  "Time1": "04-14 22:00",
+  "Host": "維薩隆德",
+  "OddStake": "一球/球半",
+  "Guest": "瑟仁潔",
+  "Prefer": "瑟仁潔",
+  "Odds": 0.82,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "04-14 21:36",
+  "Person": "爷有旺仔"
+}

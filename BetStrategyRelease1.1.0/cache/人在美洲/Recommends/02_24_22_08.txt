@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "哥倫甲",
+  "Time1": "02-25 04:15",
+  "Host": "阿利安薩",
+  "OddStake": "2/2.5球",
+  "Guest": "曼特寧獨立",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-24 22:08",
+  "Person": "人在美洲"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "02-18 07:15",
+  "Host": "河床",
+  "OddStake": "半球",
+  "Guest": "學生隊",
+  "Prefer": "學生隊",
+  "Odds": 0.91,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-17 23:36",
+  "Person": "jack"
+}

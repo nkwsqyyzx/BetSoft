@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "日聯盃",
+  "Time1": "03-20 16:00",
+  "Host": "橫濱水手",
+  "OddStake": "半球",
+  "Guest": "川崎前鋒",
+  "Prefer": "橫濱水手",
+  "Odds": 1.11,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-20 13:04",
+  "Person": "民哥也疯狂"
+}

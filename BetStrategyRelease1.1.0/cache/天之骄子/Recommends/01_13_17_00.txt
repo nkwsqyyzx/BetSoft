@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "希臘U20",
+  "Time1": "01-13 17:30",
+  "Host": "基亞連拿U20",
+  "OddStake": "3球",
+  "Guest": "彭拿典奈高斯U20",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-13 17:00",
+  "Person": "天之骄子"
+}

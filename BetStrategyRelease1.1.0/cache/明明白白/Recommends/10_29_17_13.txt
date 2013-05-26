@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "約旦超",
+  "Time1": "10-29 20:00",
+  "Host": "沙巴胡森",
+  "OddStake": "2.5球",
+  "Guest": "阿爾薩瑞",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "10-29 17:13",
+  "Person": "明明白白"
+}

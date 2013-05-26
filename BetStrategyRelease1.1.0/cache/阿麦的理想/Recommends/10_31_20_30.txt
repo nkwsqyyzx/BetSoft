@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄盃",
+  "Time1": "10-31 23:59",
+  "Host": "莫斯科戴拿模",
+  "OddStake": "球半/两球",
+  "Guest": "其姆奇",
+  "Prefer": "其姆奇",
+  "Odds": 0.97,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "10-31 20:30",
+  "Person": "阿麦的理想"
+}

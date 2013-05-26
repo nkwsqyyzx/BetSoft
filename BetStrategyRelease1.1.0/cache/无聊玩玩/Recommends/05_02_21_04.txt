@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德東北聯",
+  "Time1": "05-03 01:00",
+  "Host": "VfB阿爾巴赫",
+  "OddStake": "平/半",
+  "Guest": "普洛恩",
+  "Prefer": "普洛恩",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-02 21:04",
+  "Person": "无聊玩玩"
+}

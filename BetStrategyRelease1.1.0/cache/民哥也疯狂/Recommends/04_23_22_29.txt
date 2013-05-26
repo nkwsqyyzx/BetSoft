@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-24 02:45",
+  "Host": "拜仁慕尼黑",
+  "OddStake": "平/半",
+  "Guest": "巴塞羅那",
+  "Prefer": "拜仁慕尼黑",
+  "Odds": 0.87,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "04-23 22:29",
+  "Person": "民哥也疯狂"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德甲",
+  "Time1": "12-15 22:30",
+  "Host": "利華古遜",
+  "OddStake": "半/一",
+  "Guest": "漢堡",
+  "Prefer": "漢堡",
+  "Odds": 1.07,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "12-15 21:49",
+  "Person": "天之骄子"
+}

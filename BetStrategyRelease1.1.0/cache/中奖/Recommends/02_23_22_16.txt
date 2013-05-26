@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英甲",
+  "Time1": "02-23 23:00",
+  "Host": "奧連特",
+  "OddStake": "2.5球",
+  "Guest": "克拉雷鎮",
+  "Prefer": "小球",
+  "Odds": 0.803,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-23 22:16",
+  "Person": "中奖"
+}

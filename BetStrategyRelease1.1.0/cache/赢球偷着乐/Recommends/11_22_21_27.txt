@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-23 02:00",
+  "Host": "拉素",
+  "OddStake": "平手",
+  "Guest": "托特納姆熱刺",
+  "Prefer": "拉素",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "11-22 21:27",
+  "Person": "赢球偷着乐"
+}

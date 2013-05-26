@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "蘇甲",
+  "Time1": "03-19 08:20",
+  "Host": "男孩競技",
+  "OddStake": "平/半",
+  "Guest": "艾朗迪考瑞法拉",
+  "Prefer": "艾朗迪考瑞法拉",
+  "Odds": 1.02,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-19 08:04",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "比利時盃",
+  "Time1": "12-14 03:45",
+  "Host": "威爾郡",
+  "OddStake": "平手",
+  "Guest": "亨克",
+  "Prefer": "亨克",
+  "Odds": 1.06,
+  "Result": "0-5",
+  "PreferResult": 5,
+  "Time2": "12-13 21:35",
+  "Person": "天之骄子"
+}

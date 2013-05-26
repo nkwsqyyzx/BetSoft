@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西甲",
+  "Time1": "05-27 02:00",
+  "Host": "華倫西亞",
+  "OddStake": "球半/两球",
+  "Guest": "格拉納達",
+  "Prefer": "華倫西亞",
+  "Odds": 0.95,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 01:46",
+  "Person": "12388123"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "南非超",
+  "Time1": "02-13 01:30",
+  "Host": "黑羅帕德",
+  "OddStake": "平/半",
+  "Guest": "拜維思",
+  "Prefer": "拜維思",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "02-12 22:03",
+  "Person": "心情"
+}

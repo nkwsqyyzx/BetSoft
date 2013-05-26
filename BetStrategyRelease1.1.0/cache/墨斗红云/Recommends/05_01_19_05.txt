@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威盃",
+  "Time1": "05-01 22:00",
+  "Host": "歐倫薩可",
+  "OddStake": "3/3.5球",
+  "Guest": "特羅姆瑟",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-01 19:05",
+  "Person": "墨斗红云"
+}

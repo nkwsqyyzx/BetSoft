@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "葡超",
+  "Time1": "03-05 04:30",
+  "Host": "歐漢尼斯",
+  "OddStake": "受一球",
+  "Guest": "布拉加",
+  "Prefer": "歐漢尼斯",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 3,
+  "Time2": "03-05 00:11",
+  "Person": "bobo"
+}

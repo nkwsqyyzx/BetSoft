@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "自由盃",
+  "Time1": "04-05 08:30",
+  "Host": "史莊格斯特",
+  "OddStake": "2.5/3球",
+  "Guest": "聖保羅",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "04-04 23:55",
+  "Person": "jack"
+}

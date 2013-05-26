@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典甲",
+  "Time1": "04-19 01:20",
+  "Host": "戴戈福斯",
+  "OddStake": "受平/半",
+  "Guest": "喬科平所達",
+  "Prefer": "戴戈福斯",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-18 14:50",
+  "Person": "我型我show"
+}

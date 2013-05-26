@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 04:05",
+  "Host": "拉素",
+  "OddStake": "半/一",
+  "Guest": "彭拿典奈高斯",
+  "Prefer": "拉素",
+  "Odds": 0.89,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "11-09 00:35",
+  "Person": "godball"
+}

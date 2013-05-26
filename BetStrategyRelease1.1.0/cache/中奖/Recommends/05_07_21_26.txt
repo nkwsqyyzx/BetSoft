@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "冰女超",
+  "Time1": "05-08 02:00",
+  "Host": "托爾KA阿古雷利女足",
+  "OddStake": "两球半",
+  "Guest": "夏拿佐杜亞女足",
+  "Prefer": "托爾KA阿古雷利女足",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-07 21:26",
+  "Person": "中奖"
+}

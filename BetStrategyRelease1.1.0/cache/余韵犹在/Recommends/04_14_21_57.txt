@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷甲",
+  "Time1": "04-14 22:30",
+  "Host": "PSV燕豪芬",
+  "OddStake": "半球",
+  "Guest": "阿積士",
+  "Prefer": "阿積士",
+  "Odds": 0.98,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "04-14 21:57",
+  "Person": "余韵犹在"
+}

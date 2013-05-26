@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德丙聯",
+  "Time1": "05-04 17:30",
+  "Host": "莫斯科中央陸軍",
+  "OddStake": "2.5球",
+  "Guest": "塔利克",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-04 16:57",
+  "Person": "绿野仙踪"
+}

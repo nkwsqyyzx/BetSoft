@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意乙",
+  "Time1": "03-20 03:45",
+  "Host": "克努托內",
+  "OddStake": "半球",
+  "Guest": "維琴察",
+  "Prefer": "維琴察",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-20 03:33",
+  "Person": "马勒当拿"
+}

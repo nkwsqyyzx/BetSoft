@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "友誼賽",
+  "Time1": "04-16 17:00",
+  "Host": "羅馬尼亞U16",
+  "OddStake": "半/一",
+  "Guest": "斯洛伐克U16",
+  "Prefer": "斯洛伐克U16",
+  "Odds": 0.92,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "04-16 14:41",
+  "Person": "天巧星燕青"
+}

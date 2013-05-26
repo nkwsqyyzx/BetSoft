@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-17 18:30",
+  "Host": "大田市民",
+  "OddStake": "2.5球",
+  "Guest": "蔚山現代",
+  "Prefer": "大球",
+  "Odds": 1.02,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "04-17 12:33",
+  "Person": "身不由己"
+}

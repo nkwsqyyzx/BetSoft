@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "葡甲",
+  "Time1": "11-11 04:30",
+  "Host": "科維拉",
+  "OddStake": "半球",
+  "Guest": "布拉加B隊",
+  "Prefer": "布拉加B隊",
+  "Odds": 0.82,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "11-11 02:42",
+  "Person": "马勒当拿"
+}

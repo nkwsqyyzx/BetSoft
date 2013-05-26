@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典乙北",
+  "Time1": "04-30 01:00",
+  "Host": "天狼星(中)",
+  "OddStake": "3球",
+  "Guest": "AFC聯",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-29 20:14",
+  "Person": "西班牙王子"
+}

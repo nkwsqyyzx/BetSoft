@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "哥倫甲",
+  "Time1": "03-25 06:30",
+  "Host": "柏斯度",
+  "OddStake": "平/半",
+  "Guest": "米倫拿列奧",
+  "Prefer": "米倫拿列奧",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-25 06:05",
+  "Person": "天之骄子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "荷甲",
+  "Time1": "03-31 20:30",
+  "Host": "維迪斯",
+  "OddStake": "一球/球半",
+  "Guest": "施禾尼",
+  "Prefer": "維迪斯",
+  "Odds": 1.07,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "03-31 13:06",
+  "Person": "绿茵红魔"
+}

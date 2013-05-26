@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓聯盟",
+  "Time1": "05-01 14:00",
+  "Host": "慶州KHNP",
+  "OddStake": "2/2.5球",
+  "Guest": "龍仁市FC",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-01 09:04",
+  "Person": "godball"
+}

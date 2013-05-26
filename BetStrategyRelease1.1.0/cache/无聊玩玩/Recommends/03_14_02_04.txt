@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "哥倫盃",
+  "Time1": "03-14 04:30",
+  "Host": "瓦倫杜帕爾",
+  "OddStake": "半/一",
+  "Guest": "馬大雷拿",
+  "Prefer": "瓦倫杜帕爾",
+  "Odds": 0.97,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-14 02:04",
+  "Person": "无聊玩玩"
+}

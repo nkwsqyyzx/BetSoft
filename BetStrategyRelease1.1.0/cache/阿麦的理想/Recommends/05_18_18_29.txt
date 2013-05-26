@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德丙聯",
+  "Time1": "05-18 19:30",
+  "Host": "羅斯托克",
+  "OddStake": "半球",
+  "Guest": "洛特維博菲",
+  "Prefer": "洛特維博菲",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-18 18:29",
+  "Person": "阿麦的理想"
+}

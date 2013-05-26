@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "葡盃",
+  "Time1": "04-16 03:00",
+  "Host": "賓菲加",
+  "OddStake": "球半",
+  "Guest": "費利拿",
+  "Prefer": "賓菲加",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-15 20:53",
+  "Person": "爷有旺仔"
+}

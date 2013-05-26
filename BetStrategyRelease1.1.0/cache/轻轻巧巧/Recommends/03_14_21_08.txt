@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐霸盃",
+  "Time1": "03-15 01:00",
+  "Host": "魯賓卡讚(中)",
+  "OddStake": "半球",
+  "Guest": "利雲特",
+  "Prefer": "魯賓卡讚(中)",
+  "Odds": 0.95,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "03-14 21:08",
+  "Person": "轻轻巧巧"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英甲",
+  "Time1": "11-07 18:00",
+  "Host": "清水心跳",
+  "OddStake": "半球",
+  "Guest": "新瀉天鵝",
+  "Prefer": "新瀉天鵝",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-07 17:15",
+  "Person": "我行我素"
+}

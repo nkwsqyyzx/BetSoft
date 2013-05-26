@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "04-17 02:45",
+  "Host": "狼隊",
+  "OddStake": "2/2.5球",
+  "Guest": "侯城",
+  "Prefer": "小球",
+  "Odds": 0.93,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-16 21:56",
+  "Person": "农夫果园"
+}

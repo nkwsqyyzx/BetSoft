@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法丙",
+  "Time1": "04-20 02:00",
+  "Host": "彭特杜加得",
+  "OddStake": "2/2.5球",
+  "Guest": "卡爾捷法",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 4,
+  "Time2": "04-19 09:15",
+  "Person": "心情"
+}

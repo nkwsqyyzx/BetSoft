@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英甲",
+  "Time1": "03-06 03:45",
+  "Host": "哈特爾浦",
+  "OddStake": "2.5球",
+  "Guest": "高車士打",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-05 21:54",
+  "Person": "中奖"
+}

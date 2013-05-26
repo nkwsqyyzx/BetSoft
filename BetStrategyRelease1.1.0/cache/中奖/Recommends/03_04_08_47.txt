@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "美職業",
+  "Time1": "03-04 11:00",
+  "Host": "聖荷西地震",
+  "OddStake": "2.5球",
+  "Guest": "皇家鹽湖城",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "03-04 08:47",
+  "Person": "中奖"
+}

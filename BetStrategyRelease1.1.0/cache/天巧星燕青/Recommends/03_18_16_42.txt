@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "法乙",
+  "Time1": "03-19 03:30",
+  "Host": "迪卓恩",
+  "OddStake": "平手",
+  "Guest": "南特",
+  "Prefer": "迪卓恩",
+  "Odds": 1.04,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "03-18 16:42",
+  "Person": "天巧星燕青"
+}

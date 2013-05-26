@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土超",
+  "Time1": "12-24 01:00",
+  "Host": "特拉布宗",
+  "OddStake": "受平/半",
+  "Guest": "加拉塔沙雷",
+  "Prefer": "特拉布宗",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "12-23 22:15",
+  "Person": "心情"
+}

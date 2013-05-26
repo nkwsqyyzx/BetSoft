@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西乙",
+  "Time1": "05-26 15:00",
+  "Host": "柏雷素爾(中)",
+  "OddStake": "受平/半",
+  "Guest": "浦和紅鑽",
+  "Prefer": "浦和紅鑽",
+  "Odds": 0.96,
+  "Result": "2-6",
+  "PreferResult": 5,
+  "Time2": "05-26 13:04",
+  "Person": "轻轻巧巧"
+}

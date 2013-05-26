@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "委内超秋",
+  "Time1": "05-13 04:30",
+  "Host": "安索阿特吉",
+  "OddStake": "半球",
+  "Guest": "祖積蘭奴斯",
+  "Prefer": "安索阿特吉",
+  "Odds": 0.98,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-13 00:47",
+  "Person": "章鱼帝"
+}

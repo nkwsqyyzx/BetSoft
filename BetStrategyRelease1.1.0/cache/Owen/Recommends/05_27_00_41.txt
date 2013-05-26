@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "歐青U19",
+  "Time1": "05-27 01:00",
+  "Host": "比利時U19",
+  "OddStake": "受平/半",
+  "Guest": "英格蘭U19",
+  "Prefer": "英格蘭U19",
+  "Odds": 0.96,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 00:41",
+  "Person": "Owen"
+}

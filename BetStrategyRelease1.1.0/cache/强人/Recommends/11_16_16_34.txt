@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "澳職聯",
+  "Time1": "11-16 17:00",
+  "Host": "布里斯班獅吼",
+  "OddStake": "一球",
+  "Guest": "悉尼",
+  "Prefer": "悉尼",
+  "Odds": 0.82,
+  "Result": "4-2",
+  "PreferResult": 1,
+  "Time2": "11-16 16:34",
+  "Person": "强人"
+}

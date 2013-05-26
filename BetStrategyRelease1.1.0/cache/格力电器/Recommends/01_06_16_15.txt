@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-07 04:00",
+  "Host": "馬略卡",
+  "OddStake": "2/2.5球",
+  "Guest": "馬德里體育會",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "01-06 16:15",
+  "Person": "格力电器"
+}

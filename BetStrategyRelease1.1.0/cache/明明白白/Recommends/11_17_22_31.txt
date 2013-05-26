@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英非聯",
+  "Time1": "11-17 23:00",
+  "Host": "禾京",
+  "OddStake": "2.5/3球",
+  "Guest": "阿爾費登",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "11-17 22:31",
+  "Person": "明明白白"
+}

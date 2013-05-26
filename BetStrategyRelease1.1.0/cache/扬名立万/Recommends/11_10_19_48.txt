@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-10 20:00",
+  "Host": "柏林聯",
+  "OddStake": "半/一",
+  "Guest": "VFR亞倫",
+  "Prefer": "VFR亞倫",
+  "Odds": 0.91,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-10 19:48",
+  "Person": "扬名立万"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "05-11 08:15",
+  "Host": "貝爾格拉諾",
+  "OddStake": "2球",
+  "Guest": "艾朗迪考瑞法拉",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-11 06:29",
+  "Person": "余韵犹在"
+}

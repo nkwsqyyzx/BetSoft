@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "委内超秋",
+  "Time1": "04-28 07:30",
+  "Host": "阿拉瓜",
+  "OddStake": "2/2.5球",
+  "Guest": "祖積蘭奴斯",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "04-28 00:32",
+  "Person": "bin-bin"
+}

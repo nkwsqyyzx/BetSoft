@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "05-06 01:00",
+  "Host": "堤格雷",
+  "OddStake": "2/2.5球",
+  "Guest": "獨立隊",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-2",
+  "PreferResult": 4,
+  "Time2": "05-05 23:33",
+  "Person": "天巧星燕青"
+}

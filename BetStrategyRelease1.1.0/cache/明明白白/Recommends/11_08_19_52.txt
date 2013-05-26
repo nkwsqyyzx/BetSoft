@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "女歐協盃",
+  "Time1": "11-08 23:59",
+  "Host": "奧林匹亞克盧日女足",
+  "OddStake": "3.5球",
+  "Guest": "ASD多域斯女足",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "11-08 19:52",
+  "Person": "明明白白"
+}

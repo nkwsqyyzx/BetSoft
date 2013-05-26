@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "非國盃",
+  "Time1": "10-14 23:30",
+  "Host": "多哥",
+  "OddStake": "平/半",
+  "Guest": "加蓬",
+  "Prefer": "加蓬",
+  "Odds": 0.98,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-14 23:09",
+  "Person": "美女"
+}

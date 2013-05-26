@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "英超",
+  "Time1": "05-15 02:45",
+  "Host": "阿森納",
+  "OddStake": "3/3.5球",
+  "Guest": "韋根",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "05-15 01:22",
+  "Person": "民哥也疯狂"
+}

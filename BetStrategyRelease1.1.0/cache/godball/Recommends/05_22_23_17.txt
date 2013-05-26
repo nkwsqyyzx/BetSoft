@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "委内超秋",
+  "Time1": "05-23 04:00",
+  "Host": "委內瑞拉馬競",
+  "OddStake": "2.5球",
+  "Guest": "塔赤雷",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-22 23:17",
+  "Person": "godball"
+}

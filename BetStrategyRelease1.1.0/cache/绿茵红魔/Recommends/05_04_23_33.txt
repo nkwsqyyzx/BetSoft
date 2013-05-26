@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "05-05 02:00",
+  "Host": "皇家馬德里",
+  "OddStake": "两球/两球半",
+  "Guest": "華拉度列",
+  "Prefer": "皇家馬德里",
+  "Odds": 1.08,
+  "Result": "4-3",
+  "PreferResult": 1,
+  "Time2": "05-04 23:33",
+  "Person": "绿茵红魔"
+}

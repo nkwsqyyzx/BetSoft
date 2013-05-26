@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "羅乙2",
+  "Time1": "04-28 16:00",
+  "Host": "沃爾恰",
+  "OddStake": "2.5球",
+  "Guest": "UTA亞拉德",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-28 15:34",
+  "Person": "明明白白"
+}

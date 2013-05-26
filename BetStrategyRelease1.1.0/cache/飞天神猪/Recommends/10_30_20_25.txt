@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "比甲",
+  "Time1": "10-31 03:00",
+  "Host": "安德列治",
+  "OddStake": "一球",
+  "Guest": "真特",
+  "Prefer": "安德列治",
+  "Odds": 0.97,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "10-30 20:25",
+  "Person": "飞天神猪"
+}

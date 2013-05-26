@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-27 03:00",
+  "Host": "瓦萊卡諾",
+  "OddStake": "半/一",
+  "Guest": "奧薩蘇納",
+  "Prefer": "奧薩蘇納",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "04-27 00:35",
+  "Person": "天巧星燕青"
+}

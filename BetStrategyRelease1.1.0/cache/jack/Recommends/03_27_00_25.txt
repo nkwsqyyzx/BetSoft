@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐洲預選",
+  "Time1": "03-27 04:00",
+  "Host": "黑山",
+  "OddStake": "受半球",
+  "Guest": "英格蘭",
+  "Prefer": "黑山",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "03-27 00:25",
+  "Person": "jack"
+}

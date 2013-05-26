@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "04-20 19:00",
+  "Host": "慕尼黑1860",
+  "OddStake": "2.5球",
+  "Guest": "FSV法蘭克福",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "04-20 18:36",
+  "Person": "大头"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "奧甲",
+  "Time1": "03-30 23:00",
+  "Host": "特倫克沃爾德艾特米拿",
+  "OddStake": "半球",
+  "Guest": "馬特斯堡",
+  "Prefer": "馬特斯堡",
+  "Odds": 0.93,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-30 21:45",
+  "Person": "我行我素"
+}

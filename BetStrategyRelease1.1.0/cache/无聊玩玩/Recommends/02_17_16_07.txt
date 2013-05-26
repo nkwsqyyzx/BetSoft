@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "02-17 19:00",
+  "Host": "皇家蘇斯達",
+  "OddStake": "2.5球",
+  "Guest": "利雲特",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "02-17 16:07",
+  "Person": "无聊玩玩"
+}

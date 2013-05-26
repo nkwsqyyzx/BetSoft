@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳職聯",
+  "Time1": "02-22 16:30",
+  "Host": "紐卡斯托",
+  "OddStake": "2.5球",
+  "Guest": "布里斯班獅吼",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "02-22 16:16",
+  "Person": "明明白白"
+}

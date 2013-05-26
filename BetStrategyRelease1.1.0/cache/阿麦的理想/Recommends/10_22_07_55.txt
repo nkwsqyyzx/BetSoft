@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "美職業",
+  "Time1": "10-22 09:00",
+  "Host": "西雅圖音響",
+  "OddStake": "半/一",
+  "Guest": "達拉斯",
+  "Prefer": "達拉斯",
+  "Odds": 0.82,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "10-22 07:55",
+  "Person": "阿麦的理想"
+}

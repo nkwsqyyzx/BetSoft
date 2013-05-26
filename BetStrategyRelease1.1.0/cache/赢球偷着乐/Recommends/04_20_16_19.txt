@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-20 22:00",
+  "Host": "富勒姆",
+  "OddStake": "受半/一",
+  "Guest": "阿森納",
+  "Prefer": "阿森納",
+  "Odds": 0.83,
+  "Result": "0-1",
+  "PreferResult": 4,
+  "Time2": "04-20 16:19",
+  "Person": "赢球偷着乐"
+}

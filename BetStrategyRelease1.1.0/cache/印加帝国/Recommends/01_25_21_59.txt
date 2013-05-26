@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-25 23:00",
+  "Host": "年青人(中)",
+  "OddStake": "受平/半",
+  "Guest": "克盧日",
+  "Prefer": "年青人(中)",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "01-25 21:59",
+  "Person": "印加帝国"
+}

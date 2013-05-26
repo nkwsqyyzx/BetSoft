@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "印尼甲",
+  "Time1": "01-30 16:30",
+  "Host": "帕斯匹披卡隴桿",
+  "OddStake": "2/2.5球",
+  "Guest": "伯希卡波茂物",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "01-30 16:03",
+  "Person": "飞天神猪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日聯盃",
+  "Time1": "05-22 18:00",
+  "Host": "清水心跳",
+  "OddStake": "受半/一",
+  "Guest": "橫濱水手",
+  "Prefer": "橫濱水手",
+  "Odds": 1.03,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "05-22 15:53",
+  "Person": "积木"
+}

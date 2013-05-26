@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英甲",
+  "Time1": "02-06 03:45",
+  "Host": "奧咸",
+  "OddStake": "平手",
+  "Guest": "伊奧華",
+  "Prefer": "奧咸",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "02-05 23:54",
+  "Person": "无聊玩玩"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意丙B",
+  "Time1": "12-11 03:45",
+  "Host": "L阿桂拉",
+  "OddStake": "2/2.5球",
+  "Guest": "特華莫",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "12-10 19:49",
+  "Person": "我行我素"
+}

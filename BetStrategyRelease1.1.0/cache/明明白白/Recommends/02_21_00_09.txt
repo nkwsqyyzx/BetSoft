@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "芬聯盃",
+  "Time1": "02-21 00:30",
+  "Host": "路雲尼米",
+  "OddStake": "2.5/3球",
+  "Guest": "查路",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-21 00:09",
+  "Person": "明明白白"
+}

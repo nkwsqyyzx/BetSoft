@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "03-04 23:00",
+  "Host": "候格森德(中)",
+  "OddStake": "半/一",
+  "Guest": "波杜基林特",
+  "Prefer": "候格森德(中)",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "03-04 21:49",
+  "Person": "轻轻巧巧"
+}

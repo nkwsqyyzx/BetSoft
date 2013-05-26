@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "歐青U19",
+  "Time1": "05-24 23:59",
+  "Host": "英格蘭U19(中)",
+  "OddStake": "3球",
+  "Guest": "格魯吉亞U19",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-24 23:39",
+  "Person": "墨斗红云"
+}

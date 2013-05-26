@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德西聯",
+  "Time1": "05-04 02:00",
+  "Host": "科隆福圖納",
+  "OddStake": "半球",
+  "Guest": "史浩克04青年隊",
+  "Prefer": "史浩克04青年隊",
+  "Odds": 0.81,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-04 01:47",
+  "Person": "sweetcat"
+}

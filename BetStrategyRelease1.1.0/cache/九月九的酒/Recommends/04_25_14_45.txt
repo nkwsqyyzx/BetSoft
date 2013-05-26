@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典超",
+  "Time1": "04-26 00:30",
+  "Host": "IFK哥德堡",
+  "OddStake": "2/2.5球",
+  "Guest": "馬模",
+  "Prefer": "小球",
+  "Odds": 1.04,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-25 14:45",
+  "Person": "九月九的酒"
+}

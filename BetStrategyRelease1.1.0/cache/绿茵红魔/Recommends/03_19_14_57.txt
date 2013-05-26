@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英甲",
+  "Time1": "03-20 03:45",
+  "Host": "克魯",
+  "OddStake": "2/2.5球",
+  "Guest": "米爾頓凱恩斯",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "03-19 14:57",
+  "Person": "绿茵红魔"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中超",
+  "Time1": "04-27 14:35",
+  "Host": "長春亞泰",
+  "OddStake": "2球",
+  "Guest": "江蘇舜天",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-27 13:59",
+  "Person": "jack"
+}

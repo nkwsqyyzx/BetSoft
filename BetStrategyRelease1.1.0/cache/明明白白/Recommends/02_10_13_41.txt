@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳職聯",
+  "Time1": "02-10 14:00",
+  "Host": "悉尼",
+  "OddStake": "3球",
+  "Guest": "布里斯班獅吼",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "02-10 13:41",
+  "Person": "明明白白"
+}

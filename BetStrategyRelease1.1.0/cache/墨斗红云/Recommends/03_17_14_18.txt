@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "香港甲",
+  "Time1": "03-17 14:30",
+  "Host": "香港流浪足球會",
+  "OddStake": "2.5/3球",
+  "Guest": "橫濱香港足球會",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-17 14:18",
+  "Person": "墨斗红云"
+}

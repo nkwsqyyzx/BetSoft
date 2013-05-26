@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-15 02:45",
+  "Host": "聖巴特里",
+  "OddStake": "平手",
+  "Guest": "沙姆洛克流浪",
+  "Prefer": "沙姆洛克流浪",
+  "Odds": 0.97,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "05-15 00:47",
+  "Person": "扬名立万"
+}

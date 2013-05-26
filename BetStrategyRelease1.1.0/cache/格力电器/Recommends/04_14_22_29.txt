@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美職業",
+  "Time1": "04-14 23:59",
+  "Host": "蒙特利爾衝擊",
+  "OddStake": "半球",
+  "Guest": "哥倫布機員",
+  "Prefer": "哥倫布機員",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-14 22:29",
+  "Person": "格力电器"
+}

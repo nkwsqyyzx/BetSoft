@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "挪威超",
+  "Time1": "04-01 21:30",
+  "Host": "特羅素",
+  "OddStake": "2.5球",
+  "Guest": "奧特格寧蘭",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-01 19:00",
+  "Person": "轻轻巧巧"
+}

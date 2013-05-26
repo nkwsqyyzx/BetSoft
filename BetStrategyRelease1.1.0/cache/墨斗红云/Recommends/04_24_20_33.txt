@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法U19A",
+  "Time1": "04-24 21:00",
+  "Host": "法國競賽會U19",
+  "OddStake": "2.5/3球",
+  "Guest": "愛米恩斯U19",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "2-5",
+  "PreferResult": 5,
+  "Time2": "04-24 20:33",
+  "Person": "墨斗红云"
+}

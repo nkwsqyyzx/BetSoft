@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意乙",
+  "Time1": "04-17 02:45",
+  "Host": "蘭西安奴",
+  "OddStake": "平/半",
+  "Guest": "特拉納",
+  "Prefer": "特拉納",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-16 14:31",
+  "Person": "歡樂今宵"
+}

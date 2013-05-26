@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "巴聖錦標",
+  "Time1": "02-01 05:30",
+  "Host": "索洛卡巴",
+  "OddStake": "2.5球",
+  "Guest": "博塔福格FC",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "02-01 01:45",
+  "Person": "余韵犹在"
+}

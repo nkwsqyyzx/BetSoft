@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "費王盃",
+  "Time1": "12-24 19:55",
+  "Host": "哈哲爾U21",
+  "OddStake": "3球",
+  "Guest": "阿爾菲斯U21",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "12-24 15:37",
+  "Person": "身不由己"
+}

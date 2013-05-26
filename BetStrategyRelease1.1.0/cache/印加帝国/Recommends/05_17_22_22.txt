@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法乙",
+  "Time1": "05-18 02:30",
+  "Host": "南特",
+  "OddStake": "一球/球半",
+  "Guest": "色當",
+  "Prefer": "南特",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "05-17 22:22",
+  "Person": "印加帝国"
+}

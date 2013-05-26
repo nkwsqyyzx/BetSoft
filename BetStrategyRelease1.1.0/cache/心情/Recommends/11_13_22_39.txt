@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-14 03:30",
+  "Host": "英格蘭U21",
+  "OddStake": "3.5球",
+  "Guest": "北愛爾蘭U21",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "11-13 22:39",
+  "Person": "心情"
+}

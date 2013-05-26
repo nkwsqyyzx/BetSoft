@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "德南聯",
+  "Time1": "10-13 01:00",
+  "Host": "格羅薩斯帕赫",
+  "OddStake": "2.5/3球",
+  "Guest": "SSV烏爾姆",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "10-13 00:08",
+  "Person": "明明白白"
+}

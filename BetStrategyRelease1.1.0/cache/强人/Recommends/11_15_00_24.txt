@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-15 01:00",
+  "Host": "塞浦路斯",
+  "OddStake": "受平/半",
+  "Guest": "芬蘭",
+  "Prefer": "塞浦路斯",
+  "Odds": 0.85,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "11-15 00:24",
+  "Person": "强人"
+}

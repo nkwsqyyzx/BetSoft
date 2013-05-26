@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法甲",
+  "Time1": "02-24 21:00",
+  "Host": "里昂",
+  "OddStake": "半/一",
+  "Guest": "羅連安特",
+  "Prefer": "里昂",
+  "Odds": 0.94,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-24 20:44",
+  "Person": "bobo"
+}

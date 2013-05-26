@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "美職業",
+  "Time1": "03-25 05:00",
+  "Host": "芝加哥火燄",
+  "OddStake": "2/2.5球",
+  "Guest": "美國芝華士",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "03-24 12:29",
+  "Person": "身不由己"
+}

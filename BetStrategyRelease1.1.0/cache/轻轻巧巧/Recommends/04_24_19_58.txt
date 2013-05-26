@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德東北聯",
+  "Time1": "04-25 01:00",
+  "Host": "VfB阿爾巴赫",
+  "OddStake": "2.5球",
+  "Guest": "科特布斯青年隊",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-24 19:58",
+  "Person": "轻轻巧巧"
+}

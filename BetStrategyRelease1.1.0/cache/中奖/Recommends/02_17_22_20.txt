@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "葡超",
+  "Time1": "02-17 23:59",
+  "Host": "歐漢尼斯",
+  "OddStake": "半球",
+  "Guest": "塞圖巴爾",
+  "Prefer": "塞圖巴爾",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-17 22:20",
+  "Person": "中奖"
+}

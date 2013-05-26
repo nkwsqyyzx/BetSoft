@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞士超",
+  "Time1": "05-05 01:45",
+  "Host": "草蜢",
+  "OddStake": "一球",
+  "Guest": "塞維特",
+  "Prefer": "草蜢",
+  "Odds": 0.99,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-04 22:01",
+  "Person": "余韵犹在"
+}

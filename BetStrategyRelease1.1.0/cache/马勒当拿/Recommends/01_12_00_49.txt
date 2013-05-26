@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "01-12 03:00",
+  "Host": "尼歐特",
+  "OddStake": "半球",
+  "Guest": "托爾司",
+  "Prefer": "尼歐特",
+  "Odds": 1.05,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-12 00:49",
+  "Person": "马勒当拿"
+}

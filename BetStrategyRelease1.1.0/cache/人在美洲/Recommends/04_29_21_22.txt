@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典乙北",
+  "Time1": "04-30 01:00",
+  "Host": "天狼星(中)",
+  "OddStake": "球半",
+  "Guest": "AFC聯",
+  "Prefer": "天狼星(中)",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-29 21:22",
+  "Person": "人在美洲"
+}

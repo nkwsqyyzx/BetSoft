@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日聯盃",
+  "Time1": "05-15 18:00",
+  "Host": "大阪櫻花",
+  "OddStake": "半球",
+  "Guest": "鳥栖沙根",
+  "Prefer": "鳥栖沙根",
+  "Odds": 0.93,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-15 15:59",
+  "Person": "美女"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "墨西聯",
+  "Time1": "01-05 09:30",
+  "Host": "莫雷利亞",
+  "OddStake": "2/2.5球",
+  "Guest": "阿蘇爾",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "3-3",
+  "PreferResult": 1,
+  "Time2": "01-04 23:43",
+  "Person": "心情"
+}

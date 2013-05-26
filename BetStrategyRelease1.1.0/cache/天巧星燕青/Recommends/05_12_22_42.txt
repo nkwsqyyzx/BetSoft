@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "波蘭甲",
+  "Time1": "05-12 23:00",
+  "Host": "列治亞",
+  "OddStake": "2/2.5球",
+  "Guest": "魯治卓索",
+  "Prefer": "小球",
+  "Odds": 0.93,
+  "Result": "4-4",
+  "PreferResult": 1,
+  "Time2": "05-12 22:42",
+  "Person": "天巧星燕青"
+}

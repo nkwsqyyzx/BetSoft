@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿乙曼特",
+  "Time1": "02-21 04:00",
+  "Host": "聖太摩",
+  "OddStake": "2球",
+  "Guest": "特里斯頓",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "0-2",
+  "PreferResult": 3,
+  "Time2": "02-20 20:35",
+  "Person": "人在美洲"
+}

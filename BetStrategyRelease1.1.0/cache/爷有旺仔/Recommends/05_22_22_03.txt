@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "白俄超",
+  "Time1": "05-22 23:00",
+  "Host": "伯希納博布魯伊斯克",
+  "OddStake": "受半球",
+  "Guest": "明斯克戴拿模",
+  "Prefer": "伯希納博布魯伊斯克",
+  "Odds": 0.85,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-22 22:03",
+  "Person": "爷有旺仔"
+}

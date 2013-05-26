@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "02-27 03:45",
+  "Host": "般尼",
+  "OddStake": "半/一",
+  "Guest": "哈德斯菲爾德",
+  "Prefer": "般尼",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-27 00:15",
+  "Person": "夜是彩市圆"
+}

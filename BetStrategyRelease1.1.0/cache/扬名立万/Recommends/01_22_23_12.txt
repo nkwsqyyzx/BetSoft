@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "芬聯盃",
+  "Time1": "01-23 01:00",
+  "Host": "馬利漢姆(中)",
+  "OddStake": "2.5球",
+  "Guest": "邁柏",
+  "Prefer": "小球",
+  "Odds": 1.01,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "01-22 23:12",
+  "Person": "扬名立万"
+}

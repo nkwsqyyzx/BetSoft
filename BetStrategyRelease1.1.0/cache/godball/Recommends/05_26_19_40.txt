@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭甲",
+  "Time1": "05-26 20:30",
+  "Host": "沙斯辛",
+  "OddStake": "2/2.5球",
+  "Guest": "薩比利斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-26 19:40",
+  "Person": "godball"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德北聯",
+  "Time1": "02-03 22:00",
+  "Host": "SV威廉港",
+  "OddStake": "半球",
+  "Guest": "聖保利青年隊",
+  "Prefer": "SV威廉港",
+  "Odds": 1.0,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "02-03 20:16",
+  "Person": "jack"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英冠",
+  "Time1": "12-22 23:00",
+  "Host": "萊切斯特",
+  "OddStake": "2.5球",
+  "Guest": "卡迪夫城",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "12-22 17:45",
+  "Person": "九月九的酒"
+}

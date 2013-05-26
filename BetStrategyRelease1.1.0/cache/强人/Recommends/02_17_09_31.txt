@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "墨西聯",
+  "Time1": "02-17 11:00",
+  "Host": "艾特萊",
+  "OddStake": "2.5球",
+  "Guest": "蒙特瑞",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-17 09:31",
+  "Person": "强人"
+}

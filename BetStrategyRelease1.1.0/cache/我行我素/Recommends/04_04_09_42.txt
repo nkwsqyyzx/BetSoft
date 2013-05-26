@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "哥斯甲",
+  "Time1": "04-04 10:00",
+  "Host": "希爾迪奧諾",
+  "OddStake": "平/半",
+  "Guest": "阿拉倫斯",
+  "Prefer": "阿拉倫斯",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-04 09:42",
+  "Person": "我行我素"
+}

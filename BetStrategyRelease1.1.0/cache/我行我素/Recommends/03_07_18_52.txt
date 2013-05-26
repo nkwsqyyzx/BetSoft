@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "03-08 06:15",
+  "Host": "波特諾",
+  "OddStake": "2/2.5球",
+  "Guest": "聖塔菲",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "03-07 18:52",
+  "Person": "我行我素"
+}

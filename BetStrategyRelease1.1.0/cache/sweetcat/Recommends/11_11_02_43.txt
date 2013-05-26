@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "比甲",
+  "Time1": "11-11 03:00",
+  "Host": "華斯蘭德比華倫",
+  "OddStake": "平/半",
+  "Guest": "查內爾",
+  "Prefer": "華斯蘭德比華倫",
+  "Odds": 0.89,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "11-11 02:43",
+  "Person": "sweetcat"
+}

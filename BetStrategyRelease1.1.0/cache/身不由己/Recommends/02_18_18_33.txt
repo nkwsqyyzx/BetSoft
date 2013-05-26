@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英足總盃",
+  "Time1": "02-19 04:00",
+  "Host": "曼聯",
+  "OddStake": "3.5球",
+  "Guest": "雷丁",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-18 18:33",
+  "Person": "身不由己"
+}

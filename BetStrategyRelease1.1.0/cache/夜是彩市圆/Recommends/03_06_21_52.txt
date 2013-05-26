@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "芬聯盃",
+  "Time1": "03-06 22:30",
+  "Host": "邁柏(中)",
+  "OddStake": "平/半",
+  "Guest": "洪卡",
+  "Prefer": "邁柏(中)",
+  "Odds": 0.87,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "03-06 21:52",
+  "Person": "夜是彩市圆"
+}

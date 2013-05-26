@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典超",
+  "Time1": "04-19 01:00",
+  "Host": "IFK諾科平",
+  "OddStake": "平手",
+  "Guest": "希爾星堡",
+  "Prefer": "IFK諾科平",
+  "Odds": 0.99,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "04-18 13:51",
+  "Person": "积木"
+}

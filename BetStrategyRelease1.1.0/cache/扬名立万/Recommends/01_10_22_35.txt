@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "南冠U20",
+  "Time1": "01-11 09:15",
+  "Host": "烏拉圭U20(中)",
+  "OddStake": "半/一",
+  "Guest": "秘魯U20",
+  "Prefer": "秘魯U20",
+  "Odds": 0.88,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "01-10 22:35",
+  "Person": "扬名立万"
+}

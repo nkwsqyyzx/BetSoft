@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西乙",
+  "Time1": "04-22 03:00",
+  "Host": "皇家馬德里卡斯蒂亞",
+  "OddStake": "3球",
+  "Guest": "米蘭迪斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "6-1",
+  "PreferResult": 1,
+  "Time2": "04-21 22:37",
+  "Person": "bin-bin"
+}

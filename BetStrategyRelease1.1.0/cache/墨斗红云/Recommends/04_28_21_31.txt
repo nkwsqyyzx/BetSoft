@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法甲",
+  "Time1": "04-29 03:00",
+  "Host": "伊維恩",
+  "OddStake": "受半/一",
+  "Guest": "巴黎聖日門",
+  "Prefer": "巴黎聖日門",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 4,
+  "Time2": "04-28 21:31",
+  "Person": "墨斗红云"
+}

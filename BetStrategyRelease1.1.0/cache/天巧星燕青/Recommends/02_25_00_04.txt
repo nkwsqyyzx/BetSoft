@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "厄瓜甲",
+  "Time1": "02-25 04:00",
+  "Host": "奎維多體育",
+  "OddStake": "2.5球",
+  "Guest": "奎托",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "02-25 00:04",
+  "Person": "天巧星燕青"
+}

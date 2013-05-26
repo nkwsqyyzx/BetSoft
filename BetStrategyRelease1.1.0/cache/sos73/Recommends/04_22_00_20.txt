@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "非冠盃",
+  "Time1": "04-22 03:00",
+  "Host": "FUS拉巴特",
+  "OddStake": "2/2.5球",
+  "Guest": "瑟威體育聖佩德羅",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "04-22 00:20",
+  "Person": "sos73"
+}

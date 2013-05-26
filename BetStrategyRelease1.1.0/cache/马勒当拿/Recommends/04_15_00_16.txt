@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "04-15 01:00",
+  "Host": "利尼史特朗",
+  "OddStake": "半球",
+  "Guest": "白蘭恩",
+  "Prefer": "利尼史特朗",
+  "Odds": 1.1,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-15 00:16",
+  "Person": "马勒当拿"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "04-17 02:45",
+  "Host": "彼德堡",
+  "OddStake": "2.5球",
+  "Guest": "白禮頓",
+  "Prefer": "小球",
+  "Odds": 1.05,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-16 15:37",
+  "Person": "绿茵红魔"
+}

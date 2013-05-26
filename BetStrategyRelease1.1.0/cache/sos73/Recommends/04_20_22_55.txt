@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫甲",
+  "Time1": "04-21 06:30",
+  "Host": "拉伊奎達德",
+  "OddStake": "2/2.5球",
+  "Guest": "國家體育會",
+  "Prefer": "小球",
+  "Odds": 0.93,
+  "Result": "0-2",
+  "PreferResult": 4,
+  "Time2": "04-20 22:55",
+  "Person": "sos73"
+}

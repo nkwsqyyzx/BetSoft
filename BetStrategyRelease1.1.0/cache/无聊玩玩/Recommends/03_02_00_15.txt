@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "比乙",
+  "Time1": "03-02 03:30",
+  "Host": "韋斯達路",
+  "OddStake": "半/一",
+  "Guest": "布蘇",
+  "Prefer": "韋斯達路",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "03-02 00:15",
+  "Person": "无聊玩玩"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "白俄超",
+  "Time1": "05-17 23:59",
+  "Host": "高美爾",
+  "OddStake": "2球",
+  "Guest": "紐曼",
+  "Prefer": "小球",
+  "Odds": 1.08,
+  "Result": "2-0",
+  "PreferResult": 3,
+  "Time2": "05-17 22:47",
+  "Person": "我型我show"
+}

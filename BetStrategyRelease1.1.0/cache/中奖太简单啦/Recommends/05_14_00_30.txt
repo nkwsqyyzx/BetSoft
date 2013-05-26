@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "05-14 01:00",
+  "Host": "柏薩士邦",
+  "OddStake": "半/一",
+  "Guest": "伊斯基錫海斯普",
+  "Prefer": "柏薩士邦",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-14 00:30",
+  "Person": "中奖太简单啦"
+}

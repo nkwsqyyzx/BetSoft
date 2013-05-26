@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德巴聯",
+  "Time1": "04-18 00:15",
+  "Host": "拜仁慕尼黑青年隊",
+  "OddStake": "半/一",
+  "Guest": "梅明根",
+  "Prefer": "拜仁慕尼黑青年隊",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "04-17 23:35",
+  "Person": "无聊玩玩"
+}

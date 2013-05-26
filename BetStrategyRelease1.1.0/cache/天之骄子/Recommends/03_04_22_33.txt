@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德乙",
+  "Time1": "03-05 03:15",
+  "Host": "杜伊斯堡",
+  "OddStake": "受平/半",
+  "Guest": "布倫瑞克",
+  "Prefer": "杜伊斯堡",
+  "Odds": 1.05,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-04 22:33",
+  "Person": "天之骄子"
+}

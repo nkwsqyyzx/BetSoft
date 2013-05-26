@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "中超",
+  "Time1": "03-31 15:30",
+  "Host": "長春亞泰",
+  "OddStake": "2.5球",
+  "Guest": "青島中能",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-31 12:11",
+  "Person": "轻轻巧巧"
+}

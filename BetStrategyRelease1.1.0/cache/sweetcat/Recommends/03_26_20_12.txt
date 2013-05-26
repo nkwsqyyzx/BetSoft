@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "亞洲預選",
+  "Time1": "03-26 21:00",
+  "Host": "烏茲別克",
+  "OddStake": "球半",
+  "Guest": "黎巴嫩",
+  "Prefer": "黎巴嫩",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-26 20:12",
+  "Person": "sweetcat"
+}

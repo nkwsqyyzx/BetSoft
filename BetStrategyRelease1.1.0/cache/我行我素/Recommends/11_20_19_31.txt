@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄甲",
+  "Time1": "11-20 23:59",
+  "Host": "其姆奇",
+  "OddStake": "2/2.5球",
+  "Guest": "彼特若堤斯特",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-20 19:31",
+  "Person": "我行我素"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫乙",
+  "Time1": "04-23 07:00",
+  "Host": "德波爾阿瓜布蘭卡",
+  "OddStake": "2.5球",
+  "Guest": "卡利阿美利加",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-23 00:08",
+  "Person": "sos73"
+}

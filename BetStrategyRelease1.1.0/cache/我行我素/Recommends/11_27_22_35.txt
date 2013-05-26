@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德西聯",
+  "Time1": "11-28 02:00",
+  "Host": "利華古遜青年隊",
+  "OddStake": "半/一",
+  "Guest": "卡雷",
+  "Prefer": "利華古遜青年隊",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "11-27 22:35",
+  "Person": "我行我素"
+}

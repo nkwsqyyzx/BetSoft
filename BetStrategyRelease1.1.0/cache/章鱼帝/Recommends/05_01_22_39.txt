@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 23:59",
+  "Host": "里科威亞",
+  "OddStake": "半球",
+  "Guest": "伊地法格",
+  "Prefer": "伊地法格",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-01 22:39",
+  "Person": "章鱼帝"
+}

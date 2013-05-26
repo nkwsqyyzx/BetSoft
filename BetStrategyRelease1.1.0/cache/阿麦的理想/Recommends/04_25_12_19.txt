@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳南超",
+  "Time1": "04-25 13:30",
+  "Host": "西托任比卡拉",
+  "OddStake": "平/半",
+  "Guest": "阿德萊得城",
+  "Prefer": "阿德萊得城",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-25 12:19",
+  "Person": "阿麦的理想"
+}

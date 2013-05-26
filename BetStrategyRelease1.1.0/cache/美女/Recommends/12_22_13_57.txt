@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "香港甲",
+  "Time1": "12-22 14:30",
+  "Host": "橫濱香港足球會",
+  "OddStake": "3/3.5球",
+  "Guest": "南區足球會",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "12-22 13:57",
+  "Person": "美女"
+}

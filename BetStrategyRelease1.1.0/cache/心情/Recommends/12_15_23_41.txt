@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意甲",
+  "Time1": "12-16 03:45",
+  "Host": "拉素",
+  "OddStake": "2.5球",
+  "Guest": "國際米蘭",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-15 23:41",
+  "Person": "心情"
+}

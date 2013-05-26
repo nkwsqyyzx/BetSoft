@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西聯盃",
+  "Time1": "02-07 02:00",
+  "Host": "比尼薩冷",
+  "OddStake": "2/2.5球",
+  "Guest": "合亞",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "02-06 23:42",
+  "Person": "扬名立万"
+}

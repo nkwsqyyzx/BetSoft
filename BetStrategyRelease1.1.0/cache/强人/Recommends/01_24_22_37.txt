@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "非國盃",
+  "Time1": "01-24 23:00",
+  "Host": "加納(中)",
+  "OddStake": "半球",
+  "Guest": "馬里",
+  "Prefer": "馬里",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-24 22:37",
+  "Person": "强人"
+}

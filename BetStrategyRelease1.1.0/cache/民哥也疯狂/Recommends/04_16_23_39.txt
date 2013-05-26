@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法國盃",
+  "Time1": "04-16 23:59",
+  "Host": "特魯瓦",
+  "OddStake": "平/半",
+  "Guest": "南錫",
+  "Prefer": "特魯瓦",
+  "Odds": 1.04,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "04-16 23:39",
+  "Person": "民哥也疯狂"
+}

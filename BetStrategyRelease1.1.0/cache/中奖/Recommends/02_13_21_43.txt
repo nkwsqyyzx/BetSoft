@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "維亞盃",
+  "Time1": "02-13 22:00",
+  "Host": "拖連奴U19",
+  "OddStake": "球半",
+  "Guest": "西特塔馬利諾U19",
+  "Prefer": "拖連奴U19",
+  "Odds": 0.8,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "02-13 21:43",
+  "Person": "中奖"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-14 19:30",
+  "Host": "北京國安",
+  "OddStake": "平手",
+  "Guest": "FC漢城",
+  "Prefer": "北京國安",
+  "Odds": 1.06,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "05-14 15:30",
+  "Person": "天之骄子"
+}

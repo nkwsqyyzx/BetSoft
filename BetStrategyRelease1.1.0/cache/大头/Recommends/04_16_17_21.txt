@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "04-17 02:45",
+  "Host": "米德爾斯堡",
+  "OddStake": "2.5球",
+  "Guest": "諾定咸森林",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-16 17:21",
+  "Person": "大头"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "秘魯春",
+  "Time1": "05-23 06:45",
+  "Host": "祖安奧里茲",
+  "OddStake": "半/一",
+  "Guest": "萬卡",
+  "Prefer": "萬卡",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-22 23:52",
+  "Person": "我型我show"
+}

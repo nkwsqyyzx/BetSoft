@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "05-07 04:00",
+  "Host": "加泰",
+  "OddStake": "受半球",
+  "Guest": "皇家蘇斯達",
+  "Prefer": "皇家蘇斯達",
+  "Odds": 1.09,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-06 17:03",
+  "Person": "九月九的酒"
+}

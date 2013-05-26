@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "巴西乙",
+  "Time1": "11-03 07:00",
+  "Host": "瓜拉廷格塔",
+  "OddStake": "2.5球",
+  "Guest": "古蘭尼",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-02 15:43",
+  "Person": "印加帝国"
+}

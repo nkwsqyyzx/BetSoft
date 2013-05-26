@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "伊朗超",
+  "Time1": "10-19 19:30",
+  "Host": "高赫紮格魯",
+  "OddStake": "受平/半",
+  "Guest": "弗蘭候薩斯坦",
+  "Prefer": "弗蘭候薩斯坦",
+  "Odds": 1.02,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "10-19 17:05",
+  "Person": "godball"
+}

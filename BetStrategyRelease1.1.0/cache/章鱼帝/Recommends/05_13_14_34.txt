@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典超",
+  "Time1": "05-14 01:00",
+  "Host": "布諾馬博亞納",
+  "OddStake": "平手",
+  "Guest": "加費萊",
+  "Prefer": "布諾馬博亞納",
+  "Odds": 0.93,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "05-13 14:34",
+  "Person": "章鱼帝"
+}

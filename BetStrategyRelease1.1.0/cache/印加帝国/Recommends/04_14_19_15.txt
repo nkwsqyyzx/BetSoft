@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "04-14 19:30",
+  "Host": "派特博恩",
+  "OddStake": "一球",
+  "Guest": "雷根斯堡",
+  "Prefer": "雷根斯堡",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-14 19:15",
+  "Person": "印加帝国"
+}

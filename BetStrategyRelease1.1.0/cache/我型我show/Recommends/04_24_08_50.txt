@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中足盃",
+  "Time1": "04-24 15:00",
+  "Host": "湖南湘濤",
+  "OddStake": "2.5球",
+  "Guest": "北京理工大學",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "04-24 08:50",
+  "Person": "我型我show"
+}

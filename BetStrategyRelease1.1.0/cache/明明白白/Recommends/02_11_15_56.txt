@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "印尼甲",
+  "Time1": "02-11 16:30",
+  "Host": "帕爾斯巴邦卡蘭",
+  "OddStake": "2.5球",
+  "Guest": "博斯達結貝",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "02-11 15:56",
+  "Person": "明明白白"
+}

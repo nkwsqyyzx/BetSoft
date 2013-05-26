@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "德丙聯",
+  "Time1": "10-20 17:30",
+  "Host": "安芝",
+  "OddStake": "半球",
+  "Guest": "莫斯科斯巴達",
+  "Prefer": "安芝",
+  "Odds": 0.92,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "10-20 17:07",
+  "Person": "阿麦的理想"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿甲",
+  "Time1": "05-21 07:15",
+  "Host": "堤格雷",
+  "OddStake": "2/2.5球",
+  "Guest": "拉魯斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-20 23:03",
+  "Person": "心情"
+}

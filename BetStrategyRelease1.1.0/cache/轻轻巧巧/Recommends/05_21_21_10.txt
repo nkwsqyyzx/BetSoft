@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "摩爾甲",
+  "Time1": "05-21 23:00",
+  "Host": "達西亞(中)",
+  "OddStake": "2.5球",
+  "Guest": "森布魯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-21 21:10",
+  "Person": "轻轻巧巧"
+}

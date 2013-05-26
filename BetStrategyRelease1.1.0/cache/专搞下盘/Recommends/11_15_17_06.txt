@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "阿甲",
+  "Time1": "11-16 06:15",
+  "Host": "拉魯斯",
+  "OddStake": "半/一",
+  "Guest": "聖馬丁SJ",
+  "Prefer": "拉魯斯",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "11-15 17:06",
+  "Person": "专搞下盘"
+}

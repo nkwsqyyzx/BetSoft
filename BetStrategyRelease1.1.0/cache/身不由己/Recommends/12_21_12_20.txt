@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法乙",
+  "Time1": "12-22 01:45",
+  "Host": "甘岡",
+  "OddStake": "半/一",
+  "Guest": "GFC阿些斯奧",
+  "Prefer": "甘岡",
+  "Odds": 0.91,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "12-21 12:20",
+  "Person": "身不由己"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷甲",
+  "Time1": "12-16 21:30",
+  "Host": "維迪斯",
+  "OddStake": "一球",
+  "Guest": "RKC華域克",
+  "Prefer": "RKC華域克",
+  "Odds": 0.95,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "12-16 15:32",
+  "Person": "低调的人"
+}

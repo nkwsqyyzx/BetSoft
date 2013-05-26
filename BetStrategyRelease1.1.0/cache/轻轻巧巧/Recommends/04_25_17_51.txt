@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "04-26 09:15",
+  "Host": "皇家加西拉索",
+  "OddStake": "半/一",
+  "Guest": "蒙特維多國民隊",
+  "Prefer": "蒙特維多國民隊",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "04-25 17:51",
+  "Person": "轻轻巧巧"
+}

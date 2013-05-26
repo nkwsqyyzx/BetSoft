@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西乙",
+  "Time1": "11-05 01:00",
+  "Host": "拉斯彭馬斯",
+  "OddStake": "半球",
+  "Guest": "邦弗拉甸拿",
+  "Prefer": "拉斯彭馬斯",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-05 00:43",
+  "Person": "我型我show"
+}

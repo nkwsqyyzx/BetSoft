@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-22 01:00",
+  "Host": "山達勒斯",
+  "OddStake": "平手",
+  "Guest": "維京",
+  "Prefer": "維京",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-21 22:58",
+  "Person": "八月十日"
+}

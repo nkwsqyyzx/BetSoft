@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美職業",
+  "Time1": "05-13 05:00",
+  "Host": "波特蘭木材",
+  "OddStake": "一球",
+  "Guest": "美國芝華士",
+  "Prefer": "美國芝華士",
+  "Odds": 0.92,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-13 04:49",
+  "Person": "马勒当拿"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-15 02:00",
+  "Host": "布拉格斯巴達",
+  "OddStake": "2.5球",
+  "Guest": "切爾西",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-14 21:23",
+  "Person": "余韵犹在"
+}

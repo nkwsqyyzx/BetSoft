@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英聯盃",
+  "Time1": "01-24 03:45",
+  "Host": "史雲斯",
+  "OddStake": "受半球",
+  "Guest": "切爾西",
+  "Prefer": "切爾西",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-23 16:06",
+  "Person": "印加帝国"
+}

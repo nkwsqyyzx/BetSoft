@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷乙",
+  "Time1": "04-16 02:00",
+  "Host": "阿梅爾城",
+  "OddStake": "受半球",
+  "Guest": "丹博斯治",
+  "Prefer": "丹博斯治",
+  "Odds": 0.95,
+  "Result": "1-5",
+  "PreferResult": 5,
+  "Time2": "04-16 01:35",
+  "Person": "中奖太简单啦"
+}

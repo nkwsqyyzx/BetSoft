@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-13 02:15",
+  "Host": "南非",
+  "OddStake": "半球",
+  "Guest": "阿爾及利亞",
+  "Prefer": "阿爾及利亞",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-13 01:42",
+  "Person": "强人"
+}

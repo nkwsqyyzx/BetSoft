@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-30 18:00",
+  "Host": "廣島三箭",
+  "OddStake": "平手",
+  "Guest": "北京國安",
+  "Prefer": "北京國安",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "04-30 17:49",
+  "Person": "歡樂今宵"
+}

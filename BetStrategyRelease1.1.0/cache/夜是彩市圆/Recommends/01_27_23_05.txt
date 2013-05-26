@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西乙",
+  "Time1": "01-27 23:59",
+  "Host": "巴塞羅那B隊",
+  "OddStake": "半/一",
+  "Guest": "皇家馬德里卡斯蒂亞",
+  "Prefer": "巴塞羅那B隊",
+  "Odds": 0.88,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-27 23:05",
+  "Person": "夜是彩市圆"
+}

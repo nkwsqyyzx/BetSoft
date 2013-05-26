@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐洲預選",
+  "Time1": "03-23 03:45",
+  "Host": "波斯尼亞",
+  "OddStake": "半球",
+  "Guest": "希臘",
+  "Prefer": "希臘",
+  "Odds": 0.9,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "03-22 15:01",
+  "Person": "天巧星燕青"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷甲",
+  "Time1": "01-27 23:30",
+  "Host": "NEC尼美根",
+  "OddStake": "半球",
+  "Guest": "高寧根",
+  "Prefer": "高寧根",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-27 23:09",
+  "Person": "强人"
+}

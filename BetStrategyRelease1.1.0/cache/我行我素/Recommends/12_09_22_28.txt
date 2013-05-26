@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "委内超秋",
+  "Time1": "12-10 05:30",
+  "Host": "摩納加斯",
+  "OddStake": "2.5球",
+  "Guest": "艾爾維吉亞",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "12-09 22:28",
+  "Person": "我行我素"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法甲",
+  "Time1": "01-13 23:59",
+  "Host": "奈斯",
+  "OddStake": "半球",
+  "Guest": "華倫西恩斯",
+  "Prefer": "華倫西恩斯",
+  "Odds": 0.89,
+  "Result": "5-0",
+  "PreferResult": 1,
+  "Time2": "01-13 23:10",
+  "Person": "印加帝国"
+}

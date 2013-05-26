@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "以盃",
+  "Time1": "04-18 01:30",
+  "Host": "伊若尼奇亞夏普爾(中)",
+  "OddStake": "受平/半",
+  "Guest": "海法馬卡比",
+  "Prefer": "伊若尼奇亞夏普爾(中)",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-17 16:48",
+  "Person": "章鱼帝"
+}

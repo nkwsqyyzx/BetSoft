@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "印尼甲",
+  "Time1": "04-23 16:30",
+  "Host": "PSCS芝拉扎",
+  "OddStake": "2.5球",
+  "Guest": "伯希德馬特茫恭",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-23 16:08",
+  "Person": "农夫果园"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "05-12 04:00",
+  "Host": "愛斯賓奴",
+  "OddStake": "受半/一",
+  "Guest": "皇家馬德里",
+  "Prefer": "愛斯賓奴",
+  "Odds": 0.87,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-12 03:49",
+  "Person": "马勒当拿"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意乙",
+  "Time1": "03-05 02:00",
+  "Host": "維琴察",
+  "OddStake": "2/2.5球",
+  "Guest": "巴里",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-04 22:42",
+  "Person": "大头"
+}

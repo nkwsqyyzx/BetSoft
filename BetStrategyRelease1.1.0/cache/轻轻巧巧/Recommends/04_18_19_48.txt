@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "沙地聯",
+  "Time1": "04-19 01:35",
+  "Host": "希拉爾",
+  "OddStake": "球半",
+  "Guest": "塔亞文布萊達",
+  "Prefer": "希拉爾",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "04-18 19:48",
+  "Person": "轻轻巧巧"
+}

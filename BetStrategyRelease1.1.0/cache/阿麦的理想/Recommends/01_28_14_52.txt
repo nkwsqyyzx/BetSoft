@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "印度甲",
+  "Time1": "01-28 16:30",
+  "Host": "派欖阿羅",
+  "OddStake": "半/一",
+  "Guest": "錫金",
+  "Prefer": "派欖阿羅",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "01-28 14:52",
+  "Person": "阿麦的理想"
+}

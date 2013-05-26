@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西乙",
+  "Time1": "12-22 03:00",
+  "Host": "皇家馬德里卡斯蒂亞",
+  "OddStake": "2.5/3球",
+  "Guest": "艾爾切",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-21 15:41",
+  "Person": "我行我素"
+}

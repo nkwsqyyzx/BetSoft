@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "克亞甲",
+  "Time1": "03-15 23:59",
+  "Host": "比路樸",
+  "OddStake": "2/2.5球",
+  "Guest": "奧斯積克",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "03-15 15:31",
+  "Person": "心情"
+}

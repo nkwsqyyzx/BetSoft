@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-24 01:00",
+  "Host": "蘭斯干拿",
+  "OddStake": "2.5/3球",
+  "Guest": "法肯柏爾",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-24 00:39",
+  "Person": "民哥也疯狂"
+}

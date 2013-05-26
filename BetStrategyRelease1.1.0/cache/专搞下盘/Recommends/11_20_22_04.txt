@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "11-21 03:45",
+  "Host": "賓菲加",
+  "OddStake": "一球",
+  "Guest": "些路迪",
+  "Prefer": "些路迪",
+  "Odds": 1.05,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "11-20 22:04",
+  "Person": "专搞下盘"
+}

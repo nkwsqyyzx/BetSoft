@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-17 01:00",
+  "Host": "凱沙羅頓",
+  "OddStake": "半/一",
+  "Guest": "科特布斯",
+  "Prefer": "凱沙羅頓",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "11-16 19:50",
+  "Person": "我行我素"
+}

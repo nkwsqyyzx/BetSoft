@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西乙",
+  "Time1": "12-09 19:00",
+  "Host": "哥杜巴",
+  "OddStake": "平/半",
+  "Guest": "希杭",
+  "Prefer": "希杭",
+  "Odds": 0.97,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-09 17:43",
+  "Person": "格力电器"
+}

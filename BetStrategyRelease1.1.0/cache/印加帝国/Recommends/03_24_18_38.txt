@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "西丙1",
+  "Time1": "03-24 19:00",
+  "Host": "希杭B隊",
+  "OddStake": "2.5球",
+  "Guest": "皇家馬德里C隊",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-24 18:38",
+  "Person": "印加帝国"
+}

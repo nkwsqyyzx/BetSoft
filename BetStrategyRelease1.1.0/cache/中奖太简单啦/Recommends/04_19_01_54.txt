@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比甲",
+  "Time1": "04-19 02:30",
+  "Host": "布魯日",
+  "OddStake": "半/一",
+  "Guest": "威爾郡",
+  "Prefer": "威爾郡",
+  "Odds": 0.97,
+  "Result": "3-4",
+  "PreferResult": 5,
+  "Time2": "04-19 01:54",
+  "Person": "中奖太简单啦"
+}

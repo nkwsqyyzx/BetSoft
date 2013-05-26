@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法甲",
+  "Time1": "12-16 21:00",
+  "Host": "南錫",
+  "OddStake": "平手",
+  "Guest": "波爾多",
+  "Prefer": "南錫",
+  "Odds": 1.08,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "12-16 20:46",
+  "Person": "强人"
+}

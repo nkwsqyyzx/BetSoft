@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "04-23 02:15",
+  "Host": "杜伊斯堡",
+  "OddStake": "受平/半",
+  "Guest": "科隆",
+  "Prefer": "科隆",
+  "Odds": 1.02,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "04-23 02:01",
+  "Person": "sweetcat"
+}

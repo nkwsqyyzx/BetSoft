@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法乙",
+  "Time1": "12-18 03:30",
+  "Host": "朗斯",
+  "OddStake": "平/半",
+  "Guest": "甘岡",
+  "Prefer": "甘岡",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-18 01:04",
+  "Person": "强人"
+}

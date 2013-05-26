@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫乙",
+  "Time1": "04-30 07:00",
+  "Host": "喀他基那",
+  "OddStake": "半/一",
+  "Guest": "拉尼羅斯",
+  "Prefer": "拉尼羅斯",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-29 23:00",
+  "Person": "bin-bin"
+}

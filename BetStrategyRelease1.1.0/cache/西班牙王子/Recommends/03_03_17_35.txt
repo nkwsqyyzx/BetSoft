@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "03-04 02:00",
+  "Host": "馬拉加",
+  "OddStake": "受平/半",
+  "Guest": "馬德里體育會",
+  "Prefer": "馬拉加",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "03-03 17:35",
+  "Person": "西班牙王子"
+}

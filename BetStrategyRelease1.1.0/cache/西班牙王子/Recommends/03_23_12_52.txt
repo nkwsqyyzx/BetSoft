@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "日聯盃",
+  "Time1": "03-23 15:00",
+  "Host": "鹿島鹿角",
+  "OddStake": "平/半",
+  "Guest": "FC東京",
+  "Prefer": "FC東京",
+  "Odds": 0.94,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "03-23 12:52",
+  "Person": "西班牙王子"
+}

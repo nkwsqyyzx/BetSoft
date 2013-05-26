@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "友誼賽",
+  "Time1": "04-25 16:00",
+  "Host": "塞浦路斯U19",
+  "OddStake": "受半球",
+  "Guest": "斯洛伐克U19",
+  "Prefer": "塞浦路斯U19",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-25 15:15",
+  "Person": "赢球偷着乐"
+}

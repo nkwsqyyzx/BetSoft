@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "亞洲預選",
+  "Time1": "03-26 19:00",
+  "Host": "南韓",
+  "OddStake": "2.5/3球",
+  "Guest": "卡塔爾",
+  "Prefer": "大球",
+  "Odds": 1.02,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "03-26 18:36",
+  "Person": "中奖太简单啦"
+}

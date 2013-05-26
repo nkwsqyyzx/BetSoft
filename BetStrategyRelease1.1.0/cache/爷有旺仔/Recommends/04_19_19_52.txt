@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "約旦超",
+  "Time1": "04-19 22:00",
+  "Host": "威達特安曼",
+  "OddStake": "半球",
+  "Guest": "亞吉拉安曼",
+  "Prefer": "亞吉拉安曼",
+  "Odds": 0.97,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "04-19 19:52",
+  "Person": "爷有旺仔"
+}

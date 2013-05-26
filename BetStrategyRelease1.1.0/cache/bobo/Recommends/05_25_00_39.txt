@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-25 01:00",
+  "Host": "史卓加斯特",
+  "OddStake": "一球",
+  "Guest": "阿利辛特",
+  "Prefer": "阿利辛特",
+  "Odds": 0.94,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "05-25 00:39",
+  "Person": "bobo"
+}

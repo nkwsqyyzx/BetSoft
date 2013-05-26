@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-21 18:30",
+  "Host": "FC漢城",
+  "OddStake": "2/2.5球",
+  "Guest": "北京國安",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "05-21 16:10",
+  "Person": "赢球偷着乐"
+}

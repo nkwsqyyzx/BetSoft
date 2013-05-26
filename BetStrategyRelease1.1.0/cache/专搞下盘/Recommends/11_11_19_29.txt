@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西甲",
+  "Time1": "11-12 04:30",
+  "Host": "利雲特",
+  "OddStake": "受球半",
+  "Guest": "皇家馬德里",
+  "Prefer": "利雲特",
+  "Odds": 0.9,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "11-11 19:29",
+  "Person": "专搞下盘"
+}

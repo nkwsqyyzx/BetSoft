@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "奧乙",
+  "Time1": "05-04 00:30",
+  "Host": "亞塔奇",
+  "OddStake": "一球/球半",
+  "Guest": "BW林茲",
+  "Prefer": "亞塔奇",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "05-03 20:53",
+  "Person": "八月十日"
+}

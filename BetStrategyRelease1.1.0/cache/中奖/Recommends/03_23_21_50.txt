@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英乙",
+  "Time1": "03-23 23:00",
+  "Host": "諾咸頓",
+  "OddStake": "2.5球",
+  "Guest": "牛津聯",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-23 21:50",
+  "Person": "中奖"
+}

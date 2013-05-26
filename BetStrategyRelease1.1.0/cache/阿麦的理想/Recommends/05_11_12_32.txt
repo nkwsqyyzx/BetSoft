@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "05-11 13:00",
+  "Host": "釜山偶像",
+  "OddStake": "平手",
+  "Guest": "浦項制鐵",
+  "Prefer": "釜山偶像",
+  "Odds": 1.07,
+  "Result": "2-2",
+  "PreferResult": 3,
+  "Time2": "05-11 12:32",
+  "Person": "阿麦的理想"
+}

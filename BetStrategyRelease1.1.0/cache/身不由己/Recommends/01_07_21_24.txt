@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-07 23:00",
+  "Host": "梅赫倫(中)",
+  "OddStake": "2.5球",
+  "Guest": "MC阿爾及爾",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "01-07 21:24",
+  "Person": "身不由己"
+}

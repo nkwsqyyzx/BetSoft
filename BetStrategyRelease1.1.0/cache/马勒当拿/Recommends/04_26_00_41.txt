@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "摩洛超",
+  "Time1": "04-26 01:30",
+  "Host": "DHJ哈斯沙尼亞",
+  "OddStake": "半球",
+  "Guest": "熱加貝尼酶拉",
+  "Prefer": "熱加貝尼酶拉",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-26 00:41",
+  "Person": "马勒当拿"
+}

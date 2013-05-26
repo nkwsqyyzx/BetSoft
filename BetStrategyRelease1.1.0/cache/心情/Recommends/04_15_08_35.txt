@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "04-16 02:15",
+  "Host": "艾格比治",
+  "OddStake": "受平/半",
+  "Guest": "凱沙羅頓",
+  "Prefer": "艾格比治",
+  "Odds": 1.09,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-15 08:35",
+  "Person": "心情"
+}

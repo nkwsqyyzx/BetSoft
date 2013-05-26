@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "格雷納盃",
+  "Time1": "01-10 16:00",
+  "Host": "土耳其U18(中)",
+  "OddStake": "球半",
+  "Guest": "哈薩克斯坦U18",
+  "Prefer": "土耳其U18(中)",
+  "Odds": 0.94,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-10 13:48",
+  "Person": "飞天神猪"
+}

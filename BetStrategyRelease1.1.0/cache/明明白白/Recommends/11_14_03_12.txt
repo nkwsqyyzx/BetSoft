@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-14 03:30",
+  "Host": "法國U20",
+  "OddStake": "2.5球",
+  "Guest": "烏克蘭U21",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-14 03:12",
+  "Person": "明明白白"
+}

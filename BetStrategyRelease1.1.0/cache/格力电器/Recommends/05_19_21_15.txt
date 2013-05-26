@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德北聯",
+  "Time1": "05-20 00:30",
+  "Host": "漢維德",
+  "OddStake": "2.5/3球",
+  "Guest": "吉奧利",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-19 21:15",
+  "Person": "格力电器"
+}

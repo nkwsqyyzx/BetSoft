@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿爾甲",
+  "Time1": "05-21 23:59",
+  "Host": "克萊夫",
+  "OddStake": "2/2.5球",
+  "Guest": "比捷亞",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "05-21 23:15",
+  "Person": "章鱼帝"
+}

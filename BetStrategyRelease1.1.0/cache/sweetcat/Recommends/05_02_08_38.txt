@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "秘魯春",
+  "Time1": "05-02 09:15",
+  "Host": "塞薩爾",
+  "OddStake": "一球",
+  "Guest": "梅加",
+  "Prefer": "梅加",
+  "Odds": 0.83,
+  "Result": "4-3",
+  "PreferResult": 3,
+  "Time2": "05-02 08:38",
+  "Person": "sweetcat"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "克亞甲",
+  "Time1": "05-18 02:00",
+  "Host": "薩格勒布火車頭",
+  "OddStake": "受半球",
+  "Guest": "薩格勒布戴拿模",
+  "Prefer": "薩格勒布戴拿模",
+  "Odds": 0.9,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-17 15:15",
+  "Person": "摩连奴"
+}

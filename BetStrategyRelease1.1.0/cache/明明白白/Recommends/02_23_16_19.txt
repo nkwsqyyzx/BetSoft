@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "印尼甲",
+  "Time1": "02-23 16:30",
+  "Host": "普沃達堤",
+  "OddStake": "2.5球",
+  "Guest": "伯希卡特德波",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-23 16:19",
+  "Person": "明明白白"
+}

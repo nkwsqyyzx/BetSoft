@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法甲",
+  "Time1": "01-21 04:00",
+  "Host": "波爾多",
+  "OddStake": "受平/半",
+  "Guest": "巴黎聖日門",
+  "Prefer": "波爾多",
+  "Odds": 1.09,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-20 22:41",
+  "Person": "印加帝国"
+}

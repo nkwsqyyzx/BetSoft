@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "巴西甲",
+  "Time1": "11-01 07:50",
+  "Host": "米內羅競技",
+  "OddStake": "一球/球半",
+  "Guest": "法林明高RJ",
+  "Prefer": "米內羅競技",
+  "Odds": 1.05,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "11-01 04:19",
+  "Person": "专搞下盘"
+}

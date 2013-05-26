@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "土超",
+  "Time1": "01-22 02:00",
+  "Host": "奧度斯普",
+  "OddStake": "2/2.5球",
+  "Guest": "梅爾辛",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "01-21 08:47",
+  "Person": "心情"
+}

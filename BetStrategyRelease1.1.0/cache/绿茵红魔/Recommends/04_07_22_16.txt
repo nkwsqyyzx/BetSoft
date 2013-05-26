@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意甲",
+  "Time1": "04-08 02:45",
+  "Host": "國際米蘭",
+  "OddStake": "2.5球",
+  "Guest": "阿特蘭大",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "3-4",
+  "PreferResult": 5,
+  "Time2": "04-07 22:16",
+  "Person": "绿茵红魔"
+}

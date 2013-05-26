@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德甲",
+  "Time1": "05-18 21:30",
+  "Host": "慕遜加柏",
+  "OddStake": "受一球",
+  "Guest": "拜仁慕尼黑",
+  "Prefer": "慕遜加柏",
+  "Odds": 1.0,
+  "Result": "3-4",
+  "PreferResult": 3,
+  "Time2": "05-18 15:25",
+  "Person": "BUICKfifa"
+}

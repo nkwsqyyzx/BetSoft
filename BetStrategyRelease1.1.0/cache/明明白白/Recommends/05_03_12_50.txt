@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英甲",
+  "Time1": "05-03 13:00",
+  "Host": "甲府風林",
+  "OddStake": "2.5球",
+  "Guest": "磐田山葉",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-03 12:50",
+  "Person": "明明白白"
+}

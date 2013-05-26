@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "羅甲",
+  "Time1": "04-29 23:59",
+  "Host": "潘杜歷",
+  "OddStake": "2.5/3球",
+  "Guest": "哥利亞",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "04-29 23:19",
+  "Person": "墨斗红云"
+}

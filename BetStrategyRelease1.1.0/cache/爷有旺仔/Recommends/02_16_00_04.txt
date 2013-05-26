@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "比乙",
+  "Time1": "02-16 03:30",
+  "Host": "聖圖爾登",
+  "OddStake": "平/半",
+  "Guest": "苗斯干匹盧維茲",
+  "Prefer": "苗斯干匹盧維茲",
+  "Odds": 1.06,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-16 00:04",
+  "Person": "爷有旺仔"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳維超",
+  "Time1": "04-21 13:00",
+  "Host": "諾斯科特市",
+  "OddStake": "平/半",
+  "Guest": "墨爾本騎士",
+  "Prefer": "墨爾本騎士",
+  "Odds": 0.85,
+  "Result": "5-1",
+  "PreferResult": 1,
+  "Time2": "04-21 12:48",
+  "Person": "飞天神猪"
+}

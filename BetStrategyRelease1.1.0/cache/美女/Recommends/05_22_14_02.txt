@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中足盃",
+  "Time1": "05-22 15:30",
+  "Host": "長春亞泰",
+  "OddStake": "一球",
+  "Guest": "河南建業",
+  "Prefer": "長春亞泰",
+  "Odds": 1.4,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "05-22 14:02",
+  "Person": "美女"
+}

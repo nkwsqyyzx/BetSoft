@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "比乙",
+  "Time1": "11-17 03:30",
+  "Host": "海斯特",
+  "OddStake": "2.5球",
+  "Guest": "聖奈克拉斯",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "11-16 14:43",
+  "Person": "扬名立万"
+}

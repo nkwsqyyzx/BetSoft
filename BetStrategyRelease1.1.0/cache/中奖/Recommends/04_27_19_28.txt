@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意乙",
+  "Time1": "04-27 21:00",
+  "Host": "維塞利",
+  "OddStake": "2.5球",
+  "Guest": "格羅瑟托",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "04-27 19:28",
+  "Person": "中奖"
+}

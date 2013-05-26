@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "西聯盃",
+  "Time1": "03-19 23:59",
+  "Host": "合亞",
+  "OddStake": "平/半",
+  "Guest": "薩拉戈薩B隊",
+  "Prefer": "合亞",
+  "Odds": 1.0,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-19 23:40",
+  "Person": "中奖太简单啦"
+}

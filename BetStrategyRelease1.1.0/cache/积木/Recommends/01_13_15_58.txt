@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西乙",
+  "Time1": "01-13 19:00",
+  "Host": "希杭",
+  "OddStake": "半/一",
+  "Guest": "米蘭迪斯",
+  "Prefer": "米蘭迪斯",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-13 15:58",
+  "Person": "积木"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "英超",
+  "Time1": "05-15 02:45",
+  "Host": "阿森納",
+  "OddStake": "球半",
+  "Guest": "韋根",
+  "Prefer": "阿森納",
+  "Odds": 1.08,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "05-15 02:08",
+  "Person": "中奖太简单啦"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄超",
+  "Time1": "11-19 21:45",
+  "Host": "蘇維杜夫",
+  "OddStake": "2.5球",
+  "Guest": "莫斯科火車頭",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-19 21:15",
+  "Person": "赢球偷着乐"
+}

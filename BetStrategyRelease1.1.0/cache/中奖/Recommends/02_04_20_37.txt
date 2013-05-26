@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英U21乙",
+  "Time1": "02-04 21:00",
+  "Host": "謝菲爾德聯U21",
+  "OddStake": "平/半",
+  "Guest": "哈德斯菲爾德U21",
+  "Prefer": "謝菲爾德聯U21",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-04 20:37",
+  "Person": "中奖"
+}

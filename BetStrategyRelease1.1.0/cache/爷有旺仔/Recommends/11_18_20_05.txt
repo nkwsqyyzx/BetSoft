@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德西聯",
+  "Time1": "11-18 20:30",
+  "Host": "埃森",
+  "OddStake": "半/一",
+  "Guest": "波鴻青年隊",
+  "Prefer": "波鴻青年隊",
+  "Odds": 1.0,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "11-18 20:05",
+  "Person": "爷有旺仔"
+}

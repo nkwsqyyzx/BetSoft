@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "墨西聯",
+  "Time1": "01-27 11:00",
+  "Host": "艾特萊",
+  "OddStake": "受半球",
+  "Guest": "阿美利加會",
+  "Prefer": "阿美利加會",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-27 08:28",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-11 09:00",
+  "Host": "巴拿馬",
+  "OddStake": "2/2.5球",
+  "Guest": "瓜地馬拉",
+  "Prefer": "小球",
+  "Odds": 1.08,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "01-11 07:52",
+  "Person": "阿麦的理想"
+}

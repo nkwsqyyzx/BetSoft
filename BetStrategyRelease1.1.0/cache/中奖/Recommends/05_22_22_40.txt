@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "委内超秋",
+  "Time1": "05-23 04:00",
+  "Host": "委內瑞拉馬競",
+  "OddStake": "平/半",
+  "Guest": "塔赤雷",
+  "Prefer": "委內瑞拉馬競",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "05-22 22:40",
+  "Person": "中奖"
+}

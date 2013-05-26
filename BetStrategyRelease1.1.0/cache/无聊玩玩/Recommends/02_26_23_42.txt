@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "02-27 03:45",
+  "Host": "萊切斯特",
+  "OddStake": "半/一",
+  "Guest": "布力般流浪",
+  "Prefer": "萊切斯特",
+  "Odds": 0.89,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "02-26 23:42",
+  "Person": "无聊玩玩"
+}

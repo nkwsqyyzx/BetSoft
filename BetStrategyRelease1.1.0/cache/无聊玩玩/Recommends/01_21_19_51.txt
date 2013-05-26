@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-22 04:30",
+  "Host": "皇家貝迪斯",
+  "OddStake": "2.5球",
+  "Guest": "畢爾巴鄂競技",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "01-21 19:51",
+  "Person": "无聊玩玩"
+}

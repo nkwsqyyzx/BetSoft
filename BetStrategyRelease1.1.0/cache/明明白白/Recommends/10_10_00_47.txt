@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英非聯",
+  "Time1": "10-10 02:45",
+  "Host": "禾京",
+  "OddStake": "2.5/3球",
+  "Guest": "劍橋聯",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "10-10 00:47",
+  "Person": "明明白白"
+}

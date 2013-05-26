@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-08 01:00",
+  "Host": "川迪(中)",
+  "OddStake": "3.5球",
+  "Guest": "赫爾辛基",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-07 23:26",
+  "Person": "马勒当拿"
+}

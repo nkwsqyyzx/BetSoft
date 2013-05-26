@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法U19C",
+  "Time1": "12-09 18:00",
+  "Host": "布雷斯特U19",
+  "OddStake": "2.5球",
+  "Guest": "圖魯茲U19",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "1-7",
+  "PreferResult": 1,
+  "Time2": "12-09 17:22",
+  "Person": "印加帝国"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "厄瓜甲",
+  "Time1": "11-29 08:00",
+  "Host": "基多",
+  "OddStake": "2/2.5球",
+  "Guest": "尹美利克",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "11-29 04:01",
+  "Person": "我行我素"
+}

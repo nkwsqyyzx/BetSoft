@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-21 01:00",
+  "Host": "特羅素",
+  "OddStake": "一球",
+  "Guest": "白蘭恩",
+  "Prefer": "特羅素",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-21 00:47",
+  "Person": "我行我素"
+}

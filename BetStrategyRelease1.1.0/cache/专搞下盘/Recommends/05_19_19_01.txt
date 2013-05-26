@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "蘇超",
+  "Time1": "05-19 19:45",
+  "Host": "羅斯郡",
+  "OddStake": "平手",
+  "Guest": "恩華利斯",
+  "Prefer": "羅斯郡",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-19 19:01",
+  "Person": "专搞下盘"
+}

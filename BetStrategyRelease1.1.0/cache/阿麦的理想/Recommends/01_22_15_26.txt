@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "CIS盃",
+  "Time1": "01-22 16:00",
+  "Host": "烏克蘭U21(中)",
+  "OddStake": "两球",
+  "Guest": "土庫曼斯坦U21",
+  "Prefer": "烏克蘭U21(中)",
+  "Odds": 0.9,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "01-22 15:26",
+  "Person": "阿麦的理想"
+}

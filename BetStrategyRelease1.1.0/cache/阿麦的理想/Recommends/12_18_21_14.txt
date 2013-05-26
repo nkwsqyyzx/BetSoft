@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英冠",
+  "Time1": "12-19 03:45",
+  "Host": "白禮頓",
+  "OddStake": "半球",
+  "Guest": "米禾爾",
+  "Prefer": "白禮頓",
+  "Odds": 1.1,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "12-18 21:14",
+  "Person": "阿麦的理想"
+}

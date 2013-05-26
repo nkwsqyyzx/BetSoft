@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "捷克甲",
+  "Time1": "11-10 01:00",
+  "Host": "杜克拉布拉格",
+  "OddStake": "半/一",
+  "Guest": "奧斯泰華",
+  "Prefer": "杜克拉布拉格",
+  "Odds": 0.96,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-09 20:15",
+  "Person": "赢球偷着乐"
+}

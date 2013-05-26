@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "智利春",
+  "Time1": "03-09 05:30",
+  "Host": "紐柏萊斯",
+  "OddStake": "半球",
+  "Guest": "科布雷索",
+  "Prefer": "紐柏萊斯",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "03-09 03:58",
+  "Person": "余韵犹在"
+}

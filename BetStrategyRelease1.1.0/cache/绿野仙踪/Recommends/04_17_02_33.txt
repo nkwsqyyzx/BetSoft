@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "04-17 02:45",
+  "Host": "米禾爾",
+  "OddStake": "2.5球",
+  "Guest": "沃特福德",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-17 02:33",
+  "Person": "绿野仙踪"
+}

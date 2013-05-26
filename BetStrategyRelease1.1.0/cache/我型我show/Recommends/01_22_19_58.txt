@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法國盃",
+  "Time1": "01-23 01:00",
+  "Host": "埃皮內爾",
+  "OddStake": "2/2.5球",
+  "Guest": "南特",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "01-22 19:58",
+  "Person": "我型我show"
+}

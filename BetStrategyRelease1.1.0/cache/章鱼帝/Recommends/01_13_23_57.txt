@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-14 03:45",
+  "Host": "森多利亞",
+  "OddStake": "受半球",
+  "Guest": "AC米蘭",
+  "Prefer": "森多利亞",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-13 23:57",
+  "Person": "章鱼帝"
+}

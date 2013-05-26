@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "以超",
+  "Time1": "01-27 01:30",
+  "Host": "比達耶路撒冷",
+  "OddStake": "2.5球",
+  "Guest": "耶烏達",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-26 23:17",
+  "Person": "九月九的酒"
+}

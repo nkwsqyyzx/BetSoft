@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法甲",
+  "Time1": "05-05 02:00",
+  "Host": "威姆斯",
+  "OddStake": "2/2.5球",
+  "Guest": "阿些斯奧",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-04 22:51",
+  "Person": "sos73"
+}

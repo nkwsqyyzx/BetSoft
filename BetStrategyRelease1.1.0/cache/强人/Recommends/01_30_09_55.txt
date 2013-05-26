@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "芬聯盃",
+  "Time1": "01-30 20:00",
+  "Host": "洪卡",
+  "OddStake": "2.5球",
+  "Guest": "邁柏",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "01-30 09:55",
+  "Person": "强人"
+}

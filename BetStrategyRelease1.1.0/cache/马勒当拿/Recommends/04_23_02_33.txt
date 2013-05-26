@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "04-23 03:00",
+  "Host": "聖塔菲聯",
+  "OddStake": "受半球",
+  "Guest": "拉魯斯",
+  "Prefer": "聖塔菲聯",
+  "Odds": 0.89,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-23 02:33",
+  "Person": "马勒当拿"
+}

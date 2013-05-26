@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "摩爾盃",
+  "Time1": "10-31 19:00",
+  "Host": "奧泰斯",
+  "OddStake": "2.5球",
+  "Guest": "克斯圖雷尼",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "10-31 18:15",
+  "Person": "明明白白"
+}

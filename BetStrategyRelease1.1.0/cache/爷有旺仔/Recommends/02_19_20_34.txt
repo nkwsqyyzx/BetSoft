@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "卡塔爾聯",
+  "Time1": "02-19 21:45",
+  "Host": "科赫",
+  "OddStake": "受半球",
+  "Guest": "賈徐卡塔爾",
+  "Prefer": "賈徐卡塔爾",
+  "Odds": 0.99,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-19 20:34",
+  "Person": "爷有旺仔"
+}

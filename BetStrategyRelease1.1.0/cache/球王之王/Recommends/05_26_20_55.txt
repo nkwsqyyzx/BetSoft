@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-26 21:30",
+  "Host": "利尼史特朗",
+  "OddStake": "2.5/3球",
+  "Guest": "候格森德",
+  "Prefer": "小球",
+  "Odds": 1.0,
+  "Result": "3-0",
+  "PreferResult": 2,
+  "Time2": "05-26 20:55",
+  "Person": "球王之王"
+}

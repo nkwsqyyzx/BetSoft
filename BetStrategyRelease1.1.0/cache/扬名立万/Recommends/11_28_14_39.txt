@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "葡甲",
+  "Time1": "11-28 23:00",
+  "Host": "奧利維倫斯",
+  "OddStake": "2/2.5球",
+  "Guest": "比蘭倫斯",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "11-28 14:39",
+  "Person": "扬名立万"
+}

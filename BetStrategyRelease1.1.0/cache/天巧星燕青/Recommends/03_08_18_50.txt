@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "伊朗超",
+  "Time1": "03-08 22:00",
+  "Host": "艾斯迪格拿",
+  "OddStake": "半球",
+  "Guest": "泰拉克托",
+  "Prefer": "艾斯迪格拿",
+  "Odds": 1.02,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-08 18:50",
+  "Person": "天巧星燕青"
+}

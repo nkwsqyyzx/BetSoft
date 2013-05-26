@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德丙聯",
+  "Time1": "03-21 01:00",
+  "Host": "多特蒙德青年隊",
+  "OddStake": "2.5球",
+  "Guest": "洛特維博菲",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "4-3",
+  "PreferResult": 5,
+  "Time2": "03-21 00:23",
+  "Person": "马勒当拿"
+}

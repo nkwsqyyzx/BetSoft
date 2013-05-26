@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "厄瓜甲",
+  "Time1": "05-24 06:00",
+  "Host": "卡托利卡基多",
+  "OddStake": "半/一",
+  "Guest": "羅加",
+  "Prefer": "卡托利卡基多",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "05-24 04:34",
+  "Person": "无聊玩玩"
+}

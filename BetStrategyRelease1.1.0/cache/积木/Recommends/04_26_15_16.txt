@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "奧乙",
+  "Time1": "04-27 00:30",
+  "Host": "第一維也納",
+  "OddStake": "半球",
+  "Guest": "哈特堡格",
+  "Prefer": "第一維也納",
+  "Odds": 1.05,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-26 15:16",
+  "Person": "积木"
+}

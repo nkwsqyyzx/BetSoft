@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "保超",
+  "Time1": "05-10 23:00",
+  "Host": "索菲亞火車頭(中)",
+  "OddStake": "一球",
+  "Guest": "德爾切夫",
+  "Prefer": "德爾切夫",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-10 22:50",
+  "Person": "马勒当拿"
+}

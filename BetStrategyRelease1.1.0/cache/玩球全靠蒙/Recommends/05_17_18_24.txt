@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-18 01:00",
+  "Host": "米亞爾比",
+  "OddStake": "2/2.5球",
+  "Guest": "馬模",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "05-17 18:24",
+  "Person": "玩球全靠蒙"
+}

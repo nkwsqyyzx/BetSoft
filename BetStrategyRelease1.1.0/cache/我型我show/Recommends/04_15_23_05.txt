@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "羅甲",
+  "Time1": "04-16 01:30",
+  "Host": "CSMS伊啊斯",
+  "OddStake": "2/2.5球",
+  "Guest": "維托魯康斯坦薩",
+  "Prefer": "大球",
+  "Odds": 1.03,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "04-15 23:05",
+  "Person": "我型我show"
+}

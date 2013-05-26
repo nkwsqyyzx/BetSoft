@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-13 03:15",
+  "Host": "聖保利",
+  "OddStake": "半/一",
+  "Guest": "波鴻",
+  "Prefer": "波鴻",
+  "Odds": 1.02,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "11-12 16:07",
+  "Person": "心情"
+}

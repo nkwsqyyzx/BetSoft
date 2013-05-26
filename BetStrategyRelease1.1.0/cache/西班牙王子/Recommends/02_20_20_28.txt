@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "02-21 03:45",
+  "Host": "AC米蘭",
+  "OddStake": "受一球",
+  "Guest": "巴塞羅那",
+  "Prefer": "巴塞羅那",
+  "Odds": 0.87,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-20 20:28",
+  "Person": "西班牙王子"
+}

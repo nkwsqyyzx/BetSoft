@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "厄瓜甲",
+  "Time1": "02-16 08:30",
+  "Host": "奎托",
+  "OddStake": "2/2.5球",
+  "Guest": "尹美利克",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "02-16 01:54",
+  "Person": "心情"
+}

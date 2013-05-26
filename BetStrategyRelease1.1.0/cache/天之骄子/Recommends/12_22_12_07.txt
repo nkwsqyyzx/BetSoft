@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意甲",
+  "Time1": "12-22 19:30",
+  "Host": "國際米蘭",
+  "OddStake": "一球/球半",
+  "Guest": "熱拿亞",
+  "Prefer": "熱拿亞",
+  "Odds": 1.09,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-22 12:07",
+  "Person": "天之骄子"
+}

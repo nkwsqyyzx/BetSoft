@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐洲預選",
+  "Time1": "03-23 03:30",
+  "Host": "捷克",
+  "OddStake": "平/半",
+  "Guest": "丹麥",
+  "Prefer": "丹麥",
+  "Odds": 1.0,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "03-22 18:15",
+  "Person": "西班牙王子"
+}

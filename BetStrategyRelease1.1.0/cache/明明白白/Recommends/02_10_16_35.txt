@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "02-10 22:00",
+  "Host": "基錫里士邦",
+  "OddStake": "2.5球",
+  "Guest": "奧度斯普",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "02-10 16:35",
+  "Person": "明明白白"
+}

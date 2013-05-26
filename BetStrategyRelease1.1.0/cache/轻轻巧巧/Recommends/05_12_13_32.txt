@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "05-12 18:30",
+  "Host": "熱拿亞",
+  "OddStake": "半球",
+  "Guest": "國際米蘭",
+  "Prefer": "熱拿亞",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-12 13:32",
+  "Person": "轻轻巧巧"
+}

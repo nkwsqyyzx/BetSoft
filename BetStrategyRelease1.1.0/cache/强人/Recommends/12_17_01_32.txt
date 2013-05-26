@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡超",
+  "Time1": "12-17 02:00",
+  "Host": "布拉加",
+  "OddStake": "2.5球",
+  "Guest": "伊斯托里爾",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "12-17 01:32",
+  "Person": "强人"
+}

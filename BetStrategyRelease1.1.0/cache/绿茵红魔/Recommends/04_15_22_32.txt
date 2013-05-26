@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "04-16 01:00",
+  "Host": "比錫達斯",
+  "OddStake": "半/一",
+  "Guest": "安迪亞斯堡",
+  "Prefer": "比錫達斯",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "04-15 22:32",
+  "Person": "绿茵红魔"
+}

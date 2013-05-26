@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞青甲北",
+  "Time1": "05-14 23:00",
+  "Host": "松茲瓦爾U21",
+  "OddStake": "3.5球",
+  "Guest": "哈馬比U21",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-14 22:20",
+  "Person": "明明白白"
+}

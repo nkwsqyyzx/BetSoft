@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "奧乙",
+  "Time1": "05-18 00:30",
+  "Host": "霍恩",
+  "OddStake": "2.5/3球",
+  "Guest": "哈特堡格",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-18 00:06",
+  "Person": "飞天神猪"
+}

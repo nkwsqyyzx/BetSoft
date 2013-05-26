@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "波蘭盃",
+  "Time1": "03-01 03:00",
+  "Host": "克拉科夫",
+  "OddStake": "2/2.5球",
+  "Guest": "喬治羅尼亞",
+  "Prefer": "大球",
+  "Odds": 1.08,
+  "Result": "2-0",
+  "PreferResult": 2,
+  "Time2": "02-28 22:53",
+  "Person": "身不由己"
+}

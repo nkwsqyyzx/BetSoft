@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "挪威超",
+  "Time1": "04-06 01:00",
+  "Host": "奧特格寧蘭",
+  "OddStake": "平/半",
+  "Guest": "華拿倫加",
+  "Prefer": "華拿倫加",
+  "Odds": 0.99,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-05 12:28",
+  "Person": "西班牙王子"
+}

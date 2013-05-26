@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "克羅盃",
+  "Time1": "05-23 02:15",
+  "Host": "薩格勒布火車頭",
+  "OddStake": "平/半",
+  "Guest": "夏積杜克",
+  "Prefer": "夏積杜克",
+  "Odds": 0.8,
+  "Result": "3-3",
+  "PreferResult": 4,
+  "Time2": "05-22 14:39",
+  "Person": "10分钟到账"
+}

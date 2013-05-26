@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典超",
+  "Time1": "04-16 01:00",
+  "Host": "希爾星堡",
+  "OddStake": "一球",
+  "Guest": "米亞爾比",
+  "Prefer": "希爾星堡",
+  "Odds": 0.84,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "04-15 12:44",
+  "Person": "余韵犹在"
+}

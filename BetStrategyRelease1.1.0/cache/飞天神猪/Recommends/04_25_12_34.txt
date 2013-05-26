@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳南超",
+  "Time1": "04-25 13:30",
+  "Host": "西托任比卡拉",
+  "OddStake": "3球",
+  "Guest": "阿德萊得城",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-25 12:34",
+  "Person": "飞天神猪"
+}

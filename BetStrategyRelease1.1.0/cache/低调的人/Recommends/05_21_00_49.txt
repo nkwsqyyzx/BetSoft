@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-21 01:00",
+  "Host": "哈馬比",
+  "OddStake": "一球",
+  "Guest": "蘭斯干拿",
+  "Prefer": "蘭斯干拿",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "05-21 00:49",
+  "Person": "低调的人"
+}

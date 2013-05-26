@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "巴拉甲春",
+  "Time1": "05-02 03:30",
+  "Host": "盧捷諾體育會",
+  "OddStake": "受半/一",
+  "Guest": "利伯泰德",
+  "Prefer": "利伯泰德",
+  "Odds": 0.8,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "05-02 02:04",
+  "Person": "无聊玩玩"
+}

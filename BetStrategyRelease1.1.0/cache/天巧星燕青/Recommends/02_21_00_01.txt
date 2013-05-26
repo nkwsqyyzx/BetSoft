@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "厄瓜甲",
+  "Time1": "02-21 09:00",
+  "Host": "庫恩卡",
+  "OddStake": "受平/半",
+  "Guest": "奎托",
+  "Prefer": "庫恩卡",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "02-21 00:01",
+  "Person": "天巧星燕青"
+}

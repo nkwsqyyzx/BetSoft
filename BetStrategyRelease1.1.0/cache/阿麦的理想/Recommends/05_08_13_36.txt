@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓足總",
+  "Time1": "05-08 18:00",
+  "Host": "光州足球俱樂部",
+  "OddStake": "平/半",
+  "Guest": "忠州胡默爾",
+  "Prefer": "忠州胡默爾",
+  "Odds": 0.92,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "05-08 13:36",
+  "Person": "阿麦的理想"
+}

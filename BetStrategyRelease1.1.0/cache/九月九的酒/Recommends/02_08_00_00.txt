@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "巴聖錦標",
+  "Time1": "02-08 05:30",
+  "Host": "彭美拉斯",
+  "OddStake": "一球/球半",
+  "Guest": "索洛卡巴",
+  "Prefer": "彭美拉斯",
+  "Odds": 1.08,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-08 00:00",
+  "Person": "九月九的酒"
+}

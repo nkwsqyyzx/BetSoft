@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "蘇乙",
+  "Time1": "05-04 22:00",
+  "Host": "亞布岳夫",
+  "OddStake": "半球",
+  "Guest": "艾洛亞",
+  "Prefer": "艾洛亞",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-04 20:59",
+  "Person": "爷有旺仔"
+}

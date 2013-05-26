@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "智利春",
+  "Time1": "03-03 07:30",
+  "Host": "華奇巴托",
+  "OddStake": "2.5球",
+  "Guest": "伊庫伊奎",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "03-03 03:55",
+  "Person": "人在美洲"
+}

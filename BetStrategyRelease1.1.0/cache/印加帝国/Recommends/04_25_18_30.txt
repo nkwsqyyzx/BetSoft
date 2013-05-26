@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "保盃",
+  "Time1": "04-25 22:30",
+  "Host": "比羅",
+  "OddStake": "平/半",
+  "Guest": "索菲亞斯拉維亞",
+  "Prefer": "索菲亞斯拉維亞",
+  "Odds": 0.81,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-25 18:30",
+  "Person": "印加帝国"
+}

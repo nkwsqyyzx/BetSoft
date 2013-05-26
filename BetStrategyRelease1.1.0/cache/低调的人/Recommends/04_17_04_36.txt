@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "阿乙曼特",
+  "Time1": "04-17 07:00",
+  "Host": "洛斯安第斯",
+  "OddStake": "受平/半",
+  "Guest": "CA坦波利",
+  "Prefer": "洛斯安第斯",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "04-17 04:36",
+  "Person": "低调的人"
+}

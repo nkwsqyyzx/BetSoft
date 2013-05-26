@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意乙",
+  "Time1": "03-02 22:00",
+  "Host": "祖華史塔比亞",
+  "OddStake": "半/一",
+  "Guest": "維塞利",
+  "Prefer": "祖華史塔比亞",
+  "Odds": 0.98,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-02 15:17",
+  "Person": "绿茵红魔"
+}

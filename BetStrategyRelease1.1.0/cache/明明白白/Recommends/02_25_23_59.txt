@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意丙A",
+  "Time1": "02-26 03:45",
+  "Host": "卡皮",
+  "OddStake": "半球",
+  "Guest": "巴維亞",
+  "Prefer": "巴維亞",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-25 23:59",
+  "Person": "明明白白"
+}

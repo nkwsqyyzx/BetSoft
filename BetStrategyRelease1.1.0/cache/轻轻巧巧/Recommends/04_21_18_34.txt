@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "04-21 19:30",
+  "Host": "布倫瑞克",
+  "OddStake": "2.5球",
+  "Guest": "艾格比治",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-21 18:34",
+  "Person": "轻轻巧巧"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿聯盃",
+  "Time1": "05-14 23:40",
+  "Host": "阿基曼",
+  "OddStake": "受半球",
+  "Guest": "詹辛拉",
+  "Prefer": "詹辛拉",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-14 22:25",
+  "Person": "jack"
+}

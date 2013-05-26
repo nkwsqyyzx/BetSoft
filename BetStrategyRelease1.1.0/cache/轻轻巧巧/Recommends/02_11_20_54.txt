@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "02-12 07:15",
+  "Host": "拉魯斯",
+  "OddStake": "半球",
+  "Guest": "科隆競技",
+  "Prefer": "科隆競技",
+  "Odds": 0.84,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "02-11 20:54",
+  "Person": "轻轻巧巧"
+}

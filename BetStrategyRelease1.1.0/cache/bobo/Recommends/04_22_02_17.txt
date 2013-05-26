@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "04-22 02:45",
+  "Host": "祖雲達斯",
+  "OddStake": "2.5球",
+  "Guest": "AC米蘭",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-22 02:17",
+  "Person": "bobo"
+}

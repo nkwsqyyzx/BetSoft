@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "印尼甲",
+  "Time1": "05-16 17:00",
+  "Host": "PSAP斯戈理",
+  "OddStake": "半球",
+  "Guest": "邦卡",
+  "Prefer": "邦卡",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-16 16:33",
+  "Person": "godball"
+}

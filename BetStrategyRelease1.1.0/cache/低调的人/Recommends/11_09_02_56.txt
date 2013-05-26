@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "美職業",
+  "Time1": "11-09 11:00",
+  "Host": "皇家鹽湖城",
+  "OddStake": "平/半",
+  "Guest": "西雅圖音響",
+  "Prefer": "西雅圖音響",
+  "Odds": 1.07,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-09 02:56",
+  "Person": "低调的人"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-20 19:30",
+  "Host": "土耳其U17",
+  "OddStake": "2.5球",
+  "Guest": "羅馬尼亞U17",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-20 19:06",
+  "Person": "大头"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "捷克盃",
+  "Time1": "03-23 23:59",
+  "Host": "皮爾森",
+  "OddStake": "一球/球半",
+  "Guest": "賀拉戴克",
+  "Prefer": "皮爾森",
+  "Odds": 1.05,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "03-23 23:14",
+  "Person": "夜是彩市圆"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "哥倫盃",
+  "Time1": "03-21 08:30",
+  "Host": "曼特寧獨立",
+  "OddStake": "2/2.5球",
+  "Guest": "意達古",
+  "Prefer": "大球",
+  "Odds": 1.08,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-20 23:51",
+  "Person": "美女"
+}

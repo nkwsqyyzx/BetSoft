@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "荷甲",
+  "Time1": "05-19 18:30",
+  "Host": "川迪",
+  "OddStake": "3球",
+  "Guest": "高寧根",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "05-19 16:15",
+  "Person": "绿茵红魔"
+}

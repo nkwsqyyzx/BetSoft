@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "05-11 02:45",
+  "Host": "水晶宮",
+  "OddStake": "平手",
+  "Guest": "白禮頓",
+  "Prefer": "白禮頓",
+  "Odds": 1.1,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "05-10 16:25",
+  "Person": "天巧星燕青"
+}

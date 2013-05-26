@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "墨西聯",
+  "Time1": "05-10 08:00",
+  "Host": "聖多斯",
+  "OddStake": "半球",
+  "Guest": "艾特萊",
+  "Prefer": "聖多斯",
+  "Odds": 0.93,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-10 07:43",
+  "Person": "无聊玩玩"
+}

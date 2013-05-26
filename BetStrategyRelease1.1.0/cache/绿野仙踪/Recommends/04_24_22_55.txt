@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-25 01:10",
+  "Host": "伊地法格",
+  "OddStake": "半球",
+  "Guest": "帕克塔科",
+  "Prefer": "帕克塔科",
+  "Odds": 0.82,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-24 22:55",
+  "Person": "绿野仙踪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "厄瓜甲",
+  "Time1": "05-14 08:30",
+  "Host": "尹美利克",
+  "OddStake": "球半",
+  "Guest": "奎維多體育",
+  "Prefer": "尹美利克",
+  "Odds": 0.94,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-13 14:43",
+  "Person": "天巧星燕青"
+}

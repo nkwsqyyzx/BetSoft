@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "友誼賽",
+  "Time1": "10-11 23:50",
+  "Host": "科威特",
+  "OddStake": "2/2.5球",
+  "Guest": "敘利亞",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "10-11 23:34",
+  "Person": "低调的人"
+}

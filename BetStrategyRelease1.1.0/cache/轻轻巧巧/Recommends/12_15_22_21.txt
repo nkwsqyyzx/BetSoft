@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇超",
+  "Time1": "12-15 23:00",
+  "Host": "登地聯",
+  "OddStake": "2.5/3球",
+  "Guest": "恩華利斯",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "4-4",
+  "PreferResult": 5,
+  "Time2": "12-15 22:21",
+  "Person": "轻轻巧巧"
+}

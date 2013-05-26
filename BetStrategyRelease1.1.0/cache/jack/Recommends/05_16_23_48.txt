@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-16 23:59",
+  "Host": "維京",
+  "OddStake": "2.5/3球",
+  "Guest": "侯尼霍斯",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-16 23:48",
+  "Person": "jack"
+}

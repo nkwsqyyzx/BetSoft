@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "波蘭乙",
+  "Time1": "04-25 01:00",
+  "Host": "GKS卡托威斯",
+  "OddStake": "2/2.5球",
+  "Guest": "弗洛塔",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "04-24 14:32",
+  "Person": "章鱼帝"
+}

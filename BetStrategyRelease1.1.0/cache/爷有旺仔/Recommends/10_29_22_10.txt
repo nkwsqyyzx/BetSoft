@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "約旦超",
+  "Time1": "10-29 22:30",
+  "Host": "曼序亞特",
+  "OddStake": "半球",
+  "Guest": "雅莫科安曼",
+  "Prefer": "曼序亞特",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "10-29 22:10",
+  "Person": "爷有旺仔"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "希臘超",
+  "Time1": "10-09 01:30",
+  "Host": "利雲達高斯",
+  "OddStake": "半/一",
+  "Guest": "彭拉伊高斯",
+  "Prefer": "利雲達高斯",
+  "Odds": 0.86,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "10-08 20:53",
+  "Person": "爷有旺仔"
+}

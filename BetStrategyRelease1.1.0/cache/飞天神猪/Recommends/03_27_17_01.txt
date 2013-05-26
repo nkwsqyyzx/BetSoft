@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "波青聯",
+  "Time1": "03-27 18:00",
+  "Host": "喬治羅尼亞青年隊U21",
+  "OddStake": "一球",
+  "Guest": "派雅斯特青年隊U21",
+  "Prefer": "喬治羅尼亞青年隊U21",
+  "Odds": 1.04,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "03-27 17:01",
+  "Person": "飞天神猪"
+}

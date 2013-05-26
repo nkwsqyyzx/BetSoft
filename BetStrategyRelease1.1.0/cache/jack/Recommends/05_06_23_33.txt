@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥超",
+  "Time1": "05-07 01:00",
+  "Host": "奧丹斯",
+  "OddStake": "2.5/3球",
+  "Guest": "米迪蘭特",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-06 23:33",
+  "Person": "jack"
+}

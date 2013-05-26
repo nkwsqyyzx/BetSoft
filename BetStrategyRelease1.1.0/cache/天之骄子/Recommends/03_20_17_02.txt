@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "烏克U19",
+  "Time1": "03-20 19:00",
+  "Host": "卡帕堤利夫U19",
+  "OddStake": "受半球",
+  "Guest": "伊利捷維斯U19",
+  "Prefer": "伊利捷維斯U19",
+  "Odds": 0.97,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-20 17:02",
+  "Person": "天之骄子"
+}

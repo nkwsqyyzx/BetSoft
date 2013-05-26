@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "01-12 03:00",
+  "Host": "迪卓恩",
+  "OddStake": "半球",
+  "Guest": "利文斯",
+  "Prefer": "迪卓恩",
+  "Odds": 1.06,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "01-12 00:48",
+  "Person": "sweetcat"
+}

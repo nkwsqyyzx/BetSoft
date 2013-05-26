@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西甲",
+  "Time1": "05-27 02:00",
+  "Host": "馬拉加",
+  "OddStake": "平/半",
+  "Guest": "拉科魯尼亞",
+  "Prefer": "拉科魯尼亞",
+  "Odds": 1.0,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 21:25",
+  "Person": "帅的躲家里"
+}

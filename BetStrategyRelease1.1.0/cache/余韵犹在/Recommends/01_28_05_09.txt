@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "里約錦標",
+  "Time1": "01-28 05:30",
+  "Host": "博塔福格RJ",
+  "OddStake": "2.5球",
+  "Guest": "富明尼斯RJ",
+  "Prefer": "小球",
+  "Odds": 1.03,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-28 05:09",
+  "Person": "余韵犹在"
+}

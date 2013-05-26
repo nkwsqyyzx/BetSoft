@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "法丙",
+  "Time1": "04-07 02:00",
+  "Host": "奧爾良",
+  "OddStake": "2/2.5球",
+  "Guest": "CA巴斯蒂亞",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-06 22:48",
+  "Person": "人在美洲"
+}

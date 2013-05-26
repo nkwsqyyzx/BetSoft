@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法丙",
+  "Time1": "05-04 02:30",
+  "Host": "梅斯",
+  "OddStake": "2.5球",
+  "Guest": "CA巴斯蒂亞",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-03 22:04",
+  "Person": "中奖"
+}

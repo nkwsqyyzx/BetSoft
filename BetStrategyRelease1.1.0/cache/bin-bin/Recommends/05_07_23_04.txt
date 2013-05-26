@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "羅甲",
+  "Time1": "05-07 23:59",
+  "Host": "瓦斯路易",
+  "OddStake": "一球",
+  "Guest": "加斯梅登",
+  "Prefer": "加斯梅登",
+  "Odds": 1.0,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-07 23:04",
+  "Person": "bin-bin"
+}

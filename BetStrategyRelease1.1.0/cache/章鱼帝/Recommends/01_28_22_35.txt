@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷青聯",
+  "Time1": "01-29 01:30",
+  "Host": "比達青年隊",
+  "OddStake": "3.5球",
+  "Guest": "川迪青年隊",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "01-28 22:35",
+  "Person": "章鱼帝"
+}

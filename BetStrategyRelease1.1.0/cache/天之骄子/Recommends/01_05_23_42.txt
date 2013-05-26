@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-06 05:00",
+  "Host": "塞維利亞",
+  "OddStake": "一球/球半",
+  "Guest": "奧薩蘇納",
+  "Prefer": "塞維利亞",
+  "Odds": 1.0,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "01-05 23:42",
+  "Person": "天之骄子"
+}

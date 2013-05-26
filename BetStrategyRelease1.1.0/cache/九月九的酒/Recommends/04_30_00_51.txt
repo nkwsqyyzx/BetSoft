@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "阿乙曼特",
+  "Time1": "04-30 02:30",
+  "Host": "阿爾馬格羅",
+  "OddStake": "2/2.5球",
+  "Guest": "聖太摩",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "04-30 00:51",
+  "Person": "九月九的酒"
+}

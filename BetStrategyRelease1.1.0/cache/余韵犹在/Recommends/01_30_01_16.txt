@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-30 02:30",
+  "Host": "阿利辛特",
+  "OddStake": "球半",
+  "Guest": "斯卡波維克",
+  "Prefer": "阿利辛特",
+  "Odds": 0.88,
+  "Result": "7-0",
+  "PreferResult": 5,
+  "Time2": "01-30 01:16",
+  "Person": "余韵犹在"
+}

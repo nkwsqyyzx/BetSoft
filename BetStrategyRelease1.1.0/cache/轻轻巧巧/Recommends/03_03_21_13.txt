@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "03-03 22:00",
+  "Host": "柏薩士邦",
+  "OddStake": "2.5球",
+  "Guest": "希維斯堡",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-03 21:13",
+  "Person": "轻轻巧巧"
+}

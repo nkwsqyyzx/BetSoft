@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "阿聯盃",
+  "Time1": "11-13 23:59",
+  "Host": "納薩SC",
+  "OddStake": "受平/半",
+  "Guest": "艾恩",
+  "Prefer": "艾恩",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "11-13 23:28",
+  "Person": "爷有旺仔"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷甲",
+  "Time1": "04-21 01:45",
+  "Host": "荷華高斯",
+  "OddStake": "3球",
+  "Guest": "RKC華域克",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "04-21 01:13",
+  "Person": "我型我show"
+}

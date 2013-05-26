@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法甲",
+  "Time1": "05-27 03:00",
+  "Host": "羅連安特",
+  "OddStake": "受半球",
+  "Guest": "巴黎聖日門",
+  "Prefer": "羅連安特",
+  "Odds": 0.82,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 00:22",
+  "Person": "马前炮"
+}

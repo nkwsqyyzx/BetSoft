@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西乙",
+  "Time1": "05-11 18:00",
+  "Host": "浦和紅鑽",
+  "OddStake": "2/2.5球",
+  "Guest": "鹿島鹿角",
+  "Prefer": "小球",
+  "Odds": 1.02,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "05-11 17:47",
+  "Person": "bin-bin"
+}

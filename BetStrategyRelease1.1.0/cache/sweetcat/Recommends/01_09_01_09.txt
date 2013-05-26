@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英非聯",
+  "Time1": "01-09 03:45",
+  "Host": "南方港",
+  "OddStake": "平/半",
+  "Guest": "林肯城",
+  "Prefer": "林肯城",
+  "Odds": 0.98,
+  "Result": "4-2",
+  "PreferResult": 1,
+  "Time2": "01-09 01:09",
+  "Person": "sweetcat"
+}

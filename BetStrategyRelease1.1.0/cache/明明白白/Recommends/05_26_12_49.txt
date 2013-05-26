@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日職丙",
+  "Time1": "05-26 13:00",
+  "Host": "町田澤維亞",
+  "OddStake": "2.5球",
+  "Guest": "佐川印刷",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-26 12:49",
+  "Person": "明明白白"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳布超",
+  "Time1": "04-27 17:00",
+  "Host": "葉士域治騎士",
+  "OddStake": "受球半",
+  "Guest": "羅切達爾流浪",
+  "Prefer": "羅切達爾流浪",
+  "Odds": 0.85,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-27 13:25",
+  "Person": "余韵犹在"
+}

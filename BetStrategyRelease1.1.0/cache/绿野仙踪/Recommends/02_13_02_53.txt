@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英非聯",
+  "Time1": "02-13 03:45",
+  "Host": "劍橋聯",
+  "OddStake": "2.5/3球",
+  "Guest": "阿爾費登",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "0-3",
+  "PreferResult": 4,
+  "Time2": "02-13 02:53",
+  "Person": "绿野仙踪"
+}

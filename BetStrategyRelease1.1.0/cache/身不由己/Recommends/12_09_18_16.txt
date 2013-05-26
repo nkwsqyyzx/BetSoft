@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土超",
+  "Time1": "12-09 22:00",
+  "Host": "特拉布宗",
+  "OddStake": "半球",
+  "Guest": "基錫里士邦",
+  "Prefer": "特拉布宗",
+  "Odds": 0.95,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "12-09 18:16",
+  "Person": "身不由己"
+}

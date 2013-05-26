@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英U21",
+  "Time1": "05-01 02:00",
+  "Host": "阿森納U21",
+  "OddStake": "一球",
+  "Guest": "狼隊U21",
+  "Prefer": "阿森納U21",
+  "Odds": 1.04,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "05-01 01:18",
+  "Person": "民哥也疯狂"
+}

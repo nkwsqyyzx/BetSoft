@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "02-01 01:00",
+  "Host": "斯昆達堡(中)",
+  "OddStake": "受球半",
+  "Guest": "馬特斯堡",
+  "Prefer": "馬特斯堡",
+  "Odds": 1.02,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "02-01 00:30",
+  "Person": "夜是彩市圆"
+}

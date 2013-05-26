@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "巴拉甲春",
+  "Time1": "03-24 06:00",
+  "Host": "那西昂諾(中)",
+  "OddStake": "2/2.5球",
+  "Guest": "迪亞茲",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-23 22:32",
+  "Person": "人在美洲"
+}

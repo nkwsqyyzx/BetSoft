@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法甲",
+  "Time1": "05-27 03:00",
+  "Host": "波爾多",
+  "OddStake": "半球",
+  "Guest": "伊維恩",
+  "Prefer": "波爾多",
+  "Odds": 0.87,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 23:36",
+  "Person": "火流星"
+}

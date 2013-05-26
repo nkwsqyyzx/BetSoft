@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "02-16 04:30",
+  "Host": "塞維利亞",
+  "OddStake": "一球/球半",
+  "Guest": "拉科魯尼亞",
+  "Prefer": "拉科魯尼亞",
+  "Odds": 1.1,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "02-15 20:23",
+  "Person": "我型我show"
+}

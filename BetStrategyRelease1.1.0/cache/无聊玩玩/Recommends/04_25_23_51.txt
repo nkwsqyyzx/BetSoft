@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典甲",
+  "Time1": "04-26 01:00",
+  "Host": "法肯柏爾",
+  "OddStake": "平手",
+  "Guest": "哈馬比",
+  "Prefer": "法肯柏爾",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-25 23:51",
+  "Person": "无聊玩玩"
+}

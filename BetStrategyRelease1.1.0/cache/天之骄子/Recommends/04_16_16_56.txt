@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-16 18:00",
+  "Host": "江原FC",
+  "OddStake": "受一球",
+  "Guest": "浦項制鐵",
+  "Prefer": "江原FC",
+  "Odds": 0.81,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "04-16 16:56",
+  "Person": "天之骄子"
+}

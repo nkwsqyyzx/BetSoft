@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法乙",
+  "Time1": "05-07 02:30",
+  "Host": "南特",
+  "OddStake": "2.5球",
+  "Guest": "克萊蒙特",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-06 21:52",
+  "Person": "大头"
+}

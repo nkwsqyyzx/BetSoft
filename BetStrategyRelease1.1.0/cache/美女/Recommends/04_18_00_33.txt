@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-18 02:45",
+  "Host": "西漢姆聯",
+  "OddStake": "受半/一",
+  "Guest": "曼聯",
+  "Prefer": "西漢姆聯",
+  "Odds": 0.94,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "04-18 00:33",
+  "Person": "美女"
+}

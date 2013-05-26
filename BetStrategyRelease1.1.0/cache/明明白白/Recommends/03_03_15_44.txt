@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "03-03 19:30",
+  "Host": "安迪亞斯堡",
+  "OddStake": "2.5球",
+  "Guest": "加辛塔士邦",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "5-2",
+  "PreferResult": 1,
+  "Time2": "03-03 15:44",
+  "Person": "明明白白"
+}

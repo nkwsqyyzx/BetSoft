@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "塞浦盃",
+  "Time1": "02-20 23:59",
+  "Host": "阿亞納帕",
+  "OddStake": "2.5球",
+  "Guest": "阿波羅利馬斯索爾",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "02-20 21:27",
+  "Person": "大头"
+}

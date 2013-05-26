@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法甲",
+  "Time1": "01-20 23:59",
+  "Host": "利爾",
+  "OddStake": "2.5球",
+  "Guest": "奈斯",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "01-20 20:31",
+  "Person": "我行我素"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "意丙超盃",
+  "Time1": "05-24 02:30",
+  "Host": "特拉帕尼",
+  "OddStake": "平/半",
+  "Guest": "艾維連奴",
+  "Prefer": "艾維連奴",
+  "Odds": 0.83,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "05-23 21:36",
+  "Person": "农夫果园"
+}

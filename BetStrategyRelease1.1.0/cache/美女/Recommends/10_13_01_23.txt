@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "友誼賽",
+  "Time1": "10-13 03:00",
+  "Host": "法國",
+  "OddStake": "半球",
+  "Guest": "日本",
+  "Prefer": "日本",
+  "Odds": 1.02,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "10-13 01:23",
+  "Person": "美女"
+}

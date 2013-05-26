@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "05-07 01:00",
+  "Host": "加費萊",
+  "OddStake": "平/半",
+  "Guest": "卡馬亞",
+  "Prefer": "卡馬亞",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-06 23:58",
+  "Person": "马勒当拿"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "02-13 03:45",
+  "Host": "些路迪",
+  "OddStake": "受半/一",
+  "Guest": "祖雲達斯",
+  "Prefer": "祖雲達斯",
+  "Odds": 1.08,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "02-12 22:31",
+  "Person": "天之骄子"
+}

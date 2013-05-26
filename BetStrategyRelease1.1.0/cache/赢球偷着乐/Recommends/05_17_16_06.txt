@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "韓聯盟",
+  "Time1": "05-17 18:00",
+  "Host": "昌原",
+  "OddStake": "2.5球",
+  "Guest": "天安城",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-17 16:06",
+  "Person": "赢球偷着乐"
+}

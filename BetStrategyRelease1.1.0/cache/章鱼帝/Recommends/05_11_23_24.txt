@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "秘魯春",
+  "Time1": "05-12 07:00",
+  "Host": "祖安奧里茲",
+  "OddStake": "2/2.5球",
+  "Guest": "卡加馬卡",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-11 23:24",
+  "Person": "章鱼帝"
+}

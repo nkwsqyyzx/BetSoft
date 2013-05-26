@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-20 01:00",
+  "Host": "阿蘇爾",
+  "OddStake": "2.5球",
+  "Guest": "賈奎斯",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-19 21:53",
+  "Person": "轻轻巧巧"
+}

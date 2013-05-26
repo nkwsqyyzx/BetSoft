@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "蘇乙",
+  "Time1": "05-09 02:30",
+  "Host": "京士柏",
+  "OddStake": "2.5球",
+  "Guest": "彼得克",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-08 22:17",
+  "Person": "中奖"
+}

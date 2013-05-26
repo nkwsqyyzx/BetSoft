@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英錦賽",
+  "Time1": "10-10 02:00",
+  "Host": "唐卡士打",
+  "OddStake": "2.5球",
+  "Guest": "車士打菲特",
+  "Prefer": "小球",
+  "Odds": 1.01,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "10-10 01:29",
+  "Person": "sweetcat"
+}

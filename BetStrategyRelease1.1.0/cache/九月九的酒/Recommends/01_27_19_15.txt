@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷甲",
+  "Time1": "01-27 21:30",
+  "Host": "飛燕諾",
+  "OddStake": "平/半",
+  "Guest": "川迪",
+  "Prefer": "飛燕諾",
+  "Odds": 0.99,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "01-27 19:15",
+  "Person": "九月九的酒"
+}

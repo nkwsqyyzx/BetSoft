@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德乙",
+  "Time1": "03-09 01:00",
+  "Host": "FSV法蘭克福",
+  "OddStake": "2/2.5球",
+  "Guest": "VFR亞倫",
+  "Prefer": "小球",
+  "Odds": 0.93,
+  "Result": "6-1",
+  "PreferResult": 1,
+  "Time2": "03-08 21:56",
+  "Person": "中奖"
+}

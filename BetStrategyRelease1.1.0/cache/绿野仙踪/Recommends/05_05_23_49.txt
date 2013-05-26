@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比甲",
+  "Time1": "05-05 23:59",
+  "Host": "布魯日",
+  "OddStake": "一球",
+  "Guest": "洛格倫",
+  "Prefer": "布魯日",
+  "Odds": 1.05,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "05-05 23:49",
+  "Person": "绿野仙踪"
+}

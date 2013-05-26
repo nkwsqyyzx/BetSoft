@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "希臘超",
+  "Time1": "10-29 23:15",
+  "Host": "OFI克雷迪",
+  "OddStake": "2球",
+  "Guest": "彭拿典奈高斯",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "10-29 18:56",
+  "Person": "飞天神猪"
+}

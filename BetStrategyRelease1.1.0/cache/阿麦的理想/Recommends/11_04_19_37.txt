@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-04 22:00",
+  "Host": "費倫天拿",
+  "OddStake": "一球",
+  "Guest": "卡利亞里",
+  "Prefer": "卡利亞里",
+  "Odds": 0.86,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "11-04 19:37",
+  "Person": "阿麦的理想"
+}

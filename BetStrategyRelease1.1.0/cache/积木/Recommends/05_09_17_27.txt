@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "羅甲",
+  "Time1": "05-09 23:59",
+  "Host": "布格勒斯特迅速",
+  "OddStake": "一球",
+  "Guest": "康戈迪亞齊安",
+  "Prefer": "康戈迪亞齊安",
+  "Odds": 0.93,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-09 17:27",
+  "Person": "积木"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥盃",
+  "Time1": "04-19 02:30",
+  "Host": "艾斯堡",
+  "OddStake": "半球",
+  "Guest": "邦比",
+  "Prefer": "艾斯堡",
+  "Odds": 1.08,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-18 16:37",
+  "Person": "sos73"
+}

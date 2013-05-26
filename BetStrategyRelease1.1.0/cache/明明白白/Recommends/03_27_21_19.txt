@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "女歐協盃",
+  "Time1": "03-27 21:30",
+  "Host": "ASD多域斯女足",
+  "OddStake": "2.5/3球",
+  "Guest": "阿森納女足",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "03-27 21:19",
+  "Person": "明明白白"
+}

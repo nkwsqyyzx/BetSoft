@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-24 18:00",
+  "Host": "全北現代",
+  "OddStake": "两球",
+  "Guest": "孟通",
+  "Prefer": "全北現代",
+  "Odds": 0.83,
+  "Result": "2-0",
+  "PreferResult": 3,
+  "Time2": "04-24 16:09",
+  "Person": "赢球偷着乐"
+}

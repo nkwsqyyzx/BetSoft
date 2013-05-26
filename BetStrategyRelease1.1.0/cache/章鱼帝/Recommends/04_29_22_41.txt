@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥超",
+  "Time1": "04-30 01:00",
+  "Host": "米迪蘭特",
+  "OddStake": "平/半",
+  "Guest": "阿爾堡",
+  "Prefer": "阿爾堡",
+  "Odds": 0.8,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "04-29 22:41",
+  "Person": "章鱼帝"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "波蘭甲",
+  "Time1": "04-21 00:15",
+  "Host": "歷基亞",
+  "OddStake": "球半",
+  "Guest": "沙斯辛",
+  "Prefer": "沙斯辛",
+  "Odds": 0.87,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "04-20 12:45",
+  "Person": "印加帝国"
+}

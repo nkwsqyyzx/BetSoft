@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "02-11 02:00",
+  "Host": "畢爾巴鄂競技",
+  "OddStake": "2.5球",
+  "Guest": "愛斯賓奴",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "02-10 23:11",
+  "Person": "轻轻巧巧"
+}

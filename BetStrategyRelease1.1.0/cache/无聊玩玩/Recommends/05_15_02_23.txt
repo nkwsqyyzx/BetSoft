@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-15 02:45",
+  "Host": "立麥立克",
+  "OddStake": "平/半",
+  "Guest": "杜希達聯",
+  "Prefer": "立麥立克",
+  "Odds": 0.97,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-15 02:23",
+  "Person": "无聊玩玩"
+}

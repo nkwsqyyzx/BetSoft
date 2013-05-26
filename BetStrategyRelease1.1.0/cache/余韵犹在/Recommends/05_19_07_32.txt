@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美職業",
+  "Time1": "05-19 10:30",
+  "Host": "聖荷西地震",
+  "OddStake": "2.5球",
+  "Guest": "科羅拉多急流",
+  "Prefer": "大球",
+  "Odds": 0.99,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-19 07:32",
+  "Person": "余韵犹在"
+}

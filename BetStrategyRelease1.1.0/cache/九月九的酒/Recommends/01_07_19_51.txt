@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西丁",
+  "Time1": "01-07 23:59",
+  "Host": "桑羅奎",
+  "OddStake": "平/半",
+  "Guest": "修達",
+  "Prefer": "修達",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "01-07 19:51",
+  "Person": "九月九的酒"
+}

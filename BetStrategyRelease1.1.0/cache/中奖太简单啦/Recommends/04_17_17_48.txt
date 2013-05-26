@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-17 18:00",
+  "Host": "全北現代",
+  "OddStake": "3/3.5球",
+  "Guest": "大邱FC",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-17 17:48",
+  "Person": "中奖太简单啦"
+}

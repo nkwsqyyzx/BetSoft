@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "友誼賽",
+  "Time1": "04-16 17:00",
+  "Host": "西班牙U16",
+  "OddStake": "半/一",
+  "Guest": "法國U16",
+  "Prefer": "西班牙U16",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "04-16 16:34",
+  "Person": "赢球偷着乐"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "立陶甲",
+  "Time1": "05-08 01:00",
+  "Host": "阿蘭達斯",
+  "OddStake": "受平/半",
+  "Guest": "薩基列斯",
+  "Prefer": "薩基列斯",
+  "Odds": 1.02,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-07 23:45",
+  "Person": "九月九的酒"
+}

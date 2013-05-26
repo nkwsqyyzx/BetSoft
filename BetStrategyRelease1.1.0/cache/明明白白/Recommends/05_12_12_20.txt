@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳威超",
+  "Time1": "05-12 13:00",
+  "Host": "悉尼奧林匹克",
+  "OddStake": "3/3.5球",
+  "Guest": "南部海岸狼隊",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-12 12:20",
+  "Person": "明明白白"
+}

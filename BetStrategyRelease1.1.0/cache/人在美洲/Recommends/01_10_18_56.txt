@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-10 21:00",
+  "Host": "奧斯拿布克(中)",
+  "OddStake": "3/3.5球",
+  "Guest": "利華古遜青年隊",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-10 18:56",
+  "Person": "人在美洲"
+}

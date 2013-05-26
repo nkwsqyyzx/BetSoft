@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "澳維超",
+  "Time1": "05-24 18:30",
+  "Host": "休姆",
+  "OddStake": "受平/半",
+  "Guest": "列治文",
+  "Prefer": "休姆",
+  "Odds": 1.0,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "05-24 16:38",
+  "Person": "夜是彩市圆"
+}

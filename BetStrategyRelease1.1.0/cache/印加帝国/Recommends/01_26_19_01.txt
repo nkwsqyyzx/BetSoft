@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "土甲",
+  "Time1": "01-26 20:00",
+  "Host": "阿辛耶斯堡",
+  "OddStake": "半球",
+  "Guest": "布卡斯堡",
+  "Prefer": "阿辛耶斯堡",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-26 19:01",
+  "Person": "印加帝国"
+}

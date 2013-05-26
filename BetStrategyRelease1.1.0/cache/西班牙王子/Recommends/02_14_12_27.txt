@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-15 02:00",
+  "Host": "利華古遜",
+  "OddStake": "平/半",
+  "Guest": "賓菲加",
+  "Prefer": "賓菲加",
+  "Odds": 1.03,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-14 12:27",
+  "Person": "西班牙王子"
+}

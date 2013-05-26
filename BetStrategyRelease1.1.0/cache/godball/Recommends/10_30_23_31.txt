@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英非南",
+  "Time1": "10-31 03:45",
+  "Host": "侯恩喬奇",
+  "OddStake": "受半球",
+  "Guest": "切爾弗德",
+  "Prefer": "侯恩喬奇",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "10-30 23:31",
+  "Person": "godball"
+}

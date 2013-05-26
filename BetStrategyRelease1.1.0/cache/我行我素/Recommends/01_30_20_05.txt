@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-30 23:00",
+  "Host": "索菲亞利夫斯基(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "皮爾森",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "01-30 20:05",
+  "Person": "我行我素"
+}

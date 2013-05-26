@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭甲",
+  "Time1": "05-26 23:00",
+  "Host": "喬治羅尼亞",
+  "OddStake": "受平/半",
+  "Guest": "斯拉斯克",
+  "Prefer": "喬治羅尼亞",
+  "Odds": 0.95,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "05-26 21:37",
+  "Person": "lk930"
+}

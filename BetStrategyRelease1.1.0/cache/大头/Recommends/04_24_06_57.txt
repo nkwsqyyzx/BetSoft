@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日聯盃",
+  "Time1": "04-24 18:00",
+  "Host": "鹿島鹿角",
+  "OddStake": "2.5球",
+  "Guest": "名古屋鯨魚",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-24 06:57",
+  "Person": "大头"
+}

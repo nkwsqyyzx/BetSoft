@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "中美運女",
+  "Time1": "03-08 20:15",
+  "Host": "德國女足(中)",
+  "OddStake": "一球",
+  "Guest": "日本女足",
+  "Prefer": "日本女足",
+  "Odds": 1.02,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "03-08 19:39",
+  "Person": "中奖太简单啦"
+}

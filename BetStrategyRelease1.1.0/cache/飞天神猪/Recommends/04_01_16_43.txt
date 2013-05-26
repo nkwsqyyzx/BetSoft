@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "捷U21",
+  "Time1": "04-01 17:00",
+  "Host": "澤伯約維卡般奴U21",
+  "OddStake": "两球",
+  "Guest": "伊希拉瓦U21",
+  "Prefer": "伊希拉瓦U21",
+  "Odds": 1.0,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-01 16:43",
+  "Person": "飞天神猪"
+}

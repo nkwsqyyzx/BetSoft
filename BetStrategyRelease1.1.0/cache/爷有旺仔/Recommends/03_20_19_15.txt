@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德丙聯",
+  "Time1": "03-21 01:00",
+  "Host": "多特蒙德青年隊",
+  "OddStake": "平/半",
+  "Guest": "洛特維博菲",
+  "Prefer": "多特蒙德青年隊",
+  "Odds": 0.96,
+  "Result": "4-3",
+  "PreferResult": 2,
+  "Time2": "03-20 19:15",
+  "Person": "爷有旺仔"
+}

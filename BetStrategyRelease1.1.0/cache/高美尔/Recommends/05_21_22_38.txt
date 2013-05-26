@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛沙甲",
+  "Time1": "05-22 00:30",
+  "Host": "卡里魯",
+  "OddStake": "两球半",
+  "Guest": "卡勒威",
+  "Prefer": "卡勒威",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-21 22:38",
+  "Person": "高美尔"
+}

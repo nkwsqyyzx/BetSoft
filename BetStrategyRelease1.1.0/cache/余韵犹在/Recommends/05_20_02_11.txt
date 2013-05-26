@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "意甲",
+  "Time1": "05-20 02:45",
+  "Host": "拖連奴",
+  "OddStake": "2.5球",
+  "Guest": "卡坦尼亞",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "05-20 02:11",
+  "Person": "余韵犹在"
+}

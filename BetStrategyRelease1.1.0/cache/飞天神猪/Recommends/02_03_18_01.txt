@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "伊朗超",
+  "Time1": "02-03 18:45",
+  "Host": "高赫紮格魯",
+  "OddStake": "2/2.5球",
+  "Guest": "沙巴科姆",
+  "Prefer": "大球",
+  "Odds": 1.25,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "02-03 18:01",
+  "Person": "飞天神猪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-27 03:00",
+  "Host": "瓦萊卡諾",
+  "OddStake": "2/2.5球",
+  "Guest": "奧薩蘇納",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "04-26 18:47",
+  "Person": "轻轻巧巧"
+}

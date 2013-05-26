@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "04-22 01:00",
+  "Host": "真格拿拜列治",
+  "OddStake": "受半球",
+  "Guest": "費倫巴治",
+  "Prefer": "費倫巴治",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-22 00:38",
+  "Person": "强人"
+}

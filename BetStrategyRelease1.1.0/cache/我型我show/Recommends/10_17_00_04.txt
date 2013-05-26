@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "阿爾甲",
+  "Time1": "10-17 01:00",
+  "Host": "布阿雷里傑",
+  "OddStake": "2/2.5球",
+  "Guest": "MC奧蘭",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "10-17 00:04",
+  "Person": "我型我show"
+}

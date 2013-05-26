@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "韓國K",
+  "Time1": "10-08 18:30",
+  "Host": "蔚山現代",
+  "OddStake": "半球",
+  "Guest": "濟州聯隊",
+  "Prefer": "蔚山現代",
+  "Odds": 1.04,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "10-08 17:04",
+  "Person": "sweetcat"
+}

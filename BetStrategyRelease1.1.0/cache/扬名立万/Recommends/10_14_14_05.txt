@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西乙",
+  "Time1": "10-14 18:00",
+  "Host": "艾爾切",
+  "OddStake": "半/一",
+  "Guest": "紐文西亞",
+  "Prefer": "紐文西亞",
+  "Odds": 0.9,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "10-14 14:05",
+  "Person": "扬名立万"
+}

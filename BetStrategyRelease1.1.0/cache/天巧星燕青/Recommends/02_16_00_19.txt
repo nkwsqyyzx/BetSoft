@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法乙",
+  "Time1": "02-16 03:00",
+  "Host": "利文斯",
+  "OddStake": "受平/半",
+  "Guest": "卡昂",
+  "Prefer": "利文斯",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "02-16 00:19",
+  "Person": "天巧星燕青"
+}

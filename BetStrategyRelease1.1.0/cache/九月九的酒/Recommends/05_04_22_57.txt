@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫甲",
+  "Time1": "05-05 06:30",
+  "Host": "曼特寧獨立",
+  "OddStake": "2/2.5球",
+  "Guest": "意達古",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-04 22:57",
+  "Person": "九月九的酒"
+}

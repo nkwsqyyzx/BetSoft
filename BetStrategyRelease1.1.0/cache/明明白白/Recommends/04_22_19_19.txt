@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "捷U21",
+  "Time1": "04-22 19:30",
+  "Host": "賈布朗尼U21",
+  "OddStake": "3.5球",
+  "Guest": "史洛特U21",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-22 19:19",
+  "Person": "明明白白"
+}

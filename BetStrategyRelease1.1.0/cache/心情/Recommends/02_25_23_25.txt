@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意甲",
+  "Time1": "02-26 04:00",
+  "Host": "拉素",
+  "OddStake": "球半/两球",
+  "Guest": "比斯卡拉",
+  "Prefer": "拉素",
+  "Odds": 1.0,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "02-25 23:25",
+  "Person": "心情"
+}

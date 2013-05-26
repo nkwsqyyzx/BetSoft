@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典超",
+  "Time1": "04-14 21:00",
+  "Host": "艾維達堡",
+  "OddStake": "受平/半",
+  "Guest": "AIK蘇納",
+  "Prefer": "AIK蘇納",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-14 20:47",
+  "Person": "歡樂今宵"
+}

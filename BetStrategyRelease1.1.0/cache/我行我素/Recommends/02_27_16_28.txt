@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "亞冠盃",
+  "Time1": "02-27 18:30",
+  "Host": "浦項制鐵",
+  "OddStake": "一球/球半",
+  "Guest": "北京國安",
+  "Prefer": "浦項制鐵",
+  "Odds": 0.95,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "02-27 16:28",
+  "Person": "我行我素"
+}

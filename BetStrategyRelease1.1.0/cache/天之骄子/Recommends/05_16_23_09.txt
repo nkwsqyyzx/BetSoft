@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "丹麥超",
+  "Time1": "05-17 01:00",
+  "Host": "邦比",
+  "OddStake": "半球",
+  "Guest": "洛斯查蘭特",
+  "Prefer": "邦比",
+  "Odds": 0.92,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "05-16 23:09",
+  "Person": "天之骄子"
+}

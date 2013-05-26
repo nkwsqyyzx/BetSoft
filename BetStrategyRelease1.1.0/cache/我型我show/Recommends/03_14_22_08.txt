@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐霸盃",
+  "Time1": "03-15 04:05",
+  "Host": "波爾多",
+  "OddStake": "2/2.5球",
+  "Guest": "賓菲加",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "03-14 22:08",
+  "Person": "我型我show"
+}

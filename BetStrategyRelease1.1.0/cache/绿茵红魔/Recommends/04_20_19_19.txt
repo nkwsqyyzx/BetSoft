@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-20 22:00",
+  "Host": "桑德蘭",
+  "OddStake": "2/2.5球",
+  "Guest": "埃弗頓",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-20 19:19",
+  "Person": "绿茵红魔"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "保超",
+  "Time1": "05-22 23:00",
+  "Host": "明約匹尼克",
+  "OddStake": "受半球",
+  "Guest": "查洛摩利",
+  "Prefer": "查洛摩利",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "05-22 21:22",
+  "Person": "大头"
+}

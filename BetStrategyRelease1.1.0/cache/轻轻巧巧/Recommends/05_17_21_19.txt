@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-18 02:45",
+  "Host": "杜希達聯",
+  "OddStake": "2/2.5球",
+  "Guest": "德利城",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "05-17 21:19",
+  "Person": "轻轻巧巧"
+}

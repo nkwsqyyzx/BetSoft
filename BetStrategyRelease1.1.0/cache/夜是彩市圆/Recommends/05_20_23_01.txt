@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬蘭盃",
+  "Time1": "05-20 23:30",
+  "Host": "夏卡",
+  "OddStake": "2/2.5球",
+  "Guest": "古比斯",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "05-20 23:01",
+  "Person": "夜是彩市圆"
+}

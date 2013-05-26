@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美職業",
+  "Time1": "04-28 08:30",
+  "Host": "肯薩斯城體育會",
+  "OddStake": "2/2.5球",
+  "Guest": "波特蘭木材",
+  "Prefer": "大球",
+  "Odds": 1.03,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "04-28 07:08",
+  "Person": "身不由己"
+}

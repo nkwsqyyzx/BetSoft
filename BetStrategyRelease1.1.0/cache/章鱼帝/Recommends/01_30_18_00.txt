@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "智利盃",
+  "Time1": "01-31 07:00",
+  "Host": "卡托利卡",
+  "OddStake": "一球",
+  "Guest": "科金博",
+  "Prefer": "卡托利卡",
+  "Odds": 0.85,
+  "Result": "7-1",
+  "PreferResult": 5,
+  "Time2": "01-30 18:00",
+  "Person": "章鱼帝"
+}

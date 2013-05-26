@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法乙",
+  "Time1": "05-14 02:30",
+  "Host": "卡昂",
+  "OddStake": "平/半",
+  "Guest": "南特",
+  "Prefer": "南特",
+  "Odds": 0.81,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-13 15:45",
+  "Person": "绿茵红魔"
+}

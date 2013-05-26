@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫甲",
+  "Time1": "04-19 09:10",
+  "Host": "庫庫塔",
+  "OddStake": "半球",
+  "Guest": "依維加杜",
+  "Prefer": "庫庫塔",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "04-19 01:00",
+  "Person": "bin-bin"
+}

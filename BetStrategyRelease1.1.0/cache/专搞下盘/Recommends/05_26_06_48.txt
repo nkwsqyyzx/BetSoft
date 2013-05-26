@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美職業",
+  "Time1": "05-26 07:00",
+  "Host": "蒙特利爾衝擊",
+  "OddStake": "半球",
+  "Guest": "費城聯合",
+  "Prefer": "蒙特利爾衝擊",
+  "Odds": 0.91,
+  "Result": "5-3",
+  "PreferResult": 5,
+  "Time2": "05-26 06:48",
+  "Person": "专搞下盘"
+}

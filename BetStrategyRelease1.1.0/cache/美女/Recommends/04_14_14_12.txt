@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中超",
+  "Time1": "04-14 14:35",
+  "Host": "遼寧宏運",
+  "OddStake": "平/半",
+  "Guest": "杭州綠城",
+  "Prefer": "遼寧宏運",
+  "Odds": 0.98,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-14 14:12",
+  "Person": "美女"
+}

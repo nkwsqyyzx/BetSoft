@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德南聯",
+  "Time1": "03-06 21:00",
+  "Host": "凱沙羅頓青年隊",
+  "OddStake": "2.5球",
+  "Guest": "曼海姆",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-06 15:27",
+  "Person": "扬名立万"
+}

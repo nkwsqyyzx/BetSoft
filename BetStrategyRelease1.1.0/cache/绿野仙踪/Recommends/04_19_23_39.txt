@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "捷克甲",
+  "Time1": "04-19 23:59",
+  "Host": "布迪祖懷斯",
+  "OddStake": "受半球",
+  "Guest": "賈布朗尼",
+  "Prefer": "布迪祖懷斯",
+  "Odds": 0.99,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-19 23:39",
+  "Person": "绿野仙踪"
+}

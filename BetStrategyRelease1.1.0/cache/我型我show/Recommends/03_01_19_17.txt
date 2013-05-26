@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "奧乙",
+  "Time1": "03-02 01:30",
+  "Host": "SV格羅迪格",
+  "OddStake": "2.5/3球",
+  "Guest": "霍恩",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "03-01 19:17",
+  "Person": "我型我show"
+}

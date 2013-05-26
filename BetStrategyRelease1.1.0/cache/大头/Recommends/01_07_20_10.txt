@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-07 21:30",
+  "Host": "羅斯勒",
+  "OddStake": "受半球",
+  "Guest": "科特賴克",
+  "Prefer": "羅斯勒",
+  "Odds": 0.97,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "01-07 20:10",
+  "Person": "大头"
+}

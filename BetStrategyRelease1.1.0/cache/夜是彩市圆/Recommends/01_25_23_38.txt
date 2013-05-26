@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "土超",
+  "Time1": "01-26 01:00",
+  "Host": "卡拉布克士邦",
+  "OddStake": "平/半",
+  "Guest": "卡斯帕薩",
+  "Prefer": "卡斯帕薩",
+  "Odds": 0.96,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "01-25 23:38",
+  "Person": "夜是彩市圆"
+}

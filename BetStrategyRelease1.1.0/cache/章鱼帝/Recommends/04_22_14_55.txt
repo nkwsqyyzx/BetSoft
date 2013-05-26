@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意乙",
+  "Time1": "04-23 03:00",
+  "Host": "維羅納",
+  "OddStake": "半球",
+  "Guest": "布雷西亞",
+  "Prefer": "布雷西亞",
+  "Odds": 0.8,
+  "Result": "4-2",
+  "PreferResult": 1,
+  "Time2": "04-22 14:55",
+  "Person": "章鱼帝"
+}

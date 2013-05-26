@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "意甲",
+  "Time1": "05-20 02:45",
+  "Host": "錫耶納",
+  "OddStake": "受球半/两球",
+  "Guest": "AC米蘭",
+  "Prefer": "AC米蘭",
+  "Odds": 0.99,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-20 01:02",
+  "Person": "民哥也疯狂"
+}

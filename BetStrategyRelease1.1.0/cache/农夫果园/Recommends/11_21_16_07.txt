@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "韓國K",
+  "Time1": "11-21 18:00",
+  "Host": "全北現代",
+  "OddStake": "半球",
+  "Guest": "蔚山現代",
+  "Prefer": "全北現代",
+  "Odds": 0.8,
+  "Result": "3-3",
+  "PreferResult": 1,
+  "Time2": "11-21 16:07",
+  "Person": "农夫果园"
+}

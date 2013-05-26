@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "斯坦盃",
+  "Time1": "04-23 02:45",
+  "Host": "斯萊戈",
+  "OddStake": "一球",
+  "Guest": "杜希達聯",
+  "Prefer": "斯萊戈",
+  "Odds": 0.99,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "04-23 02:03",
+  "Person": "jack"
+}

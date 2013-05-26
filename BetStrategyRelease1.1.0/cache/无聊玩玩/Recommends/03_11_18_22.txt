@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "伊朗甲",
+  "Time1": "03-11 19:45",
+  "Host": "塔比之",
+  "OddStake": "半/一",
+  "Guest": "斯蘭澤",
+  "Prefer": "塔比之",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "03-11 18:22",
+  "Person": "无聊玩玩"
+}

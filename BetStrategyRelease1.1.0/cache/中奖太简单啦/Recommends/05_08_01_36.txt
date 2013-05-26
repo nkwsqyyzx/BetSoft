@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "05-08 02:45",
+  "Host": "曼城",
+  "OddStake": "一球/球半",
+  "Guest": "西布朗",
+  "Prefer": "西布朗",
+  "Odds": 1.05,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "05-08 01:36",
+  "Person": "中奖太简单啦"
+}

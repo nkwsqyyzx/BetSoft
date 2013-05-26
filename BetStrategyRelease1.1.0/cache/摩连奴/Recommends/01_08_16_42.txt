@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "01-09 02:30",
+  "Host": "馬拉加",
+  "OddStake": "2.5/3球",
+  "Guest": "伊巴",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "01-08 16:42",
+  "Person": "摩连奴"
+}

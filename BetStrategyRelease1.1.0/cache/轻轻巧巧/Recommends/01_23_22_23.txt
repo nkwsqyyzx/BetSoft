@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西聯盃",
+  "Time1": "01-24 02:15",
+  "Host": "比尼薩冷",
+  "OddStake": "2/2.5球",
+  "Guest": "維拉魯比亞",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-23 22:23",
+  "Person": "轻轻巧巧"
+}

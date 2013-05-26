@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "03-13 20:00",
+  "Host": "賓約哥",
+  "OddStake": "半球",
+  "Guest": "浦項制鐵",
+  "Prefer": "浦項制鐵",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "03-13 14:41",
+  "Person": "天巧星燕青"
+}

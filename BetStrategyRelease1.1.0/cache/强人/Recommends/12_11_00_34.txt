@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "丹麥超",
+  "Time1": "12-11 02:00",
+  "Host": "阿曉斯",
+  "OddStake": "半球",
+  "Guest": "施克堡",
+  "Prefer": "阿曉斯",
+  "Odds": 0.9,
+  "Result": "3-3",
+  "PreferResult": 1,
+  "Time2": "12-11 00:34",
+  "Person": "强人"
+}

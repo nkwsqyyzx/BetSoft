@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "土甲",
+  "Time1": "01-26 19:00",
+  "Host": "布魯斯堡",
+  "OddStake": "2.5球",
+  "Guest": "塔維桑里",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "01-26 13:07",
+  "Person": "明明白白"
+}

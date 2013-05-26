@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典乙北",
+  "Time1": "04-16 01:00",
+  "Host": "華拉斯塔",
+  "OddStake": "受半球",
+  "Guest": "AFC聯",
+  "Prefer": "AFC聯",
+  "Odds": 0.97,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-15 20:29",
+  "Person": "中奖"
+}

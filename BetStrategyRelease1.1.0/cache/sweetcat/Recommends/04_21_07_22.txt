@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "墨西聯",
+  "Time1": "04-21 09:00",
+  "Host": "阿美利加會",
+  "OddStake": "半球",
+  "Guest": "普馬斯",
+  "Prefer": "阿美利加會",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-21 07:22",
+  "Person": "sweetcat"
+}

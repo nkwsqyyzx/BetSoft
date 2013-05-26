@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-20 22:00",
+  "Host": "諾維奇",
+  "OddStake": "2.5/3球",
+  "Guest": "雷丁",
+  "Prefer": "大球",
+  "Odds": 1.04,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "04-20 21:42",
+  "Person": "中奖太简单啦"
+}

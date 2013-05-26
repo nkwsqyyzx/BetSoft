@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳職聯",
+  "Time1": "02-07 16:00",
+  "Host": "中央海岸",
+  "OddStake": "一球/球半",
+  "Guest": "威寧頓復活",
+  "Prefer": "威寧頓復活",
+  "Odds": 0.97,
+  "Result": "5-0",
+  "PreferResult": 1,
+  "Time2": "02-07 14:47",
+  "Person": "西班牙王子"
+}

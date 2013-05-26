@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐霸盃",
+  "Time1": "03-15 04:05",
+  "Host": "費倫巴治",
+  "OddStake": "半球",
+  "Guest": "皮爾森",
+  "Prefer": "費倫巴治",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-15 00:56",
+  "Person": "马勒当拿"
+}

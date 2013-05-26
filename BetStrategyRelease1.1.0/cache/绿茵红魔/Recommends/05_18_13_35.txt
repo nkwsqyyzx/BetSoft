@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德甲",
+  "Time1": "05-18 21:30",
+  "Host": "多特蒙德",
+  "OddStake": "一球/球半",
+  "Guest": "賀芬咸",
+  "Prefer": "多特蒙德",
+  "Odds": 0.87,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-18 13:35",
+  "Person": "绿茵红魔"
+}

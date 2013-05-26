@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "俄超",
+  "Time1": "05-26 17:30",
+  "Host": "莫斯科火車頭",
+  "OddStake": "2.5球",
+  "Guest": "摩爾多維亞",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-26 15:34",
+  "Person": "jack"
+}

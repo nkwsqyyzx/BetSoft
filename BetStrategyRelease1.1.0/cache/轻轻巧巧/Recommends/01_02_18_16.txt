@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "01-03 03:45",
+  "Host": "利物浦",
+  "OddStake": "球半",
+  "Guest": "桑德蘭",
+  "Prefer": "桑德蘭",
+  "Odds": 0.99,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "01-02 18:16",
+  "Person": "轻轻巧巧"
+}

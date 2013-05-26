@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德甲",
+  "Time1": "04-13 21:30",
+  "Host": "沃爾夫斯堡",
+  "OddStake": "2.5球",
+  "Guest": "賀芬咸",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "04-13 15:25",
+  "Person": "绿茵红魔"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "02-07 02:00",
+  "Host": "西班牙(中)",
+  "OddStake": "半/一",
+  "Guest": "烏拉圭",
+  "Prefer": "西班牙(中)",
+  "Odds": 0.84,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-06 19:50",
+  "Person": "无聊玩玩"
+}

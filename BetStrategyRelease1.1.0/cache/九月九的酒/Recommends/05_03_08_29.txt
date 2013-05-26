@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法乙",
+  "Time1": "05-04 02:00",
+  "Host": "沙特魯",
+  "OddStake": "2/2.5球",
+  "Guest": "奈梅斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-03 08:29",
+  "Person": "九月九的酒"
+}

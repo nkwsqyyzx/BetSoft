@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "05-08 02:45",
+  "Host": "韋根",
+  "OddStake": "2.5球",
+  "Guest": "史雲斯",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "05-07 23:59",
+  "Person": "身不由己"
+}

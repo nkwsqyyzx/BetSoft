@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡甲",
+  "Time1": "01-12 23:00",
+  "Host": "阿魯卡",
+  "OddStake": "半球",
+  "Guest": "波蒂蒙尼斯",
+  "Prefer": "波蒂蒙尼斯",
+  "Odds": 0.91,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-12 15:34",
+  "Person": "格力电器"
+}

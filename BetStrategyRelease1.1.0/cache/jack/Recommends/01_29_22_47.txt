@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "以盃",
+  "Time1": "01-29 23:50",
+  "Host": "塞克特茲亞",
+  "OddStake": "2/2.5球",
+  "Guest": "拉那那夏普爾",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-5",
+  "PreferResult": 1,
+  "Time2": "01-29 22:47",
+  "Person": "jack"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷青聯",
+  "Time1": "01-29 01:30",
+  "Host": "阿積士青年隊",
+  "OddStake": "受平/半",
+  "Guest": "PSV燕豪芬青年隊",
+  "Prefer": "阿積士青年隊",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-29 00:32",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "03-10 19:30",
+  "Host": "洛達",
+  "OddStake": "受半/一",
+  "Guest": "飛燕諾",
+  "Prefer": "飛燕諾",
+  "Odds": 0.99,
+  "Result": "0-1",
+  "PreferResult": 4,
+  "Time2": "03-10 15:56",
+  "Person": "无聊玩玩"
+}

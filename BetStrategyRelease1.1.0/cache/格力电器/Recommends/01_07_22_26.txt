@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法國盃",
+  "Time1": "01-08 03:45",
+  "Host": "伊斯特",
+  "OddStake": "受平/半",
+  "Guest": "華倫西恩斯",
+  "Prefer": "伊斯特",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "01-07 22:26",
+  "Person": "格力电器"
+}

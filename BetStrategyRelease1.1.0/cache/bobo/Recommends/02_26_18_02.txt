@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "亞冠盃",
+  "Time1": "02-26 18:30",
+  "Host": "FC漢城",
+  "OddStake": "球半",
+  "Guest": "江蘇舜天",
+  "Prefer": "江蘇舜天",
+  "Odds": 0.83,
+  "Result": "5-1",
+  "PreferResult": 1,
+  "Time2": "02-26 18:02",
+  "Person": "bobo"
+}

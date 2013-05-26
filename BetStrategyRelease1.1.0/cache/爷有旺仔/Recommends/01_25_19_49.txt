@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "阿爾甲",
+  "Time1": "01-25 23:00",
+  "Host": "瑟特福",
+  "OddStake": "半球",
+  "Guest": "哈拉徹",
+  "Prefer": "瑟特福",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-25 19:49",
+  "Person": "爷有旺仔"
+}

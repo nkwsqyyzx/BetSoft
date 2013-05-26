@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-22 04:00",
+  "Host": "修咸頓",
+  "OddStake": "受半球",
+  "Guest": "愛華頓",
+  "Prefer": "愛華頓",
+  "Odds": 1.02,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-21 23:19",
+  "Person": "天之骄子"
+}

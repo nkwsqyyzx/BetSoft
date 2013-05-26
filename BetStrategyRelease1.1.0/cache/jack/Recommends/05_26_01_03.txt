@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "秘魯春",
+  "Time1": "05-26 02:30",
+  "Host": "英迪加斯",
+  "OddStake": "一球",
+  "Guest": "聖荷西加爾韋斯",
+  "Prefer": "英迪加斯",
+  "Odds": 0.82,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-26 01:03",
+  "Person": "jack"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法丙",
+  "Time1": "04-20 02:00",
+  "Host": "契堡格",
+  "OddStake": "2/2.5球",
+  "Guest": "奧爾良",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-19 23:29",
+  "Person": "章鱼帝"
+}

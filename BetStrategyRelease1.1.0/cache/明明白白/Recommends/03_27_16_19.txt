@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "印尼甲",
+  "Time1": "03-27 16:30",
+  "Host": "帕塞萬吉",
+  "OddStake": "半球",
+  "Guest": "PS莫佐克多普特拉",
+  "Prefer": "PS莫佐克多普特拉",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "03-27 16:19",
+  "Person": "明明白白"
+}

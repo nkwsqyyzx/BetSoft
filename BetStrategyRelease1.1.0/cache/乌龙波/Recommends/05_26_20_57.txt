@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-26 23:59",
+  "Host": "桑恩達",
+  "OddStake": "平/半",
+  "Guest": "斯達",
+  "Prefer": "桑恩達",
+  "Odds": 0.91,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "05-26 20:57",
+  "Person": "乌龙波"
+}

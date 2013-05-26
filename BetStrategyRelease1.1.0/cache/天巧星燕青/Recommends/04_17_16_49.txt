@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-17 18:00",
+  "Host": "橫濱",
+  "OddStake": "2/2.5球",
+  "Guest": "V瓦仁長崎",
+  "Prefer": "大球",
+  "Odds": 1.08,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "04-17 16:49",
+  "Person": "天巧星燕青"
+}

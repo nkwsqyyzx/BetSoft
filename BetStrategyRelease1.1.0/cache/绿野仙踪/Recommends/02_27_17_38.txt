@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "亞冠盃",
+  "Time1": "02-27 18:30",
+  "Host": "浦項制鐵",
+  "OddStake": "2.5/3球",
+  "Guest": "北京國安",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "02-27 17:38",
+  "Person": "绿野仙踪"
+}

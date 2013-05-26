@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "05-06 18:00",
+  "Host": "愛媛",
+  "OddStake": "平手",
+  "Guest": "槴木SC",
+  "Prefer": "槴木SC",
+  "Odds": 0.97,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-06 15:59",
+  "Person": "sweetcat"
+}

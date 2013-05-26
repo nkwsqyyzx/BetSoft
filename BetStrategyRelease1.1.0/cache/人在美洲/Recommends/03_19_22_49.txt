@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "友誼賽",
+  "Time1": "03-20 01:30",
+  "Host": "奎維丁",
+  "OddStake": "2.5球",
+  "Guest": "瓂斯哥德堡",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-19 22:49",
+  "Person": "人在美洲"
+}

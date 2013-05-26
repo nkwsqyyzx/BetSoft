@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西甲",
+  "Time1": "05-19 23:00",
+  "Host": "拉科魯尼亞",
+  "OddStake": "半/一",
+  "Guest": "愛斯賓奴",
+  "Prefer": "拉科魯尼亞",
+  "Odds": 0.83,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-19 14:36",
+  "Person": "摩连奴"
+}

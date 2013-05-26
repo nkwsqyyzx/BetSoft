@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "格雷納盃",
+  "Time1": "01-12 16:00",
+  "Host": "立陶宛U18(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "拉脫維亞U18",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-12 15:28",
+  "Person": "飞天神猪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "世冠盃",
+  "Time1": "12-12 18:30",
+  "Host": "阿爾艾利開羅(中)",
+  "OddStake": "受一球/球半",
+  "Guest": "哥連泰斯",
+  "Prefer": "阿爾艾利開羅(中)",
+  "Odds": 0.93,
+  "Result": "0-1",
+  "PreferResult": 4,
+  "Time2": "12-12 17:43",
+  "Person": "飞天神猪"
+}

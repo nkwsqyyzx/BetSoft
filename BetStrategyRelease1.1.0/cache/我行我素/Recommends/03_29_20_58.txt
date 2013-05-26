@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英冠",
+  "Time1": "03-29 23:00",
+  "Host": "沃特福德",
+  "OddStake": "半球",
+  "Guest": "般尼",
+  "Prefer": "沃特福德",
+  "Odds": 0.89,
+  "Result": "3-3",
+  "PreferResult": 1,
+  "Time2": "03-29 20:58",
+  "Person": "我行我素"
+}

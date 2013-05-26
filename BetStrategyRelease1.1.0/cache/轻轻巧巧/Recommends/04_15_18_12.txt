@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷青聯",
+  "Time1": "04-16 00:30",
+  "Host": "多積治青年隊",
+  "OddStake": "3.5球",
+  "Guest": "洛達青年隊",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "04-15 18:12",
+  "Person": "轻轻巧巧"
+}

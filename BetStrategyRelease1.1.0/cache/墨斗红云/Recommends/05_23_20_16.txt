@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-24 01:05",
+  "Host": "卡馬亞",
+  "OddStake": "半球",
+  "Guest": "奧斯達",
+  "Prefer": "卡馬亞",
+  "Odds": 0.83,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "05-23 20:16",
+  "Person": "墨斗红云"
+}

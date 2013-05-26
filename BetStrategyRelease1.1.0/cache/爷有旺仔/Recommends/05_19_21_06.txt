@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典乙北",
+  "Time1": "05-19 23:59",
+  "Host": "AFC聯",
+  "OddStake": "半/一",
+  "Guest": "桑德維肯斯",
+  "Prefer": "桑德維肯斯",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-19 21:06",
+  "Person": "爷有旺仔"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "科威聯盃",
+  "Time1": "12-29 04:00",
+  "Host": "瑪利比",
+  "OddStake": "平/半",
+  "Guest": "馬格里布菲斯",
+  "Prefer": "瑪利比",
+  "Odds": 1.02,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "12-28 23:49",
+  "Person": "心情"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "哥倫甲",
+  "Time1": "03-02 08:45",
+  "Host": "卡利體育會",
+  "OddStake": "一球",
+  "Guest": "修羅",
+  "Prefer": "卡利體育會",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "03-02 05:19",
+  "Person": "余韵犹在"
+}

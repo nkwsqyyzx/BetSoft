@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡超",
+  "Time1": "12-16 04:30",
+  "Host": "賓菲加",
+  "OddStake": "2.5/3球",
+  "Guest": "馬里迪莫",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "12-15 14:39",
+  "Person": "我行我素"
+}

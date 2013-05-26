@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "印尼超",
+  "Time1": "05-22 14:00",
+  "Host": "波斯拉熱加阿帕",
+  "OddStake": "半球",
+  "Guest": "佩西加雅加達",
+  "Prefer": "佩西加雅加達",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-22 13:47",
+  "Person": "阿麦的理想"
+}

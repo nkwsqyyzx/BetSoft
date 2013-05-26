@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "烏克U21",
+  "Time1": "05-11 22:00",
+  "Host": "卡夫巴斯U21",
+  "OddStake": "3球",
+  "Guest": "河維拉U21",
+  "Prefer": "大球",
+  "Odds": 0.81,
+  "Result": "6-1",
+  "PreferResult": 5,
+  "Time2": "05-11 20:50",
+  "Person": "jack"
+}

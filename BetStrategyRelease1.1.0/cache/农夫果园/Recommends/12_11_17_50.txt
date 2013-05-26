@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇足總",
+  "Time1": "12-12 03:45",
+  "Host": "恩華利斯",
+  "OddStake": "半球",
+  "Guest": "羅斯郡",
+  "Prefer": "羅斯郡",
+  "Odds": 0.91,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "12-11 17:50",
+  "Person": "农夫果园"
+}

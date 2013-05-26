@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "女世盃U17",
+  "Time1": "10-09 23:00",
+  "Host": "北韓女足U17(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "德國女足U17",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "10-09 16:05",
+  "Person": "我型我show"
+}

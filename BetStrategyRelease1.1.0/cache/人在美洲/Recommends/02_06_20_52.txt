@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "亞洲盃",
+  "Time1": "02-07 01:15",
+  "Host": "沙地阿拉伯",
+  "OddStake": "2球",
+  "Guest": "中國",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-06 20:52",
+  "Person": "人在美洲"
+}

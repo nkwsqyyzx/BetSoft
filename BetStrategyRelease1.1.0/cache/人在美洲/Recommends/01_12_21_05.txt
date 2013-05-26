@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-12 23:00",
+  "Host": "斯托克城",
+  "OddStake": "受半球",
+  "Guest": "切爾西",
+  "Prefer": "切爾西",
+  "Odds": 0.95,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "01-12 21:05",
+  "Person": "人在美洲"
+}

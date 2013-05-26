@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "印尼超",
+  "Time1": "05-21 16:30",
+  "Host": "巴日托",
+  "OddStake": "平/半",
+  "Guest": "密特拉庫卡",
+  "Prefer": "巴日托",
+  "Odds": 1.12,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "05-21 15:52",
+  "Person": "九月九的酒"
+}

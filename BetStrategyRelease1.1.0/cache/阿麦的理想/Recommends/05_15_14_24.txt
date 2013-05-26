@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日聯盃",
+  "Time1": "05-15 18:00",
+  "Host": "FC東京(中)",
+  "OddStake": "半/一",
+  "Guest": "新瀉天鵝",
+  "Prefer": "新瀉天鵝",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "05-15 14:24",
+  "Person": "阿麦的理想"
+}

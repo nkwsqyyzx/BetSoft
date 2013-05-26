@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西乙",
+  "Time1": "12-16 23:59",
+  "Host": "紐文西亞",
+  "OddStake": "2/2.5球",
+  "Guest": "邦弗拉甸拿",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "12-16 22:29",
+  "Person": "身不由己"
+}

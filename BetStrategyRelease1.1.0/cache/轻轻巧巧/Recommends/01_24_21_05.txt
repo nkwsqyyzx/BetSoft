@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "里約錦標",
+  "Time1": "01-25 03:00",
+  "Host": "邦古",
+  "OddStake": "受一球/球半",
+  "Guest": "博塔福格RJ",
+  "Prefer": "博塔福格RJ",
+  "Odds": 0.97,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-24 21:05",
+  "Person": "轻轻巧巧"
+}

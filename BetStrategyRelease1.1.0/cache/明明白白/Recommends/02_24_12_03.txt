@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-24 12:30",
+  "Host": "清水心跳",
+  "OddStake": "2.5/3球",
+  "Guest": "新瀉天鵝",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "02-24 12:03",
+  "Person": "明明白白"
+}

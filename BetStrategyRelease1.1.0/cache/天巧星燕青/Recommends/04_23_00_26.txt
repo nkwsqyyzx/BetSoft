@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-23 03:00",
+  "Host": "曼聯",
+  "OddStake": "球半/两球",
+  "Guest": "阿斯頓維拉",
+  "Prefer": "曼聯",
+  "Odds": 0.82,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "04-23 00:26",
+  "Person": "天巧星燕青"
+}

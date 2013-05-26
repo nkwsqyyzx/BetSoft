@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "亞洲盃",
+  "Time1": "03-22 20:00",
+  "Host": "香港",
+  "OddStake": "受平/半",
+  "Guest": "越南",
+  "Prefer": "越南",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-22 19:12",
+  "Person": "中奖太简单啦"
+}

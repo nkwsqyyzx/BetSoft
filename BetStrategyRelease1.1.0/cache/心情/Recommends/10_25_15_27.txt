@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐霸盃",
+  "Time1": "10-26 03:05",
+  "Host": "馬里迪莫",
+  "OddStake": "受平/半",
+  "Guest": "波爾多",
+  "Prefer": "馬里迪莫",
+  "Odds": 0.97,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "10-25 15:27",
+  "Person": "心情"
+}

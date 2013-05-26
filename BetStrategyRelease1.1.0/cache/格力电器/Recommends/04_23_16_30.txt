@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-23 18:00",
+  "Host": "柏雷素爾",
+  "OddStake": "2.5球",
+  "Guest": "貴州人和",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-23 16:30",
+  "Person": "格力电器"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "捷克甲",
+  "Time1": "04-22 23:59",
+  "Host": "布拉格斯拉維亞",
+  "OddStake": "半/一",
+  "Guest": "史洛特",
+  "Prefer": "布拉格斯拉維亞",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "04-22 23:33",
+  "Person": "绿野仙踪"
+}

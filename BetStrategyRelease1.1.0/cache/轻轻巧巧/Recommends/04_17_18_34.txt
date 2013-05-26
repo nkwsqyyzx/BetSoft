@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德南聯",
+  "Time1": "04-18 01:00",
+  "Host": "曼海姆",
+  "OddStake": "2.5球",
+  "Guest": "賀芬咸青年隊",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-17 18:34",
+  "Person": "轻轻巧巧"
+}

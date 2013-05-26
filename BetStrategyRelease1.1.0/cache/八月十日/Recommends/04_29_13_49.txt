@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬甲",
+  "Time1": "04-29 23:30",
+  "Host": "夏卡",
+  "OddStake": "半/一",
+  "Guest": "AC奧盧",
+  "Prefer": "夏卡",
+  "Odds": 0.96,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "04-29 13:49",
+  "Person": "八月十日"
+}

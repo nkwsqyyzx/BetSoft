@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "波蘭甲",
+  "Time1": "12-08 03:45",
+  "Host": "斯拉斯克",
+  "OddStake": "2.5球",
+  "Guest": "歷基亞",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-07 13:19",
+  "Person": "格力电器"
+}

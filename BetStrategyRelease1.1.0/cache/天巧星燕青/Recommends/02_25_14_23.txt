@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿乙",
+  "Time1": "02-26 08:00",
+  "Host": "奧里姆普",
+  "OddStake": "2球",
+  "Guest": "祖祖爾甘拿斯亞",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-25 14:23",
+  "Person": "天巧星燕青"
+}

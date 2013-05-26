@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德甲",
+  "Time1": "05-11 21:30",
+  "Host": "拜仁慕尼黑",
+  "OddStake": "两球/两球半",
+  "Guest": "奧斯堡",
+  "Prefer": "拜仁慕尼黑",
+  "Odds": 1.07,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-11 21:08",
+  "Person": "中奖太简单啦"
+}

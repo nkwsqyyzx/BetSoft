@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-20 22:00",
+  "Host": "熱拿亞",
+  "OddStake": "2.5球",
+  "Guest": "卡坦尼亞",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "01-20 12:17",
+  "Person": "我型我show"
+}

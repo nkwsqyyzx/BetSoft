@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "丹麥甲",
+  "Time1": "10-30 02:00",
+  "Host": "菲英",
+  "OddStake": "受平/半",
+  "Guest": "西希蘭",
+  "Prefer": "西希蘭",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "10-29 15:59",
+  "Person": "农夫果园"
+}

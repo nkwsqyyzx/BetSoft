@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "費王盃",
+  "Time1": "02-05 20:45",
+  "Host": "希拉爾U21",
+  "OddStake": "一球/球半",
+  "Guest": "費薩里哈曼U21",
+  "Prefer": "希拉爾U21",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-05 19:42",
+  "Person": "人在美洲"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "斯坦盃",
+  "Time1": "02-12 03:45",
+  "Host": "沙姆洛克流浪",
+  "OddStake": "一球/球半",
+  "Guest": "高利寧",
+  "Prefer": "沙姆洛克流浪",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-11 23:28",
+  "Person": "农夫果园"
+}

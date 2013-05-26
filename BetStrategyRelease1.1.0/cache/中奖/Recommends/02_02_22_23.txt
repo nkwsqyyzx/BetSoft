@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "02-02 23:00",
+  "Host": "雷丁",
+  "OddStake": "2.5球",
+  "Guest": "桑德蘭",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-02 22:23",
+  "Person": "中奖"
+}

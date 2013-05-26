@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "05-06 15:00",
+  "Host": "神戶勝利船",
+  "OddStake": "2.5/3球",
+  "Guest": "大阪飛腳",
+  "Prefer": "大球",
+  "Odds": 1.02,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-06 12:58",
+  "Person": "天之骄子"
+}

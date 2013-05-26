@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比甲",
+  "Time1": "04-19 02:30",
+  "Host": "布魯日",
+  "OddStake": "2.5/3球",
+  "Guest": "威爾郡",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "3-4",
+  "PreferResult": 5,
+  "Time2": "04-19 00:51",
+  "Person": "民哥也疯狂"
+}

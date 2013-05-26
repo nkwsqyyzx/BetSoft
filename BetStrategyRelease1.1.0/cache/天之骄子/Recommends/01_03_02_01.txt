@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "01-03 04:00",
+  "Host": "紐卡素",
+  "OddStake": "受半球",
+  "Guest": "愛華頓",
+  "Prefer": "愛華頓",
+  "Odds": 1.07,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "01-03 02:01",
+  "Person": "天之骄子"
+}

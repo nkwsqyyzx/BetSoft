@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "05-09 23:59",
+  "Host": "莫迪",
+  "OddStake": "半球",
+  "Guest": "阿利辛特",
+  "Prefer": "阿利辛特",
+  "Odds": 1.04,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "05-09 13:04",
+  "Person": "阿麦的理想"
+}

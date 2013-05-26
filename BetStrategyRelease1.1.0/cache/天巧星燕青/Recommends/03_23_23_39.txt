@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "里約錦標",
+  "Time1": "03-24 03:00",
+  "Host": "古爾斯薩馬",
+  "OddStake": "2/2.5球",
+  "Guest": "奧拉里亞",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-23 23:39",
+  "Person": "天巧星燕青"
+}

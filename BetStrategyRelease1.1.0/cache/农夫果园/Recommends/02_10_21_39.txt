@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "瑞士超",
+  "Time1": "02-10 23:00",
+  "Host": "巴素利",
+  "OddStake": "半/一",
+  "Guest": "錫昂",
+  "Prefer": "錫昂",
+  "Odds": 1.09,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "02-10 21:39",
+  "Person": "农夫果园"
+}

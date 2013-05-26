@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "以超",
+  "Time1": "10-30 01:00",
+  "Host": "伊若尼奇亞夏普爾",
+  "OddStake": "2.5球",
+  "Guest": "比爾舒華夏普爾",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "10-29 20:33",
+  "Person": "我行我素"
+}

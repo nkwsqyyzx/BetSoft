@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-22 02:00",
+  "Host": "米塔利斯",
+  "OddStake": "半球",
+  "Guest": "紐卡素",
+  "Prefer": "米塔利斯",
+  "Odds": 0.87,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-21 14:33",
+  "Person": "阿麦的理想"
+}

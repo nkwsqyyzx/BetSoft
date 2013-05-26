@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿乙",
+  "Time1": "02-16 06:10",
+  "Host": "艾度思維",
+  "OddStake": "2/2.5球",
+  "Guest": "班菲特",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "02-15 20:37",
+  "Person": "人在美洲"
+}

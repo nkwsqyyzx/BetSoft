@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英甲",
+  "Time1": "05-06 13:00",
+  "Host": "清水心跳",
+  "OddStake": "平手",
+  "Guest": "川崎前鋒",
+  "Prefer": "川崎前鋒",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-06 12:45",
+  "Person": "中奖太简单啦"
+}

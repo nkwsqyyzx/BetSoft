@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "美職業",
+  "Time1": "11-02 10:30",
+  "Host": "洛杉磯銀河",
+  "OddStake": "2.5球",
+  "Guest": "溫哥華白帽",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-01 13:51",
+  "Person": "农夫果园"
+}

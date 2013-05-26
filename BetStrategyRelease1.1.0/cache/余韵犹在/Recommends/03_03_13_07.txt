@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "奧甲",
+  "Time1": "03-03 23:00",
+  "Host": "禾夫斯堡",
+  "OddStake": "受半球",
+  "Guest": "維也納迅速",
+  "Prefer": "維也納迅速",
+  "Odds": 1.06,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-03 13:07",
+  "Person": "余韵犹在"
+}

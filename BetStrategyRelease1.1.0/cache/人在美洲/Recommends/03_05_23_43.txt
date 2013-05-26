@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "中北美冠",
+  "Time1": "03-06 09:00",
+  "Host": "侯斯頓戴拿模",
+  "OddStake": "2/2.5球",
+  "Guest": "聖多斯",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-05 23:43",
+  "Person": "人在美洲"
+}

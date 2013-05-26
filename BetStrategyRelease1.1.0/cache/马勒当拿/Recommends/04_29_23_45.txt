@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "捷克甲",
+  "Time1": "04-29 23:59",
+  "Host": "澤伯約維卡般奴",
+  "OddStake": "平/半",
+  "Guest": "奧斯泰華",
+  "Prefer": "奧斯泰華",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-29 23:45",
+  "Person": "马勒当拿"
+}

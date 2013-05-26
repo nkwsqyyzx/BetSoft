@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "埃及甲",
+  "Time1": "02-10 01:30",
+  "Host": "哈伊赫多",
+  "OddStake": "半/一",
+  "Guest": "索莫哈",
+  "Prefer": "索莫哈",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "02-10 00:15",
+  "Person": "心情"
+}

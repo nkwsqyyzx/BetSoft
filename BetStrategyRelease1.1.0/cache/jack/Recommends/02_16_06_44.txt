@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "墨西聯",
+  "Time1": "02-16 09:30",
+  "Host": "賈奎斯",
+  "OddStake": "2/2.5球",
+  "Guest": "提華納",
+  "Prefer": "小球",
+  "Odds": 1.0,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "02-16 06:44",
+  "Person": "jack"
+}

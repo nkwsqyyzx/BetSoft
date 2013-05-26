@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-18 01:00",
+  "Host": "米亞爾比",
+  "OddStake": "受半球",
+  "Guest": "馬模",
+  "Prefer": "米亞爾比",
+  "Odds": 0.99,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "05-17 23:53",
+  "Person": "jack"
+}

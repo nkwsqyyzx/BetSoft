@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐洲預選",
+  "Time1": "10-13 02:15",
+  "Host": "斯洛伐克",
+  "OddStake": "2.5球",
+  "Guest": "拉脫維亞",
+  "Prefer": "小球",
+  "Odds": 0.99,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-13 01:52",
+  "Person": "马勒当拿"
+}

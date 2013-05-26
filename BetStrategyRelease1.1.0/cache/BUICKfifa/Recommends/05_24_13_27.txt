@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法乙",
+  "Time1": "05-25 02:30",
+  "Host": "克萊蒙特",
+  "OddStake": "2/2.5球",
+  "Guest": "尼歐特",
+  "Prefer": "小球",
+  "Odds": 1.03,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-24 13:27",
+  "Person": "BUICKfifa"
+}

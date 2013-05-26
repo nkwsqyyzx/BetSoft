@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿塞超",
+  "Time1": "02-16 18:00",
+  "Host": "巴古",
+  "OddStake": "半球",
+  "Guest": "阿紮巴古",
+  "Prefer": "巴古",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-16 16:42",
+  "Person": "马勒当拿"
+}

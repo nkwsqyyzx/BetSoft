@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "05-02 08:50",
+  "Host": "小保加",
+  "OddStake": "2球",
+  "Guest": "哥連泰斯",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-01 19:52",
+  "Person": "余韵犹在"
+}

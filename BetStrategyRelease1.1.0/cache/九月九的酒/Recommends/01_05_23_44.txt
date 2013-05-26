@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "摩洛超",
+  "Time1": "01-06 03:00",
+  "Host": "柯里加",
+  "OddStake": "平/半",
+  "Guest": "CODM梅克內斯",
+  "Prefer": "CODM梅克內斯",
+  "Odds": 0.97,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "01-05 23:44",
+  "Person": "九月九的酒"
+}

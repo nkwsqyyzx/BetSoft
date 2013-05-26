@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-15 23:40",
+  "Host": "沙巴柏杜拜",
+  "OddStake": "2/2.5球",
+  "Guest": "艾斯迪格拿",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "2-4",
+  "PreferResult": 1,
+  "Time2": "05-15 22:28",
+  "Person": "人在美洲"
+}

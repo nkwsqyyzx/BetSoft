@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷青聯",
+  "Time1": "02-27 01:30",
+  "Host": "PSV燕豪芬青年隊",
+  "OddStake": "半球",
+  "Guest": "高寧根青年隊",
+  "Prefer": "PSV燕豪芬青年隊",
+  "Odds": 0.98,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "02-26 18:43",
+  "Person": "我行我素"
+}

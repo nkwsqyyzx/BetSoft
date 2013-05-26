@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "自由盃",
+  "Time1": "03-15 08:30",
+  "Host": "聖喬希奧魯羅",
+  "OddStake": "平手",
+  "Guest": "米倫拿列奧",
+  "Prefer": "聖喬希奧魯羅",
+  "Odds": 0.81,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "03-15 07:37",
+  "Person": "无聊玩玩"
+}

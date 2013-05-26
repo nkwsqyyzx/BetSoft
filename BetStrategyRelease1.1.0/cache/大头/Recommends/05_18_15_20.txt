@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典乙南",
+  "Time1": "05-18 22:00",
+  "Host": "胡斯華納",
+  "OddStake": "2.5球",
+  "Guest": "烏席登斯",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-18 15:20",
+  "Person": "大头"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "04-28 21:00",
+  "Host": "帕爾馬",
+  "OddStake": "2.5球",
+  "Guest": "拉素",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-28 19:59",
+  "Person": "轻轻巧巧"
+}

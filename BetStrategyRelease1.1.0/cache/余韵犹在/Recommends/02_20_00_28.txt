@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "02-20 03:45",
+  "Host": "波圖",
+  "OddStake": "半/一",
+  "Guest": "馬拉加",
+  "Prefer": "波圖",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "02-20 00:28",
+  "Person": "余韵犹在"
+}

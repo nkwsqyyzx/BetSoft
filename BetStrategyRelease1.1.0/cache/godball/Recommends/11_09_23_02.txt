@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "波蘭甲",
+  "Time1": "11-10 03:45",
+  "Host": "維澤夫洛茲",
+  "OddStake": "2/2.5球",
+  "Guest": "萊克",
+  "Prefer": "大球",
+  "Odds": 1.19,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "11-09 23:02",
+  "Person": "godball"
+}

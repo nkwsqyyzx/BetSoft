@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "土耳其盃",
+  "Time1": "01-30 01:30",
+  "Host": "特拉仲",
+  "OddStake": "受半球",
+  "Guest": "柏薩士邦",
+  "Prefer": "柏薩士邦",
+  "Odds": 0.94,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-30 00:10",
+  "Person": "爷有旺仔"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐洲預選",
+  "Time1": "10-16 23:59",
+  "Host": "白俄羅斯",
+  "OddStake": "半球",
+  "Guest": "格魯吉亞",
+  "Prefer": "格魯吉亞",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "10-16 23:49",
+  "Person": "低调的人"
+}

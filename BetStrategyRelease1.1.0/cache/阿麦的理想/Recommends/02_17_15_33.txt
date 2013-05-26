@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意甲",
+  "Time1": "02-18 03:45",
+  "Host": "費倫天拿",
+  "OddStake": "半球",
+  "Guest": "國際米蘭",
+  "Prefer": "費倫天拿",
+  "Odds": 0.9,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "02-17 15:33",
+  "Person": "阿麦的理想"
+}

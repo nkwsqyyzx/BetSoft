@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法甲",
+  "Time1": "05-27 03:00",
+  "Host": "里昂",
+  "OddStake": "球半",
+  "Guest": "雷恩",
+  "Prefer": "雷恩",
+  "Odds": 0.89,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 01:29",
+  "Person": "tjqalqf"
+}

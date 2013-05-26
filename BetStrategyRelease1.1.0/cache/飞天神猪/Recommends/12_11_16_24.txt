@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意盃",
+  "Time1": "12-12 04:00",
+  "Host": "羅馬",
+  "OddStake": "一球/球半",
+  "Guest": "阿特蘭大",
+  "Prefer": "羅馬",
+  "Odds": 1.03,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "12-11 16:24",
+  "Person": "飞天神猪"
+}

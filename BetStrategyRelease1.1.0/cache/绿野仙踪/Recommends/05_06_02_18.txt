@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "05-06 03:00",
+  "Host": "巴塞羅那",
+  "OddStake": "3.5/4球",
+  "Guest": "皇家貝迪斯",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "4-2",
+  "PreferResult": 5,
+  "Time2": "05-06 02:18",
+  "Person": "绿野仙踪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "玻利甲",
+  "Time1": "05-20 03:30",
+  "Host": "佩特萊羅",
+  "OddStake": "2.5/3球",
+  "Guest": "拉佩茲",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-20 00:54",
+  "Person": "高美尔"
+}

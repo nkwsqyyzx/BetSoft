@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "奧乙",
+  "Time1": "05-22 00:30",
+  "Host": "哈特堡格",
+  "OddStake": "2.5/3球",
+  "Guest": "亞塔奇",
+  "Prefer": "大球",
+  "Odds": 0.81,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "05-21 21:22",
+  "Person": "墨斗红云"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "巴西乙",
+  "Time1": "10-14 03:00",
+  "Host": "柏拉拿",
+  "OddStake": "2.5球",
+  "Guest": "維多利亞BA",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "10-13 23:55",
+  "Person": "sweetcat"
+}

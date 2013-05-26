@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-15 01:15",
+  "Host": "英特杜古",
+  "OddStake": "2.5/3球",
+  "Guest": "VPS華沙",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-14 18:09",
+  "Person": "扬名立万"
+}

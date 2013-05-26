@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英足總盃",
+  "Time1": "02-17 20:00",
+  "Host": "切爾西",
+  "OddStake": "两球/两球半",
+  "Guest": "賓福特",
+  "Prefer": "賓福特",
+  "Odds": 0.9,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "02-17 19:29",
+  "Person": "中奖太简单啦"
+}

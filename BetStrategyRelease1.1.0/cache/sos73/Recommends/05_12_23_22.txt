@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "委内超秋",
+  "Time1": "05-13 04:30",
+  "Host": "安索阿特吉",
+  "OddStake": "半球",
+  "Guest": "祖積蘭奴斯",
+  "Prefer": "祖積蘭奴斯",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-12 23:22",
+  "Person": "sos73"
+}

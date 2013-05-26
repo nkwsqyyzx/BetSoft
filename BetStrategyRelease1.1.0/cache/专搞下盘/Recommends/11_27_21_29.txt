@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "蘇超",
+  "Time1": "11-28 03:45",
+  "Host": "阿伯丁",
+  "OddStake": "平/半",
+  "Guest": "恩華利斯",
+  "Prefer": "恩華利斯",
+  "Odds": 0.97,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "11-27 21:29",
+  "Person": "专搞下盘"
+}

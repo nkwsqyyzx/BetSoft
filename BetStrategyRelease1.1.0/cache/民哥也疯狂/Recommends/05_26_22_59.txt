@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西甲",
+  "Time1": "05-27 02:00",
+  "Host": "愛斯賓奴",
+  "OddStake": "受一球",
+  "Guest": "巴塞羅那",
+  "Prefer": "巴塞羅那",
+  "Odds": 1.04,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 22:59",
+  "Person": "民哥也疯狂"
+}

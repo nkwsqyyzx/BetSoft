@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "玻利甲",
+  "Time1": "05-06 04:00",
+  "Host": "波托西",
+  "OddStake": "受平/半",
+  "Guest": "皇家帕托斯",
+  "Prefer": "波托西",
+  "Odds": 0.97,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "05-05 23:39",
+  "Person": "sos73"
+}

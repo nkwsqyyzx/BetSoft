@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-12 23:00",
+  "Host": "富勒姆",
+  "OddStake": "2.5/3球",
+  "Guest": "韋根",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "01-12 13:37",
+  "Person": "积木"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "智利春",
+  "Time1": "05-26 07:30",
+  "Host": "愛華頓比尼亞德爾馬",
+  "OddStake": "半球",
+  "Guest": "伊庫伊奎",
+  "Prefer": "伊庫伊奎",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-25 06:54",
+  "Person": "心情"
+}

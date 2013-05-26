@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "摩洛超",
+  "Time1": "12-21 03:00",
+  "Host": "拉巴特皇家武裝力量",
+  "OddStake": "1.5/2球",
+  "Guest": "RCA卡薩布蘭卡",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-20 21:14",
+  "Person": "身不由己"
+}

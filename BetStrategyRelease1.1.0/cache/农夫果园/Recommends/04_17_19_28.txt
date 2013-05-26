@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德青北",
+  "Time1": "04-17 20:00",
+  "Host": "羅斯托克U19",
+  "OddStake": "3.5球",
+  "Guest": "沃爾夫斯堡U19",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-5",
+  "PreferResult": 5,
+  "Time2": "04-17 19:28",
+  "Person": "农夫果园"
+}

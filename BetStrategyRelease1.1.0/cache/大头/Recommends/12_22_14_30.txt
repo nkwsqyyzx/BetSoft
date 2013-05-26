@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-22 23:00",
+  "Host": "西布朗",
+  "OddStake": "半球",
+  "Guest": "諾域治",
+  "Prefer": "諾域治",
+  "Odds": 0.91,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "12-22 14:30",
+  "Person": "大头"
+}

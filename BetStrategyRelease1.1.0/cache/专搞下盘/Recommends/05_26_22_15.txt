@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西乙",
+  "Time1": "05-26 23:00",
+  "Host": "艾爾切",
+  "OddStake": "半球",
+  "Guest": "皇家馬德里卡斯蒂亞",
+  "Prefer": "皇家馬德里卡斯蒂亞",
+  "Odds": 0.83,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-26 22:15",
+  "Person": "专搞下盘"
+}

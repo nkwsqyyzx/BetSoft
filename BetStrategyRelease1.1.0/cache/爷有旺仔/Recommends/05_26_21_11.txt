@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "意丙附",
+  "Time1": "05-26 22:00",
+  "Host": "索倫托",
+  "OddStake": "平/半",
+  "Guest": "普拉托",
+  "Prefer": "普拉托",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-26 21:11",
+  "Person": "爷有旺仔"
+}

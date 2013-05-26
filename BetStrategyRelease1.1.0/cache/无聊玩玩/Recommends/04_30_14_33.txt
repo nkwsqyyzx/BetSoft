@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-30 23:59",
+  "Host": "沙巴罕",
+  "OddStake": "半球",
+  "Guest": "阿爾葛拉法",
+  "Prefer": "沙巴罕",
+  "Odds": 0.86,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-30 14:33",
+  "Person": "无聊玩玩"
+}

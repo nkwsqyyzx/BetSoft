@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "丹麥超",
+  "Time1": "03-29 02:00",
+  "Host": "奧丹斯",
+  "OddStake": "平/半",
+  "Guest": "蘭達斯",
+  "Prefer": "奧丹斯",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "03-28 19:51",
+  "Person": "大头"
+}

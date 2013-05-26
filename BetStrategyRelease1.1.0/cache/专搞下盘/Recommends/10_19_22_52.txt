@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "墨西聯",
+  "Time1": "10-20 08:30",
+  "Host": "賈奎斯",
+  "OddStake": "半球",
+  "Guest": "普埃布拉",
+  "Prefer": "賈奎斯",
+  "Odds": 0.81,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "10-19 22:52",
+  "Person": "专搞下盘"
+}

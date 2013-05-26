@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳南超",
+  "Time1": "02-22 16:30",
+  "Host": "地鐵之星",
+  "OddStake": "2.5/3球",
+  "Guest": "阿德萊得城",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-22 15:20",
+  "Person": "jack"
+}

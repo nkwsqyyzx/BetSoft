@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇超",
+  "Time1": "12-22 23:00",
+  "Host": "些路迪",
+  "OddStake": "两球",
+  "Guest": "羅斯郡",
+  "Prefer": "羅斯郡",
+  "Odds": 0.96,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "12-22 22:49",
+  "Person": "强人"
+}

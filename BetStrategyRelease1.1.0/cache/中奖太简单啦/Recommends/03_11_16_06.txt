@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳職聯",
+  "Time1": "03-11 16:30",
+  "Host": "墨爾本赫爾",
+  "OddStake": "半/一",
+  "Guest": "阿德萊得聯",
+  "Prefer": "阿德萊得聯",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "03-11 16:06",
+  "Person": "中奖太简单啦"
+}

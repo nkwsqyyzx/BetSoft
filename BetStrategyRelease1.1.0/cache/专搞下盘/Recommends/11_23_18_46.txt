@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "奧乙",
+  "Time1": "11-24 01:30",
+  "Host": "奧地利路斯登洛",
+  "OddStake": "球半/两球",
+  "Guest": "第一維也納",
+  "Prefer": "奧地利路斯登洛",
+  "Odds": 0.82,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "11-23 18:46",
+  "Person": "专搞下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "墨西聯",
+  "Time1": "04-28 10:00",
+  "Host": "聖路易斯",
+  "OddStake": "平/半",
+  "Guest": "提華納",
+  "Prefer": "提華納",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-28 00:46",
+  "Person": "心情"
+}

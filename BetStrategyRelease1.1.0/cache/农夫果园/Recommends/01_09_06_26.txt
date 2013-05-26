@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "巴聖青盃",
+  "Time1": "01-09 07:00",
+  "Host": "帕桑度青年隊U19",
+  "OddStake": "3/3.5球",
+  "Guest": "華斯高RJ青年隊U19",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-09 06:26",
+  "Person": "农夫果园"
+}

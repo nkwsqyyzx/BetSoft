@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中足盃",
+  "Time1": "05-07 15:00",
+  "Host": "哈爾濱毅騰",
+  "OddStake": "2/2.5球",
+  "Guest": "湖北華凱爾",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-07 12:00",
+  "Person": "阿麦的理想"
+}

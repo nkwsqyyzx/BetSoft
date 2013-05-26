@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "澳洲甲",
+  "Time1": "04-12 17:30",
+  "Host": "西部悉尼流浪者",
+  "OddStake": "半球",
+  "Guest": "布里斯班獅吼",
+  "Prefer": "布里斯班獅吼",
+  "Odds": 0.85,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-12 16:12",
+  "Person": "sweetcat"
+}

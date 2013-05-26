@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意甲",
+  "Time1": "03-10 22:00",
+  "Host": "帕爾馬",
+  "OddStake": "半球",
+  "Guest": "拖連奴",
+  "Prefer": "帕爾馬",
+  "Odds": 1.0,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "03-10 21:18",
+  "Person": "中奖"
+}

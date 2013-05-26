@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "哥倫甲",
+  "Time1": "02-03 04:15",
+  "Host": "阿利安薩",
+  "OddStake": "2/2.5球",
+  "Guest": "聖塔菲",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "02-03 00:05",
+  "Person": "章鱼帝"
+}

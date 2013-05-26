@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德甲",
+  "Time1": "02-16 22:30",
+  "Host": "緬恩斯",
+  "OddStake": "平/半",
+  "Guest": "史浩克04",
+  "Prefer": "史浩克04",
+  "Odds": 0.91,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "02-16 16:00",
+  "Person": "我行我素"
+}

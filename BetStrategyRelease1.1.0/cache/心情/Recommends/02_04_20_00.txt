@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "阿乙曼特",
+  "Time1": "02-05 07:00",
+  "Host": "維拉多爾米尼",
+  "OddStake": "2/2.5球",
+  "Guest": "特里斯頓",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "02-04 20:00",
+  "Person": "心情"
+}

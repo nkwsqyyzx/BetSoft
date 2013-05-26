@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡聯盃",
+  "Time1": "01-10 02:00",
+  "Host": "甘馬雷斯",
+  "OddStake": "2.5球",
+  "Guest": "拿華爾",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "01-09 13:02",
+  "Person": "印加帝国"
+}

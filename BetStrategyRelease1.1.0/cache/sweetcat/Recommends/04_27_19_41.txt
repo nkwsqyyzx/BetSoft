@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德丙聯",
+  "Time1": "04-27 20:00",
+  "Host": "賽瑞貝肯",
+  "OddStake": "半球",
+  "Guest": "羅斯托克",
+  "Prefer": "羅斯托克",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-27 19:41",
+  "Person": "sweetcat"
+}

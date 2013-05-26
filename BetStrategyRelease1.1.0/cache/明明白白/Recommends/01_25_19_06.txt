@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "以色列甲",
+  "Time1": "01-25 21:00",
+  "Host": "里雄萊錫安夏普爾",
+  "OddStake": "2/2.5球",
+  "Guest": "彼達提克瓦夏普",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-25 19:06",
+  "Person": "明明白白"
+}

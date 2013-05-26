@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法甲",
+  "Time1": "12-13 02:00",
+  "Host": "羅連安特",
+  "OddStake": "2.5球",
+  "Guest": "索察",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "12-12 20:26",
+  "Person": "大头"
+}

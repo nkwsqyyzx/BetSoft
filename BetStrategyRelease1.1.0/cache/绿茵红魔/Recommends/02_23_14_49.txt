@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德甲",
+  "Time1": "02-23 22:30",
+  "Host": "漢諾威",
+  "OddStake": "平手",
+  "Guest": "漢堡",
+  "Prefer": "漢諾威",
+  "Odds": 0.97,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "02-23 14:49",
+  "Person": "绿茵红魔"
+}

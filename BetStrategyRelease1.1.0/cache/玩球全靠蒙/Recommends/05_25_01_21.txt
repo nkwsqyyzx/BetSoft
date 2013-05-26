@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法乙",
+  "Time1": "05-25 02:30",
+  "Host": "卡昂",
+  "OddStake": "2.5/3球",
+  "Guest": "GFC阿些斯奧",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-25 01:21",
+  "Person": "玩球全靠蒙"
+}

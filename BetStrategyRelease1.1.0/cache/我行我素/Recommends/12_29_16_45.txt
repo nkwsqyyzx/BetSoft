@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-29 23:00",
+  "Host": "富勒姆",
+  "OddStake": "2.5球",
+  "Guest": "史雲斯",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "12-29 16:45",
+  "Person": "我行我素"
+}

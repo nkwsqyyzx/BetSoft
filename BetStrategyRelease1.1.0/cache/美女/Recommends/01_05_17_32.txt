@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英足總盃",
+  "Time1": "01-05 23:00",
+  "Host": "托特納姆熱刺",
+  "OddStake": "3/3.5球",
+  "Guest": "高雲地利",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "3-0",
+  "PreferResult": 4,
+  "Time2": "01-05 17:32",
+  "Person": "美女"
+}

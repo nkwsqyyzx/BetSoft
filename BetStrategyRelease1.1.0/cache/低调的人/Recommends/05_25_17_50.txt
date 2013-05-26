@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西乙",
+  "Time1": "05-25 18:00",
+  "Host": "大阪櫻花",
+  "OddStake": "平/半",
+  "Guest": "名古屋鯨魚",
+  "Prefer": "名古屋鯨魚",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-25 17:50",
+  "Person": "低调的人"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法甲",
+  "Time1": "04-22 03:00",
+  "Host": "巴黎聖日門",
+  "OddStake": "2.5球",
+  "Guest": "奈斯",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "04-22 00:25",
+  "Person": "我行我素"
+}

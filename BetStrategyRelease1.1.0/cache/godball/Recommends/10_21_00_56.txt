@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "哥倫甲",
+  "Time1": "10-21 08:45",
+  "Host": "奇科",
+  "OddStake": "2/2.5球",
+  "Guest": "柏斯度",
+  "Prefer": "大球",
+  "Odds": 1.02,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "10-21 00:56",
+  "Person": "godball"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "CIS盃",
+  "Time1": "01-21 23:00",
+  "Host": "俄羅斯U21",
+  "OddStake": "2.5/3球",
+  "Guest": "哈薩克斯坦U21",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "7-3",
+  "PreferResult": 5,
+  "Time2": "01-21 20:49",
+  "Person": "大头"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-21 21:00",
+  "Host": "桑恩達",
+  "OddStake": "半球",
+  "Guest": "桑德菲傑",
+  "Prefer": "桑德菲傑",
+  "Odds": 0.93,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-21 20:32",
+  "Person": "爷有旺仔"
+}

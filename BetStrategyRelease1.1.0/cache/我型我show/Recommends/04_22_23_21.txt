@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "以色列甲",
+  "Time1": "04-22 23:59",
+  "Host": "耶路撒冷夏普爾",
+  "OddStake": "2.5球",
+  "Guest": "里雄萊錫安夏普爾",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-22 23:21",
+  "Person": "我型我show"
+}

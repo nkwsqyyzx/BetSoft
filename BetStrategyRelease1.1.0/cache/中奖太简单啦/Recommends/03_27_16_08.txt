@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "印尼超",
+  "Time1": "03-27 16:30",
+  "Host": "帕森拉",
+  "OddStake": "2.5/3球",
+  "Guest": "佩利塔",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-27 16:08",
+  "Person": "中奖太简单啦"
+}

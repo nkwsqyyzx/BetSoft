@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "印尼超",
+  "Time1": "04-15 16:30",
+  "Host": "萬隆",
+  "OddStake": "3球",
+  "Guest": "培斯塔坦格朗",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "5-1",
+  "PreferResult": 1,
+  "Time2": "04-15 15:53",
+  "Person": "明明白白"
+}

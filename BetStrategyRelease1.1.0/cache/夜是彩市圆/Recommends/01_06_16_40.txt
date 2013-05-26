@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡甲",
+  "Time1": "01-06 19:15",
+  "Host": "科維拉",
+  "OddStake": "平手",
+  "Guest": "雷克斯歐斯",
+  "Prefer": "雷克斯歐斯",
+  "Odds": 1.0,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-06 16:40",
+  "Person": "夜是彩市圆"
+}

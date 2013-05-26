@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西乙",
+  "Time1": "05-27 01:00",
+  "Host": "桑坦德",
+  "OddStake": "半/一",
+  "Guest": "CD瓜達拉哈拉",
+  "Prefer": "桑坦德",
+  "Odds": 0.99,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 23:57",
+  "Person": "低调玩球一齐杀庄"
+}

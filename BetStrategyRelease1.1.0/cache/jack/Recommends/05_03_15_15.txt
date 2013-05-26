@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "05-03 18:00",
+  "Host": "千葉市原",
+  "OddStake": "半球",
+  "Guest": "愛媛",
+  "Prefer": "千葉市原",
+  "Odds": 0.86,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-03 15:15",
+  "Person": "jack"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德東北聯",
+  "Time1": "03-23 20:30",
+  "Host": "卡爾斯耶拿",
+  "OddStake": "平/半",
+  "Guest": "茨維嵪",
+  "Prefer": "茨維嵪",
+  "Odds": 0.98,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "03-23 19:50",
+  "Person": "爷有旺仔"
+}

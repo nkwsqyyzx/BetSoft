@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "05-12 23:00",
+  "Host": "皇家貝迪斯",
+  "OddStake": "2.5/3球",
+  "Guest": "切爾達",
+  "Prefer": "小球",
+  "Odds": 0.97,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-12 22:49",
+  "Person": "jack"
+}

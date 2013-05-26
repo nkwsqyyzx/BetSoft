@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿乙",
+  "Time1": "02-24 04:00",
+  "Host": "新芝加哥",
+  "OddStake": "2/2.5球",
+  "Guest": "艾度思維",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "02-24 00:33",
+  "Person": "人在美洲"
+}

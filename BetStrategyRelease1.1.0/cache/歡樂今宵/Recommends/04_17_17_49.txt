@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-17 18:00",
+  "Host": "全北現代",
+  "OddStake": "一球/球半",
+  "Guest": "大邱FC",
+  "Prefer": "全北現代",
+  "Odds": 1.11,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-17 17:49",
+  "Person": "歡樂今宵"
+}

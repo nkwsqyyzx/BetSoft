@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "羅甲",
+  "Time1": "11-03 03:30",
+  "Host": "CSMS伊啊斯",
+  "OddStake": "平手",
+  "Guest": "古積大學",
+  "Prefer": "古積大學",
+  "Odds": 0.96,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "11-03 02:45",
+  "Person": "专搞下盘"
+}

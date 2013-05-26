@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬超",
+  "Time1": "05-09 22:00",
+  "Host": "英特杜古",
+  "OddStake": "2/2.5球",
+  "Guest": "拉迪",
+  "Prefer": "大球",
+  "Odds": 0.91,
+  "Result": "2-0",
+  "PreferResult": 2,
+  "Time2": "05-09 21:49",
+  "Person": "身不由己"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意乙",
+  "Time1": "02-27 03:45",
+  "Host": "阿斯科利",
+  "OddStake": "受半球",
+  "Guest": "森索羅",
+  "Prefer": "森索羅",
+  "Odds": 0.97,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "02-27 00:31",
+  "Person": "心情"
+}

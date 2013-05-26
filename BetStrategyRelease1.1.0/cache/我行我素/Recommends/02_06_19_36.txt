@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "亞洲盃",
+  "Time1": "02-06 20:00",
+  "Host": "伊朗",
+  "OddStake": "球半/两球",
+  "Guest": "黎巴嫩",
+  "Prefer": "伊朗",
+  "Odds": 0.91,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "02-06 19:36",
+  "Person": "我行我素"
+}

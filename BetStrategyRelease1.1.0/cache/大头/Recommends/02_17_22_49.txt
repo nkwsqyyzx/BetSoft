@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德甲",
+  "Time1": "02-18 00:30",
+  "Host": "賀芬咸",
+  "OddStake": "2.5球",
+  "Guest": "斯圖加特",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-17 22:49",
+  "Person": "大头"
+}

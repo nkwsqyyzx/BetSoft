@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-23 23:30",
+  "Host": "韋斯屈萊",
+  "OddStake": "平/半",
+  "Guest": "古比斯",
+  "Prefer": "古比斯",
+  "Odds": 0.84,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "05-23 13:49",
+  "Person": "绿茵红魔"
+}

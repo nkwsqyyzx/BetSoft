@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "希盃",
+  "Time1": "04-18 01:00",
+  "Host": "PAOK沙朗歷基",
+  "OddStake": "半/一",
+  "Guest": "泰利普利斯",
+  "Prefer": "PAOK沙朗歷基",
+  "Odds": 0.92,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "04-17 15:11",
+  "Person": "绿茵红魔"
+}

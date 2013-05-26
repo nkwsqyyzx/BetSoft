@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "04-20 22:00",
+  "Host": "沃特福德",
+  "OddStake": "半/一",
+  "Guest": "布力般流浪",
+  "Prefer": "布力般流浪",
+  "Odds": 0.85,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "04-20 18:34",
+  "Person": "BUICKfifa"
+}

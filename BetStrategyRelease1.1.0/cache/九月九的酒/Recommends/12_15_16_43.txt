@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德乙",
+  "Time1": "12-15 20:00",
+  "Host": "哈化柏林",
+  "OddStake": "球半",
+  "Guest": "FSV法蘭克福",
+  "Prefer": "哈化柏林",
+  "Odds": 1.0,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "12-15 16:43",
+  "Person": "九月九的酒"
+}

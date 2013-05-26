@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "比乙",
+  "Time1": "03-24 22:00",
+  "Host": "苗斯干匹盧維茲",
+  "OddStake": "半/一",
+  "Guest": "安特衛普",
+  "Prefer": "苗斯干匹盧維茲",
+  "Odds": 0.93,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "03-24 21:43",
+  "Person": "夜是彩市圆"
+}

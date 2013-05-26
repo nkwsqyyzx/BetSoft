@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "哥斯甲",
+  "Time1": "03-01 10:00",
+  "Host": "利蒙",
+  "OddStake": "2.5球",
+  "Guest": "山度士DG",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-28 22:52",
+  "Person": "大头"
+}

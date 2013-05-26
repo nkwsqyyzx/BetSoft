@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英冠",
+  "Time1": "03-13 03:45",
+  "Host": "列斯聯",
+  "OddStake": "半/一",
+  "Guest": "彼德堡",
+  "Prefer": "列斯聯",
+  "Odds": 1.03,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-12 22:31",
+  "Person": "我行我素"
+}

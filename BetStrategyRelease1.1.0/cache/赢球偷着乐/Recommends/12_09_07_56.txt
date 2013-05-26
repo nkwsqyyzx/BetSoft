@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇甲",
+  "Time1": "12-09 08:30",
+  "Host": "拉魯斯",
+  "OddStake": "2球",
+  "Guest": "聖羅倫素",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "12-09 07:56",
+  "Person": "赢球偷着乐"
+}

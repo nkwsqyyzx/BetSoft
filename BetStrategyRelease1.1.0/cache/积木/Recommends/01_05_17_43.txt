@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-06 01:00",
+  "Host": "卡坦尼亞",
+  "OddStake": "半球",
+  "Guest": "拖連奴",
+  "Prefer": "拖連奴",
+  "Odds": 0.94,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-05 17:43",
+  "Person": "积木"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "比甲",
+  "Time1": "01-27 21:30",
+  "Host": "布魯日",
+  "OddStake": "半球",
+  "Guest": "真特",
+  "Prefer": "布魯日",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-27 20:19",
+  "Person": "人在美洲"
+}

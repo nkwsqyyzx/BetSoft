@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "荷乙",
+  "Time1": "03-30 03:00",
+  "Host": "埃曼",
+  "OddStake": "2.5/3球",
+  "Guest": "特士達",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-29 21:59",
+  "Person": "身不由己"
+}

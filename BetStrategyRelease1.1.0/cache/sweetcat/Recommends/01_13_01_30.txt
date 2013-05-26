@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "比乙",
+  "Time1": "01-13 02:30",
+  "Host": "奧登納德",
+  "OddStake": "2.5球",
+  "Guest": "奧斯坦德",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "01-13 01:30",
+  "Person": "sweetcat"
+}

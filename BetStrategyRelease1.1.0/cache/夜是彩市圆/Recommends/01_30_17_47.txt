@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-30 18:00",
+  "Host": "杜克拉布拉格",
+  "OddStake": "半/一",
+  "Guest": "泰拿華斯巴達",
+  "Prefer": "泰拿華斯巴達",
+  "Odds": 0.87,
+  "Result": "4-2",
+  "PreferResult": 1,
+  "Time2": "01-30 17:47",
+  "Person": "夜是彩市圆"
+}

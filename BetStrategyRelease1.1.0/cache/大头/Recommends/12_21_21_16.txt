@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷乙",
+  "Time1": "12-22 03:00",
+  "Host": "多積治",
+  "OddStake": "一球/球半",
+  "Guest": "埃曼",
+  "Prefer": "多積治",
+  "Odds": 1.08,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "12-21 21:16",
+  "Person": "大头"
+}

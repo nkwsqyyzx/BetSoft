@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "墨西聯",
+  "Time1": "04-20 10:30",
+  "Host": "聖多斯",
+  "OddStake": "2.5球",
+  "Guest": "蒙特瑞",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-20 09:07",
+  "Person": "sos73"
+}

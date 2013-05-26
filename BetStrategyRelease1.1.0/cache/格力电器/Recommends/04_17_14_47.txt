@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "波青聯",
+  "Time1": "04-17 17:00",
+  "Host": "列治亞青年隊U21",
+  "OddStake": "球半",
+  "Guest": "派雅斯特青年隊U21",
+  "Prefer": "列治亞青年隊U21",
+  "Odds": 0.83,
+  "Result": "7-1",
+  "PreferResult": 5,
+  "Time2": "04-17 14:47",
+  "Person": "格力电器"
+}

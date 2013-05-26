@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "04-26 23:59",
+  "Host": "桑德豪森",
+  "OddStake": "受平/半",
+  "Guest": "波鴻",
+  "Prefer": "波鴻",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-26 13:14",
+  "Person": "八月十日"
+}

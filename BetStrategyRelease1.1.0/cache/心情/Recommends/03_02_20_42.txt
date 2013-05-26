@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意乙",
+  "Time1": "03-02 22:00",
+  "Host": "恩波里",
+  "OddStake": "2.5球",
+  "Guest": "瓦雷澤",
+  "Prefer": "大球",
+  "Odds": 1.07,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "03-02 20:42",
+  "Person": "心情"
+}

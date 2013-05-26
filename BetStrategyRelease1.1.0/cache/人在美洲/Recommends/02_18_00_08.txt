@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿乙",
+  "Time1": "02-18 04:00",
+  "Host": "費羅卡利爾",
+  "OddStake": "2/2.5球",
+  "Guest": "圖庫曼體育會",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "02-18 00:08",
+  "Person": "人在美洲"
+}

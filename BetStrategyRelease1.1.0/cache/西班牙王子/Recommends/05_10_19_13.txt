@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中超",
+  "Time1": "05-10 19:35",
+  "Host": "廣州富力",
+  "OddStake": "平/半",
+  "Guest": "北京國安",
+  "Prefer": "廣州富力",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-10 19:13",
+  "Person": "西班牙王子"
+}

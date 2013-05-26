@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德南聯",
+  "Time1": "03-21 02:00",
+  "Host": "SSV烏爾姆",
+  "OddStake": "半球",
+  "Guest": "伊達爾奧伯施泰恩",
+  "Prefer": "SSV烏爾姆",
+  "Odds": 0.98,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "03-20 18:39",
+  "Person": "大头"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德乙",
+  "Time1": "02-02 20:00",
+  "Host": "科隆",
+  "OddStake": "2.5球",
+  "Guest": "艾格比治",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-02 16:57",
+  "Person": "我行我素"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "01-01 23:00",
+  "Host": "韋根",
+  "OddStake": "受半/一",
+  "Guest": "曼聯",
+  "Prefer": "曼聯",
+  "Odds": 0.88,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "01-01 18:21",
+  "Person": "心情"
+}

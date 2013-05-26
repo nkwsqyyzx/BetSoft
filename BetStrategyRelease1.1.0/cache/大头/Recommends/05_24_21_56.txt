@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "丹後備",
+  "Time1": "05-24 23:59",
+  "Host": "克拉科夫",
+  "OddStake": "2.5球",
+  "Guest": "魯治卓索",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-24 21:56",
+  "Person": "大头"
+}

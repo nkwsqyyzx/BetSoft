@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "波蘭乙",
+  "Time1": "04-24 23:00",
+  "Host": "瓦塔波茲南",
+  "OddStake": "受平/半",
+  "Guest": "萊茨納",
+  "Prefer": "瓦塔波茲南",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-24 21:09",
+  "Person": "印加帝国"
+}

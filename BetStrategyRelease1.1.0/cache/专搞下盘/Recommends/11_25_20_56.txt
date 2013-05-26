@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-25 23:59",
+  "Host": "托特納姆熱刺",
+  "OddStake": "半/一",
+  "Guest": "西漢姆",
+  "Prefer": "西漢姆",
+  "Odds": 0.97,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "11-25 20:56",
+  "Person": "专搞下盘"
+}

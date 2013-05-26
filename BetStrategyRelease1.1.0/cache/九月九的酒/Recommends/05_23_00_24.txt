@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "哥倫盃",
+  "Time1": "05-23 04:00",
+  "Host": "奧圖諾瑪卡利伯",
+  "OddStake": "2.5球",
+  "Guest": "馬大雷拿",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "05-23 00:24",
+  "Person": "九月九的酒"
+}

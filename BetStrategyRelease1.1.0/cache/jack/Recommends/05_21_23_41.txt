@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿爾甲",
+  "Time1": "05-21 23:59",
+  "Host": "USM阿爾格",
+  "OddStake": "半球",
+  "Guest": "貝魯扎達",
+  "Prefer": "USM阿爾格",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-21 23:41",
+  "Person": "jack"
+}

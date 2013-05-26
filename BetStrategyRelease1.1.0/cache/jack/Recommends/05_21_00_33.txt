@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "冰岛超",
+  "Time1": "05-21 01:00",
+  "Host": "托爾阿庫瑞",
+  "OddStake": "2.5/3球",
+  "Guest": "維吉歐拉維克",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-21 00:33",
+  "Person": "jack"
+}

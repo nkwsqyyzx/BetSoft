@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "羅甲",
+  "Time1": "11-20 02:00",
+  "Host": "加拉迪",
+  "OddStake": "2/2.5球",
+  "Guest": "瓦斯路易",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "11-19 15:27",
+  "Person": "农夫果园"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法甲",
+  "Time1": "02-16 03:30",
+  "Host": "利爾",
+  "OddStake": "半球",
+  "Guest": "雷恩",
+  "Prefer": "利爾",
+  "Odds": 0.86,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-15 22:28",
+  "Person": "轻轻巧巧"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "奧乙",
+  "Time1": "05-11 00:30",
+  "Host": "第一維也納",
+  "OddStake": "2.5/3球",
+  "Guest": "卡芬堡",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-10 22:46",
+  "Person": "身不由己"
+}

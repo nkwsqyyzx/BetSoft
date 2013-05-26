@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日聯盃",
+  "Time1": "05-22 18:00",
+  "Host": "名古屋鯨魚",
+  "OddStake": "半球",
+  "Guest": "新瀉天鵝",
+  "Prefer": "名古屋鯨魚",
+  "Odds": 1.02,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-22 17:50",
+  "Person": "歡樂今宵"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-23 19:30",
+  "Host": "北京國安",
+  "OddStake": "2球",
+  "Guest": "浦項制鐵",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "2-0",
+  "PreferResult": 3,
+  "Time2": "04-23 18:34",
+  "Person": "大头"
+}

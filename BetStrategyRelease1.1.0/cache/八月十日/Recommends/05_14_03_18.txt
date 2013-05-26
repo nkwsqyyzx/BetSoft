@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "阿乙",
+  "Time1": "05-14 04:10",
+  "Host": "奧里姆普",
+  "OddStake": "半球",
+  "Guest": "圖庫曼體育會",
+  "Prefer": "圖庫曼體育會",
+  "Odds": 0.92,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-14 03:18",
+  "Person": "八月十日"
+}

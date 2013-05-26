@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫乙",
+  "Time1": "04-16 09:10",
+  "Host": "佩雷拉",
+  "OddStake": "一球/球半",
+  "Guest": "巴瑞庫拉",
+  "Prefer": "巴瑞庫拉",
+  "Odds": 0.9,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "04-16 08:25",
+  "Person": "天之骄子"
+}

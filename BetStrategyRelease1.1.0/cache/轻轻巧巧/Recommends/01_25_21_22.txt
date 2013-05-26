@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "土超",
+  "Time1": "01-26 01:00",
+  "Host": "卡拉布克士邦",
+  "OddStake": "2.5球",
+  "Guest": "卡斯帕薩",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "01-25 21:22",
+  "Person": "轻轻巧巧"
+}

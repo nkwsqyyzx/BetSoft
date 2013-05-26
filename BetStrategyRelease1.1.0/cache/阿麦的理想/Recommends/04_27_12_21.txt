@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-27 14:00",
+  "Host": "大邱FC",
+  "OddStake": "受平/半",
+  "Guest": "濟州聯隊",
+  "Prefer": "大邱FC",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-27 12:21",
+  "Person": "阿麦的理想"
+}

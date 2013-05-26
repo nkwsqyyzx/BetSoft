@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日聯盃",
+  "Time1": "04-24 18:00",
+  "Host": "大分三神",
+  "OddStake": "受半/一",
+  "Guest": "FC東京",
+  "Prefer": "FC東京",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "04-24 17:15",
+  "Person": "积木"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意丙A",
+  "Time1": "01-06 21:30",
+  "Host": "庫尼奧1905",
+  "OddStake": "2/2.5球",
+  "Guest": "泰列維素",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-06 15:55",
+  "Person": "美女"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德青北",
+  "Time1": "04-02 18:00",
+  "Host": "洛特維博菲U19",
+  "OddStake": "3.5球",
+  "Guest": "基爾高士丁U19",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "04-02 16:34",
+  "Person": "飞天神猪"
+}

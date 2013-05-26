@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "女歐U19",
+  "Time1": "04-04 20:00",
+  "Host": "英格蘭女足U19(中)",
+  "OddStake": "一球/球半",
+  "Guest": "塞爾維亞女足U19",
+  "Prefer": "英格蘭女足U19(中)",
+  "Odds": 0.95,
+  "Result": "4-5",
+  "PreferResult": 1,
+  "Time2": "04-04 17:22",
+  "Person": "中奖"
+}

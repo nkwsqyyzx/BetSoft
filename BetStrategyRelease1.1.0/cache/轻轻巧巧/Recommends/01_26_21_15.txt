@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意乙",
+  "Time1": "01-26 22:00",
+  "Host": "維塞利",
+  "OddStake": "2/2.5球",
+  "Guest": "里賈納",
+  "Prefer": "小球",
+  "Odds": 0.843,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-26 21:15",
+  "Person": "轻轻巧巧"
+}

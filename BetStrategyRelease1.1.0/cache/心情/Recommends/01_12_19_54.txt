@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-12 21:00",
+  "Host": "巴貝爾斯堡",
+  "OddStake": "2.5/3球",
+  "Guest": "紐斯特里茨",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "01-12 19:54",
+  "Person": "心情"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "哥倫甲",
+  "Time1": "05-20 08:45",
+  "Host": "柏斯度",
+  "OddStake": "半球",
+  "Guest": "聖塔菲",
+  "Prefer": "聖塔菲",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-20 08:33",
+  "Person": "八月十日"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "以超",
+  "Time1": "11-05 02:50",
+  "Host": "馬卡比奈坦亞",
+  "OddStake": "受半球",
+  "Guest": "特拉維夫夏普爾",
+  "Prefer": "馬卡比奈坦亞",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-05 01:35",
+  "Person": "sweetcat"
+}

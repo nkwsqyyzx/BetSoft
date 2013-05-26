@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法乙",
+  "Time1": "04-27 02:00",
+  "Host": "奈梅斯",
+  "OddStake": "2/2.5球",
+  "Guest": "安格斯",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "04-26 23:31",
+  "Person": "心情"
+}

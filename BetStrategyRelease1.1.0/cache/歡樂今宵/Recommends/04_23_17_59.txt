@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-23 18:30",
+  "Host": "水原三星",
+  "OddStake": "半/一",
+  "Guest": "中央海岸",
+  "Prefer": "水原三星",
+  "Odds": 1.02,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-23 17:59",
+  "Person": "歡樂今宵"
+}

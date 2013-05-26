@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西乙",
+  "Time1": "10-16 03:00",
+  "Host": "皇家馬德里卡斯蒂亞",
+  "OddStake": "半球",
+  "Guest": "拉斯彭馬斯",
+  "Prefer": "皇家馬德里卡斯蒂亞",
+  "Odds": 0.93,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "10-16 01:53",
+  "Person": "sweetcat"
+}

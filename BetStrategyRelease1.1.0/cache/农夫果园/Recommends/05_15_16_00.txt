@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德東北聯",
+  "Time1": "05-16 00:30",
+  "Host": "卡爾斯耶拿",
+  "OddStake": "半/一",
+  "Guest": "柏林聯青年隊",
+  "Prefer": "卡爾斯耶拿",
+  "Odds": 0.81,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "05-15 16:00",
+  "Person": "农夫果园"
+}

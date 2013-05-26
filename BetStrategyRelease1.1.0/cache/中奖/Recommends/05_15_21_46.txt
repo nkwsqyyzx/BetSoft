@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "蘇乙",
+  "Time1": "05-16 02:45",
+  "Host": "艾洛亞",
+  "OddStake": "2.5球",
+  "Guest": "鄧弗姆林",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-15 21:46",
+  "Person": "中奖"
+}

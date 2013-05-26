@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "02-17 23:59",
+  "Host": "華倫西亞",
+  "OddStake": "2.5/3球",
+  "Guest": "馬略卡",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-17 22:15",
+  "Person": "墨斗红云"
+}

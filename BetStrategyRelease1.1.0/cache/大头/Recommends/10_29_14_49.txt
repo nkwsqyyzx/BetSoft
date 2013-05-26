@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "印度甲",
+  "Time1": "10-29 17:00",
+  "Host": "翠鳥東孟加拉足球俱樂部",
+  "OddStake": "半球",
+  "Guest": "浦那",
+  "Prefer": "翠鳥東孟加拉足球俱樂部",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "10-29 14:49",
+  "Person": "大头"
+}

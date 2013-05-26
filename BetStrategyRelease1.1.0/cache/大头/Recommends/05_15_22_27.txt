@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法丁A",
+  "Time1": "05-16 02:00",
+  "Host": "朗斯II隊",
+  "OddStake": "2.5球",
+  "Guest": "奧貝維利爾斯",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-15 22:27",
+  "Person": "大头"
+}

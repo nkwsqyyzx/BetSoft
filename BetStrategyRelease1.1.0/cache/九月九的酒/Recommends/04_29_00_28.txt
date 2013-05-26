@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "以超",
+  "Time1": "04-29 01:15",
+  "Host": "特拉維夫夏普爾",
+  "OddStake": "一球/球半",
+  "Guest": "哈薩隆",
+  "Prefer": "特拉維夫夏普爾",
+  "Odds": 0.95,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-29 00:28",
+  "Person": "九月九的酒"
+}

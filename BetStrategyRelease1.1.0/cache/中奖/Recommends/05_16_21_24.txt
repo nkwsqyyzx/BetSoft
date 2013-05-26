@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-17 02:00",
+  "Host": "奧特格寧蘭",
+  "OddStake": "半球",
+  "Guest": "斯達",
+  "Prefer": "斯達",
+  "Odds": 0.93,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-16 21:24",
+  "Person": "中奖"
+}

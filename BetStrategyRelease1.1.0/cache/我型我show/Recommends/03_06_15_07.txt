@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "03-07 11:15",
+  "Host": "托拉卡",
+  "OddStake": "半/一",
+  "Guest": "巴塞隆拿SC",
+  "Prefer": "巴塞隆拿SC",
+  "Odds": 1.03,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "03-06 15:07",
+  "Person": "我型我show"
+}

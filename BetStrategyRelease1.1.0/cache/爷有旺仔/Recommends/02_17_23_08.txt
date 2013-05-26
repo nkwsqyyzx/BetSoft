@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西乙",
+  "Time1": "02-17 23:59",
+  "Host": "紐文西亞",
+  "OddStake": "半球",
+  "Guest": "薩雷斯",
+  "Prefer": "薩雷斯",
+  "Odds": 0.93,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "02-17 23:08",
+  "Person": "爷有旺仔"
+}

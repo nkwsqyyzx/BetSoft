@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "03-06 06:15",
+  "Host": "紐維爾舊生",
+  "OddStake": "2.5球",
+  "Guest": "智利國家隊",
+  "Prefer": "小球",
+  "Odds": 0.803,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "03-05 18:05",
+  "Person": "我行我素"
+}

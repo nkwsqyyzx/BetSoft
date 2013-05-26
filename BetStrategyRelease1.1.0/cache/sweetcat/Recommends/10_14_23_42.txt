@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西丙1",
+  "Time1": "10-15 00:30",
+  "Host": "馬里諾盧安科",
+  "OddStake": "2.5球",
+  "Guest": "雷加利斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "10-14 23:42",
+  "Person": "sweetcat"
+}

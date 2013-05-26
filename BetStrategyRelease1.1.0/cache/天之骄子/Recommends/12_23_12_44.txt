@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-23 21:30",
+  "Host": "史雲斯",
+  "OddStake": "受半/一",
+  "Guest": "曼聯",
+  "Prefer": "史雲斯",
+  "Odds": 1.09,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-23 12:44",
+  "Person": "天之骄子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法甲",
+  "Time1": "05-27 03:00",
+  "Host": "利爾",
+  "OddStake": "2.5球",
+  "Guest": "聖伊天",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-26 21:03",
+  "Person": "苍穹"
+}

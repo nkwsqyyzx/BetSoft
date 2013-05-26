@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷青聯",
+  "Time1": "04-29 20:00",
+  "Host": "高寧根青年隊",
+  "OddStake": "3.5球",
+  "Guest": "PSV燕豪芬青年隊",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-29 12:56",
+  "Person": "大头"
+}

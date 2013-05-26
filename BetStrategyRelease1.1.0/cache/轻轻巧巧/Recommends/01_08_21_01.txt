@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意盃",
+  "Time1": "01-09 04:00",
+  "Host": "拉素",
+  "OddStake": "半球",
+  "Guest": "卡坦尼亞",
+  "Prefer": "卡坦尼亞",
+  "Odds": 1.02,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "01-08 21:01",
+  "Person": "轻轻巧巧"
+}

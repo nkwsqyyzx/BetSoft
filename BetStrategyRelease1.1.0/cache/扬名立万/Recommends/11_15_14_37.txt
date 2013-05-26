@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英足總盃",
+  "Time1": "11-16 03:45",
+  "Host": "艾青洽",
+  "OddStake": "3球",
+  "Guest": "保頓艾爾賓",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "11-15 14:37",
+  "Person": "扬名立万"
+}

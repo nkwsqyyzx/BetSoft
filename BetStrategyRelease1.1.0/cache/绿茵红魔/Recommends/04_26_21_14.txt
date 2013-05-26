@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "04-27 01:00",
+  "Host": "白蘭恩",
+  "OddStake": "半球",
+  "Guest": "奧特格寧蘭",
+  "Prefer": "白蘭恩",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-26 21:14",
+  "Person": "绿茵红魔"
+}

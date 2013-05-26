@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "澳女聯",
+  "Time1": "12-05 15:00",
+  "Host": "坎培拉聯女足",
+  "OddStake": "平/半",
+  "Guest": "珀斯光榮女足",
+  "Prefer": "坎培拉聯女足",
+  "Odds": 0.97,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "12-05 14:47",
+  "Person": "明明白白"
+}

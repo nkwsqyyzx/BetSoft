@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭乙",
+  "Time1": "05-19 01:00",
+  "Host": "札維斯札",
+  "OddStake": "一球",
+  "Guest": "克雷亞茲",
+  "Prefer": "札維斯札",
+  "Odds": 1.09,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-19 00:29",
+  "Person": "bobo"
+}

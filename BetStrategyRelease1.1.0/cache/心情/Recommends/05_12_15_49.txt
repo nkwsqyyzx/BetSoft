@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "05-12 21:00",
+  "Host": "拉素",
+  "OddStake": "球半",
+  "Guest": "森多利亞",
+  "Prefer": "拉素",
+  "Odds": 0.93,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-12 15:49",
+  "Person": "心情"
+}

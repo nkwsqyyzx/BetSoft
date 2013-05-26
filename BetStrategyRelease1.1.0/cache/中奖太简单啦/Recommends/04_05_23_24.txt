@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德乙",
+  "Time1": "04-05 23:59",
+  "Host": "波鴻",
+  "OddStake": "半球",
+  "Guest": "艾格比治",
+  "Prefer": "波鴻",
+  "Odds": 0.89,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "04-05 23:24",
+  "Person": "中奖太简单啦"
+}

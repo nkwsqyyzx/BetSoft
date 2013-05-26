@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "以超",
+  "Time1": "03-02 23:59",
+  "Host": "哈薩隆",
+  "OddStake": "受平/半",
+  "Guest": "伊若尼奇亞夏普爾",
+  "Prefer": "哈薩隆",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "03-02 23:04",
+  "Person": "夜是彩市圆"
+}

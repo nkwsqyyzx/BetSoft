@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-12 18:00",
+  "Host": "波斯尼亞U17",
+  "OddStake": "2.5球",
+  "Guest": "黑山U17",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "02-12 15:28",
+  "Person": "明明白白"
+}

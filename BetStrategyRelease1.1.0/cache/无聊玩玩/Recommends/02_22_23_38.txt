@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法乙",
+  "Time1": "02-23 03:00",
+  "Host": "卡昂",
+  "OddStake": "半/一",
+  "Guest": "拉華爾",
+  "Prefer": "卡昂",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "02-22 23:38",
+  "Person": "无聊玩玩"
+}

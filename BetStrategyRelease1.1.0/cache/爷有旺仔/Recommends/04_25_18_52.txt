@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "葡U17附",
+  "Time1": "04-25 23:00",
+  "Host": "葡萄牙U20",
+  "OddStake": "半/一",
+  "Guest": "烏茲別克U20",
+  "Prefer": "烏茲別克U20",
+  "Odds": 1.08,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-25 18:52",
+  "Person": "爷有旺仔"
+}

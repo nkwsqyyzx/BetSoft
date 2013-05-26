@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "美職業",
+  "Time1": "10-18 10:00",
+  "Host": "西雅圖音響",
+  "OddStake": "半球",
+  "Guest": "皇家鹽湖城",
+  "Prefer": "皇家鹽湖城",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "10-17 17:53",
+  "Person": "我行我素"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐霸盃",
+  "Time1": "03-15 02:00",
+  "Host": "國際米蘭",
+  "OddStake": "2.5球",
+  "Guest": "托特納姆熱刺",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "03-15 01:03",
+  "Person": "强人"
+}

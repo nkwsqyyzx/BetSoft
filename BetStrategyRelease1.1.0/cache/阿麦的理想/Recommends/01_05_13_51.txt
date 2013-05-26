@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳職聯",
+  "Time1": "01-05 14:30",
+  "Host": "紐卡斯托",
+  "OddStake": "平手",
+  "Guest": "阿德萊得聯",
+  "Prefer": "紐卡斯托",
+  "Odds": 0.94,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "01-05 13:51",
+  "Person": "阿麦的理想"
+}

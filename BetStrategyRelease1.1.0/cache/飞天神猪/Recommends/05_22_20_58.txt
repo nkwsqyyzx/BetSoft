@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "埃及甲",
+  "Time1": "05-22 21:30",
+  "Host": "高納",
+  "OddStake": "2球",
+  "Guest": "哈伊赫多",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-22 20:58",
+  "Person": "飞天神猪"
+}

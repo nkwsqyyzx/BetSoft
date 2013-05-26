@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐洲預選",
+  "Time1": "03-23 03:30",
+  "Host": "摩爾多瓦",
+  "OddStake": "受半/一",
+  "Guest": "黑山",
+  "Prefer": "黑山",
+  "Odds": 0.81,
+  "Result": "0-1",
+  "PreferResult": 4,
+  "Time2": "03-22 23:54",
+  "Person": "无聊玩玩"
+}

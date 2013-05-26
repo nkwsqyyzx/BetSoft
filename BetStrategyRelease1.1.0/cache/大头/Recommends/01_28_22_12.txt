@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德西聯",
+  "Time1": "01-29 03:15",
+  "Host": "羅塔",
+  "OddStake": "2.5球",
+  "Guest": "科隆福圖納",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "01-28 22:12",
+  "Person": "大头"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德北聯",
+  "Time1": "05-16 01:00",
+  "Host": "維切",
+  "OddStake": "2.5/3球",
+  "Guest": "雲達不萊梅青年隊",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "3-5",
+  "PreferResult": 5,
+  "Time2": "05-15 12:04",
+  "Person": "身不由己"
+}

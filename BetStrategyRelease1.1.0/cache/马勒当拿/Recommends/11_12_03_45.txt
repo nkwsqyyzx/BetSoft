@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "玻利甲",
+  "Time1": "11-12 04:00",
+  "Host": "佩特萊羅",
+  "OddStake": "2.5球",
+  "Guest": "瑟克雷",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "11-12 03:45",
+  "Person": "马勒当拿"
+}

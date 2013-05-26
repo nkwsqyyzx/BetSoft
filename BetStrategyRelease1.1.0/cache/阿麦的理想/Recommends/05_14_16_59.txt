@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-14 19:00",
+  "Host": "布襦姆聯",
+  "OddStake": "受平/半",
+  "Guest": "賓約哥",
+  "Prefer": "布襦姆聯",
+  "Odds": 0.81,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-14 16:59",
+  "Person": "阿麦的理想"
+}

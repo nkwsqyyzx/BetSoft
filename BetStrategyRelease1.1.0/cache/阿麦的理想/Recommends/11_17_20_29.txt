@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西甲",
+  "Time1": "11-18 05:00",
+  "Host": "皇家馬德里",
+  "OddStake": "3.5/4球",
+  "Guest": "畢爾巴鄂競技",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "11-17 20:29",
+  "Person": "阿麦的理想"
+}

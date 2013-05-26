@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-30 23:59",
+  "Host": "沙巴罕",
+  "OddStake": "3球",
+  "Guest": "阿爾葛拉法",
+  "Prefer": "大球",
+  "Odds": 0.99,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-30 23:17",
+  "Person": "中奖太简单啦"
+}

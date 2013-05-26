@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "波蘭甲",
+  "Time1": "05-11 02:45",
+  "Host": "萊克",
+  "OddStake": "2.5球",
+  "Guest": "維澤夫洛茲",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "05-10 21:07",
+  "Person": "轻轻巧巧"
+}

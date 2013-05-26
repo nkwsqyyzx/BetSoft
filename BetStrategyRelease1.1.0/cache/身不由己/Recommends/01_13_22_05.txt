@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英甲",
+  "Time1": "01-13 23:00",
+  "Host": "卡素爾",
+  "OddStake": "2.5/3球",
+  "Guest": "高雲地利",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-13 22:05",
+  "Person": "身不由己"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "斯亞甲",
+  "Time1": "05-14 23:00",
+  "Host": "肖結",
+  "OddStake": "受半球",
+  "Guest": "奧林比查",
+  "Prefer": "肖結",
+  "Odds": 0.9,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "05-14 17:34",
+  "Person": "积木"
+}

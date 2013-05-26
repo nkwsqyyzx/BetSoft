@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "羅甲",
+  "Time1": "05-25 02:30",
+  "Host": "布格勒斯特戴拿模",
+  "OddStake": "2.5球",
+  "Guest": "維托魯康斯坦薩",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "05-25 00:45",
+  "Person": "扬名立万"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法聯盃",
+  "Time1": "10-31 03:00",
+  "Host": "雷恩",
+  "OddStake": "2.5球",
+  "Guest": "阿萊斯亞維農",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "10-30 22:30",
+  "Person": "章鱼帝"
+}

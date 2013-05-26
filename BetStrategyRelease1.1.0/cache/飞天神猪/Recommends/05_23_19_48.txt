@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "荷乙",
+  "Time1": "05-24 00:45",
+  "Host": "阿高斯",
+  "OddStake": "3球",
+  "Guest": "華倫丹",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "3-0",
+  "PreferResult": 3,
+  "Time2": "05-23 19:48",
+  "Person": "飞天神猪"
+}

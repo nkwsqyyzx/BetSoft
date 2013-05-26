@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "丹麥甲",
+  "Time1": "05-20 20:00",
+  "Host": "AB哥本哈根",
+  "OddStake": "2.5球",
+  "Guest": "寧比",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "4-2",
+  "PreferResult": 5,
+  "Time2": "05-20 19:18",
+  "Person": "身不由己"
+}

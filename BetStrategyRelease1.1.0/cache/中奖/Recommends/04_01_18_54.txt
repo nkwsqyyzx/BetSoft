@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英乙",
+  "Time1": "04-01 20:00",
+  "Host": "修安聯",
+  "OddStake": "2.5球",
+  "Guest": "富力特城",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-01 18:54",
+  "Person": "中奖"
+}

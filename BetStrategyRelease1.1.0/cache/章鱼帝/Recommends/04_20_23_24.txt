@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "阿乙",
+  "Time1": "04-21 01:00",
+  "Host": "門多薩獨立",
+  "OddStake": "平手",
+  "Guest": "薩爾米安杜竹寧",
+  "Prefer": "門多薩獨立",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-20 23:24",
+  "Person": "章鱼帝"
+}

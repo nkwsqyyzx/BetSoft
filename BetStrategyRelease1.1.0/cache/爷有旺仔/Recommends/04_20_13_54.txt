@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳西聯",
+  "Time1": "04-20 15:00",
+  "Host": "佩爾斯",
+  "OddStake": "平/半",
+  "Guest": "科克本市",
+  "Prefer": "科克本市",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-20 13:54",
+  "Person": "爷有旺仔"
+}

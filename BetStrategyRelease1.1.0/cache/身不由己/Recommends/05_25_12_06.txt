@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "韓國K",
+  "Time1": "05-25 15:00",
+  "Host": "大田市民",
+  "OddStake": "2.5球",
+  "Guest": "城南一和天馬",
+  "Prefer": "大球",
+  "Odds": 1.017,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "05-25 12:06",
+  "Person": "身不由己"
+}

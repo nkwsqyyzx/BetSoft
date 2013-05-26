@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "南美預選",
+  "Time1": "10-17 06:00",
+  "Host": "巴拉圭",
+  "OddStake": "半球",
+  "Guest": "秘魯",
+  "Prefer": "秘魯",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "10-16 21:52",
+  "Person": "专搞下盘"
+}

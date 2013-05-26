@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英甲",
+  "Time1": "10-17 02:45",
+  "Host": "奧連特",
+  "OddStake": "半球",
+  "Guest": "哈特爾浦",
+  "Prefer": "哈特爾浦",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "10-17 02:06",
+  "Person": "sweetcat"
+}

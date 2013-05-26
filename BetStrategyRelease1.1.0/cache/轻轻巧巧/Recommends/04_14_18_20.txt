@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "04-14 19:30",
+  "Host": "科隆",
+  "OddStake": "2.5球",
+  "Guest": "VFR亞倫",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-14 18:20",
+  "Person": "轻轻巧巧"
+}

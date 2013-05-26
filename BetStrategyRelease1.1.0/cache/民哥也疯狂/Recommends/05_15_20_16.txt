@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "歐霸盃",
+  "Time1": "05-16 02:45",
+  "Host": "賓菲加(中)",
+  "OddStake": "2/2.5球",
+  "Guest": "切爾西",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-15 20:16",
+  "Person": "民哥也疯狂"
+}

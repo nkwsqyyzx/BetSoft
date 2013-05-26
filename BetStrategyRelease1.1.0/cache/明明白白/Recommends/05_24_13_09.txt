@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "韓聯盟",
+  "Time1": "05-24 18:00",
+  "Host": "木浦市",
+  "OddStake": "2.5球",
+  "Guest": "蔚山造船",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-24 13:09",
+  "Person": "明明白白"
+}

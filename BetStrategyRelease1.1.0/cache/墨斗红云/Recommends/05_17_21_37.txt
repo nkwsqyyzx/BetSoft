@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "白俄超",
+  "Time1": "05-17 23:30",
+  "Host": "明斯克戴拿模",
+  "OddStake": "球半",
+  "Guest": "斯拉維亞莫茲里",
+  "Prefer": "明斯克戴拿模",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-17 21:37",
+  "Person": "墨斗红云"
+}

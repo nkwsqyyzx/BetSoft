@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英非南",
+  "Time1": "01-30 03:45",
+  "Host": "貝斯城",
+  "OddStake": "受半球",
+  "Guest": "威林聯",
+  "Prefer": "威林聯",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-29 21:00",
+  "Person": "轻轻巧巧"
+}

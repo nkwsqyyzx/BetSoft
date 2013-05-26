@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "瑞士甲",
+  "Time1": "04-09 01:45",
+  "Host": "貝林佐納",
+  "OddStake": "半/一",
+  "Guest": "盧加諾",
+  "Prefer": "貝林佐納",
+  "Odds": 0.81,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "04-08 21:27",
+  "Person": "我行我素"
+}

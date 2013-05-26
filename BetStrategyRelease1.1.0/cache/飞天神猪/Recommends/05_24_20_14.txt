@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "羅乙1",
+  "Time1": "05-24 21:00",
+  "Host": "布夫泰亞",
+  "OddStake": "2.5/3球",
+  "Guest": "辛迪亞泰哥維斯特",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "05-24 20:14",
+  "Person": "飞天神猪"
+}

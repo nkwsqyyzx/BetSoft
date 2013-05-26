@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "哥倫甲",
+  "Time1": "12-07 09:30",
+  "Host": "曼特寧獨立",
+  "OddStake": "受平/半",
+  "Guest": "國家體育會",
+  "Prefer": "曼特寧獨立",
+  "Odds": 1.04,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-07 03:56",
+  "Person": "我行我素"
+}

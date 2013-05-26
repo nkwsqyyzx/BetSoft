@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "印尼甲",
+  "Time1": "05-07 16:30",
+  "Host": "永亞卡達",
+  "OddStake": "2.5球",
+  "Guest": "PS莫佐克多普特拉",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-07 15:41",
+  "Person": "明明白白"
+}

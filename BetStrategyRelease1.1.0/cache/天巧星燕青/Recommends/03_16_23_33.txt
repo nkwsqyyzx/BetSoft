@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "哥倫乙",
+  "Time1": "03-17 08:00",
+  "Host": "利奧尼格羅",
+  "OddStake": "2.5球",
+  "Guest": "福塔雷扎FC",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "03-16 23:33",
+  "Person": "天巧星燕青"
+}
