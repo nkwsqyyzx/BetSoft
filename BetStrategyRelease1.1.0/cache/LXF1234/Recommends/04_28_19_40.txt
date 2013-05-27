@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法甲",
+  "Time1": "04-28 20:00",
+  "Host": "里昂",
+  "OddStake": "平手",
+  "Guest": "聖伊天",
+  "Prefer": "里昂",
+  "Odds": 0.81,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "04-28 19:40",
+  "Person": "LXF1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-23 23:30",
+  "Host": "阿爾葛拉法",
+  "OddStake": "平手",
+  "Guest": "阿爾艾利吉達",
+  "Prefer": "阿爾葛拉法",
+  "Odds": 0.93,
+  "Result": "2-2",
+  "PreferResult": 3,
+  "Time2": "04-23 22:31",
+  "Person": "顺水顺风"
+}

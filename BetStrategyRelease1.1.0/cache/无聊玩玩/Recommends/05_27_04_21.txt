@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美職業",
+  "Time1": "05-27 05:00",
+  "Host": "紐約紅牛",
+  "OddStake": "半/一",
+  "Guest": "哥倫布機員",
+  "Prefer": "紐約紅牛",
+  "Odds": 0.99,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 04:21",
+  "Person": "无聊玩玩"
+}

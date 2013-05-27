@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "日聯盃",
+  "Time1": "03-20 15:00",
+  "Host": "名古屋鯨魚",
+  "OddStake": "平/半",
+  "Guest": "大阪櫻花",
+  "Prefer": "大阪櫻花",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "03-20 14:41",
+  "Person": "空山新雨"
+}

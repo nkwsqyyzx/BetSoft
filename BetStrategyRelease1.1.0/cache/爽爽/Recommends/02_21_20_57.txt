@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-22 04:05",
+  "Host": "利物浦",
+  "OddStake": "一球",
+  "Guest": "聖彼德斯堡澤尼特",
+  "Prefer": "聖彼德斯堡澤尼特",
+  "Odds": 0.94,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "02-21 20:57",
+  "Person": "爽爽"
+}

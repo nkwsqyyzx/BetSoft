@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意丙B",
+  "Time1": "01-08 03:45",
+  "Host": "拉蒂納",
+  "OddStake": "平/半",
+  "Guest": "比薩",
+  "Prefer": "比薩",
+  "Odds": 0.98,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-07 22:54",
+  "Person": "Lk930"
+}

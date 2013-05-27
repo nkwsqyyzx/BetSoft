@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇超",
+  "Time1": "01-02 23:00",
+  "Host": "阿伯丁",
+  "OddStake": "平/半",
+  "Guest": "登地聯",
+  "Prefer": "登地聯",
+  "Odds": 0.93,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "01-02 22:38",
+  "Person": "lxf1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "俄甲",
+  "Time1": "04-09 16:00",
+  "Host": "SKA安拿吉耶",
+  "OddStake": "2.5球",
+  "Guest": "沙由別爾哥羅德",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "04-09 15:08",
+  "Person": "希望之星"
+}

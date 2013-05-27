@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "巴拉甲春",
+  "Time1": "11-11 05:30",
+  "Host": "塔庫里",
+  "OddStake": "2.5球",
+  "Guest": "波特諾切洛PF",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "11-10 23:32",
+  "Person": "无极旋风"
+}

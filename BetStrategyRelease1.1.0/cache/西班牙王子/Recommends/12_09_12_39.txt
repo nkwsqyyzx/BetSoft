@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "智利春",
+  "Time1": "12-10 05:00",
+  "Host": "華奇巴托",
+  "OddStake": "平/半",
+  "Guest": "艾斯潘諾拉",
+  "Prefer": "艾斯潘諾拉",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "12-09 12:39",
+  "Person": "西班牙王子"
+}

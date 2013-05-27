@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "匈甲",
+  "Time1": "03-01 23:59",
+  "Host": "佩奇",
+  "OddStake": "受平/半",
+  "Guest": "MTK匈格利亞",
+  "Prefer": "佩奇",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "03-01 15:13",
+  "Person": "空山新雨"
+}

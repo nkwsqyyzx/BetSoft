@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "沙地甲",
+  "Time1": "03-20 20:45",
+  "Host": "那達赫達曼",
+  "OddStake": "半球",
+  "Guest": "亞哈",
+  "Prefer": "亞哈",
+  "Odds": 0.84,
+  "Result": "5-0",
+  "PreferResult": 1,
+  "Time2": "03-20 19:45",
+  "Person": "小李飞刀"
+}

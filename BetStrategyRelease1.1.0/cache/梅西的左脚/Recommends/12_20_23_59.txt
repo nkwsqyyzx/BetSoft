@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷蘭盃",
+  "Time1": "12-21 03:00",
+  "Host": "高寧根",
+  "OddStake": "受一球",
+  "Guest": "阿積士",
+  "Prefer": "高寧根",
+  "Odds": 1.03,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "12-20 23:59",
+  "Person": "梅西的左脚"
+}

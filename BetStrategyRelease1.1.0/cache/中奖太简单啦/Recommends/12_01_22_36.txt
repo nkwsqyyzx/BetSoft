@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "12-01 23:00",
+  "Host": "富勒姆",
+  "OddStake": "2.5/3球",
+  "Guest": "托特納姆熱刺",
+  "Prefer": "大球",
+  "Odds": 1.02,
+  "Result": "0-3",
+  "PreferResult": 4,
+  "Time2": "12-01 22:36",
+  "Person": "中奖太简单啦"
+}

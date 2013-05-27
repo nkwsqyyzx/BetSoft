@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-17 23:30",
+  "Host": "洪卡",
+  "OddStake": "半球",
+  "Guest": "韋斯屈萊",
+  "Prefer": "洪卡",
+  "Odds": 0.97,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "05-17 19:19",
+  "Person": "zxy60120"
+}

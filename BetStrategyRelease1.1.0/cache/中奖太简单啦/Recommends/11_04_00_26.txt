@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西甲",
+  "Time1": "11-04 01:00",
+  "Host": "巴塞羅那",
+  "OddStake": "两球半/三球",
+  "Guest": "切爾達",
+  "Prefer": "巴塞羅那",
+  "Odds": 1.0,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "11-04 00:26",
+  "Person": "中奖太简单啦"
+}

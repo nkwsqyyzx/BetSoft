@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "北愛超",
+  "Time1": "01-08 03:45",
+  "Host": "克理東維拉",
+  "OddStake": "3球",
+  "Guest": "格倫杜蘭",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "01-07 18:03",
+  "Person": "杀手47"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "伊朗超",
+  "Time1": "12-25 19:30",
+  "Host": "邁斯科曼",
+  "OddStake": "2/2.5球",
+  "Guest": "沙巴罕",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-25 18:17",
+  "Person": "红红火火"
+}

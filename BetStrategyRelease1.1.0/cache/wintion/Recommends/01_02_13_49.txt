@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇乙",
+  "Time1": "01-02 23:00",
+  "Host": "艾比安流浪",
+  "OddStake": "3球",
+  "Guest": "斯青威爾",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "01-02 13:49",
+  "Person": "wintion"
+}

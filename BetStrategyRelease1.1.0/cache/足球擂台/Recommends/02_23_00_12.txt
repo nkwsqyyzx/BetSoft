@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德乙",
+  "Time1": "02-23 01:00",
+  "Host": "艾格比治",
+  "OddStake": "平/半",
+  "Guest": "VFR亞倫",
+  "Prefer": "VFR亞倫",
+  "Odds": 0.81,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "02-23 00:12",
+  "Person": "足球擂台"
+}

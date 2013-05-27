@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英冠",
+  "Time1": "12-29 23:00",
+  "Host": "布里斯托城",
+  "OddStake": "平/半",
+  "Guest": "彼德堡",
+  "Prefer": "彼德堡",
+  "Odds": 0.83,
+  "Result": "4-2",
+  "PreferResult": 1,
+  "Time2": "12-29 22:10",
+  "Person": "空山新雨"
+}

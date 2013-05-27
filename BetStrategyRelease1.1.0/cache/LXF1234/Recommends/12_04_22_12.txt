@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英錦賽",
+  "Time1": "12-05 03:15",
+  "Host": "維爾港",
+  "OddStake": "半球",
+  "Guest": "巴拉福特",
+  "Prefer": "巴拉福特",
+  "Odds": 0.87,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "12-04 22:12",
+  "Person": "lxf1234"
+}

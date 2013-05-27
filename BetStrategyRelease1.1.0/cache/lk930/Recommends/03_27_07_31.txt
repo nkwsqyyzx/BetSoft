@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "南美預選",
+  "Time1": "03-27 08:00",
+  "Host": "委內瑞拉",
+  "OddStake": "受半球",
+  "Guest": "哥倫比亞",
+  "Prefer": "哥倫比亞",
+  "Odds": 1.02,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-27 07:31",
+  "Person": "lk930"
+}

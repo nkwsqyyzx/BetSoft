@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英非聯",
+  "Time1": "12-26 21:00",
+  "Host": "林肯城",
+  "OddStake": "2.5球",
+  "Guest": "甘士比",
+  "Prefer": "小球",
+  "Odds": 0.97,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "12-26 18:06",
+  "Person": "红红火火"
+}

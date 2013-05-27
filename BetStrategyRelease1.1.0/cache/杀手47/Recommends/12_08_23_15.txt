@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意甲",
+  "Time1": "12-09 01:00",
+  "Host": "阿特蘭大",
+  "OddStake": "平/半",
+  "Guest": "帕爾馬",
+  "Prefer": "阿特蘭大",
+  "Odds": 1.0,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "12-08 23:15",
+  "Person": "杀手47"
+}

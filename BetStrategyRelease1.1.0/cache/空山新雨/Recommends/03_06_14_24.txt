@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德南聯",
+  "Time1": "03-06 21:00",
+  "Host": "凱沙羅頓青年隊",
+  "OddStake": "平/半",
+  "Guest": "曼海姆",
+  "Prefer": "曼海姆",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-06 14:24",
+  "Person": "空山新雨"
+}

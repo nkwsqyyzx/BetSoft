@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "03-07 19:00",
+  "Host": "葡萄牙U18",
+  "OddStake": "2.5/3球",
+  "Guest": "土耳其U18",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-07 16:53",
+  "Person": "云里金刚虎"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "05-09 02:45",
+  "Host": "錫耶納",
+  "OddStake": "受半/一",
+  "Guest": "費倫天拿",
+  "Prefer": "錫耶納",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 2,
+  "Time2": "05-08 21:31",
+  "Person": "金牌出击"
+}

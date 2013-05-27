@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "哥斯甲",
+  "Time1": "01-24 10:00",
+  "Host": "沙普利薩",
+  "OddStake": "2.5球",
+  "Guest": "貝倫新羅XXI",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-24 04:43",
+  "Person": "jack"
+}

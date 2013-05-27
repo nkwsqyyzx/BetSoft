@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英冠",
+  "Time1": "04-01 22:00",
+  "Host": "般尼",
+  "OddStake": "平/半",
+  "Guest": "諾定咸森林",
+  "Prefer": "諾定咸森林",
+  "Odds": 0.89,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-01 21:06",
+  "Person": "金牌出击"
+}

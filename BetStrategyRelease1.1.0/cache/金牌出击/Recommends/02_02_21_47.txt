@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英非北",
+  "Time1": "02-02 23:00",
+  "Host": "布拉德福德派克大街",
+  "OddStake": "受平/半",
+  "Guest": "索利哈爾",
+  "Prefer": "索利哈爾",
+  "Odds": 1.26,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-02 21:47",
+  "Person": "金牌出击"
+}

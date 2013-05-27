@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "丹麥甲",
+  "Time1": "04-07 21:00",
+  "Host": "維積利科爾丁",
+  "OddStake": "2.5球",
+  "Guest": "斯基夫",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-07 20:32",
+  "Person": "红红火火"
+}

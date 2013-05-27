@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "俄甲",
+  "Time1": "10-22 22:00",
+  "Host": "烏法",
+  "OddStake": "2/2.5球",
+  "Guest": "SKA安拿吉耶",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "10-22 16:59",
+  "Person": "龙缘"
+}

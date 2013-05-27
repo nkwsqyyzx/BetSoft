@@ -7,8 +7,8 @@
   "Guest": "哥杜巴B隊",
   "Prefer": "哥杜巴B隊",
   "Odds": 0.8,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "0-0",
+  "PreferResult": 5,
   "Time2": "05-26 22:30",
   "Person": "10分钟到账"
 }

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐洲預選",
+  "Time1": "10-17 03:00",
+  "Host": "波蘭",
+  "OddStake": "受半球",
+  "Guest": "英格蘭",
+  "Prefer": "波蘭",
+  "Odds": 0.83,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "10-17 00:59",
+  "Person": "余韵犹在"
+}

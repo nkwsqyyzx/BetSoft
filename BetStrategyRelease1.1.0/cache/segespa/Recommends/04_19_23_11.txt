@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "波蘭甲",
+  "Time1": "04-19 23:59",
+  "Host": "維澤夫洛茲",
+  "OddStake": "平/半",
+  "Guest": "派雅斯特",
+  "Prefer": "派雅斯特",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-19 23:11",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德甲",
+  "Time1": "05-11 21:30",
+  "Host": "雲達不萊梅",
+  "OddStake": "平/半",
+  "Guest": "法蘭克福",
+  "Prefer": "雲達不萊梅",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "05-11 20:30",
+  "Person": "弹弓六"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "02-13 03:45",
+  "Host": "米德爾斯堡",
+  "OddStake": "平/半",
+  "Guest": "列斯聯",
+  "Prefer": "米德爾斯堡",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-12 22:02",
+  "Person": "金牌出击"
+}

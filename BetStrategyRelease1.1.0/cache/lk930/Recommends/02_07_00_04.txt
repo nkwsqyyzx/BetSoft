@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "02-07 01:30",
+  "Host": "意大利U21",
+  "OddStake": "平手",
+  "Guest": "德國U21",
+  "Prefer": "意大利U21",
+  "Odds": 1.08,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-07 00:04",
+  "Person": "Lk930"
+}

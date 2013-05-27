@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "以超",
+  "Time1": "01-26 23:59",
+  "Host": "伊若尼奇亞夏普爾",
+  "OddStake": "2/2.5球",
+  "Guest": "阿舒多",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-26 21:22",
+  "Person": "云里金刚虎"
+}

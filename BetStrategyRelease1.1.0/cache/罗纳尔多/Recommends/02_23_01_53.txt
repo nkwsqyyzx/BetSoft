@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法乙",
+  "Time1": "02-23 03:00",
+  "Host": "奈梅斯",
+  "OddStake": "半球",
+  "Guest": "伊斯特",
+  "Prefer": "奈梅斯",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-23 01:53",
+  "Person": "罗纳尔多"
+}

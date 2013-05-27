@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "卡塔爾聯",
+  "Time1": "12-21 21:00",
+  "Host": "庫拉提爾特",
+  "OddStake": "2.5球",
+  "Guest": "科赫",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "12-21 20:33",
+  "Person": "小球下盘"
+}

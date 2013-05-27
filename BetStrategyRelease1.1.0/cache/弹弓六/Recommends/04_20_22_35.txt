@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-20 23:59",
+  "Host": "皇家馬德里",
+  "OddStake": "球半/两球",
+  "Guest": "皇家貝迪斯",
+  "Prefer": "皇家貝迪斯",
+  "Odds": 0.97,
+  "Result": "3-1",
+  "PreferResult": 2,
+  "Time2": "04-20 22:35",
+  "Person": "弹弓六"
+}

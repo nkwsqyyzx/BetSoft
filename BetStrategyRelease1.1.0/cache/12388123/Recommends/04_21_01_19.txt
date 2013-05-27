@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "",
+  "Time1": "04-21 04:15",
+  "Host": "托利馬",
+  "OddStake": "2.5/3球",
+  "Guest": "奎迪奧",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-21 01:19",
+  "Person": "12388123"
+}

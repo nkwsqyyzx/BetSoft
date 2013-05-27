@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "女歐協盃",
+  "Time1": "11-08 02:00",
+  "Host": "科帕堡格斯女足",
+  "OddStake": "3球",
+  "Guest": "約靈女足",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "11-08 01:02",
+  "Person": "余韵犹在"
+}

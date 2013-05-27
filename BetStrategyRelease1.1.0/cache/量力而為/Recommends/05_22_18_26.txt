@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-22 20:00",
+  "Host": "廣州恆大",
+  "OddStake": "一球/球半",
+  "Guest": "中央海岸",
+  "Prefer": "廣州恆大",
+  "Odds": 1.05,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-22 18:26",
+  "Person": "量力而為"
+}

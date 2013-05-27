@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法國盃",
+  "Time1": "01-05 22:00",
+  "Host": "利文斯",
+  "OddStake": "2.5球",
+  "Guest": "拉波爾",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "01-05 19:33",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿聯盃",
+  "Time1": "01-03 20:55",
+  "Host": "瓦斯爾",
+  "OddStake": "球半/两球",
+  "Guest": "伊蒂哈德卡爾巴",
+  "Prefer": "瓦斯爾",
+  "Odds": 1.09,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-03 19:45",
+  "Person": "空山新雨"
+}

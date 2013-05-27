@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西甲",
+  "Time1": "11-04 23:00",
+  "Host": "拉科魯尼亞",
+  "OddStake": "2.5球",
+  "Guest": "馬略卡",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-04 22:26",
+  "Person": "中奖"
+}

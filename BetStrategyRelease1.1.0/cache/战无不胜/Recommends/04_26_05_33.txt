@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "绉橈拷鏄?yanse=DB1000",
+  "Time1": "04-26 07:00",
+  "Host": "锟絵鑽疯タ鍔狅拷锟斤拷f鏂?k=甯曟柉鑿茬鍒╋拷R",
+  "OddStake": "平/半",
+  "Guest": "",
+  "Prefer": "锟絵鑽疯タ鍔狅拷锟斤拷f鏂?k=甯曟柉鑿茬鍒╋拷R",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-26 05:33",
+  "Person": "战无不胜"
+}

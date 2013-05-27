@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "韓國K",
+  "Time1": "11-29 18:00",
+  "Host": "濟州聯隊",
+  "OddStake": "2.5球",
+  "Guest": "水原三星",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-29 16:09",
+  "Person": "1300100915"
+}

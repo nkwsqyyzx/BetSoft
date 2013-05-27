@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "亞挑盃",
+  "Time1": "03-04 17:00",
+  "Host": "蒙古(中)",
+  "OddStake": "受平/半",
+  "Guest": "阿富汗",
+  "Prefer": "蒙古(中)",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "03-04 15:58",
+  "Person": "qqzy"
+}

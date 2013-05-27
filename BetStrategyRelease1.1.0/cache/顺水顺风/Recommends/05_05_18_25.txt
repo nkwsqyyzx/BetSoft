@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "05-05 19:30",
+  "Host": "慕尼黑1860",
+  "OddStake": "平/半",
+  "Guest": "柏林聯",
+  "Prefer": "慕尼黑1860",
+  "Odds": 0.81,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-05 18:25",
+  "Person": "顺水顺风"
+}

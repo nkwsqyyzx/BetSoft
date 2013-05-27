@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "奧甲",
+  "Time1": "05-23 02:30",
+  "Host": "奧地利維也納",
+  "OddStake": "球半",
+  "Guest": "馬特斯堡",
+  "Prefer": "奧地利維也納",
+  "Odds": 0.87,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "05-22 22:01",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-30 20:00",
+  "Host": "伊拉克",
+  "OddStake": "受平/半",
+  "Guest": "突尼西亞",
+  "Prefer": "伊拉克",
+  "Odds": 1.01,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "12-30 18:06",
+  "Person": "西班牙王子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "马来超",
+  "Time1": "03-05 16:45",
+  "Host": "瓜拉丁加奴足球俱樂部",
+  "OddStake": "受平/半",
+  "Guest": "雪蘭莪",
+  "Prefer": "瓜拉丁加奴足球俱樂部",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "03-05 15:03",
+  "Person": "空山新雨"
+}

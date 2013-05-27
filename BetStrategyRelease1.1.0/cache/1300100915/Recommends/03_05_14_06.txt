@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "03-06 03:45",
+  "Host": "曼聯",
+  "OddStake": "3球",
+  "Guest": "皇家馬德里",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "1-2",
+  "PreferResult": 3,
+  "Time2": "03-05 14:06",
+  "Person": "1300100915"
+}

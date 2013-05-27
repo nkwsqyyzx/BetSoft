@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "泰超",
+  "Time1": "05-16 20:00",
+  "Host": "特羅薩薩納",
+  "OddStake": "受平/半",
+  "Guest": "布襦姆聯",
+  "Prefer": "布襦姆聯",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "05-16 18:55",
+  "Person": "顺水顺风"
+}

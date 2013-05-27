@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德國盃",
+  "Time1": "04-18 02:30",
+  "Host": "斯圖加特",
+  "OddStake": "平/半",
+  "Guest": "費雷堡",
+  "Prefer": "費雷堡",
+  "Odds": 0.81,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-17 20:22",
+  "Person": "顺水顺风"
+}

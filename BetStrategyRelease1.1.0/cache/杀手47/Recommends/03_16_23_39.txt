@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "西乙",
+  "Time1": "03-17 01:00",
+  "Host": "拉斯彭馬斯",
+  "OddStake": "3球",
+  "Guest": "皇家馬德里卡斯蒂亞",
+  "Prefer": "大球",
+  "Odds": 0.81,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "03-16 23:39",
+  "Person": "杀手47"
+}

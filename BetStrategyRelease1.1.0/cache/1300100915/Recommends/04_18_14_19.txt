@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "羅盃",
+  "Time1": "04-19 01:30",
+  "Host": "加拉迪",
+  "OddStake": "平手",
+  "Guest": "佩特羅魯",
+  "Prefer": "佩特羅魯",
+  "Odds": 0.88,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "04-18 14:19",
+  "Person": "1300100915"
+}

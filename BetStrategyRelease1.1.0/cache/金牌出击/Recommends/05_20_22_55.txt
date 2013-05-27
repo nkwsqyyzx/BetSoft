@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-21 01:00",
+  "Host": "特羅素",
+  "OddStake": "一球",
+  "Guest": "白蘭恩",
+  "Prefer": "白蘭恩",
+  "Odds": 1.02,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-20 22:55",
+  "Person": "金牌出击"
+}

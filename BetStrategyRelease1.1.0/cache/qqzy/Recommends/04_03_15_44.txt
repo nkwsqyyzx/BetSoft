@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "04-04 02:45",
+  "Host": "馬拉加",
+  "OddStake": "受平/半",
+  "Guest": "多特蒙德",
+  "Prefer": "馬拉加",
+  "Odds": 1.03,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "04-03 15:44",
+  "Person": "qqzy"
+}

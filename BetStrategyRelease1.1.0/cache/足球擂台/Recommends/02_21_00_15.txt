@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "委内超秋",
+  "Time1": "02-21 07:30",
+  "Host": "佩塔雷體育會",
+  "OddStake": "2/2.5球",
+  "Guest": "拉尼羅斯瓜納雷",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "02-21 00:15",
+  "Person": "足球擂台"
+}

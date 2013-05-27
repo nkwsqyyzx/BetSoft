@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "墨西聯",
+  "Time1": "05-17 10:00",
+  "Host": "聖多斯",
+  "OddStake": "平/半",
+  "Guest": "阿蘇爾",
+  "Prefer": "聖多斯",
+  "Odds": 1.1,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "05-17 01:14",
+  "Person": "云里金刚虎"
+}

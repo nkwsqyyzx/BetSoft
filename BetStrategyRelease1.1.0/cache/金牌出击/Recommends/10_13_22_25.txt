@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "葡聯盃",
+  "Time1": "10-13 23:00",
+  "Host": "基維辛迪",
+  "OddStake": "2/2.5球",
+  "Guest": "拿華爾",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "10-13 22:25",
+  "Person": "金牌出击"
+}

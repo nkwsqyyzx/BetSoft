@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英挑盃",
+  "Time1": "11-28 03:45",
+  "Host": "牛津城",
+  "OddStake": "半/一",
+  "Guest": "比夏史托福",
+  "Prefer": "牛津城",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-27 20:55",
+  "Person": "qqzy"
+}

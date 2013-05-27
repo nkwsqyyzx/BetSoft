@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "俄甲",
+  "Time1": "10-15 16:00",
+  "Host": "SKA安拿吉耶",
+  "OddStake": "2/2.5球",
+  "Guest": "巴提卡",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "10-15 15:17",
+  "Person": "qqzy"
+}

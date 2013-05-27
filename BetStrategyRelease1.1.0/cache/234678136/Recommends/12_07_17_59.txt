@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土超",
+  "Time1": "12-08 06:15",
+  "Host": "男孩競技",
+  "OddStake": "平手",
+  "Guest": "沙蘭迪兵工廠",
+  "Prefer": "沙蘭迪兵工廠",
+  "Odds": 1.02,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-07 17:59",
+  "Person": "234678136"
+}

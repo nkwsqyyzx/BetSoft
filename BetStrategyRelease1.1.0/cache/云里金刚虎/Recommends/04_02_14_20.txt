@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "自由盃",
+  "Time1": "04-03 10:45",
+  "Host": "尹美利克",
+  "OddStake": "2/2.5球",
+  "Guest": "佩納羅爾",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "04-02 14:20",
+  "Person": "云里金刚虎"
+}

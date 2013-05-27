@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英非聯",
+  "Time1": "01-13 21:00",
+  "Host": "禾京",
+  "OddStake": "半球",
+  "Guest": "艾貝斯費特聯",
+  "Prefer": "艾貝斯費特聯",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-13 19:36",
+  "Person": "jack"
+}

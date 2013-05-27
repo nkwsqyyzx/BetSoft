@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-05 21:30",
+  "Host": "飛燕諾",
+  "OddStake": "3.5球",
+  "Guest": "艾古艾皮敦",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-05 19:04",
+  "Person": "234678136"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "阿乙",
+  "Time1": "11-27 04:00",
+  "Host": "阿爾米蘭提布朗",
+  "OddStake": "2/2.5球",
+  "Guest": "新芝加哥",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "11-26 15:37",
+  "Person": "qqzy"
+}

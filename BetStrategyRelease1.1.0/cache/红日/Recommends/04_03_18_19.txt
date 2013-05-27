@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "04-03 18:30",
+  "Host": "水原三星",
+  "OddStake": "2/2.5球",
+  "Guest": "柏雷素爾",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "2-6",
+  "PreferResult": 1,
+  "Time2": "04-03 18:19",
+  "Person": "红日"
+}

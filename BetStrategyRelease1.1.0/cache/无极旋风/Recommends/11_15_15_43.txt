@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "伊朗甲",
+  "Time1": "11-15 19:30",
+  "Host": "拿芙馬塞索利曼",
+  "OddStake": "2/2.5球",
+  "Guest": "沙敘密",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-15 15:43",
+  "Person": "无极旋风"
+}

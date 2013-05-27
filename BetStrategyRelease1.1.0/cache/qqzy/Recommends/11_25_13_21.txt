@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "韓國K",
+  "Time1": "11-25 14:00",
+  "Host": "水原三星",
+  "OddStake": "半/一",
+  "Guest": "釜山偶像",
+  "Prefer": "水原三星",
+  "Odds": 0.92,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "11-25 13:21",
+  "Person": "qqzy"
+}

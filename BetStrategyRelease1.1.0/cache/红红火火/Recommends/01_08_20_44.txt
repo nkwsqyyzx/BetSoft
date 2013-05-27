@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-08 22:00",
+  "Host": "瑟特福(中)",
+  "OddStake": "受半球",
+  "Guest": "真特",
+  "Prefer": "瑟特福(中)",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "01-08 20:44",
+  "Person": "红红火火"
+}

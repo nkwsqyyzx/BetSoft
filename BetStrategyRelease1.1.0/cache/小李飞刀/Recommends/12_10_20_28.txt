@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "俄超",
+  "Time1": "12-10 21:45",
+  "Host": "魯賓卡讚",
+  "OddStake": "2/2.5球",
+  "Guest": "莫斯科斯巴達",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-10 20:28",
+  "Person": "小李飞刀"
+}

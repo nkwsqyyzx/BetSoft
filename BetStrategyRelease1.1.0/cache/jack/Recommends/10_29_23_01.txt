@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "葡超",
+  "Time1": "10-30 04:15",
+  "Host": "士砵亭",
+  "OddStake": "一球",
+  "Guest": "科英布拉大學",
+  "Prefer": "科英布拉大學",
+  "Odds": 1.03,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "10-29 23:01",
+  "Person": "jack"
+}

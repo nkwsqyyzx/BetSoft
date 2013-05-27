@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "蘇甲",
+  "Time1": "11-10 06:10",
+  "Host": "紐維爾舊生",
+  "OddStake": "半/一",
+  "Guest": "基爾梅斯",
+  "Prefer": "紐維爾舊生",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-09 15:42",
+  "Person": "qqzy"
+}

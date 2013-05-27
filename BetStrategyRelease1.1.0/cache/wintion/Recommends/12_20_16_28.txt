@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-20 22:45",
+  "Host": "伊爾韋斯(中)",
+  "OddStake": "3球",
+  "Guest": "韋斯屈萊",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "12-20 16:28",
+  "Person": "wintion"
+}

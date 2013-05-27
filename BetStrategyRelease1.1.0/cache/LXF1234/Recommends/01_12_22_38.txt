@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-12 23:00",
+  "Host": "諾域治",
+  "OddStake": "平/半",
+  "Guest": "紐卡素",
+  "Prefer": "諾域治",
+  "Odds": 0.95,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "01-12 22:38",
+  "Person": "lxf1234"
+}

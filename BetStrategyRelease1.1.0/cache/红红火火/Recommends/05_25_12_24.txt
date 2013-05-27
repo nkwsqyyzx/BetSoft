@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西乙",
+  "Time1": "05-25 13:00",
+  "Host": "甲府風林",
+  "OddStake": "2.5球",
+  "Guest": "大宮松鼠",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "05-25 12:24",
+  "Person": "红红火火"
+}

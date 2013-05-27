@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "俄甲",
+  "Time1": "10-08 23:00",
+  "Host": "維洛格瑞德",
+  "OddStake": "半/一",
+  "Guest": "沃爾加",
+  "Prefer": "維洛格瑞德",
+  "Odds": 1.0,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "10-08 22:01",
+  "Person": "金牌出击"
+}

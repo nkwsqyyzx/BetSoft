@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-30 18:30",
+  "Host": "中央海岸",
+  "OddStake": "半/一",
+  "Guest": "柏雷素爾",
+  "Prefer": "柏雷素爾",
+  "Odds": 0.94,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "04-30 17:41",
+  "Person": "LXF1234"
+}

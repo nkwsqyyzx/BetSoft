@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-24 00:30",
+  "Host": "艾斯迪格拿",
+  "OddStake": "一球/球半",
+  "Guest": "艾爾雷恩",
+  "Prefer": "艾斯迪格拿",
+  "Odds": 0.85,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "04-23 15:08",
+  "Person": "动听的乐章"
+}

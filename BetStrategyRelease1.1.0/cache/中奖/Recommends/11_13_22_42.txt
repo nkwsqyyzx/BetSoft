@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "匈聯盃",
+  "Time1": "11-13 23:00",
+  "Host": "隆巴德",
+  "OddStake": "受半球",
+  "Guest": "維迪奧頓",
+  "Prefer": "維迪奧頓",
+  "Odds": 0.91,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-13 22:42",
+  "Person": "中奖"
+}

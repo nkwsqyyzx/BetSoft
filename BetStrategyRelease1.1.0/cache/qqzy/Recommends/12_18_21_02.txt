@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德國盃",
+  "Time1": "12-19 02:00",
+  "Host": "史浩克04",
+  "OddStake": "半/一",
+  "Guest": "緬恩斯",
+  "Prefer": "史浩克04",
+  "Odds": 0.87,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "12-18 21:02",
+  "Person": "qqzy"
+}

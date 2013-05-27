@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬乙北",
+  "Time1": "05-03 23:30",
+  "Host": "特瓦里特",
+  "OddStake": "3/3.5球",
+  "Guest": "GBK科科拉",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "05-03 22:58",
+  "Person": "wintion"
+}

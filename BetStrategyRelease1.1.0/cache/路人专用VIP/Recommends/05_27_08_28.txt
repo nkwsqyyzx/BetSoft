@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "墨西聯",
+  "Time1": "05-27 09:00",
+  "Host": "阿美利加會",
+  "OddStake": "半/一",
+  "Guest": "阿蘇爾",
+  "Prefer": "阿美利加會",
+  "Odds": 0.96,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 08:28",
+  "Person": "路人专用VIP"
+}

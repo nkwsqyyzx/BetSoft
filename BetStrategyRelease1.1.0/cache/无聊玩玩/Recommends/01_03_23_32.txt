@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿聯盃",
+  "Time1": "01-03 23:59",
+  "Host": "艾爾維達",
+  "OddStake": "平手",
+  "Guest": "納薩SC",
+  "Prefer": "艾爾維達",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "01-03 23:32",
+  "Person": "无聊玩玩"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "亞冠盃",
+  "Time1": "11-01 01:00",
+  "Host": "阿爾艾利吉達",
+  "OddStake": "平/半",
+  "Guest": "伊蒂哈德吉達",
+  "Prefer": "伊蒂哈德吉達",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "10-31 23:55",
+  "Person": "jack"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "04-19 09:00",
+  "Host": "華奇巴托",
+  "OddStake": "受平/半",
+  "Guest": "甘美奧",
+  "Prefer": "甘美奧",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "04-18 23:22",
+  "Person": "lijian520"
+}

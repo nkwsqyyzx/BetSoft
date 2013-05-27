@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "美職業",
+  "Time1": "11-19 05:00",
+  "Host": "華盛頓聯隊",
+  "OddStake": "2.5球",
+  "Guest": "侯斯頓戴拿模",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "11-19 03:08",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "05-14 01:00",
+  "Host": "侯尼霍斯",
+  "OddStake": "受半球",
+  "Guest": "洛辛堡",
+  "Prefer": "侯尼霍斯",
+  "Odds": 0.97,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-13 23:54",
+  "Person": "弹弓六"
+}

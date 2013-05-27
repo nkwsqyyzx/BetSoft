@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "03-10 23:59",
+  "Host": "利雲特",
+  "OddStake": "平/半",
+  "Guest": "加泰",
+  "Prefer": "加泰",
+  "Odds": 0.89,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "03-10 22:48",
+  "Person": "金牌出击"
+}

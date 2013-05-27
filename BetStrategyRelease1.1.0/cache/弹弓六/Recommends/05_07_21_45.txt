@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "俄盃",
+  "Time1": "05-07 22:00",
+  "Host": "羅斯托夫",
+  "OddStake": "受一球",
+  "Guest": "莫斯科中央陸軍",
+  "Prefer": "羅斯托夫",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-07 21:45",
+  "Person": "弹弓六"
+}

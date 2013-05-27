@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "波蘭甲",
+  "Time1": "12-11 01:30",
+  "Host": "華沙普隆尼亞",
+  "OddStake": "半/一",
+  "Guest": "沙斯辛",
+  "Prefer": "沙斯辛",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "12-10 22:01",
+  "Person": "红红火火"
+}

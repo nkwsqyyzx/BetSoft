@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英冠",
+  "Time1": "03-13 03:45",
+  "Host": "卡迪夫城",
+  "OddStake": "平/半",
+  "Guest": "萊切斯特",
+  "Prefer": "萊切斯特",
+  "Odds": 0.99,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "03-12 22:48",
+  "Person": "segespa"
+}

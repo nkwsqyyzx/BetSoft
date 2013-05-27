@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷蘭盃",
+  "Time1": "12-19 03:00",
+  "Host": "丹博斯治",
+  "OddStake": "3球",
+  "Guest": "金堡爾",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "12-18 13:39",
+  "Person": "wintion"
+}

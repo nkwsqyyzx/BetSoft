@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "法乙",
+  "Time1": "03-16 03:00",
+  "Host": "利文斯",
+  "OddStake": "平/半",
+  "Guest": "奈梅斯",
+  "Prefer": "利文斯",
+  "Odds": 1.12,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "03-15 21:15",
+  "Person": "金牌出击"
+}

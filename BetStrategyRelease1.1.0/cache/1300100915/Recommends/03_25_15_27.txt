@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "友誼賽",
+  "Time1": "03-26 01:30",
+  "Host": "德國U19",
+  "OddStake": "3球",
+  "Guest": "烏克蘭U19",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "03-25 15:27",
+  "Person": "1300100915"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "日皇盃",
+  "Time1": "12-29 14:00",
+  "Host": "橫濱水手(中)",
+  "OddStake": "2/2.5球",
+  "Guest": "柏雷素爾",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "12-29 13:43",
+  "Person": "wintion"
+}

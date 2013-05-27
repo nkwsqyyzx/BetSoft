@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "丹麥超",
+  "Time1": "12-11 02:00",
+  "Host": "阿曉斯",
+  "OddStake": "2.5球",
+  "Guest": "施克堡",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "12-10 22:56",
+  "Person": "金牌出击"
+}

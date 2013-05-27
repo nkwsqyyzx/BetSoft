@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "03-08 04:05",
+  "Host": "利雲特",
+  "OddStake": "2/2.5球",
+  "Guest": "魯賓卡讚",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "03-07 21:35",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "荷乙",
+  "Time1": "10-20 02:00",
+  "Host": "馬士積治",
+  "OddStake": "球半/两球",
+  "Guest": "阿梅爾城",
+  "Prefer": "馬士積治",
+  "Odds": 1.02,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-19 23:23",
+  "Person": "龙缘"
+}

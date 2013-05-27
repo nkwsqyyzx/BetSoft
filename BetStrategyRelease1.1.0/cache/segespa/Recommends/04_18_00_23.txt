@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德國盃",
+  "Time1": "04-18 02:30",
+  "Host": "斯圖加特",
+  "OddStake": "平/半",
+  "Guest": "費雷堡",
+  "Prefer": "斯圖加特",
+  "Odds": 1.07,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-18 00:23",
+  "Person": "segespa"
+}

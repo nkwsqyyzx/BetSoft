@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德乙",
+  "Time1": "03-12 03:15",
+  "Host": "布倫瑞克",
+  "OddStake": "平/半",
+  "Guest": "凱沙羅頓",
+  "Prefer": "凱沙羅頓",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "03-11 21:49",
+  "Person": "弹弓六"
+}

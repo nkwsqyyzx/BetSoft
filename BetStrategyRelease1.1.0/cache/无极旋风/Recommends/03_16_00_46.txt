@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "捷克甲",
+  "Time1": "03-16 01:00",
+  "Host": "布迪祖懷斯",
+  "OddStake": "2/2.5球",
+  "Guest": "澤伯約維卡般奴",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "03-16 00:46",
+  "Person": "无极旋风"
+}

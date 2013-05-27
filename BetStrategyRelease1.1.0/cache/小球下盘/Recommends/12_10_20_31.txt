@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-10 21:00",
+  "Host": "拉素U17",
+  "OddStake": "3.5球",
+  "Guest": "西特塔馬利諾U17",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "8-0",
+  "PreferResult": 1,
+  "Time2": "12-10 20:31",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "日超盃",
+  "Time1": "02-23 12:35",
+  "Host": "廣島三箭(中)",
+  "OddStake": "2.5球",
+  "Guest": "柏雷素爾",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-23 12:20",
+  "Person": "空山新雨"
+}

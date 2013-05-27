@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-23 22:00",
+  "Host": "摩爾多瓦U17",
+  "OddStake": "2.5/3球",
+  "Guest": "羅馬尼亞U17",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "0-3",
+  "PreferResult": 2,
+  "Time2": "05-23 20:51",
+  "Person": "红日"
+}

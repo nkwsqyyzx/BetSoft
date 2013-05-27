@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英甲",
+  "Time1": "03-20 03:45",
+  "Host": "貝利",
+  "OddStake": "平/半",
+  "Guest": "史提芬納治",
+  "Prefer": "史提芬納治",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "03-20 00:19",
+  "Person": "segespa"
+}

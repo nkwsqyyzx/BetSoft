@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德青北",
+  "Time1": "04-27 18:00",
+  "Host": "漢諾威96U19",
+  "OddStake": "3/3.5球",
+  "Guest": "卓尼特斯U19",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "04-27 17:28",
+  "Person": "wintion"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-15 03:30",
+  "Host": "奧地利",
+  "OddStake": "平手",
+  "Guest": "象牙海岸",
+  "Prefer": "奧地利",
+  "Odds": 1.07,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "11-14 23:35",
+  "Person": "无聊玩玩"
+}

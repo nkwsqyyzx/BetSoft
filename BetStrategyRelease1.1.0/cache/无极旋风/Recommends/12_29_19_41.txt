@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "",
+  "Time1": "12-29 23:00",
+  "Host": "謝菲爾德聯",
+  "OddStake": "球半",
+  "Guest": "哈特爾浦",
+  "Prefer": "哈特爾浦",
+  "Odds": 0.84,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "12-29 19:41",
+  "Person": "无极旋风"
+}

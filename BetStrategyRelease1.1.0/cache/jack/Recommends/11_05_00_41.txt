@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "阿乙",
+  "Time1": "11-05 02:00",
+  "Host": "羅沙里奧中央",
+  "OddStake": "2球",
+  "Guest": "費羅卡利爾",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "11-05 00:41",
+  "Person": "jack"
+}

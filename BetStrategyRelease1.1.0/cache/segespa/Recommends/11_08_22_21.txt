@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 02:00",
+  "Host": "AIK蘇納",
+  "OddStake": "受半/一",
+  "Guest": "PSV燕豪芬",
+  "Prefer": "PSV燕豪芬",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-08 22:21",
+  "Person": "segespa"
+}

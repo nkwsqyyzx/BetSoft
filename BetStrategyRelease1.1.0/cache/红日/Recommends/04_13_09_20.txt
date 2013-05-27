@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "墨西乙",
+  "Time1": "04-13 09:30",
+  "Host": "雷昂內斯",
+  "OddStake": "平/半",
+  "Guest": "達高斯",
+  "Prefer": "雷昂內斯",
+  "Odds": 1.07,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "04-13 09:20",
+  "Person": "红日"
+}

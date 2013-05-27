@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "哥斯甲",
+  "Time1": "11-05 01:00",
+  "Host": "烏拉圭科羅納多",
+  "OddStake": "2.5/3球",
+  "Guest": "山度士DG",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-04 22:17",
+  "Person": "segespa"
+}

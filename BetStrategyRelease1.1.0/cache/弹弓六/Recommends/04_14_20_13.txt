@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-14 21:05",
+  "Host": "斯托克城",
+  "OddStake": "受半/一",
+  "Guest": "曼聯",
+  "Prefer": "斯托克城",
+  "Odds": 1.11,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "04-14 20:13",
+  "Person": "弹弓六"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 02:00",
+  "Host": "哥本哈根",
+  "OddStake": "平手",
+  "Guest": "斯圖加特",
+  "Prefer": "哥本哈根",
+  "Odds": 1.06,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "11-08 19:19",
+  "Person": "天之骄子"
+}

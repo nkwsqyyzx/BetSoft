@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "日職乙",
+  "Time1": "03-10 18:00",
+  "Host": "京都不死鳥",
+  "OddStake": "平/半",
+  "Guest": "東京日視",
+  "Prefer": "京都不死鳥",
+  "Odds": 0.91,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "03-10 12:16",
+  "Person": "lxf1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-31 03:45",
+  "Host": "愛華頓",
+  "OddStake": "一球",
+  "Guest": "西布朗",
+  "Prefer": "西布朗",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "01-30 18:50",
+  "Person": "顺水顺风"
+}

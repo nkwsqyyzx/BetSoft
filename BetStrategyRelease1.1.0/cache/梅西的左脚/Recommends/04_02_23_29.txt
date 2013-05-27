@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "摩洛超",
+  "Time1": "04-03 01:00",
+  "Host": "柯里加",
+  "OddStake": "平/半",
+  "Guest": "克尼特拉",
+  "Prefer": "克尼特拉",
+  "Odds": 0.81,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "04-02 23:29",
+  "Person": "梅西的左脚"
+}

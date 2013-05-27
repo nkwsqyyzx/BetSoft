@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英乙",
+  "Time1": "03-07 03:45",
+  "Host": "布里斯托流浪",
+  "OddStake": "平手",
+  "Guest": "艾斯特城",
+  "Prefer": "艾斯特城",
+  "Odds": 0.95,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "03-06 13:58",
+  "Person": "1300100915"
+}

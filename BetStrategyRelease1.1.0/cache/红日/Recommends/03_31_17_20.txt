@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "西丁",
+  "Time1": "03-31 17:30",
+  "Host": "阿柯孔B隊",
+  "OddStake": "2.5球",
+  "Guest": "卡拉班切",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-31 17:20",
+  "Person": "红日"
+}

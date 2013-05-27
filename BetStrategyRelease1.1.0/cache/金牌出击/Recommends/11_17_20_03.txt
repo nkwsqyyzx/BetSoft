@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意乙",
+  "Time1": "11-17 22:00",
+  "Host": "柏多華",
+  "OddStake": "平/半",
+  "Guest": "施達迪那",
+  "Prefer": "柏多華",
+  "Odds": 1.03,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "11-17 20:03",
+  "Person": "金牌出击"
+}

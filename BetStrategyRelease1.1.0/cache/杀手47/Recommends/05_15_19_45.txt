@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-16 02:00",
+  "Host": "希拉爾",
+  "OddStake": "半/一",
+  "Guest": "里科威亞",
+  "Prefer": "希拉爾",
+  "Odds": 1.04,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-15 19:45",
+  "Person": "杀手47"
+}

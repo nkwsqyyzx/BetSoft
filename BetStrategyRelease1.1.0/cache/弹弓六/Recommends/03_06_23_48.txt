@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "芬聯盃",
+  "Time1": "03-06 23:59",
+  "Host": "古比斯",
+  "OddStake": "一球",
+  "Guest": "查路",
+  "Prefer": "查路",
+  "Odds": 0.97,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "03-06 23:48",
+  "Person": "弹弓六"
+}

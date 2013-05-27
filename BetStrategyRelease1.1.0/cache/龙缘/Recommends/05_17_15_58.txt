@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭甲",
+  "Time1": "05-18 02:45",
+  "Host": "斯拉斯克",
+  "OddStake": "2/2.5球",
+  "Guest": "克拉科夫",
+  "Prefer": "小球",
+  "Odds": 1.01,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-17 15:58",
+  "Person": "龙缘"
+}

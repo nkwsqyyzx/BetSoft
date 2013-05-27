@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐霸盃",
+  "Time1": "12-07 02:00",
+  "Host": "波爾多",
+  "OddStake": "半/一",
+  "Guest": "紐卡素",
+  "Prefer": "紐卡素",
+  "Odds": 0.89,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "12-06 19:49",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "",
+  "Time1": "01-27 01:30",
+  "Host": "曼聯",
+  "OddStake": "球半",
+  "Guest": "富勒姆",
+  "Prefer": "富勒姆",
+  "Odds": 0.88,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "01-27 01:15",
+  "Person": "sweetcat"
+}

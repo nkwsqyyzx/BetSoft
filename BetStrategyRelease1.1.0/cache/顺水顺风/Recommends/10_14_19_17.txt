@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "德南聯",
+  "Time1": "10-14 20:00",
+  "Host": "科布倫茨",
+  "OddStake": "2.5球",
+  "Guest": "緬恩斯青年隊",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "10-14 19:17",
+  "Person": "顺水顺风"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "瑞典甲",
+  "Time1": "10-30 02:00",
+  "Host": "哈馬比",
+  "OddStake": "3球",
+  "Guest": "特利堡",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "10-29 20:39",
+  "Person": "爽爽"
+}

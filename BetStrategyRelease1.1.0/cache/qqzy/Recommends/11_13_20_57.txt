@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英足總盃",
+  "Time1": "11-14 03:45",
+  "Host": "巴拉福特",
+  "OddStake": "半球",
+  "Guest": "諾咸頓",
+  "Prefer": "巴拉福特",
+  "Odds": 0.85,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "11-13 20:57",
+  "Person": "qqzy"
+}

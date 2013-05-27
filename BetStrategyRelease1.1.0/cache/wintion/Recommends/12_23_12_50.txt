@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "比甲",
+  "Time1": "12-23 14:00",
+  "Host": "千葉市原(中)",
+  "OddStake": "受半球",
+  "Guest": "鹿島鹿角",
+  "Prefer": "鹿島鹿角",
+  "Odds": 0.95,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-23 12:50",
+  "Person": "wintion"
+}

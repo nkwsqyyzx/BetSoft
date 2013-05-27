@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-15 03:30",
+  "Host": "荷蘭",
+  "OddStake": "3/3.5球",
+  "Guest": "德國",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-15 02:54",
+  "Person": "中奖太简单啦"
+}

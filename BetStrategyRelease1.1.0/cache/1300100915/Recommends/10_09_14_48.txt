@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英錦賽",
+  "Time1": "10-10 02:30",
+  "Host": "哈特爾浦",
+  "OddStake": "2.5球",
+  "Guest": "巴拉福特",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "10-09 14:48",
+  "Person": "1300100915"
+}

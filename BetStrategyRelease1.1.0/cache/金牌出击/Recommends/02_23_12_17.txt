@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳職聯",
+  "Time1": "02-23 14:30",
+  "Host": "西部悉尼流浪者",
+  "OddStake": "一球",
+  "Guest": "珀斯光榮",
+  "Prefer": "西部悉尼流浪者",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "02-23 12:17",
+  "Person": "金牌出击"
+}

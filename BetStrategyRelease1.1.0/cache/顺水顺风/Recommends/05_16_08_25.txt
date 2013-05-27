@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "自由盃",
+  "Time1": "05-16 09:00",
+  "Host": "哥連泰斯",
+  "OddStake": "一球/球半",
+  "Guest": "小保加",
+  "Prefer": "哥連泰斯",
+  "Odds": 1.04,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-16 08:25",
+  "Person": "顺水顺风"
+}

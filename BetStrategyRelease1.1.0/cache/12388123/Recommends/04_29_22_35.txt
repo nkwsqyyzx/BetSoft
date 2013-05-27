@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞青超北",
+  "Time1": "04-29 23:00",
+  "Host": "AIK蘇納U21",
+  "OddStake": "3.5球",
+  "Guest": "西里安斯卡U21",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "0-8",
+  "PreferResult": 5,
+  "Time2": "04-29 22:35",
+  "Person": "12388123"
+}

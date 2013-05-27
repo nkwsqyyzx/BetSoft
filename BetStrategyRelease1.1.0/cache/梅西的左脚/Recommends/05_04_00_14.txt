@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "愛超",
+  "Time1": "05-04 03:00",
+  "Host": "沙姆洛克流浪",
+  "OddStake": "2/2.5球",
+  "Guest": "斯萊戈",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-04 00:14",
+  "Person": "梅西的左脚"
+}

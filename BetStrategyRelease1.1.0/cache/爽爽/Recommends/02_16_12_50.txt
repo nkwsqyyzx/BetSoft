@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳職聯",
+  "Time1": "02-16 14:30",
+  "Host": "悉尼",
+  "OddStake": "平/半",
+  "Guest": "阿德萊得聯",
+  "Prefer": "阿德萊得聯",
+  "Odds": 0.92,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-16 12:50",
+  "Person": "爽爽"
+}

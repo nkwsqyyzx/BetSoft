@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英超",
+  "Time1": "10-27 22:00",
+  "Host": "雷丁",
+  "OddStake": "2.5球",
+  "Guest": "富勒姆",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "10-27 21:50",
+  "Person": "余韵犹在"
+}

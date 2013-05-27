@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西班牙盃",
+  "Time1": "12-19 03:00",
+  "Host": "伊巴",
+  "OddStake": "受半球",
+  "Guest": "馬拉加",
+  "Prefer": "伊巴",
+  "Odds": 0.81,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-19 02:41",
+  "Person": "jack"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "匈聯盃",
+  "Time1": "10-10 23:00",
+  "Host": "迪歐斯捷爾",
+  "OddStake": "半/一",
+  "Guest": "埃格爾",
+  "Prefer": "迪歐斯捷爾",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "10-10 21:54",
+  "Person": "余韵犹在"
+}

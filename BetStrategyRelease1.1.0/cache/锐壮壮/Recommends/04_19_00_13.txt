@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "04-19 06:45",
+  "Host": "利伯泰德",
+  "OddStake": "半/一",
+  "Guest": "堤格雷",
+  "Prefer": "利伯泰德",
+  "Odds": 0.86,
+  "Result": "3-5",
+  "PreferResult": 1,
+  "Time2": "04-19 00:13",
+  "Person": "锐壮壮"
+}

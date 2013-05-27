@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-13 22:00",
+  "Host": "烏甸尼斯",
+  "OddStake": "受平/半",
+  "Guest": "費倫天拿",
+  "Prefer": "烏甸尼斯",
+  "Odds": 0.84,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-13 12:24",
+  "Person": "空山新雨"
+}

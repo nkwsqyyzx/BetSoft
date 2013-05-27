@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "03-02 23:00",
+  "Host": "伊普斯維奇",
+  "OddStake": "2.5球",
+  "Guest": "萊切斯特",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-02 22:13",
+  "Person": "小球下盘"
+}

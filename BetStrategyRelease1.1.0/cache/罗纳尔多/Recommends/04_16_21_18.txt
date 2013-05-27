@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-17 02:45",
+  "Host": "阿森納",
+  "OddStake": "半/一",
+  "Guest": "愛華頓",
+  "Prefer": "阿森納",
+  "Odds": 0.89,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "04-16 21:18",
+  "Person": "罗纳尔多"
+}

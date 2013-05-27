@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿爾巴盃",
+  "Time1": "02-20 21:00",
+  "Host": "斯昆達堡",
+  "OddStake": "球半/两球",
+  "Guest": "薩克比尼",
+  "Prefer": "斯昆達堡",
+  "Odds": 1.1,
+  "Result": "3-1",
+  "PreferResult": 4,
+  "Time2": "02-20 18:50",
+  "Person": "zy530"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意乙",
+  "Time1": "12-08 03:45",
+  "Host": "森索羅",
+  "OddStake": "半球",
+  "Guest": "摩德納",
+  "Prefer": "森索羅",
+  "Odds": 0.86,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "12-07 22:06",
+  "Person": "lxf1234"
+}

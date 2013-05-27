@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "04-02 23:30",
+  "Host": "賈徐卡塔爾",
+  "OddStake": "2.5球",
+  "Guest": "詹辛拉",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-02 12:57",
+  "Person": "1300100915"
+}

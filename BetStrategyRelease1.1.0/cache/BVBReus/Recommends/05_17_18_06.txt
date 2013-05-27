@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "澳維超",
+  "Time1": "05-17 18:30",
+  "Host": "歐克萊卡諾",
+  "OddStake": "2.5/3球",
+  "Guest": "丹德農迅雷",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-17 18:06",
+  "Person": "BVBReus"
+}

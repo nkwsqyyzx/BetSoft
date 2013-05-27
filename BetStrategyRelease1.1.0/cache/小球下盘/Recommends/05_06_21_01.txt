@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典甲",
+  "Time1": "05-07 01:00",
+  "Host": "渥那模",
+  "OddStake": "2.5球",
+  "Guest": "柏瑞格",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-06 21:01",
+  "Person": "小球下盘"
+}

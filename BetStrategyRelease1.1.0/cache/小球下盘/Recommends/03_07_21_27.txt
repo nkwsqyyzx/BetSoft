@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "03-08 02:00",
+  "Host": "布格勒斯特星隊",
+  "OddStake": "2/2.5球",
+  "Guest": "切爾西",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-07 21:27",
+  "Person": "小球下盘"
+}

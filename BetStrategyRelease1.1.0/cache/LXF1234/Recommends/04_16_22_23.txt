@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德國盃",
+  "Time1": "04-17 02:30",
+  "Host": "拜仁慕尼黑",
+  "OddStake": "两球/两球半",
+  "Guest": "沃爾夫斯堡",
+  "Prefer": "沃爾夫斯堡",
+  "Odds": 0.83,
+  "Result": "6-1",
+  "PreferResult": 1,
+  "Time2": "04-16 22:23",
+  "Person": "lxf1234"
+}

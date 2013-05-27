@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "斯伐甲",
+  "Time1": "05-15 23:30",
+  "Host": "摩拉瓦斯",
+  "OddStake": "2/2.5球",
+  "Guest": "斯利納",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-15 23:18",
+  "Person": "空中飞人"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "以色列甲",
+  "Time1": "01-22 01:00",
+  "Host": "法薩巴夏普爾",
+  "OddStake": "2/2.5球",
+  "Guest": "阿基納紮力馬卡比",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "01-21 15:00",
+  "Person": "无极旋风"
+}

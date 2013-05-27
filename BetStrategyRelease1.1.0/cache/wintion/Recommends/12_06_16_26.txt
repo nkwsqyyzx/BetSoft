@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "俄後賽",
+  "Time1": "12-06 17:00",
+  "Host": "羅斯托夫U21",
+  "OddStake": "2.5/3球",
+  "Guest": "克拉斯諾達爾U21",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "12-06 16:26",
+  "Person": "wintion"
+}

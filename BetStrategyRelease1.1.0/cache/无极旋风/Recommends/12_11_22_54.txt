@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法甲",
+  "Time1": "12-12 02:00",
+  "Host": "華倫西恩斯",
+  "OddStake": "受半球",
+  "Guest": "巴黎聖日門",
+  "Prefer": "巴黎聖日門",
+  "Odds": 0.8,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "12-11 22:54",
+  "Person": "无极旋风"
+}

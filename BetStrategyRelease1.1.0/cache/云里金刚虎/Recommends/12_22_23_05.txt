@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土甲",
+  "Time1": "12-23 01:00",
+  "Host": "馬尼沙斯堡",
+  "OddStake": "2/2.5球",
+  "Guest": "艾丹拿斯堡",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "12-22 23:05",
+  "Person": "云里金刚虎"
+}

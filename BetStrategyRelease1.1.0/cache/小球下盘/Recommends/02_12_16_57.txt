@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-12 22:00",
+  "Host": "葡萄牙U16",
+  "OddStake": "2.5球",
+  "Guest": "荷蘭U16",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-12 16:57",
+  "Person": "小球下盘"
+}

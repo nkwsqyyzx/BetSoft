@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "德巴聯",
+  "Time1": "10-13 01:00",
+  "Host": "黒木斯德騰",
+  "OddStake": "2/2.5球",
+  "Guest": "1860羅森海姆隊",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "10-12 14:34",
+  "Person": "足球擂台"
+}

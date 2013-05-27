@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典甲",
+  "Time1": "04-26 01:00",
+  "Host": "法肯柏爾",
+  "OddStake": "2.5球",
+  "Guest": "哈馬比",
+  "Prefer": "大球",
+  "Odds": 1.04,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-26 00:26",
+  "Person": "动听的乐章"
+}

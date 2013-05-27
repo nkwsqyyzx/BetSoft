@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "哥倫乙",
+  "Time1": "03-04 04:00",
+  "Host": "賈奎斯科爾多瓦",
+  "OddStake": "2.5球",
+  "Guest": "福塔雷扎FC",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-04 00:23",
+  "Person": "足球擂台"
+}

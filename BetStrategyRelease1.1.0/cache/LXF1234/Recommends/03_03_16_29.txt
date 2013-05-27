@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "03-03 21:30",
+  "Host": "RKC華域克",
+  "OddStake": "平手",
+  "Guest": "艾克馬亞",
+  "Prefer": "艾克馬亞",
+  "Odds": 0.832,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-03 16:29",
+  "Person": "lxf1234"
+}

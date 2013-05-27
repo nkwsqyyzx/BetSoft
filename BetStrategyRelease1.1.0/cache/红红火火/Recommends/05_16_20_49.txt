@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-16 22:00",
+  "Host": "塞爾維亞U16(中)",
+  "OddStake": "2.5球",
+  "Guest": "捷克U16",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-16 20:49",
+  "Person": "红红火火"
+}

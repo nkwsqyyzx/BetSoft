@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法甲",
+  "Time1": "02-03 23:59",
+  "Host": "蒙彼利埃",
+  "OddStake": "一球/球半",
+  "Guest": "威姆斯",
+  "Prefer": "蒙彼利埃",
+  "Odds": 1.08,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-03 23:23",
+  "Person": "234678136"
+}

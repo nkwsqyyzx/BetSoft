@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-23 23:30",
+  "Host": "洪卡",
+  "OddStake": "平/半",
+  "Guest": "馬利漢姆",
+  "Prefer": "馬利漢姆",
+  "Odds": 1.05,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-23 17:06",
+  "Person": "小李飞刀"
+}

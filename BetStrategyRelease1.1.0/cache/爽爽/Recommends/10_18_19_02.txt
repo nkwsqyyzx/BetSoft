@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "友誼賽",
+  "Time1": "10-18 21:00",
+  "Host": "捷克U18",
+  "OddStake": "2.5/3球",
+  "Guest": "瑞士U18",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "10-18 19:02",
+  "Person": "爽爽"
+}

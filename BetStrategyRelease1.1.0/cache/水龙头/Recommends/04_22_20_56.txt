@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "04-23 01:00",
+  "Host": "伊斯基錫海斯普",
+  "OddStake": "平/半",
+  "Guest": "特拉布宗",
+  "Prefer": "特拉布宗",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-22 20:56",
+  "Person": "水龙头"
+}

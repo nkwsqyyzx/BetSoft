@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西丁",
+  "Time1": "12-06 23:59",
+  "Host": "卡甘迪亞",
+  "OddStake": "半球",
+  "Guest": "尤鐵爾",
+  "Prefer": "尤鐵爾",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "12-06 21:09",
+  "Person": "红红火火"
+}

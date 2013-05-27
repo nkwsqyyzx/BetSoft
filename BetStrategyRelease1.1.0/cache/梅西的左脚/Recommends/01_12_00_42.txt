@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "墨西乙",
+  "Time1": "01-12 10:00",
+  "Host": "拿加沙",
+  "OddStake": "一球",
+  "Guest": "歐塔密拉",
+  "Prefer": "歐塔密拉",
+  "Odds": 0.8,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "01-12 00:42",
+  "Person": "梅西的左脚"
+}

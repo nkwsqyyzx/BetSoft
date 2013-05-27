@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷乙",
+  "Time1": "02-16 03:00",
+  "Host": "多積治",
+  "OddStake": "3/3.5球",
+  "Guest": "阿高斯",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "02-15 20:42",
+  "Person": "杀手47"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "羅甲",
+  "Time1": "11-20 02:00",
+  "Host": "加拉迪",
+  "OddStake": "受平/半",
+  "Guest": "瓦斯路易",
+  "Prefer": "加拉迪",
+  "Odds": 0.94,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-20 00:15",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法乙",
+  "Time1": "11-10 01:45",
+  "Host": "甘岡",
+  "OddStake": "半/一",
+  "Guest": "托爾司",
+  "Prefer": "甘岡",
+  "Odds": 1.0,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-09 20:36",
+  "Person": "zxy60120"
+}

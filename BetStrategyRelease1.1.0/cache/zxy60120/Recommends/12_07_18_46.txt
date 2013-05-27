@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡超",
+  "Time1": "12-08 04:15",
+  "Host": "伊斯托里爾",
+  "OddStake": "平/半",
+  "Guest": "塞圖巴爾",
+  "Prefer": "塞圖巴爾",
+  "Odds": 0.96,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "12-07 18:46",
+  "Person": "zxy60120"
+}

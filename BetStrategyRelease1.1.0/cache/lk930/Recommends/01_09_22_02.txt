@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英非北",
+  "Time1": "01-10 03:45",
+  "Host": "車士打足球俱樂部",
+  "OddStake": "3球",
+  "Guest": "牛津城",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-09 22:02",
+  "Person": "Lk930"
+}

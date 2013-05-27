@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇乙",
+  "Time1": "12-19 03:45",
+  "Host": "東法夫",
+  "OddStake": "3球",
+  "Guest": "斯青威爾",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "12-18 18:36",
+  "Person": "杀手47"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "非國盃",
+  "Time1": "10-13 20:30",
+  "Host": "馬拉維",
+  "OddStake": "2球",
+  "Guest": "加納",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "10-13 20:18",
+  "Person": "顺水顺风"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "烏拉甲秋",
+  "Time1": "11-04 20:15",
+  "Host": "坦基西斯萊",
+  "OddStake": "平/半",
+  "Guest": "切洛",
+  "Prefer": "切洛",
+  "Odds": 0.91,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-04 12:09",
+  "Person": "空山新雨"
+}

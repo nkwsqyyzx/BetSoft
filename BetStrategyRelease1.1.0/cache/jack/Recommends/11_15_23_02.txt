@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "南球盃",
+  "Time1": "11-16 08:15",
+  "Host": "米倫拿列奧",
+  "OddStake": "平/半",
+  "Guest": "甘美奧",
+  "Prefer": "甘美奧",
+  "Odds": 0.92,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "11-15 23:02",
+  "Person": "jack"
+}

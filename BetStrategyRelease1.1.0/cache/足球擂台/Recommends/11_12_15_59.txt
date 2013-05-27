@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "丹後備",
+  "Time1": "11-13 01:30",
+  "Host": "博爾切圖",
+  "OddStake": "平手",
+  "Guest": "沙斯辛",
+  "Prefer": "沙斯辛",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-12 15:59",
+  "Person": "足球擂台"
+}

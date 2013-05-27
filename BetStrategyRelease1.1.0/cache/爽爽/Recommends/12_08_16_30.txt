@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德乙",
+  "Time1": "12-08 20:00",
+  "Host": "特雷斯登",
+  "OddStake": "半球",
+  "Guest": "波鴻",
+  "Prefer": "波鴻",
+  "Odds": 0.85,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "12-08 16:30",
+  "Person": "爽爽"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐霸盃",
+  "Time1": "04-05 03:05",
+  "Host": "費倫巴治",
+  "OddStake": "2/2.5球",
+  "Guest": "拉素",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "04-04 20:38",
+  "Person": "qqzy"
+}

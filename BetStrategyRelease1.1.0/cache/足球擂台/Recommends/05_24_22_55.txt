@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法乙",
+  "Time1": "05-25 02:30",
+  "Host": "拉華爾",
+  "OddStake": "2.5球",
+  "Guest": "沙特魯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "05-24 22:55",
+  "Person": "足球擂台"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "奧乙",
+  "Time1": "11-17 01:30",
+  "Host": "第一維也納",
+  "OddStake": "3球",
+  "Guest": "霍恩",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "3-0",
+  "PreferResult": 3,
+  "Time2": "11-16 22:53",
+  "Person": "云里金刚虎"
+}

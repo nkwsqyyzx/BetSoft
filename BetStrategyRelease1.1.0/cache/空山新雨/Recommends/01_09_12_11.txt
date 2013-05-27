@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡甲",
+  "Time1": "01-10 04:00",
+  "Host": "比蘭倫斯",
+  "OddStake": "半/一",
+  "Guest": "士砵亭B隊",
+  "Prefer": "比蘭倫斯",
+  "Odds": 0.98,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "01-09 12:11",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "03-08 04:05",
+  "Host": "賓菲加",
+  "OddStake": "一球",
+  "Guest": "波爾多",
+  "Prefer": "賓菲加",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "03-07 22:47",
+  "Person": "lxf1234"
+}

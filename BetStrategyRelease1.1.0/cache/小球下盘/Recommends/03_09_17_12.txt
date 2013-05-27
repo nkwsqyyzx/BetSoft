@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英甲",
+  "Time1": "03-09 23:00",
+  "Host": "克拉雷鎮",
+  "OddStake": "2.5球",
+  "Guest": "諾士郡",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-09 17:12",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土耳其盃",
+  "Time1": "12-14 02:00",
+  "Host": "卡斯帕薩",
+  "OddStake": "2.5球",
+  "Guest": "特拉布宗",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-13 22:08",
+  "Person": "红红火火"
+}

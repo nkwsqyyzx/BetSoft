@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐霸盃",
+  "Time1": "12-07 02:00",
+  "Host": "年青人",
+  "OddStake": "平/半",
+  "Guest": "安芝",
+  "Prefer": "安芝",
+  "Odds": 1.06,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "12-06 20:54",
+  "Person": "顺水顺风"
+}

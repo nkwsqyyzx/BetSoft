@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "葡U17附",
+  "Time1": "02-17 23:59",
+  "Host": "哥本哈根",
+  "OddStake": "2.5球",
+  "Guest": "洛辛堡",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-17 23:07",
+  "Person": "红日"
+}

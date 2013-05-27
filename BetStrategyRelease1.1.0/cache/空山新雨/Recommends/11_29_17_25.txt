@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "白俄甲",
+  "Time1": "11-29 18:00",
+  "Host": "戈洛迪亞",
+  "OddStake": "受平/半",
+  "Guest": "魚雷佐迪諾",
+  "Prefer": "戈洛迪亞",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-29 17:25",
+  "Person": "空山新雨"
+}

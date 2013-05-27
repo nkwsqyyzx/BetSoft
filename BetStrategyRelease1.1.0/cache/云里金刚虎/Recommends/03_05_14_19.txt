@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "03-06 03:45",
+  "Host": "諾定咸森林",
+  "OddStake": "半球",
+  "Guest": "伊普斯維奇",
+  "Prefer": "伊普斯維奇",
+  "Odds": 1.1,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-05 14:19",
+  "Person": "云里金刚虎"
+}

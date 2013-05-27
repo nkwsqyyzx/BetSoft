@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "巴聖錦標",
+  "Time1": "01-24 05:30",
+  "Host": "山度士",
+  "OddStake": "3球",
+  "Guest": "博塔福格FC",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "3-0",
+  "PreferResult": 3,
+  "Time2": "01-23 19:27",
+  "Person": "杀手47"
+}

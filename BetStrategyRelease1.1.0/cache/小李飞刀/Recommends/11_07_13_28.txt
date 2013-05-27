@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英甲",
+  "Time1": "11-07 18:00",
+  "Host": "大宮松鼠",
+  "OddStake": "受平/半",
+  "Guest": "鹿島鹿角",
+  "Prefer": "大宮松鼠",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "11-07 13:28",
+  "Person": "小李飞刀"
+}

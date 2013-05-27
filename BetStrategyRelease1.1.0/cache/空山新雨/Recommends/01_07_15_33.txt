@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "馬來甲",
+  "Time1": "01-07 16:45",
+  "Host": "玻璃市",
+  "OddStake": "一球",
+  "Guest": "砂勞越",
+  "Prefer": "玻璃市",
+  "Odds": 0.85,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "01-07 15:33",
+  "Person": "空山新雨"
+}

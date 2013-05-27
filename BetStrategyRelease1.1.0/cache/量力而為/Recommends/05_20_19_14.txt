@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-20 23:59",
+  "Host": "阿利辛特",
+  "OddStake": "半/一",
+  "Guest": "奧特格寧蘭",
+  "Prefer": "阿利辛特",
+  "Odds": 0.99,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-20 19:14",
+  "Person": "量力而為"
+}

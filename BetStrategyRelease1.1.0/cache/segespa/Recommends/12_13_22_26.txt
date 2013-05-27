@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西班牙盃",
+  "Time1": "12-14 05:00",
+  "Host": "拉斯彭馬斯",
+  "OddStake": "2.5球",
+  "Guest": "皇家貝迪斯",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "12-13 22:26",
+  "Person": "segespa"
+}

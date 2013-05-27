@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英甲",
+  "Time1": "04-27 13:00",
+  "Host": "大阪櫻花",
+  "OddStake": "2.5球",
+  "Guest": "大分三神",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "04-27 12:11",
+  "Person": "12388123"
+}

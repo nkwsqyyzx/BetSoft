@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-21 02:00",
+  "Host": "隆德",
+  "OddStake": "受平/半",
+  "Guest": "安其爾何馬士",
+  "Prefer": "隆德",
+  "Odds": 0.8,
+  "Result": "7-3",
+  "PreferResult": 5,
+  "Time2": "02-21 00:28",
+  "Person": "云里金刚虎"
+}

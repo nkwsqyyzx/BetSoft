@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "荷乙",
+  "Time1": "11-10 03:00",
+  "Host": "金堡爾",
+  "OddStake": "球半",
+  "Guest": "艾古艾皮敦",
+  "Prefer": "艾古艾皮敦",
+  "Odds": 0.99,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-09 20:06",
+  "Person": "小球下盘"
+}

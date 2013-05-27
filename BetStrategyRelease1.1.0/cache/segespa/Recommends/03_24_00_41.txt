@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "西乙",
+  "Time1": "03-24 03:00",
+  "Host": "赫羅納",
+  "OddStake": "半/一",
+  "Guest": "米蘭迪斯",
+  "Prefer": "赫羅納",
+  "Odds": 1.03,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "03-24 00:41",
+  "Person": "segespa"
+}

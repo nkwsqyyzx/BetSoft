@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "03-01 08:30",
+  "Host": "聖保羅",
+  "OddStake": "两球/两球半",
+  "Guest": "史莊格斯特",
+  "Prefer": "史莊格斯特",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-28 20:38",
+  "Person": "罗纳尔多"
+}

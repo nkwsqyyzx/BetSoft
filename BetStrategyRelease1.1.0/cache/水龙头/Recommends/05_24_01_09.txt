@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "荷甲",
+  "Time1": "05-24 02:45",
+  "Host": "川迪",
+  "OddStake": "一球",
+  "Guest": "烏德勒支",
+  "Prefer": "川迪",
+  "Odds": 0.86,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "05-24 01:09",
+  "Person": "水龙头"
+}

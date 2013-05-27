@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "01-02 01:30",
+  "Host": "修咸頓",
+  "OddStake": "2.5/3球",
+  "Guest": "阿森納",
+  "Prefer": "小球",
+  "Odds": 1.05,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-02 00:53",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "02-12 02:00",
+  "Host": "加辛塔士邦",
+  "OddStake": "平手",
+  "Guest": "卡斯帕薩",
+  "Prefer": "卡斯帕薩",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-11 21:50",
+  "Person": "金牌出击"
+}

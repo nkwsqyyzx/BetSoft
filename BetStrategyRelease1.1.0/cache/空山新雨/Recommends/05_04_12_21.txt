@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中超",
+  "Time1": "05-04 15:30",
+  "Host": "青島中能",
+  "OddStake": "半球",
+  "Guest": "杭州綠城",
+  "Prefer": "杭州綠城",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-04 12:21",
+  "Person": "空山新雨"
+}

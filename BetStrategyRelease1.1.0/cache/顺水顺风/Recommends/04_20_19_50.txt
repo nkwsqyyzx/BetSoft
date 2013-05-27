@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "波蘭乙",
+  "Time1": "04-20 20:00",
+  "Host": "克拉科維亞",
+  "OddStake": "球半",
+  "Guest": "瓦塔波茲南",
+  "Prefer": "瓦塔波茲南",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-20 19:50",
+  "Person": "顺水顺风"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "澳職聯",
+  "Time1": "12-21 18:00",
+  "Host": "布里斯班獅吼",
+  "OddStake": "半球",
+  "Guest": "珀斯光榮",
+  "Prefer": "珀斯光榮",
+  "Odds": 1.1,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-21 17:40",
+  "Person": "余韵犹在"
+}

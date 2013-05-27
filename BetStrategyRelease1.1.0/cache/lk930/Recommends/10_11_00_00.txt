@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西聯盃",
+  "Time1": "10-11 02:00",
+  "Host": "艾卡拉",
+  "OddStake": "半球",
+  "Guest": "平托體育會",
+  "Prefer": "艾卡拉",
+  "Odds": 0.94,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "10-11 00:00",
+  "Person": "lk930"
+}

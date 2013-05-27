@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "以甲盃",
+  "Time1": "11-21 01:30",
+  "Host": "彼達迪華馬卡比",
+  "OddStake": "半球",
+  "Guest": "里雄萊錫安夏普爾",
+  "Prefer": "里雄萊錫安夏普爾",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-20 20:47",
+  "Person": "余韵犹在"
+}

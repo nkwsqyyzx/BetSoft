@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡甲",
+  "Time1": "12-30 19:15",
+  "Host": "費倫斯",
+  "OddStake": "平/半",
+  "Guest": "辛達卡拉",
+  "Prefer": "費倫斯",
+  "Odds": 0.9,
+  "Result": "2-2",
+  "PreferResult": 2,
+  "Time2": "12-30 14:42",
+  "Person": "234678136"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "",
+  "Time1": "10-27 16:45",
+  "Host": "布里斯班獅吼",
+  "OddStake": "球半",
+  "Guest": "西部悉尼流浪者",
+  "Prefer": "西部悉尼流浪者",
+  "Odds": 0.97,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "10-27 16:16",
+  "Person": "天之骄子"
+}

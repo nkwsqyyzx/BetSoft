@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "01-01 23:00",
+  "Host": "西漢姆",
+  "OddStake": "半球",
+  "Guest": "諾域治",
+  "Prefer": "諾域治",
+  "Odds": 0.87,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-01 19:19",
+  "Person": "红红火火"
+}

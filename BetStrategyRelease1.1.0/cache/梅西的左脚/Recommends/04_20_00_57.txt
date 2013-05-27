@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比荷女聯",
+  "Time1": "04-20 01:30",
+  "Host": "海牙女足",
+  "OddStake": "平/半",
+  "Guest": "PSVFC燕豪芬女足",
+  "Prefer": "海牙女足",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "04-20 00:57",
+  "Person": "梅西的左脚"
+}

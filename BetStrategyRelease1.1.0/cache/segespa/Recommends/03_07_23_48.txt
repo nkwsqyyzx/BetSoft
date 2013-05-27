@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "03-08 04:05",
+  "Host": "利雲特",
+  "OddStake": "平/半",
+  "Guest": "魯賓卡讚",
+  "Prefer": "利雲特",
+  "Odds": 0.91,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "03-07 23:48",
+  "Person": "segespa"
+}

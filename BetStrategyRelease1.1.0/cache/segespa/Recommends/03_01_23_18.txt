@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德乙",
+  "Time1": "03-02 01:00",
+  "Host": "派特博恩",
+  "OddStake": "平/半",
+  "Guest": "科特布斯",
+  "Prefer": "科特布斯",
+  "Odds": 0.97,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-01 23:18",
+  "Person": "segespa"
+}

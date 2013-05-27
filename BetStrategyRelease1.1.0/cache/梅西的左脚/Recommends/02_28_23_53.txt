@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "蘇青聯",
+  "Time1": "03-01 03:00",
+  "Host": "羅斯郡U20",
+  "OddStake": "一球",
+  "Guest": "登地U20",
+  "Prefer": "羅斯郡U20",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-28 23:53",
+  "Person": "梅西的左脚"
+}

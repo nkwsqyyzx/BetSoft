@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "俄超",
+  "Time1": "05-20 23:00",
+  "Host": "安芝",
+  "OddStake": "半/一",
+  "Guest": "莫斯科火車頭",
+  "Prefer": "安芝",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-20 17:47",
+  "Person": "小李飞刀"
+}

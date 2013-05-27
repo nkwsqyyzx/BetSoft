@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "瑞典甲",
+  "Time1": "10-09 01:00",
+  "Host": "蘭斯干拿",
+  "OddStake": "平/半",
+  "Guest": "特利堡",
+  "Prefer": "特利堡",
+  "Odds": 0.86,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "10-08 23:10",
+  "Person": "segespa"
+}

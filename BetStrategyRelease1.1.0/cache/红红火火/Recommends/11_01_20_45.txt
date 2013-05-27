@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "卡塔爾聯",
+  "Time1": "11-01 21:00",
+  "Host": "賈徐卡塔爾",
+  "OddStake": "2.5球",
+  "Guest": "科赫",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "11-01 20:45",
+  "Person": "红红火火"
+}

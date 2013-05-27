@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "希臘超",
+  "Time1": "11-25 23:15",
+  "Host": "普拉坦亞斯",
+  "OddStake": "受半球",
+  "Guest": "彭拿典奈高斯",
+  "Prefer": "彭拿典奈高斯",
+  "Odds": 1.02,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-25 22:37",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "",
+  "Time1": "01-29 03:30",
+  "Host": "迪卓恩",
+  "OddStake": "2/2.5球",
+  "Guest": "朗斯",
+  "Prefer": "大球",
+  "Odds": 1.08,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "01-28 20:02",
+  "Person": "Lk930"
+}

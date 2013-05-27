@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "比甲",
+  "Time1": "02-04 01:00",
+  "Host": "安德列治",
+  "OddStake": "半/一",
+  "Guest": "標準列治",
+  "Prefer": "安德列治",
+  "Odds": 0.85,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "02-03 13:53",
+  "Person": "弹弓六"
+}

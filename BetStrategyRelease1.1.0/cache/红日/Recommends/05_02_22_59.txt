@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫盃",
+  "Time1": "05-03 06:00",
+  "Host": "德波爾阿瓜布蘭卡",
+  "OddStake": "2.5球",
+  "Guest": "珀帕妍",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-02 22:59",
+  "Person": "红日"
+}

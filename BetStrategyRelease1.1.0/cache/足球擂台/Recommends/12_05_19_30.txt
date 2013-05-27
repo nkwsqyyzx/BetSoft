@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "東亞錦",
+  "Time1": "12-05 20:30",
+  "Host": "北韓(中)",
+  "OddStake": "2/2.5球",
+  "Guest": "澳洲",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-05 19:30",
+  "Person": "足球擂台"
+}

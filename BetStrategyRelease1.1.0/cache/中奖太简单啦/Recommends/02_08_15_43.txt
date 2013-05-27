@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳職聯",
+  "Time1": "02-08 16:30",
+  "Host": "阿德萊得聯",
+  "OddStake": "3球",
+  "Guest": "墨爾本勝利",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-08 15:43",
+  "Person": "中奖太简单啦"
+}

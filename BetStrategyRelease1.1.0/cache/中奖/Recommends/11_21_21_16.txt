@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "11-22 03:45",
+  "Host": "阿積士",
+  "OddStake": "受半/一",
+  "Guest": "多特蒙德",
+  "Prefer": "阿積士",
+  "Odds": 0.84,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "11-21 21:16",
+  "Person": "中奖"
+}

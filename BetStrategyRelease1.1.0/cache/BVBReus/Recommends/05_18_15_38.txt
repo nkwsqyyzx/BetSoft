@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中超",
+  "Time1": "05-18 19:35",
+  "Host": "北京國安",
+  "OddStake": "半/一",
+  "Guest": "天津泰達",
+  "Prefer": "北京國安",
+  "Odds": 1.05,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "05-18 15:38",
+  "Person": "BVBReus"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德北聯",
+  "Time1": "11-30 23:59",
+  "Host": "迪比辛尼",
+  "OddStake": "一球",
+  "Guest": "卡伯司瓦",
+  "Prefer": "迪比辛尼",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "11-30 17:42",
+  "Person": "1300100915"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-12 23:00",
+  "Host": "華拉度列",
+  "OddStake": "半球",
+  "Guest": "馬略卡",
+  "Prefer": "馬略卡",
+  "Odds": 0.88,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "01-12 14:18",
+  "Person": "弹弓六"
+}

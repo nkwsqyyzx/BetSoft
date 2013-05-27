@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡超",
+  "Time1": "01-22 04:00",
+  "Host": "摩里倫斯",
+  "OddStake": "3球",
+  "Guest": "賓菲加",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "01-21 21:25",
+  "Person": "小李飞刀"
+}

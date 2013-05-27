@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "羅甲",
+  "Time1": "05-03 23:00",
+  "Host": "加斯梅登",
+  "OddStake": "半球",
+  "Guest": "席洛爾",
+  "Prefer": "席洛爾",
+  "Odds": 0.82,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "05-03 22:11",
+  "Person": "红日"
+}

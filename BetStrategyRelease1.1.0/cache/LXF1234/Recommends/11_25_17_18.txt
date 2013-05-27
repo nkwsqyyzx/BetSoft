@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "瑞士超",
+  "Time1": "11-25 20:45",
+  "Host": "洛桑體育隊",
+  "OddStake": "受半球",
+  "Guest": "年青人",
+  "Prefer": "洛桑體育隊",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-25 17:18",
+  "Person": "lxf1234"
+}

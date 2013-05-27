@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "印度甲",
+  "Time1": "01-24 17:30",
+  "Host": "孟買",
+  "OddStake": "2.5/3球",
+  "Guest": "巴得斯尤",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-24 15:18",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "11-21 03:45",
+  "Host": "祖雲達斯",
+  "OddStake": "半/一",
+  "Guest": "切爾西",
+  "Prefer": "祖雲達斯",
+  "Odds": 0.98,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "11-20 23:17",
+  "Person": "梅西的左脚"
+}

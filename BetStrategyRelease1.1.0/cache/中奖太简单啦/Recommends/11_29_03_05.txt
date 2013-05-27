@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-29 03:45",
+  "Host": "切爾西",
+  "OddStake": "一球/球半",
+  "Guest": "富勒姆",
+  "Prefer": "富勒姆",
+  "Odds": 0.94,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-29 03:05",
+  "Person": "中奖太简单啦"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英乙",
+  "Time1": "01-01 23:00",
+  "Host": "莫利金比",
+  "OddStake": "受平/半",
+  "Guest": "巴拉福特",
+  "Prefer": "莫利金比",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "01-01 20:03",
+  "Person": "segespa"
+}

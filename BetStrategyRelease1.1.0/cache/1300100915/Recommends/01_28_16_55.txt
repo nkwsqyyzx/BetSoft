@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "太陽盃",
+  "Time1": "01-28 20:00",
+  "Host": "奧林比查(中)",
+  "OddStake": "平手",
+  "Guest": "IFK哥德堡",
+  "Prefer": "IFK哥德堡",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "01-28 16:55",
+  "Person": "1300100915"
+}

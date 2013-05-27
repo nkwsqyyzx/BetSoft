@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷甲",
+  "Time1": "01-27 23:30",
+  "Host": "NEC尼美根",
+  "OddStake": "半球",
+  "Guest": "高寧根",
+  "Prefer": "NEC尼美根",
+  "Odds": 1.07,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "01-27 22:33",
+  "Person": "segespa"
+}

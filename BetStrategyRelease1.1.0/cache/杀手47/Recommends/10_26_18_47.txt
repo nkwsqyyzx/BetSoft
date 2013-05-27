@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "法乙",
+  "Time1": "10-27 00:45",
+  "Host": "伊斯特",
+  "OddStake": "半球",
+  "Guest": "托爾司",
+  "Prefer": "伊斯特",
+  "Odds": 0.88,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "10-26 18:47",
+  "Person": "杀手47"
+}

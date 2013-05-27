@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "04-23 01:00",
+  "Host": "馬模",
+  "OddStake": "半/一",
+  "Guest": "奧斯達",
+  "Prefer": "奧斯達",
+  "Odds": 0.97,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-22 21:57",
+  "Person": "小李飞刀"
+}

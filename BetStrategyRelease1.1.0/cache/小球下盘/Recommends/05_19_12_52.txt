@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬甲",
+  "Time1": "05-19 21:00",
+  "Host": "AC奧盧",
+  "OddStake": "2.5球",
+  "Guest": "SJK塞那喬其",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-19 12:52",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-23 02:00",
+  "Host": "漢諾威",
+  "OddStake": "2.5/3球",
+  "Guest": "川迪",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-22 16:32",
+  "Person": "云里金刚虎"
+}

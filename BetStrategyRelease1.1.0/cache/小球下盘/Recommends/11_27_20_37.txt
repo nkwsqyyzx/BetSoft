@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意青盃",
+  "Time1": "11-28 02:30",
+  "Host": "皇家貝迪斯",
+  "OddStake": "2.5球",
+  "Guest": "華拉度列",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "11-27 20:37",
+  "Person": "小球下盘"
+}

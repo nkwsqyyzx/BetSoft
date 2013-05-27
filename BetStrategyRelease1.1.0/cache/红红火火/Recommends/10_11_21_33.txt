@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "友誼賽",
+  "Time1": "10-12 03:00",
+  "Host": "智利U20",
+  "OddStake": "2.5/3球",
+  "Guest": "墨西哥U20",
+  "Prefer": "大球",
+  "Odds": 0.91,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "10-11 21:33",
+  "Person": "红红火火"
+}

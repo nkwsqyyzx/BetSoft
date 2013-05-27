@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "阿乙",
+  "Time1": "10-09 06:30",
+  "Host": "羅沙里奧中央",
+  "OddStake": "平/半",
+  "Guest": "門多薩獨立",
+  "Prefer": "門多薩獨立",
+  "Odds": 0.9,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "10-08 23:48",
+  "Person": "云里金刚虎"
+}

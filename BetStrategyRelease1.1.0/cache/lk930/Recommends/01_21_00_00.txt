@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡超",
+  "Time1": "01-21 02:00",
+  "Host": "布拉加",
+  "OddStake": "球半",
+  "Guest": "塞圖巴爾",
+  "Prefer": "布拉加",
+  "Odds": 1.01,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "01-21 00:00",
+  "Person": "Lk930"
+}

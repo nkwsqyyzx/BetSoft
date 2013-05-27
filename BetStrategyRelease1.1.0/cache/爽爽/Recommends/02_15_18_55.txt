@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "馬來甲",
+  "Time1": "02-15 20:15",
+  "Host": "砂勞越",
+  "OddStake": "平/半",
+  "Guest": "皇家警察足球俱樂部",
+  "Prefer": "皇家警察足球俱樂部",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-15 18:55",
+  "Person": "爽爽"
+}

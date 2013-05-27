@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "蘇超",
+  "Time1": "02-28 03:45",
+  "Host": "喜百年",
+  "OddStake": "2.5球",
+  "Guest": "基馬諾克",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "02-27 21:02",
+  "Person": "小球下盘"
+}

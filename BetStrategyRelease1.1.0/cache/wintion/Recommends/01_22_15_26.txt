@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "印尼超",
+  "Time1": "01-22 16:30",
+  "Host": "巴厘巴板",
+  "OddStake": "2.5/3球",
+  "Guest": "格雷西",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "01-22 15:26",
+  "Person": "wintion"
+}

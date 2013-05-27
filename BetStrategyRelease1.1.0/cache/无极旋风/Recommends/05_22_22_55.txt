@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-23 00:30",
+  "Host": "艾斯迪格拿",
+  "OddStake": "2.5/3球",
+  "Guest": "沙巴柏杜拜",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-22 22:55",
+  "Person": "无极旋风"
+}

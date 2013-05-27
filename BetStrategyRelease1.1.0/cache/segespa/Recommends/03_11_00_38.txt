@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土甲",
+  "Time1": "03-11 01:00",
+  "Host": "丹尼斯尼士邦",
+  "OddStake": "受平/半",
+  "Guest": "里澤士邦",
+  "Prefer": "丹尼斯尼士邦",
+  "Odds": 0.94,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-11 00:38",
+  "Person": "segespa"
+}

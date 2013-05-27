@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "荷乙",
+  "Time1": "11-10 03:00",
+  "Host": "恩浩雲",
+  "OddStake": "受平/半",
+  "Guest": "阿高斯",
+  "Prefer": "阿高斯",
+  "Odds": 0.82,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "11-10 01:35",
+  "Person": "金牌出击"
+}

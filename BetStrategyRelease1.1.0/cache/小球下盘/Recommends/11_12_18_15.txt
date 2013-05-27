@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "丹麥超",
+  "Time1": "11-13 02:00",
+  "Host": "米迪蘭特",
+  "OddStake": "半球",
+  "Guest": "艾斯堡",
+  "Prefer": "艾斯堡",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-12 18:15",
+  "Person": "小球下盘"
+}

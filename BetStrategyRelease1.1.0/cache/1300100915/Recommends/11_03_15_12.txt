@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德巴聯",
+  "Time1": "11-03 21:00",
+  "Host": "拜仁霍夫",
+  "OddStake": "2.5球",
+  "Guest": "邦堡格",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "11-03 15:12",
+  "Person": "1300100915"
+}

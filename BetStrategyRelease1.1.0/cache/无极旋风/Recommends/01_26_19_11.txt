@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西丙2",
+  "Time1": "01-27 01:30",
+  "Host": "皇家蘇斯達B隊",
+  "OddStake": "2/2.5球",
+  "Guest": "畢爾巴鄂競技B隊",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-26 19:11",
+  "Person": "无极旋风"
+}

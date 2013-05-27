@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "比甲",
+  "Time1": "12-28 01:00",
+  "Host": "標準列治",
+  "OddStake": "3球",
+  "Guest": "比爾肖特",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "3-0",
+  "PreferResult": 3,
+  "Time2": "12-27 18:57",
+  "Person": "顺水顺风"
+}

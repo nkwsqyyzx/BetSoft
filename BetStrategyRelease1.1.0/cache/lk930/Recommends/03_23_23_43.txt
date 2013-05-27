@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "法丁B",
+  "Time1": "03-23 23:59",
+  "Host": "土耳其U22(中)",
+  "OddStake": "半球",
+  "Guest": "摩洛哥U22",
+  "Prefer": "摩洛哥U22",
+  "Odds": 0.91,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-23 23:43",
+  "Person": "lk930"
+}

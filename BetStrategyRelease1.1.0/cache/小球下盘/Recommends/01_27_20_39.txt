@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法甲",
+  "Time1": "01-27 21:00",
+  "Host": "聖伊天",
+  "OddStake": "2.5球",
+  "Guest": "巴斯蒂亞",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "01-27 20:39",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "約旦盃",
+  "Time1": "12-13 22:30",
+  "Host": "阿爾費薩里安曼",
+  "OddStake": "半/一",
+  "Guest": "阿拉畢伊爾比德",
+  "Prefer": "阿爾費薩里安曼",
+  "Odds": 0.97,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "12-13 20:45",
+  "Person": "无聊玩玩"
+}

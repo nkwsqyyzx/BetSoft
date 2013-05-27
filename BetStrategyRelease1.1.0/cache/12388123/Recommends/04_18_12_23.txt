@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "俄盃",
+  "Time1": "04-18 22:00",
+  "Host": "羅斯托夫",
+  "OddStake": "2/2.5球",
+  "Guest": "塔利克",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-18 12:23",
+  "Person": "12388123"
+}

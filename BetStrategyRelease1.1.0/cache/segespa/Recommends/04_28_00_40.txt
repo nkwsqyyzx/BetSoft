@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷甲",
+  "Time1": "04-28 01:45",
+  "Host": "洛達",
+  "OddStake": "平/半",
+  "Guest": "RKC華域克",
+  "Prefer": "RKC華域克",
+  "Odds": 0.97,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "04-28 00:40",
+  "Person": "segespa"
+}

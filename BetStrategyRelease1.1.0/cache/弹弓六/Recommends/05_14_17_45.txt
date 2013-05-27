@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中超",
+  "Time1": "05-14 19:35",
+  "Host": "山東魯能泰山",
+  "OddStake": "一球",
+  "Guest": "青島中能",
+  "Prefer": "青島中能",
+  "Odds": 0.83,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-14 17:45",
+  "Person": "弹弓六"
+}

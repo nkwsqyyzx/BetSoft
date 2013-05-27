@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英聯盃",
+  "Time1": "10-31 03:45",
+  "Host": "列斯聯",
+  "OddStake": "3球",
+  "Guest": "修咸頓",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "3-0",
+  "PreferResult": 3,
+  "Time2": "10-30 22:50",
+  "Person": "segespa"
+}

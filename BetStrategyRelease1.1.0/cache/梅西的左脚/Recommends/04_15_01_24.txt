@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "04-15 02:45",
+  "Host": "AC米蘭",
+  "OddStake": "半球",
+  "Guest": "拿玻里",
+  "Prefer": "AC米蘭",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-15 01:24",
+  "Person": "梅西的左脚"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "巴聖錦標",
+  "Time1": "02-07 03:00",
+  "Host": "莫奇米林",
+  "OddStake": "2.5球",
+  "Guest": "伊圖阿諾",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-07 01:01",
+  "Person": "234678136"
+}

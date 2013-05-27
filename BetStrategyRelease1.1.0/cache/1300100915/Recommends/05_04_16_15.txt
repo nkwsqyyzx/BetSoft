@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意乙",
+  "Time1": "05-04 21:00",
+  "Host": "諾和華",
+  "OddStake": "2.5球",
+  "Guest": "巴里",
+  "Prefer": "大球",
+  "Odds": 1.07,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-04 16:15",
+  "Person": "1300100915"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "04-21 22:00",
+  "Host": "基錫里士邦",
+  "OddStake": "2.5球",
+  "Guest": "希維斯堡",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-21 20:38",
+  "Person": "zy530"
+}

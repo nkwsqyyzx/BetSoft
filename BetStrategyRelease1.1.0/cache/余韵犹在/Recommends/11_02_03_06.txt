@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "秘魯春",
+  "Time1": "11-02 04:30",
+  "Host": "梅加",
+  "OddStake": "半球",
+  "Guest": "萊昂瓦努科",
+  "Prefer": "梅加",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-02 03:06",
+  "Person": "余韵犹在"
+}

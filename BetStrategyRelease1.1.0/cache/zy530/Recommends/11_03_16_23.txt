@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "希臘U20",
+  "Time1": "11-03 17:00",
+  "Host": "薩丁U20",
+  "OddStake": "球半/两球",
+  "Guest": "利雲達高斯U20",
+  "Prefer": "利雲達高斯U20",
+  "Odds": 0.96,
+  "Result": "2-0",
+  "PreferResult": 2,
+  "Time2": "11-03 16:23",
+  "Person": "zy530"
+}

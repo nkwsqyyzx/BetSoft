@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿聯酋超",
+  "Time1": "12-05 23:59",
+  "Host": "納薩SC",
+  "OddStake": "半/一",
+  "Guest": "阿基曼",
+  "Prefer": "納薩SC",
+  "Odds": 0.89,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "12-05 20:04",
+  "Person": "zy530"
+}

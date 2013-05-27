@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "伊朗甲",
+  "Time1": "11-01 19:00",
+  "Host": "帕爾謝德黑蘭",
+  "OddStake": "平/半",
+  "Guest": "艾斯迪格拿阿瓦",
+  "Prefer": "艾斯迪格拿阿瓦",
+  "Odds": 0.8,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "11-01 15:48",
+  "Person": "qqzy"
+}

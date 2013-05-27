@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "意乙",
+  "Time1": "10-14 21:00",
+  "Host": "切辛納",
+  "OddStake": "2/2.5球",
+  "Guest": "克努托內",
+  "Prefer": "小球",
+  "Odds": 0.843,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "10-14 20:34",
+  "Person": "qqzy"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "韓國K",
+  "Time1": "10-08 18:30",
+  "Host": "蔚山現代",
+  "OddStake": "半球",
+  "Guest": "濟州聯隊",
+  "Prefer": "濟州聯隊",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "10-08 15:14",
+  "Person": "天之骄子"
+}

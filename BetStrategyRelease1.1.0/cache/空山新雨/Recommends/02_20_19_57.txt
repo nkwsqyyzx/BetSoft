@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "南非甲",
+  "Time1": "02-20 21:30",
+  "Host": "柯倫恩斯塔迪",
+  "OddStake": "平/半",
+  "Guest": "布力般流浪東倫敦",
+  "Prefer": "布力般流浪東倫敦",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-20 19:57",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英乙",
+  "Time1": "01-05 23:00",
+  "Host": "諾咸頓",
+  "OddStake": "2.5球",
+  "Guest": "富力特城",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "01-05 20:17",
+  "Person": "红日"
+}

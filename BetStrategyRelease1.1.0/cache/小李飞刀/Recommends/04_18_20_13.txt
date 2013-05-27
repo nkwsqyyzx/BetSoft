@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "04-19 01:00",
+  "Host": "IFK哥德堡",
+  "OddStake": "球半",
+  "Guest": "西里安斯卡",
+  "Prefer": "IFK哥德堡",
+  "Odds": 1.039,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-18 20:13",
+  "Person": "小李飞刀"
+}

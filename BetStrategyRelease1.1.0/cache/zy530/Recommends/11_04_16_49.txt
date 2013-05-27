@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "羅乙1",
+  "Time1": "11-04 17:00",
+  "Host": "AFC薩格亞塔納弗達",
+  "OddStake": "半球",
+  "Guest": "博托沙尼",
+  "Prefer": "AFC薩格亞塔納弗達",
+  "Odds": 0.87,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-04 16:49",
+  "Person": "zy530"
+}

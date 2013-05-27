@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "女歐U17",
+  "Time1": "03-12 23:59",
+  "Host": "比利時女足U17",
+  "OddStake": "受半球",
+  "Guest": "德國女足U17",
+  "Prefer": "德國女足U17",
+  "Odds": 0.84,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "03-12 23:26",
+  "Person": "希望之星"
+}

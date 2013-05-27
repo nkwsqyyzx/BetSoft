@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德乙",
+  "Time1": "02-12 03:15",
+  "Host": "哈化柏林",
+  "OddStake": "一球",
+  "Guest": "柏林聯",
+  "Prefer": "哈化柏林",
+  "Odds": 0.95,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "02-12 00:29",
+  "Person": "segespa"
+}

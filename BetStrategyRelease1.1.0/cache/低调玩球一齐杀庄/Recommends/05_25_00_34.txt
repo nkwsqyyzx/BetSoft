@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-25 02:05",
+  "Host": "立麥立克",
+  "OddStake": "受半/一",
+  "Guest": "斯萊戈",
+  "Prefer": "斯萊戈",
+  "Odds": 0.84,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-25 00:34",
+  "Person": "低调玩球一齐杀庄"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意青盃",
+  "Time1": "03-14 03:45",
+  "Host": "祖雲達斯青年隊U19",
+  "OddStake": "半球",
+  "Guest": "拿玻里青年隊U19",
+  "Prefer": "拿玻里青年隊U19",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "03-13 22:34",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "02-02 03:45",
+  "Host": "羅馬",
+  "OddStake": "一球/球半",
+  "Guest": "卡利亞里",
+  "Prefer": "羅馬",
+  "Odds": 1.03,
+  "Result": "2-4",
+  "PreferResult": 1,
+  "Time2": "02-01 22:45",
+  "Person": "234678136"
+}

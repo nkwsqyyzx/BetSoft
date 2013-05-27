@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德乙",
+  "Time1": "03-29 03:30",
+  "Host": "布倫瑞克",
+  "OddStake": "半/一",
+  "Guest": "特雷斯登",
+  "Prefer": "特雷斯登",
+  "Odds": 1.02,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "03-29 00:18",
+  "Person": "segespa"
+}

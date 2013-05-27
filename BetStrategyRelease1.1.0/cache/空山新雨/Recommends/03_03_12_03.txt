@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "03-03 19:30",
+  "Host": "NEC尼美根",
+  "OddStake": "2.5/3球",
+  "Guest": "飛燕諾",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "0-3",
+  "PreferResult": 4,
+  "Time2": "03-03 12:03",
+  "Person": "空山新雨"
+}

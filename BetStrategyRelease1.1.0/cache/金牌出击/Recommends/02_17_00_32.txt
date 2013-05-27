@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "02-17 02:45",
+  "Host": "比達",
+  "OddStake": "平/半",
+  "Guest": "荷華高斯",
+  "Prefer": "荷華高斯",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "02-17 00:32",
+  "Person": "金牌出击"
+}

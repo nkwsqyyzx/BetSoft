@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-02 01:20",
+  "Host": "沙巴柏利雅德",
+  "OddStake": "一球",
+  "Guest": "詹辛拉",
+  "Prefer": "沙巴柏利雅德",
+  "Odds": 0.98,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "05-01 23:47",
+  "Person": "segespa"
+}

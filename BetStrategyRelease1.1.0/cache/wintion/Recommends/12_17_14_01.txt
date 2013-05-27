@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇青聯",
+  "Time1": "12-17 21:00",
+  "Host": "阿伯丁U20",
+  "OddStake": "3/3.5球",
+  "Guest": "赫斯U20",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "6-1",
+  "PreferResult": 5,
+  "Time2": "12-17 14:01",
+  "Person": "wintion"
+}

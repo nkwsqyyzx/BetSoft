@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "02-01 19:00",
+  "Host": "阿利辛特(中)",
+  "OddStake": "3.5球",
+  "Guest": "克里斯達桑德",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "02-01 18:03",
+  "Person": "wintion"
+}

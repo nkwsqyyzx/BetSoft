@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德國盃",
+  "Time1": "04-17 02:30",
+  "Host": "拜仁慕尼黑",
+  "OddStake": "3.5球",
+  "Guest": "沃爾夫斯堡",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "6-1",
+  "PreferResult": 1,
+  "Time2": "04-17 00:30",
+  "Person": "锐壮壮"
+}

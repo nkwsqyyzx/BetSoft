@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土超",
+  "Time1": "12-18 02:00",
+  "Host": "基錫里士邦",
+  "OddStake": "2.5球",
+  "Guest": "卡斯帕薩",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-17 20:02",
+  "Person": "234678136"
+}

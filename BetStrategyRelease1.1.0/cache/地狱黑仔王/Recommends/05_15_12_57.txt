@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-15 18:00",
+  "Host": "全北現代",
+  "OddStake": "平/半",
+  "Guest": "柏雷素爾",
+  "Prefer": "柏雷素爾",
+  "Odds": 0.95,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "05-15 12:57",
+  "Person": "地狱黑仔王"
+}

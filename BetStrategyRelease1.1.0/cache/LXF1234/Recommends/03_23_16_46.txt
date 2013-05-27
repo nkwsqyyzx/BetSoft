@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐洲預選",
+  "Time1": "03-24 00:30",
+  "Host": "塞浦路斯",
+  "OddStake": "受一球",
+  "Guest": "瑞士",
+  "Prefer": "瑞士",
+  "Odds": 0.94,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "03-23 16:46",
+  "Person": "lxf1234"
+}

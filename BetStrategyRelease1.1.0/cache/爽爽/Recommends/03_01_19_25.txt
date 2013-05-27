@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法乙",
+  "Time1": "03-02 03:00",
+  "Host": "GFC阿些斯奧",
+  "OddStake": "受半球",
+  "Guest": "摩納哥",
+  "Prefer": "摩納哥",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-01 19:25",
+  "Person": "爽爽"
+}

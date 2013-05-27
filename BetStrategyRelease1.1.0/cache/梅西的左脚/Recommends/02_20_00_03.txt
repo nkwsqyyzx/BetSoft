@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "02-20 03:45",
+  "Host": "波圖",
+  "OddStake": "半/一",
+  "Guest": "馬拉加",
+  "Prefer": "馬拉加",
+  "Odds": 1.05,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "02-20 00:03",
+  "Person": "梅西的左脚"
+}

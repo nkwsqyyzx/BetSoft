@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "土超",
+  "Time1": "05-19 18:30",
+  "Host": "伊拉茲斯堡",
+  "OddStake": "2.5球",
+  "Guest": "希維斯堡",
+  "Prefer": "小球",
+  "Odds": 1.01,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-19 12:12",
+  "Person": "公测"
+}

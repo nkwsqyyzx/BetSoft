@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "葡超",
+  "Time1": "04-20 03:00",
+  "Host": "布拉加",
+  "OddStake": "一球/球半",
+  "Guest": "科英布拉大學",
+  "Prefer": "布拉加",
+  "Odds": 0.97,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "04-19 23:23",
+  "Person": "罗纳尔多"
+}

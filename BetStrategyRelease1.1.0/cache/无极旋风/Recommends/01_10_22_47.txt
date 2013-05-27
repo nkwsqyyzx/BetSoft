@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "01-11 04:30",
+  "Host": "巴塞羅那",
+  "OddStake": "两球半/三球",
+  "Guest": "哥杜巴",
+  "Prefer": "巴塞羅那",
+  "Odds": 0.82,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "01-10 22:47",
+  "Person": "无极旋风"
+}

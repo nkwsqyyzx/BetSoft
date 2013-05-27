@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英足總盃",
+  "Time1": "01-08 03:45",
+  "Host": "車頓咸",
+  "OddStake": "受球半",
+  "Guest": "愛華頓",
+  "Prefer": "車頓咸",
+  "Odds": 1.05,
+  "Result": "1-5",
+  "PreferResult": 1,
+  "Time2": "01-07 22:23",
+  "Person": "lxf1234"
+}

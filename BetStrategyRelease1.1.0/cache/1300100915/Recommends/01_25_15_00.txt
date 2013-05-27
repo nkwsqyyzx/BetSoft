@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英乙",
+  "Time1": "01-26 03:45",
+  "Host": "車頓咸",
+  "OddStake": "2.5/3球",
+  "Guest": "羅奇代爾",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-25 15:00",
+  "Person": "1300100915"
+}

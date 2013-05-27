@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "05-03 09:30",
+  "Host": "尹美利克",
+  "OddStake": "2球",
+  "Guest": "富明尼斯RJ",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-02 20:57",
+  "Person": "qqzy"
+}

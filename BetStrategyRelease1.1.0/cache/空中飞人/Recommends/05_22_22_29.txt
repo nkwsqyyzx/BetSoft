@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "意乙",
+  "Time1": "05-23 02:45",
+  "Host": "諾和華",
+  "OddStake": "2/2.5球",
+  "Guest": "恩波里",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-22 22:29",
+  "Person": "空中飞人"
+}

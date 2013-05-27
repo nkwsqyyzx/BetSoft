@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "格雷納盃",
+  "Time1": "01-07 20:30",
+  "Host": "拉脫維亞U18(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "斯洛文尼亞U18",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "01-07 16:41",
+  "Person": "爽爽"
+}

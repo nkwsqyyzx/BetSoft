@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "奧甲",
+  "Time1": "05-23 02:30",
+  "Host": "特倫克沃爾德艾特米拿",
+  "OddStake": "2.5/3球",
+  "Guest": "維也納迅速",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "05-22 18:27",
+  "Person": "低调玩球一齐杀庄"
+}

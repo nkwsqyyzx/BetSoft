@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-11 09:00",
+  "Host": "巴拿馬",
+  "OddStake": "2.5球",
+  "Guest": "瓜地馬拉",
+  "Prefer": "大球",
+  "Odds": 0.99,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "01-11 00:07",
+  "Person": "云里金刚虎"
+}

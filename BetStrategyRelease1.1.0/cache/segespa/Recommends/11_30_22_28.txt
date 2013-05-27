@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法乙",
+  "Time1": "12-01 01:45",
+  "Host": "摩納哥",
+  "OddStake": "一球",
+  "Guest": "色當",
+  "Prefer": "摩納哥",
+  "Odds": 0.96,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "11-30 22:28",
+  "Person": "segespa"
+}

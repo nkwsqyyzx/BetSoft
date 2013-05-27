@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "亞冠盃",
+  "Time1": "02-26 20:00",
+  "Host": "廣州恆大",
+  "OddStake": "2.5/3球",
+  "Guest": "浦和紅鑽",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "3-0",
+  "PreferResult": 4,
+  "Time2": "02-26 18:34",
+  "Person": "爽爽"
+}

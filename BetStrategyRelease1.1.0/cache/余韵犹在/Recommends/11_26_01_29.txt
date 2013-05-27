@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "巴西甲",
+  "Time1": "11-26 03:00",
+  "Host": "邦迪比達",
+  "OddStake": "2.5球",
+  "Guest": "聖保羅",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-26 01:29",
+  "Person": "余韵犹在"
+}

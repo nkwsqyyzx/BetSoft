@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-28 23:00",
+  "Host": "阿森納",
+  "OddStake": "平/半",
+  "Guest": "曼聯",
+  "Prefer": "阿森納",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "04-28 22:44",
+  "Person": "segespa"
+}

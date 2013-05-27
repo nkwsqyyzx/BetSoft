@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 01:00",
+  "Host": "安芝(中)",
+  "OddStake": "半球",
+  "Guest": "利物浦",
+  "Prefer": "安芝(中)",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-09 00:44",
+  "Person": "中奖太简单啦"
+}

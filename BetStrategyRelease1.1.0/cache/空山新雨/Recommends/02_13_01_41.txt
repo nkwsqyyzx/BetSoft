@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "02-13 03:45",
+  "Host": "米德爾斯堡",
+  "OddStake": "平/半",
+  "Guest": "列斯聯",
+  "Prefer": "列斯聯",
+  "Odds": 1.04,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-13 01:41",
+  "Person": "空山新雨"
+}

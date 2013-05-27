@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "約旦超",
+  "Time1": "04-11 22:00",
+  "Host": "曼序亞特",
+  "OddStake": "2.5球",
+  "Guest": "威達特安曼",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-11 18:35",
+  "Person": "红红火火"
+}

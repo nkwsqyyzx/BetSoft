@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "土超",
+  "Time1": "10-20 01:00",
+  "Host": "真格拿拜列治",
+  "OddStake": "受半球",
+  "Guest": "加拉塔沙雷",
+  "Prefer": "真格拿拜列治",
+  "Odds": 0.92,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "10-20 00:29",
+  "Person": "lk930"
+}

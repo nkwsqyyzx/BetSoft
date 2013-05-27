@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬超",
+  "Time1": "05-09 22:00",
+  "Host": "韋斯屈萊",
+  "OddStake": "平/半",
+  "Guest": "VPS華沙",
+  "Prefer": "韋斯屈萊",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-09 21:39",
+  "Person": "LXF1234"
+}

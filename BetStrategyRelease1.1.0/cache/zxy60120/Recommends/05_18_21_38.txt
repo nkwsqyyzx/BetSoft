@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西甲",
+  "Time1": "05-18 23:59",
+  "Host": "加泰",
+  "OddStake": "2.5/3球",
+  "Guest": "華倫西亞",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-18 21:38",
+  "Person": "zxy60120"
+}

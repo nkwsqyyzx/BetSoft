@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-23 01:00",
+  "Host": "魯賓卡讚",
+  "OddStake": "半球",
+  "Guest": "國際米蘭",
+  "Prefer": "國際米蘭",
+  "Odds": 0.9,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "11-23 00:13",
+  "Person": "天之骄子"
+}

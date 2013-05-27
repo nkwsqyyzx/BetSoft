@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "05-04 22:00",
+  "Host": "華倫西亞",
+  "OddStake": "2.5/3球",
+  "Guest": "奧薩蘇納",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "05-04 19:56",
+  "Person": "segespa"
+}

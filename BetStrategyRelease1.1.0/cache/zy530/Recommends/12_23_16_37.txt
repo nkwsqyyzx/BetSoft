@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-23 23:59",
+  "Host": "切爾西",
+  "OddStake": "3球",
+  "Guest": "阿斯頓維拉",
+  "Prefer": "大球",
+  "Odds": 0.91,
+  "Result": "8-0",
+  "PreferResult": 5,
+  "Time2": "12-23 16:37",
+  "Person": "zy530"
+}

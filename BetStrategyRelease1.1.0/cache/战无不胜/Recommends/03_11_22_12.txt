@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "加夫盃",
+  "Time1": "03-11 23:00",
+  "Host": "瑞典女足(中)",
+  "OddStake": "受一球",
+  "Guest": "美國女足",
+  "Prefer": "美國女足",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-11 22:12",
+  "Person": "战无不胜"
+}

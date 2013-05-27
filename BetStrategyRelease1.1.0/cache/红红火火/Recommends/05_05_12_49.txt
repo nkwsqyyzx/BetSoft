@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "05-05 13:00",
+  "Host": "江原FC",
+  "OddStake": "2.5球",
+  "Guest": "大田市民",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-05 12:49",
+  "Person": "红红火火"
+}

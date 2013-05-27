@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "俄超",
+  "Time1": "04-14 18:00",
+  "Host": "諾夫哥羅德",
+  "OddStake": "受半球",
+  "Guest": "安芝",
+  "Prefer": "安芝",
+  "Odds": 0.84,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "04-14 15:31",
+  "Person": "红红火火"
+}

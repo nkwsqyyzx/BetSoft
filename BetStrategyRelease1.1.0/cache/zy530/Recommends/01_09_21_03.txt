@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法丁B",
+  "Time1": "01-09 22:00",
+  "Host": "比勒費爾德",
+  "OddStake": "2.5/3球",
+  "Guest": "堡格侯森",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "01-09 21:03",
+  "Person": "zy530"
+}

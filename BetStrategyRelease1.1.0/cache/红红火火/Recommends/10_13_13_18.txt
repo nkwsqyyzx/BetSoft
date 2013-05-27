@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "土甲",
+  "Time1": "10-13 19:00",
+  "Host": "卡塔士邦",
+  "OddStake": "2/2.5球",
+  "Guest": "里澤士邦",
+  "Prefer": "小球",
+  "Odds": 0.93,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "10-13 13:18",
+  "Person": "红红火火"
+}

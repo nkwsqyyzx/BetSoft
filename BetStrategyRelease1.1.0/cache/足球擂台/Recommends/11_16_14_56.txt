@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "荷乙",
+  "Time1": "11-17 03:00",
+  "Host": "特士達",
+  "OddStake": "平/半",
+  "Guest": "雲登",
+  "Prefer": "雲登",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "11-16 14:56",
+  "Person": "足球擂台"
+}

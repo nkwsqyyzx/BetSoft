@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中超",
+  "Time1": "04-27 15:35",
+  "Host": "大連阿爾濱",
+  "OddStake": "半球",
+  "Guest": "北京國安",
+  "Prefer": "北京國安",
+  "Odds": 0.88,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "04-27 15:23",
+  "Person": "爽爽"
+}

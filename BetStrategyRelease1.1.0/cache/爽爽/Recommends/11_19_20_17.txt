@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "捷U21",
+  "Time1": "11-19 20:30",
+  "Host": "澤伯約維卡般奴U21",
+  "OddStake": "一球",
+  "Guest": "賈布朗尼U21",
+  "Prefer": "澤伯約維卡般奴U21",
+  "Odds": 0.82,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "11-19 20:17",
+  "Person": "爽爽"
+}

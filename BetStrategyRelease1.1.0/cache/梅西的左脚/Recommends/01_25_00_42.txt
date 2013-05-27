@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "巴聖錦標",
+  "Time1": "01-25 05:30",
+  "Host": "皮拉西卡巴",
+  "OddStake": "2.5/3球",
+  "Guest": "聖保羅市",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "01-25 00:42",
+  "Person": "梅西的左脚"
+}

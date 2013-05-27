@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英甲",
+  "Time1": "01-05 23:00",
+  "Host": "克魯",
+  "OddStake": "平/半",
+  "Guest": "史提芬納治",
+  "Prefer": "史提芬納治",
+  "Odds": 0.97,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "01-05 20:56",
+  "Person": "爽爽"
+}

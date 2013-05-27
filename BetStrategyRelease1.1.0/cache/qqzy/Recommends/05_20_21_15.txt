@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-20 21:30",
+  "Host": "斯達",
+  "OddStake": "受平/半",
+  "Guest": "史卓加斯特",
+  "Prefer": "斯達",
+  "Odds": 0.89,
+  "Result": "0-6",
+  "PreferResult": 1,
+  "Time2": "05-20 21:15",
+  "Person": "qqzy"
+}

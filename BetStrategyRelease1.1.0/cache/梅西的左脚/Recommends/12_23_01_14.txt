@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法甲",
+  "Time1": "12-23 03:00",
+  "Host": "波爾多",
+  "OddStake": "2.5球",
+  "Guest": "特魯瓦",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "12-23 01:14",
+  "Person": "梅西的左脚"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "葡甲",
+  "Time1": "11-28 23:59",
+  "Host": "士砵亭B隊",
+  "OddStake": "半/一",
+  "Guest": "費倫斯",
+  "Prefer": "士砵亭B隊",
+  "Odds": 0.83,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "11-28 14:40",
+  "Person": "云里金刚虎"
+}

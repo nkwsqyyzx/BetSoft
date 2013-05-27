@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-20 15:00",
+  "Host": "仁川聯隊",
+  "OddStake": "受平/半",
+  "Guest": "全北現代",
+  "Prefer": "仁川聯隊",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-20 14:29",
+  "Person": "空山新雨"
+}

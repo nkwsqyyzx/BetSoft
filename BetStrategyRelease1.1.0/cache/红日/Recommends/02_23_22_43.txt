@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英超",
+  "Time1": "02-23 23:00",
+  "Host": "阿森納",
+  "OddStake": "3/3.5球",
+  "Guest": "阿斯頓維拉",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "02-23 22:43",
+  "Person": "红日"
+}

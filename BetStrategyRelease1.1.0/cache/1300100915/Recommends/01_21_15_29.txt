@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "土甲",
+  "Time1": "01-22 02:00",
+  "Host": "布卡斯堡",
+  "OddStake": "平/半",
+  "Guest": "干亞士邦",
+  "Prefer": "干亞士邦",
+  "Odds": 0.89,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "01-21 15:29",
+  "Person": "1300100915"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿聯盃",
+  "Time1": "12-28 23:59",
+  "Host": "詹辛拉",
+  "OddStake": "3/3.5球",
+  "Guest": "德哈法",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "12-28 21:13",
+  "Person": "segespa"
+}

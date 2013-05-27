@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "中超",
+  "Time1": "10-20 15:30",
+  "Host": "青島中能",
+  "OddStake": "2.5球",
+  "Guest": "北京國安",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "10-20 14:39",
+  "Person": "爽爽"
+}

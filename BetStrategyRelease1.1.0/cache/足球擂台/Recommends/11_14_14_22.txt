@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-14 21:00",
+  "Host": "德國U19",
+  "OddStake": "2.5/3球",
+  "Guest": "法國U19",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "3-0",
+  "PreferResult": 4,
+  "Time2": "11-14 14:22",
+  "Person": "足球擂台"
+}

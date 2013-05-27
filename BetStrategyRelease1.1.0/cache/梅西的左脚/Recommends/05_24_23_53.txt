@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-25 03:00",
+  "Host": "沙姆洛克流浪",
+  "OddStake": "2.5/3球",
+  "Guest": "舒爾本",
+  "Prefer": "小球",
+  "Odds": 1.0,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-24 23:53",
+  "Person": "梅西的左脚"
+}

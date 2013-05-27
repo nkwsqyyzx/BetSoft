@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "05-11 01:00",
+  "Host": "卡斯帕薩",
+  "OddStake": "平/半",
+  "Guest": "基錫里士邦",
+  "Prefer": "基錫里士邦",
+  "Odds": 0.9,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-10 16:32",
+  "Person": "qqzy"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法丙",
+  "Time1": "12-15 03:00",
+  "Host": "紅星聖歐恩",
+  "OddStake": "2.5球",
+  "Guest": "賈特爾",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-14 22:50",
+  "Person": "红红火火"
+}

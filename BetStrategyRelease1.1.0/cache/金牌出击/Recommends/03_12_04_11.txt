@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "03-12 06:10",
+  "Host": "拉魯斯",
+  "OddStake": "半/一",
+  "Guest": "沙蘭迪兵工廠",
+  "Prefer": "沙蘭迪兵工廠",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "03-12 04:11",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "瑞士甲",
+  "Time1": "02-26 02:45",
+  "Host": "畢爾",
+  "OddStake": "平/半",
+  "Guest": "華杜茲",
+  "Prefer": "華杜茲",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-26 00:38",
+  "Person": "segespa"
+}

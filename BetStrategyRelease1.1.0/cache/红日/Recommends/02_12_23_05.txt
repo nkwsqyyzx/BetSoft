@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "02-13 08:30",
+  "Host": "智利國家隊",
+  "OddStake": "球半",
+  "Guest": "拉拉",
+  "Prefer": "智利國家隊",
+  "Odds": 0.87,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-12 23:05",
+  "Person": "红日"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "烏克乙",
+  "Time1": "10-15 22:00",
+  "Host": "史塔爾",
+  "OddStake": "一球",
+  "Guest": "蘇邁",
+  "Prefer": "史塔爾",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "10-15 21:43",
+  "Person": "zy530"
+}

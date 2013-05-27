@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐室錦標",
+  "Time1": "03-30 23:30",
+  "Host": "希臘室內(中)",
+  "OddStake": "5.5球",
+  "Guest": "波蘭室內",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "4-3",
+  "PreferResult": 5,
+  "Time2": "03-30 23:08",
+  "Person": "12388123"
+}

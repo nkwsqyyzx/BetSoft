@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-28 22:00",
+  "Host": "英格蘭女足U23(中)",
+  "OddStake": "平/半",
+  "Guest": "瑞典女足U23",
+  "Prefer": "瑞典女足U23",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-28 18:12",
+  "Person": "wintion"
+}

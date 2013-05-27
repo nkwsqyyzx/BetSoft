@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德甲",
+  "Time1": "02-23 22:30",
+  "Host": "拜仁慕尼黑",
+  "OddStake": "两球",
+  "Guest": "雲達不萊梅",
+  "Prefer": "拜仁慕尼黑",
+  "Odds": 1.0,
+  "Result": "6-1",
+  "PreferResult": 5,
+  "Time2": "02-23 22:00",
+  "Person": "罗纳尔多"
+}

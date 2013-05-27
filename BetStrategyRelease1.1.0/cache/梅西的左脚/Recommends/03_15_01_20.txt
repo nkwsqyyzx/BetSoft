@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "中美運女",
+  "Time1": "03-15 08:00",
+  "Host": "哥斯達黎加女足U20",
+  "OddStake": "4.5球",
+  "Guest": "尼加拉瓜女足U20",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "03-15 01:20",
+  "Person": "梅西的左脚"
+}

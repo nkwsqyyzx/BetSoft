@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "世冠盃",
+  "Time1": "12-16 18:30",
+  "Host": "哥連泰斯(中)",
+  "OddStake": "受半/一",
+  "Guest": "切爾西",
+  "Prefer": "哥連泰斯(中)",
+  "Odds": 1.02,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-16 18:16",
+  "Person": "弹弓六"
+}

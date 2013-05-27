@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "03-06 03:45",
+  "Host": "沃特福德",
+  "OddStake": "半/一",
+  "Guest": "錫周三",
+  "Prefer": "沃特福德",
+  "Odds": 0.87,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "03-05 19:38",
+  "Person": "顺水顺风"
+}

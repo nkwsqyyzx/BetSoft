@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿爾甲",
+  "Time1": "05-21 23:59",
+  "Host": "克萊夫",
+  "OddStake": "半球",
+  "Guest": "比捷亞",
+  "Prefer": "克萊夫",
+  "Odds": 0.81,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-21 22:04",
+  "Person": "红日"
+}

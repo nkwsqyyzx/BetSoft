@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "01-29 03:30",
+  "Host": "迪卓恩",
+  "OddStake": "2/2.5球",
+  "Guest": "朗斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-28 23:25",
+  "Person": "云里金刚虎"
+}

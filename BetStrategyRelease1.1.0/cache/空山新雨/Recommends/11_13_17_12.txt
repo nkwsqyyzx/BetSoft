@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英依超",
+  "Time1": "11-14 03:45",
+  "Host": "恩菲爾德城",
+  "OddStake": "3球",
+  "Guest": "哈雷",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "11-13 17:12",
+  "Person": "空山新雨"
+}

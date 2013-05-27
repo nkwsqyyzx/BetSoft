@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "荷甲",
+  "Time1": "10-27 02:00",
+  "Host": "烏德勒支",
+  "OddStake": "半/一",
+  "Guest": "高寧根",
+  "Prefer": "烏德勒支",
+  "Odds": 0.94,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "10-27 00:21",
+  "Person": "无聊玩玩"
+}

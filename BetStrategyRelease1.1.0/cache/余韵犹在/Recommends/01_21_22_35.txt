@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "卡塔爾聯",
+  "Time1": "01-21 23:30",
+  "Host": "賈徐卡塔爾",
+  "OddStake": "平手",
+  "Guest": "里科威亞",
+  "Prefer": "里科威亞",
+  "Odds": 1.0,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "01-21 22:35",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "瑞典乙北",
+  "Time1": "10-28 22:00",
+  "Host": "艾基圖納城",
+  "OddStake": "受半/一",
+  "Guest": "費里",
+  "Prefer": "費里",
+  "Odds": 0.88,
+  "Result": "4-2",
+  "PreferResult": 1,
+  "Time2": "10-28 21:50",
+  "Person": "余韵犹在"
+}

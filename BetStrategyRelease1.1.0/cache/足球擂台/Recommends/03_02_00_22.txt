@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "厄瓜甲",
+  "Time1": "03-02 09:00",
+  "Host": "庫恩卡",
+  "OddStake": "2/2.5球",
+  "Guest": "羅加",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "03-02 00:22",
+  "Person": "足球擂台"
+}

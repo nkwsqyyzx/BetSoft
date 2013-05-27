@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "05-04 22:00",
+  "Host": "西布朗",
+  "OddStake": "平/半",
+  "Guest": "韋根",
+  "Prefer": "韋根",
+  "Odds": 0.93,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "05-04 15:16",
+  "Person": "qqzy"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐霸盃",
+  "Time1": "10-26 03:05",
+  "Host": "利物浦",
+  "OddStake": "平/半",
+  "Guest": "安芝",
+  "Prefer": "安芝",
+  "Odds": 0.98,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "10-25 15:46",
+  "Person": "1300100915"
+}

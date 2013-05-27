@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "01-10 04:30",
+  "Host": "薩拉戈薩",
+  "OddStake": "平/半",
+  "Guest": "利雲特",
+  "Prefer": "利雲特",
+  "Odds": 1.07,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-09 14:45",
+  "Person": "1300100915"
+}

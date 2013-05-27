@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "03-10 23:30",
+  "Host": "川迪",
+  "OddStake": "半球",
+  "Guest": "維迪斯",
+  "Prefer": "維迪斯",
+  "Odds": 0.83,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-10 12:02",
+  "Person": "空山新雨"
+}

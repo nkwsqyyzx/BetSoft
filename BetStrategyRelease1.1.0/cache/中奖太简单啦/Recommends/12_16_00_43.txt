@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西甲",
+  "Time1": "12-16 01:00",
+  "Host": "馬略卡",
+  "OddStake": "平手",
+  "Guest": "畢爾巴鄂競技",
+  "Prefer": "馬略卡",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "12-16 00:43",
+  "Person": "中奖太简单啦"
+}

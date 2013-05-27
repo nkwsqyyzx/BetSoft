@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "",
+  "Time1": "11-01 19:00",
+  "Host": "伊巴",
+  "OddStake": "受半/一",
+  "Guest": "畢爾巴鄂競技",
+  "Prefer": "伊巴",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-01 17:16",
+  "Person": "zy530"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇乙",
+  "Time1": "01-02 23:00",
+  "Host": "艾洛亞",
+  "OddStake": "3球",
+  "Guest": "士登后斯莫亞",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-02 21:40",
+  "Person": "梅西的左脚"
+}

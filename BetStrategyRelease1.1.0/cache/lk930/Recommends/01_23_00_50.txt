@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英非聯",
+  "Time1": "01-23 03:45",
+  "Host": "盧頓",
+  "OddStake": "3球",
+  "Guest": "林肯城",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "3-0",
+  "PreferResult": 3,
+  "Time2": "01-23 00:50",
+  "Person": "Lk930"
+}

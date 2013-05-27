@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "03-07 03:45",
+  "Host": "祖雲達斯",
+  "OddStake": "2.5/3球",
+  "Guest": "些路迪",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "03-07 03:07",
+  "Person": "罗纳尔多"
+}

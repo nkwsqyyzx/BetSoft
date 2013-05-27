@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-11 23:00",
+  "Host": "紐卡素",
+  "OddStake": "半球",
+  "Guest": "西漢姆",
+  "Prefer": "西漢姆",
+  "Odds": 0.92,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-11 21:38",
+  "Person": "金牌出击"
+}

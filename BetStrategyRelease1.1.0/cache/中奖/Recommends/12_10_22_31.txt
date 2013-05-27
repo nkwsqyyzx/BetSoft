@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡超",
+  "Time1": "12-11 02:15",
+  "Host": "科英布拉大學",
+  "OddStake": "受半球",
+  "Guest": "布拉加",
+  "Prefer": "布拉加",
+  "Odds": 0.93,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "12-10 22:31",
+  "Person": "中奖"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "美職業",
+  "Time1": "11-05 10:00",
+  "Host": "洛杉磯銀河",
+  "OddStake": "2.5球",
+  "Guest": "聖荷西地震",
+  "Prefer": "大球",
+  "Odds": 0.91,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "11-04 15:18",
+  "Person": "lk930"
+}

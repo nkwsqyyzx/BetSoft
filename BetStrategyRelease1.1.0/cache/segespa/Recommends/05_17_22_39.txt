@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "羅甲",
+  "Time1": "05-18 01:00",
+  "Host": "加拉迪",
+  "OddStake": "平/半",
+  "Guest": "席洛爾",
+  "Prefer": "席洛爾",
+  "Odds": 0.86,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "05-17 22:39",
+  "Person": "segespa"
+}

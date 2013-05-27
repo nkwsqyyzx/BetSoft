@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-22 04:05",
+  "Host": "波爾多",
+  "OddStake": "平手",
+  "Guest": "基輔戴拿模",
+  "Prefer": "波爾多",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-22 00:02",
+  "Person": "足球擂台"
+}

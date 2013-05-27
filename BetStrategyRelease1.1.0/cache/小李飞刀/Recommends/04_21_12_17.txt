@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-21 15:00",
+  "Host": "千葉市原",
+  "OddStake": "半/一",
+  "Guest": "福岡黃蜂",
+  "Prefer": "福岡黃蜂",
+  "Odds": 1.06,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-21 12:17",
+  "Person": "小李飞刀"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中超",
+  "Time1": "05-26 19:35",
+  "Host": "山東魯能泰山",
+  "OddStake": "球半",
+  "Guest": "武漢卓爾",
+  "Prefer": "武漢卓爾",
+  "Odds": 1.0,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "05-26 18:51",
+  "Person": "量力而為"
+}

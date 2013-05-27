@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "比利時盃",
+  "Time1": "12-12 03:00",
+  "Host": "真特",
+  "OddStake": "2.5/3球",
+  "Guest": "安德列治",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "12-11 13:49",
+  "Person": "1300100915"
+}

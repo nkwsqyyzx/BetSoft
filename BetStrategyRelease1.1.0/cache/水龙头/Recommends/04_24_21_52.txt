@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "",
+  "Time1": "04-25 02:45",
+  "Host": "多特蒙德",
+  "OddStake": "2.5/3球",
+  "Guest": "皇家馬德里",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "04-24 21:52",
+  "Person": "水龙头"
+}

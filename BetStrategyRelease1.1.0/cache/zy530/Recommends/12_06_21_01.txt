@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐霸盃",
+  "Time1": "12-07 02:00",
+  "Host": "烏甸尼斯",
+  "OddStake": "2.5球",
+  "Guest": "利物浦",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "12-06 21:01",
+  "Person": "zy530"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "香港甲",
+  "Time1": "04-19 20:00",
+  "Host": "太陽飛馬足球會",
+  "OddStake": "3球",
+  "Guest": "傑志",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-19 19:07",
+  "Person": "wintion"
+}

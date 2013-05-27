@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-29 23:00",
+  "Host": "斯托克城",
+  "OddStake": "2/2.5球",
+  "Guest": "修咸頓",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "3-3",
+  "PreferResult": 1,
+  "Time2": "12-29 22:44",
+  "Person": "梅西的左脚"
+}

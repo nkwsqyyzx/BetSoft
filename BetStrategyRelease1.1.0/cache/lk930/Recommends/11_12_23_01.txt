@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "丹麥超",
+  "Time1": "11-13 02:00",
+  "Host": "米迪蘭特",
+  "OddStake": "2.5球",
+  "Guest": "艾斯堡",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-12 23:01",
+  "Person": "Lk930"
+}

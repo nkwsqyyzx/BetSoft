@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法甲",
+  "Time1": "11-08 01:30",
+  "Host": "索察",
+  "OddStake": "平/半",
+  "Guest": "伊維恩",
+  "Prefer": "索察",
+  "Odds": 1.08,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-07 23:17",
+  "Person": "segespa"
+}

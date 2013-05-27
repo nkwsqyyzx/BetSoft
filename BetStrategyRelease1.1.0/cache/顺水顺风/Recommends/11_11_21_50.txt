@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-11 22:00",
+  "Host": "拉素",
+  "OddStake": "3/3.5球",
+  "Guest": "羅馬",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "11-11 21:50",
+  "Person": "顺水顺风"
+}

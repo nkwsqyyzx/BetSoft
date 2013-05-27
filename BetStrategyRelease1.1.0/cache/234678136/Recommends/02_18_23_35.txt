@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "02-19 02:00",
+  "Host": "卡斯帕薩",
+  "OddStake": "半球",
+  "Guest": "希維斯堡",
+  "Prefer": "希維斯堡",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-18 23:35",
+  "Person": "234678136"
+}

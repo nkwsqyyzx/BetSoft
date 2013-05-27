@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "東亞錦",
+  "Time1": "12-07 20:30",
+  "Host": "香港",
+  "OddStake": "球半/两球",
+  "Guest": "台灣",
+  "Prefer": "香港",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "12-07 16:52",
+  "Person": "空山新雨"
+}

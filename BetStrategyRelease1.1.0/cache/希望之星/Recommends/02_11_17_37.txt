@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿聯酋杯",
+  "Time1": "02-11 21:20",
+  "Host": "阿爾艾利杜拜",
+  "OddStake": "3.5球",
+  "Guest": "渡巴阿富查伊拉",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-11 17:37",
+  "Person": "希望之星"
+}

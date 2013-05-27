@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "03-02 23:00",
+  "Host": "皇家馬德里",
+  "OddStake": "受平/半",
+  "Guest": "巴塞羅那",
+  "Prefer": "巴塞羅那",
+  "Odds": 1.03,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-02 15:11",
+  "Person": "1300100915"
+}

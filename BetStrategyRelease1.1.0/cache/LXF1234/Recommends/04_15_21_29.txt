@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥超",
+  "Time1": "04-16 01:00",
+  "Host": "洛斯查蘭特",
+  "OddStake": "受平/半",
+  "Guest": "哥本哈根",
+  "Prefer": "洛斯查蘭特",
+  "Odds": 0.94,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "04-15 21:29",
+  "Person": "lxf1234"
+}

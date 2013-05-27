@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "04-02 18:00",
+  "Host": "廣島三箭",
+  "OddStake": "平/半",
+  "Guest": "浦項制鐵",
+  "Prefer": "浦項制鐵",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-02 15:00",
+  "Person": "空山新雨"
+}

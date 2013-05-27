@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷蘭盃",
+  "Time1": "01-31 03:45",
+  "Host": "PSV燕豪芬",
+  "OddStake": "一球",
+  "Guest": "飛燕諾",
+  "Prefer": "PSV燕豪芬",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "01-30 22:06",
+  "Person": "234678136"
+}

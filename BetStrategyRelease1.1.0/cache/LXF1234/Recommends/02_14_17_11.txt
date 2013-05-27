@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-15 01:00",
+  "Host": "安芝(中)",
+  "OddStake": "半/一",
+  "Guest": "漢諾威",
+  "Prefer": "安芝(中)",
+  "Odds": 0.85,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-14 17:11",
+  "Person": "lxf1234"
+}

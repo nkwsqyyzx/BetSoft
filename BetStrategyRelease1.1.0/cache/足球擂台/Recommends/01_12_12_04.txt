@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意丙A",
+  "Time1": "01-12 21:30",
+  "Host": "特里提姆",
+  "OddStake": "2/2.5球",
+  "Guest": "聖馬利諾卡斯奥",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-5",
+  "PreferResult": 1,
+  "Time2": "01-12 12:04",
+  "Person": "足球擂台"
+}

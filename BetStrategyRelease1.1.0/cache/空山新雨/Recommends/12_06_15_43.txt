@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "女亞冠U19",
+  "Time1": "12-06 17:00",
+  "Host": "伊朗女足U19(中)",
+  "OddStake": "3球",
+  "Guest": "約旦女足U19",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "12-06 15:43",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波青聯",
+  "Time1": "05-15 23:00",
+  "Host": "維澤夫洛茲青年隊U21",
+  "OddStake": "平/半",
+  "Guest": "博爾切圖青年隊U21",
+  "Prefer": "博爾切圖青年隊U21",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-15 22:46",
+  "Person": "动听的乐章"
+}

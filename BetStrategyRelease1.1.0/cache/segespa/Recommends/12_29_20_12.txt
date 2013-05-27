@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英足總盃",
+  "Time1": "12-29 23:00",
+  "Host": "馬格斯菲特",
+  "OddStake": "2.5/3球",
+  "Guest": "貝羅",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "12-29 20:12",
+  "Person": "segespa"
+}

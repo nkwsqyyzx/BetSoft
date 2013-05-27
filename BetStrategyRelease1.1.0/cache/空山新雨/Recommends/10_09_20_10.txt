@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "阿聯盃",
+  "Time1": "10-09 23:59",
+  "Host": "般尼亞斯",
+  "OddStake": "受平/半",
+  "Guest": "詹辛拉",
+  "Prefer": "般尼亞斯",
+  "Odds": 0.8,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "10-09 20:10",
+  "Person": "空山新雨"
+}

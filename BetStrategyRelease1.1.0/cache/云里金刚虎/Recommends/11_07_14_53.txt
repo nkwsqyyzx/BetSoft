@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "美職業",
+  "Time1": "11-08 10:00",
+  "Host": "肯薩斯城體育會",
+  "OddStake": "2.5球",
+  "Guest": "侯斯頓戴拿模",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-07 14:53",
+  "Person": "云里金刚虎"
+}

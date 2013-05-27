@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-14 23:00",
+  "Host": "米亞爾比(中)",
+  "OddStake": "3/3.5球",
+  "Guest": "卡里魯",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-14 22:37",
+  "Person": "wintion"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "土超",
+  "Time1": "11-03 22:00",
+  "Host": "基錫里士邦",
+  "OddStake": "半球",
+  "Guest": "卡拉布克士邦",
+  "Prefer": "基錫里士邦",
+  "Odds": 0.87,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "11-03 21:33",
+  "Person": "顺水顺风"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "澳職聯",
+  "Time1": "11-04 14:00",
+  "Host": "布里斯班獅吼",
+  "OddStake": "一球/球半",
+  "Guest": "阿德萊得聯",
+  "Prefer": "阿德萊得聯",
+  "Odds": 0.81,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-04 13:41",
+  "Person": "天之骄子"
+}

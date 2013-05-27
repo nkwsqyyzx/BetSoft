@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-23 01:00",
+  "Host": "魯賓卡讚",
+  "OddStake": "半球",
+  "Guest": "國際米蘭",
+  "Prefer": "魯賓卡讚",
+  "Odds": 0.95,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "11-22 18:13",
+  "Person": "小李飞刀"
+}

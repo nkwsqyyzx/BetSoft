@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "太陽盃",
+  "Time1": "01-30 20:00",
+  "Host": "莫迪(中)",
+  "OddStake": "平手",
+  "Guest": "上海東亞",
+  "Prefer": "上海東亞",
+  "Odds": 1.05,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "01-30 17:41",
+  "Person": "罗纳尔多"
+}

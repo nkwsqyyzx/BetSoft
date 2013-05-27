@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-09 23:00",
+  "Host": "愛華頓",
+  "OddStake": "半球",
+  "Guest": "托特納姆熱刺",
+  "Prefer": "愛華頓",
+  "Odds": 0.93,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "12-09 22:45",
+  "Person": "中奖"
+}

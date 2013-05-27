@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "02-06 03:30",
+  "Host": "英格蘭U19",
+  "OddStake": "半球",
+  "Guest": "丹麥U19",
+  "Prefer": "丹麥U19",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "02-06 01:46",
+  "Person": "空山新雨"
+}

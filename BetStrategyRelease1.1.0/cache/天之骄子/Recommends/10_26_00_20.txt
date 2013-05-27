@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐霸盃",
+  "Time1": "10-26 01:00",
+  "Host": "彭拿典奈高斯",
+  "OddStake": "受平/半",
+  "Guest": "拉素",
+  "Prefer": "拉素",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "10-26 00:20",
+  "Person": "天之骄子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "丹麥超",
+  "Time1": "05-20 23:00",
+  "Host": "洛斯查蘭特",
+  "OddStake": "2.5/3球",
+  "Guest": "艾斯堡",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-20 12:22",
+  "Person": "1300100915"
+}

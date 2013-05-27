@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "愛超",
+  "Time1": "05-06 22:30",
+  "Host": "科克城",
+  "OddStake": "2/2.5球",
+  "Guest": "立麥立克",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "05-06 21:20",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-10 23:00",
+  "Host": "紐倫堡(中)",
+  "OddStake": "3/3.5球",
+  "Guest": "洛格倫",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-10 22:47",
+  "Person": "zy530"
+}

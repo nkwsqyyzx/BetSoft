@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德甲",
+  "Time1": "11-03 22:30",
+  "Host": "慕遜加柏",
+  "OddStake": "平/半",
+  "Guest": "費雷堡",
+  "Prefer": "費雷堡",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "11-03 18:53",
+  "Person": "天之骄子"
+}

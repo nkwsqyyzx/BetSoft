@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "11-21 03:45",
+  "Host": "華倫西亞",
+  "OddStake": "受平/半",
+  "Guest": "拜仁慕尼黑",
+  "Prefer": "華倫西亞",
+  "Odds": 1.03,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "11-20 15:58",
+  "Person": "qqzy"
+}

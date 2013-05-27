@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "韓聯盟",
+  "Time1": "05-24 18:00",
+  "Host": "金海",
+  "OddStake": "平/半",
+  "Guest": "釜山運輸",
+  "Prefer": "釜山運輸",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "05-24 15:07",
+  "Person": "qqzy"
+}

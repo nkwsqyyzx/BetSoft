@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞士超",
+  "Time1": "05-05 22:00",
+  "Host": "杜安",
+  "OddStake": "2.5球",
+  "Guest": "盧森",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-05 21:38",
+  "Person": "红日"
+}

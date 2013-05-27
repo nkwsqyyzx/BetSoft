@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "04-04 02:45",
+  "Host": "皇家馬德里",
+  "OddStake": "两球/两球半",
+  "Guest": "加拉塔沙雷",
+  "Prefer": "加拉塔沙雷",
+  "Odds": 0.93,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "04-03 20:27",
+  "Person": "小李飞刀"
+}

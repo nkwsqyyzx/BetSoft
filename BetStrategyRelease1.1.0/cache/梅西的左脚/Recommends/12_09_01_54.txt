@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法甲",
+  "Time1": "12-09 03:00",
+  "Host": "南錫",
+  "OddStake": "平手",
+  "Guest": "華倫西恩斯",
+  "Prefer": "南錫",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "12-09 01:54",
+  "Person": "梅西的左脚"
+}

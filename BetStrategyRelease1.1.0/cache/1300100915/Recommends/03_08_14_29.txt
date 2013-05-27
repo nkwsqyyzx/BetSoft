@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "奧乙",
+  "Time1": "03-09 03:30",
+  "Host": "霍恩",
+  "OddStake": "2.5/3球",
+  "Guest": "奧地利路斯登洛",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "03-08 14:29",
+  "Person": "1300100915"
+}

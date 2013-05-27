@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "希臘超",
+  "Time1": "12-16 21:00",
+  "Host": "阿里斯",
+  "OddStake": "平/半",
+  "Guest": "薩丁",
+  "Prefer": "薩丁",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "12-16 18:57",
+  "Person": "Lk930"
+}

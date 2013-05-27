@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-15 05:30",
+  "Host": "巴拿馬",
+  "OddStake": "受两球",
+  "Guest": "西班牙",
+  "Prefer": "巴拿馬",
+  "Odds": 0.832,
+  "Result": "1-5",
+  "PreferResult": 1,
+  "Time2": "11-15 00:24",
+  "Person": "梅西的左脚"
+}

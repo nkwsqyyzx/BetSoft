@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日聯盃",
+  "Time1": "05-15 18:00",
+  "Host": "大分三神",
+  "OddStake": "受一球",
+  "Guest": "鹿島鹿角",
+  "Prefer": "鹿島鹿角",
+  "Odds": 0.81,
+  "Result": "0-1",
+  "PreferResult": 3,
+  "Time2": "05-15 17:26",
+  "Person": "wintion"
+}

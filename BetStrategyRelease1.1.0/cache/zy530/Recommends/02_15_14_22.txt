@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳職聯",
+  "Time1": "02-15 16:30",
+  "Host": "紐卡斯托",
+  "OddStake": "2.5/3球",
+  "Guest": "墨爾本赫爾",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-15 14:22",
+  "Person": "zy530"
+}

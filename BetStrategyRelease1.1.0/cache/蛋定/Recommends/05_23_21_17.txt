@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-23 23:30",
+  "Host": "赫爾辛基",
+  "OddStake": "2.5球",
+  "Guest": "VPS華沙",
+  "Prefer": "小球",
+  "Odds": 0.97,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-23 21:17",
+  "Person": "蛋定"
+}

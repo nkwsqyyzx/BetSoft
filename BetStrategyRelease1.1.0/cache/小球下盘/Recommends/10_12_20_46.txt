@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐青U21",
+  "Time1": "10-13 00:45",
+  "Host": "法國U21",
+  "OddStake": "一球/球半",
+  "Guest": "挪威U21",
+  "Prefer": "挪威U21",
+  "Odds": 0.97,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "10-12 20:46",
+  "Person": "小球下盘"
+}

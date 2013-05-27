@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "",
+  "Time1": "01-27 00:30",
+  "Host": "蘇拉比科哈特",
+  "OddStake": "2.5/3球",
+  "Guest": "阿拉畢科威特",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-3",
+  "PreferResult": 4,
+  "Time2": "01-27 00:00",
+  "Person": "中奖太简单啦"
+}

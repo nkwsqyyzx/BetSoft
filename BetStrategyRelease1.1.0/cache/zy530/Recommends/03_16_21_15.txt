@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英甲",
+  "Time1": "03-16 23:00",
+  "Host": "史提芬納治",
+  "OddStake": "受半球",
+  "Guest": "謝菲爾德聯",
+  "Prefer": "謝菲爾德聯",
+  "Odds": 0.93,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "03-16 21:15",
+  "Person": "zy530"
+}

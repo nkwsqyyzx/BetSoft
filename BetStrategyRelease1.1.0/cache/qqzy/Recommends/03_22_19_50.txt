@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐洲預選",
+  "Time1": "03-23 02:00",
+  "Host": "哈薩克斯坦",
+  "OddStake": "受两球半/三球",
+  "Guest": "德國",
+  "Prefer": "德國",
+  "Odds": 0.92,
+  "Result": "0-3",
+  "PreferResult": 4,
+  "Time2": "03-22 19:50",
+  "Person": "qqzy"
+}

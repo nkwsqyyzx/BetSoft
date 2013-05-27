@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法乙",
+  "Time1": "12-01 01:45",
+  "Host": "沙特魯",
+  "OddStake": "2/2.5球",
+  "Guest": "歐塞爾",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "11-30 15:04",
+  "Person": "云里金刚虎"
+}

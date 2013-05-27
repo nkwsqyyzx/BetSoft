@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德東北聯",
+  "Time1": "05-05 19:30",
+  "Host": "萊比錫火車頭",
+  "OddStake": "2.5球",
+  "Guest": "哈伯斯泰德",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-05 13:19",
+  "Person": "小球下盘"
+}

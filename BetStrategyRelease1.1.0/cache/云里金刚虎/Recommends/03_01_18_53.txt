@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "03-02 06:10",
+  "Host": "基爾梅斯",
+  "OddStake": "2/2.5球",
+  "Guest": "艾朗迪考瑞法拉",
+  "Prefer": "大球",
+  "Odds": 1.1,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "03-01 18:53",
+  "Person": "云里金刚虎"
+}

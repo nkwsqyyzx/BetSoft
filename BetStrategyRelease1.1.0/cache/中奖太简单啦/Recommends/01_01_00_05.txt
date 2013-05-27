@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "以色列甲",
+  "Time1": "01-01 01:00",
+  "Host": "彼達提克瓦夏普",
+  "OddStake": "2/2.5球",
+  "Guest": "赫茲立亞馬卡比",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "01-01 00:05",
+  "Person": "中奖太简单啦"
+}

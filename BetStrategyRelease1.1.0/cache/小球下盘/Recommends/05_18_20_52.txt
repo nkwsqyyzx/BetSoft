@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "蘇超",
+  "Time1": "05-18 22:00",
+  "Host": "喜百年",
+  "OddStake": "2.5球",
+  "Guest": "登地",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-18 20:52",
+  "Person": "小球下盘"
+}

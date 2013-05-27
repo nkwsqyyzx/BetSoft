@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐霸盃",
+  "Time1": "03-15 01:00",
+  "Host": "魯賓卡讚(中)",
+  "OddStake": "半球",
+  "Guest": "利雲特",
+  "Prefer": "利雲特",
+  "Odds": 0.84,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-15 00:11",
+  "Person": "空山新雨"
+}

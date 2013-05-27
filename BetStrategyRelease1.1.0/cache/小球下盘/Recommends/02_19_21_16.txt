@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "卡塔爾聯",
+  "Time1": "02-19 23:59",
+  "Host": "瓦卡拉",
+  "OddStake": "2.5球",
+  "Guest": "沙拉爾",
+  "Prefer": "小球",
+  "Odds": 0.99,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-19 21:16",
+  "Person": "小球下盘"
+}

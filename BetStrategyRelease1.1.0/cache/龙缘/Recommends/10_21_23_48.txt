@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西乙",
+  "Time1": "10-22 02:30",
+  "Host": "梅西亞",
+  "OddStake": "2/2.5球",
+  "Guest": "艾爾切",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "10-21 23:48",
+  "Person": "龙缘"
+}

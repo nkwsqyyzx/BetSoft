@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷青聯",
+  "Time1": "12-19 01:30",
+  "Host": "威廉二世青年隊",
+  "OddStake": "半球",
+  "Guest": "迪加史卓普青年隊",
+  "Prefer": "迪加史卓普青年隊",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "12-19 00:03",
+  "Person": "余韵犹在"
+}

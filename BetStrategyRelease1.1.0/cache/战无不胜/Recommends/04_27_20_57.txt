@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-27 22:00",
+  "Host": "斯托克城",
+  "OddStake": "半球",
+  "Guest": "諾維奇",
+  "Prefer": "諾維奇",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-27 20:57",
+  "Person": "战无不胜"
+}

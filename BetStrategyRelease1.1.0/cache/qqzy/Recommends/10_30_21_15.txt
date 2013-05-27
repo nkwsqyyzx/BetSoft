@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "蘇聯盃",
+  "Time1": "10-31 03:45",
+  "Host": "阿伯丁",
+  "OddStake": "2/2.5球",
+  "Guest": "聖米倫",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "10-30 21:15",
+  "Person": "qqzy"
+}

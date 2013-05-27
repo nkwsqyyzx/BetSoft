@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "冰島甲",
+  "Time1": "05-24 03:15",
+  "Host": "UMF瑟福斯",
+  "OddStake": "2.5/3球",
+  "Guest": "候卡爾",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "05-24 03:03",
+  "Person": "低调玩球一齐杀庄"
+}

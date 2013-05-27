@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英冠",
+  "Time1": "11-03 23:00",
+  "Host": "哈德斯菲爾德",
+  "OddStake": "半球",
+  "Guest": "布里斯托城",
+  "Prefer": "布里斯托城",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-03 21:55",
+  "Person": "红红火火"
+}

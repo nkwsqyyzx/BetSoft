@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "俄超",
+  "Time1": "05-10 21:30",
+  "Host": "魯賓卡讚",
+  "OddStake": "2.5球",
+  "Guest": "摩爾多維亞",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-10 20:50",
+  "Person": "红红火火"
+}

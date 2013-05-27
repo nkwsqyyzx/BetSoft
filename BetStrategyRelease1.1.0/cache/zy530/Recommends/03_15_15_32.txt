@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "巴聖錦標",
+  "Time1": "03-16 06:30",
+  "Host": "伊圖阿諾",
+  "OddStake": "2.5/3球",
+  "Guest": "皮拉西卡巴",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "03-15 15:32",
+  "Person": "zy530"
+}

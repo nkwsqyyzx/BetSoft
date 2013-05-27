@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "哈薩超",
+  "Time1": "10-25 17:00",
+  "Host": "奧達巴斯",
+  "OddStake": "受平/半",
+  "Guest": "艾斯坦拿",
+  "Prefer": "奧達巴斯",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "10-25 16:04",
+  "Person": "qqzy"
+}

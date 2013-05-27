@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意青盃",
+  "Time1": "01-24 04:30",
+  "Host": "華倫西亞",
+  "OddStake": "受半/一",
+  "Guest": "皇家馬德里",
+  "Prefer": "華倫西亞",
+  "Odds": 0.99,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-23 17:21",
+  "Person": "弹弓六"
+}

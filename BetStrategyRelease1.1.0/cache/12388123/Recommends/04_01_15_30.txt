@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英甲",
+  "Time1": "04-01 19:15",
+  "Host": "唐卡士打",
+  "OddStake": "受平/半",
+  "Guest": "史雲頓",
+  "Prefer": "唐卡士打",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-01 15:30",
+  "Person": "12388123"
+}

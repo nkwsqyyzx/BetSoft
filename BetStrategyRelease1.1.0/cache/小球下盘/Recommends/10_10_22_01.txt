@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "巴西甲",
+  "Time1": "10-11 06:30",
+  "Host": "巴海亞",
+  "OddStake": "2/2.5球",
+  "Guest": "富明尼斯RJ",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "0-2",
+  "PreferResult": 4,
+  "Time2": "10-10 22:01",
+  "Person": "小球下盘"
+}

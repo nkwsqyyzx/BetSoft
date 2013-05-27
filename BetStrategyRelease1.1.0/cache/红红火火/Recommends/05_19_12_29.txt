@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "韓國K",
+  "Time1": "05-19 13:00",
+  "Host": "仁川聯隊",
+  "OddStake": "2.5球",
+  "Guest": "江原FC",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-19 12:29",
+  "Person": "红红火火"
+}

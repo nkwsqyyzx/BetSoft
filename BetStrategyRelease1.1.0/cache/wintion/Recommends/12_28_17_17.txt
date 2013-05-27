@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "伊朗甲",
+  "Time1": "12-28 18:30",
+  "Host": "亞蘇季",
+  "OddStake": "平/半",
+  "Guest": "阿巴市",
+  "Prefer": "阿巴市",
+  "Odds": 0.91,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "12-28 17:17",
+  "Person": "wintion"
+}

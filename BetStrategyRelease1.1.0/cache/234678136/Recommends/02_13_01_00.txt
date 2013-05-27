@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "墨西盃",
+  "Time1": "02-13 09:00",
+  "Host": "聖路易斯",
+  "OddStake": "2.5球",
+  "Guest": "阿蘇爾希達高",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-13 01:00",
+  "Person": "234678136"
+}

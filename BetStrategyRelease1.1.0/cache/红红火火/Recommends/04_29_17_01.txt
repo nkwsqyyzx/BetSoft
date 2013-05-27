@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英女盃",
+  "Time1": "04-30 01:20",
+  "Host": "喬科平所達",
+  "OddStake": "2.5球",
+  "Guest": "安其爾何馬士",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "04-29 17:01",
+  "Person": "红红火火"
+}

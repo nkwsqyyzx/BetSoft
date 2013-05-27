@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "亞洲預選",
+  "Time1": "11-15 00:30",
+  "Host": "伊朗",
+  "OddStake": "2/2.5球",
+  "Guest": "烏茲別克",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "11-14 20:16",
+  "Person": "顺水顺风"
+}

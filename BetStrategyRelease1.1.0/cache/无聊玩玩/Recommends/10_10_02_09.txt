@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英錦賽",
+  "Time1": "10-10 02:45",
+  "Host": "車頓咸",
+  "OddStake": "2.5球",
+  "Guest": "牛津聯",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "10-10 02:09",
+  "Person": "无聊玩玩"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-27 19:45",
+  "Host": "曼城",
+  "OddStake": "3/3.5球",
+  "Guest": "西漢姆聯",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "04-27 19:15",
+  "Person": "红红火火"
+}

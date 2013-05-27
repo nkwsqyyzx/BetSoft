@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法甲",
+  "Time1": "05-19 03:00",
+  "Host": "特魯瓦",
+  "OddStake": "2.5球",
+  "Guest": "波爾多",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-19 00:44",
+  "Person": "梅西的左脚"
+}

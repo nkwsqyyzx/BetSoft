@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "比乙",
+  "Time1": "04-07 21:00",
+  "Host": "奧斯坦德",
+  "OddStake": "半/一",
+  "Guest": "歐本",
+  "Prefer": "奧斯坦德",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "04-07 14:55",
+  "Person": "1300100915"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "奧乙",
+  "Time1": "11-03 01:30",
+  "Host": "哈特堡格",
+  "OddStake": "受半球",
+  "Guest": "SV格羅迪格",
+  "Prefer": "SV格羅迪格",
+  "Odds": 0.91,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "11-02 20:57",
+  "Person": "jack"
+}

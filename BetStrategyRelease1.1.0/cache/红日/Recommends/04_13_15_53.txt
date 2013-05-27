@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "澳布超",
+  "Time1": "04-13 16:45",
+  "Host": "洛根利泰柠",
+  "OddStake": "受球半",
+  "Guest": "布里斯班狼隊",
+  "Prefer": "洛根利泰柠",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-13 15:53",
+  "Person": "红日"
+}

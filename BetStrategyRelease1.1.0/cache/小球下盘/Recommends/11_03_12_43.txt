@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-03 20:00",
+  "Host": "杜伊斯堡",
+  "OddStake": "2.5球",
+  "Guest": "FSV法蘭克福",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "11-03 12:43",
+  "Person": "小球下盘"
+}

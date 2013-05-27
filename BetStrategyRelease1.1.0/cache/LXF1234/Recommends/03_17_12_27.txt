@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "日職乙",
+  "Time1": "03-17 15:00",
+  "Host": "神戶勝利船",
+  "OddStake": "半/一",
+  "Guest": "札幌岡薩多",
+  "Prefer": "神戶勝利船",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "03-17 12:27",
+  "Person": "lxf1234"
+}

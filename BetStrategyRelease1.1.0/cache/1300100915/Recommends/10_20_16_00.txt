@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西乙",
+  "Time1": "10-20 23:59",
+  "Host": "希杭",
+  "OddStake": "平手",
+  "Guest": "艾美利亞",
+  "Prefer": "艾美利亞",
+  "Odds": 1.09,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-20 16:00",
+  "Person": "1300100915"
+}

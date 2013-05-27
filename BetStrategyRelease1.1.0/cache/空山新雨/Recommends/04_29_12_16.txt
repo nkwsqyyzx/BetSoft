@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-29 13:00",
+  "Host": "愛媛",
+  "OddStake": "2球",
+  "Guest": "V瓦仁長崎",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 3,
+  "Time2": "04-29 12:16",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-10 20:00",
+  "Host": "派特博恩",
+  "OddStake": "受平/半",
+  "Guest": "凱沙羅頓",
+  "Prefer": "派特博恩",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "11-10 16:36",
+  "Person": "天之骄子"
+}

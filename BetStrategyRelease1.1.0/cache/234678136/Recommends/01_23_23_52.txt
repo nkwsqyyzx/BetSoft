@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-24 03:45",
+  "Host": "阿森納",
+  "OddStake": "一球/球半",
+  "Guest": "西漢姆",
+  "Prefer": "阿森納",
+  "Odds": 1.07,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "01-23 23:52",
+  "Person": "234678136"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "烏克U21",
+  "Time1": "04-26 19:00",
+  "Host": "查諾莫斯U21",
+  "OddStake": "受一球",
+  "Guest": "伊利捷維斯U21",
+  "Prefer": "查諾莫斯U21",
+  "Odds": 0.9,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-26 18:47",
+  "Person": "地狱黑仔王"
+}

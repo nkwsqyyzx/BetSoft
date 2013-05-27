@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "瑞典乙南",
+  "Time1": "10-16 01:00",
+  "Host": "諾比",
+  "OddStake": "平/半",
+  "Guest": "烏席登斯",
+  "Prefer": "烏席登斯",
+  "Odds": 0.87,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "10-15 23:36",
+  "Person": "segespa"
+}

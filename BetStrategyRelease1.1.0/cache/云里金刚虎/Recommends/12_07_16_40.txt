@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德乙",
+  "Time1": "12-08 01:00",
+  "Host": "VFR亞倫",
+  "OddStake": "2.5球",
+  "Guest": "杜伊斯堡",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-07 16:40",
+  "Person": "云里金刚虎"
+}

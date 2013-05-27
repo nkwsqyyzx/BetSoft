@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "丹麥超",
+  "Time1": "12-10 02:00",
+  "Host": "哥本哈根",
+  "OddStake": "半球",
+  "Guest": "洛斯查蘭特",
+  "Prefer": "哥本哈根",
+  "Odds": 0.8,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "12-10 00:02",
+  "Person": "无聊玩玩"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-16 23:59",
+  "Host": "白蘭恩",
+  "OddStake": "2.5/3球",
+  "Guest": "阿利辛特",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-16 20:54",
+  "Person": "空中飞人"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "里約錦標",
+  "Time1": "02-08 05:30",
+  "Host": "博塔福格RJ",
+  "OddStake": "一球/球半",
+  "Guest": "雷森德",
+  "Prefer": "博塔福格RJ",
+  "Odds": 0.87,
+  "Result": "4-2",
+  "PreferResult": 5,
+  "Time2": "02-07 19:30",
+  "Person": "爽爽"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意青盃",
+  "Time1": "11-01 03:00",
+  "Host": "艾美利亞",
+  "OddStake": "平/半",
+  "Guest": "切爾達",
+  "Prefer": "艾美利亞",
+  "Odds": 1.08,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "10-31 22:42",
+  "Person": "云里金刚虎"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "希臘超",
+  "Time1": "12-09 23:15",
+  "Host": "泰利普利斯",
+  "OddStake": "一球",
+  "Guest": "阿里斯",
+  "Prefer": "泰利普利斯",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "12-09 21:17",
+  "Person": "lxf1234"
+}

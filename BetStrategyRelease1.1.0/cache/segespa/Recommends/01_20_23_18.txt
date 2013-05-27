@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德甲",
+  "Time1": "01-21 00:30",
+  "Host": "杜塞爾多夫",
+  "OddStake": "平/半",
+  "Guest": "奧斯堡",
+  "Prefer": "奧斯堡",
+  "Odds": 0.85,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "01-20 23:18",
+  "Person": "segespa"
+}

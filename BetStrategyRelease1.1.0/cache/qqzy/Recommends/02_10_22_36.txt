@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "葡超",
+  "Time1": "02-10 23:59",
+  "Host": "摩里倫斯",
+  "OddStake": "平/半",
+  "Guest": "比拉馬",
+  "Prefer": "比拉馬",
+  "Odds": 0.94,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "02-10 22:36",
+  "Person": "qqzy"
+}

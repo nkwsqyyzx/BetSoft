@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐青U19",
+  "Time1": "10-15 19:00",
+  "Host": "北愛爾蘭U19",
+  "OddStake": "2.5/3球",
+  "Guest": "摩爾多瓦U19",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "8-1",
+  "PreferResult": 5,
+  "Time2": "10-15 17:43",
+  "Person": "天之骄子"
+}

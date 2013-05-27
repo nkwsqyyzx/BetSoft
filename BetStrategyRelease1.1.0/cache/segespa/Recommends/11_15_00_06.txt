@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-15 00:30",
+  "Host": "捷克",
+  "OddStake": "平/半",
+  "Guest": "斯洛伐克",
+  "Prefer": "斯洛伐克",
+  "Odds": 0.88,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "11-15 00:06",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意盃",
+  "Time1": "12-05 01:30",
+  "Host": "卡坦尼亞",
+  "OddStake": "半/一",
+  "Guest": "施達迪那",
+  "Prefer": "卡坦尼亞",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "12-04 21:13",
+  "Person": "qqzy"
+}

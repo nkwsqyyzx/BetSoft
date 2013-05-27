@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-21 15:00",
+  "Host": "富山勝利",
+  "OddStake": "2.5/3球",
+  "Guest": "大阪飛腳",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "04-21 13:54",
+  "Person": "空山新雨"
+}

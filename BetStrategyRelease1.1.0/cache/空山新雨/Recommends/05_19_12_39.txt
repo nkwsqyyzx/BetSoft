@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "澳威超",
+  "Time1": "05-19 13:00",
+  "Host": "馬柯尼",
+  "OddStake": "2.5/3球",
+  "Guest": "悉尼聯58",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "3-0",
+  "PreferResult": 4,
+  "Time2": "05-19 12:39",
+  "Person": "空山新雨"
+}

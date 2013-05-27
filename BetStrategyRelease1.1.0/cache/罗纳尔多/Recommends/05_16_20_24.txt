@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-16 23:59",
+  "Host": "維京",
+  "OddStake": "一球",
+  "Guest": "侯尼霍斯",
+  "Prefer": "侯尼霍斯",
+  "Odds": 1.03,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-16 20:24",
+  "Person": "罗纳尔多"
+}

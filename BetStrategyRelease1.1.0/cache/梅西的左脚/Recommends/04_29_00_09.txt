@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "墨西聯",
+  "Time1": "04-29 01:00",
+  "Host": "普埃布拉",
+  "OddStake": "平/半",
+  "Guest": "艾特萊",
+  "Prefer": "普埃布拉",
+  "Odds": 0.89,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "04-29 00:09",
+  "Person": "梅西的左脚"
+}

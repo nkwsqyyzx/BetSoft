@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "05-09 01:00",
+  "Host": "華拿倫加",
+  "OddStake": "2.5球",
+  "Guest": "侯尼霍斯",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-08 22:12",
+  "Person": "水龙头"
+}

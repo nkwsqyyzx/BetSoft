@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "友誼賽",
+  "Time1": "03-22 02:00",
+  "Host": "法國U19",
+  "OddStake": "半/一",
+  "Guest": "丹麥U19",
+  "Prefer": "丹麥U19",
+  "Odds": 0.91,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "03-22 01:33",
+  "Person": "wintion"
+}

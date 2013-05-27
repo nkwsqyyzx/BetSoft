@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-11 22:00",
+  "Host": "熱拿亞",
+  "OddStake": "受半球",
+  "Guest": "拿玻里",
+  "Prefer": "熱拿亞",
+  "Odds": 0.96,
+  "Result": "2-4",
+  "PreferResult": 1,
+  "Time2": "11-11 20:59",
+  "Person": "jack"
+}

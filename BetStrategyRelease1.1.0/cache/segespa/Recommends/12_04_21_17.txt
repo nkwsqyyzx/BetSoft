@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "12-05 03:45",
+  "Host": "奧林比亞高斯CFP",
+  "OddStake": "2.5球",
+  "Guest": "阿森納",
+  "Prefer": "小球",
+  "Odds": 0.99,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "12-04 21:17",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "日職乙",
+  "Time1": "03-17 15:00",
+  "Host": "槴木SC",
+  "OddStake": "受半球",
+  "Guest": "千葉市原",
+  "Prefer": "槴木SC",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-17 12:43",
+  "Person": "红日"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "以色列甲",
+  "Time1": "11-16 21:00",
+  "Host": "克拉瑪甘",
+  "OddStake": "2/2.5球",
+  "Guest": "柏納洛德夏普爾",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-16 20:39",
+  "Person": "顺水顺风"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐洲預選",
+  "Time1": "10-12 23:59",
+  "Host": "哈薩克斯坦",
+  "OddStake": "2.5球",
+  "Guest": "奧地利",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "10-12 21:57",
+  "Person": "红日"
+}

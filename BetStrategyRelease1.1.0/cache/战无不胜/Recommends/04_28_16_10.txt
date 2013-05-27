@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中超",
+  "Time1": "04-28 19:45",
+  "Host": "上海申花",
+  "OddStake": "半球",
+  "Guest": "上海東亞",
+  "Prefer": "上海東亞",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-28 16:10",
+  "Person": "战无不胜"
+}

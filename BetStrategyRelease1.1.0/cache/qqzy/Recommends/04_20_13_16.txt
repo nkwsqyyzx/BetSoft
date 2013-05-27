@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-20 22:00",
+  "Host": "西漢姆聯",
+  "OddStake": "平/半",
+  "Guest": "維岡競技",
+  "Prefer": "維岡競技",
+  "Odds": 0.94,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-20 13:16",
+  "Person": "qqzy"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法甲",
+  "Time1": "05-04 02:30",
+  "Host": "聖伊天",
+  "OddStake": "一球",
+  "Guest": "波爾多",
+  "Prefer": "波爾多",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-03 13:59",
+  "Person": "罗纳尔多"
+}

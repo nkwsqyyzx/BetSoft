@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "瑞典超",
+  "Time1": "11-02 01:00",
+  "Host": "瓂斯哥德堡",
+  "OddStake": "受半球",
+  "Guest": "加費萊",
+  "Prefer": "加費萊",
+  "Odds": 1.06,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "11-01 23:36",
+  "Person": "lxf1234"
+}

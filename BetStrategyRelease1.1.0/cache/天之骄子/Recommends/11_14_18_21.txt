@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-14 19:30",
+  "Host": "中國",
+  "OddStake": "平/半",
+  "Guest": "紐西蘭",
+  "Prefer": "中國",
+  "Odds": 0.87,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "11-14 18:21",
+  "Person": "天之骄子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "俄甲",
+  "Time1": "05-25 21:00",
+  "Host": "內弗特赫米克",
+  "OddStake": "2/2.5球",
+  "Guest": "古帕斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-25 19:37",
+  "Person": "空中飞人"
+}

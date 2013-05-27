@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英甲",
+  "Time1": "05-03 18:00",
+  "Host": "川崎前鋒",
+  "OddStake": "平/半",
+  "Guest": "名古屋鯨魚",
+  "Prefer": "名古屋鯨魚",
+  "Odds": 0.84,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-03 13:13",
+  "Person": "qqzy"
+}

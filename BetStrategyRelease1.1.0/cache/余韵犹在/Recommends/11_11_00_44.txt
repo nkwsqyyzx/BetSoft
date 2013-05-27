@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西乙",
+  "Time1": "11-11 01:00",
+  "Host": "CD瓜達拉哈拉",
+  "OddStake": "2.5球",
+  "Guest": "希杭",
+  "Prefer": "小球",
+  "Odds": 1.03,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-11 00:44",
+  "Person": "余韵犹在"
+}

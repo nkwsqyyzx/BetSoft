@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-24 23:30",
+  "Host": "沙巴柏杜拜",
+  "OddStake": "2.5球",
+  "Guest": "里科威亞",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "04-24 19:00",
+  "Person": "小球下盘"
+}

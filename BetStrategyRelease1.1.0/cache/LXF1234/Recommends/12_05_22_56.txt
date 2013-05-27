@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐冠盃",
+  "Time1": "12-06 03:45",
+  "Host": "布拉加",
+  "OddStake": "平手",
+  "Guest": "加拉塔沙雷",
+  "Prefer": "布拉加",
+  "Odds": 0.93,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "12-05 22:56",
+  "Person": "lxf1234"
+}

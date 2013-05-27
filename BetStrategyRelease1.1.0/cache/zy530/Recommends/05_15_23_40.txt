@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "南非超",
+  "Time1": "05-16 01:30",
+  "Host": "奧蘭多海盜",
+  "OddStake": "2.5球",
+  "Guest": "黑羅帕德",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "05-15 23:40",
+  "Person": "zy530"
+}

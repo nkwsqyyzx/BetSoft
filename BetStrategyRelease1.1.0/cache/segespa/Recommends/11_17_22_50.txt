@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英非北",
+  "Time1": "11-17 23:00",
+  "Host": "比夏史托福",
+  "OddStake": "2.5/3球",
+  "Guest": "真斯布洛治",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "1-5",
+  "PreferResult": 5,
+  "Time2": "11-17 22:50",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "",
+  "Time1": "01-27 01:00",
+  "Host": "利雲特",
+  "OddStake": "半球",
+  "Guest": "華拉度列",
+  "Prefer": "利雲特",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "01-27 00:30",
+  "Person": "人在美洲"
+}

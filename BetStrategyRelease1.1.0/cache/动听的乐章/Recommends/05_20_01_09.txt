@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "意甲",
+  "Time1": "05-20 02:45",
+  "Host": "卡利亞里(中)",
+  "OddStake": "受半/一",
+  "Guest": "拉素",
+  "Prefer": "拉素",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-20 01:09",
+  "Person": "动听的乐章"
+}

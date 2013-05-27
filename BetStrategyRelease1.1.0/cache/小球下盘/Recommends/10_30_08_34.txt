@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "哥倫乙",
+  "Time1": "10-30 08:45",
+  "Host": "卡利阿美利加",
+  "OddStake": "2.5球",
+  "Guest": "阿利安薩",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "10-30 08:34",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-20 23:59",
+  "Host": "候格森德",
+  "OddStake": "一球",
+  "Guest": "桑恩達",
+  "Prefer": "候格森德",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-20 12:08",
+  "Person": "12388123"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英非聯",
+  "Time1": "01-01 20:00",
+  "Host": "泰福特",
+  "OddStake": "2.5/3球",
+  "Guest": "威斯漢姆",
+  "Prefer": "大球",
+  "Odds": 1.02,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "01-01 13:41",
+  "Person": "wintion"
+}

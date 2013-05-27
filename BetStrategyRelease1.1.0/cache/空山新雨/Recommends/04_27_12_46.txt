@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-27 13:00",
+  "Host": "城南一和天馬",
+  "OddStake": "2.5球",
+  "Guest": "全南天龍",
+  "Prefer": "大球",
+  "Odds": 1.08,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "04-27 12:46",
+  "Person": "空山新雨"
+}

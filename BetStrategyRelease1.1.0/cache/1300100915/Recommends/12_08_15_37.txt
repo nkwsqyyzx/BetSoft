@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土超",
+  "Time1": "12-08 20:00",
+  "Host": "卡斯帕薩",
+  "OddStake": "2.5球",
+  "Guest": "真格拿拜列治",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "12-08 15:37",
+  "Person": "1300100915"
+}

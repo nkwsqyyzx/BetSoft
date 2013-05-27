@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西班牙盃",
+  "Time1": "05-18 03:30",
+  "Host": "皇家馬德里",
+  "OddStake": "半/一",
+  "Guest": "馬德里體育會",
+  "Prefer": "皇家馬德里",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-17 20:21",
+  "Person": "金牌出击"
+}

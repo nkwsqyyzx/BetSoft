@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-11 03:30",
+  "Host": "川迪(中)",
+  "OddStake": "一球/球半",
+  "Guest": "洛桑體育隊",
+  "Prefer": "川迪(中)",
+  "Odds": 1.03,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "01-10 21:42",
+  "Person": "金牌出击"
+}

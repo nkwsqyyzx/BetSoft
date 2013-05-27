@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐霸盃",
+  "Time1": "05-03 03:05",
+  "Host": "賓菲加",
+  "OddStake": "一球/球半",
+  "Guest": "費倫巴治",
+  "Prefer": "費倫巴治",
+  "Odds": 0.96,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "05-02 23:10",
+  "Person": "lijian520"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-05 23:00",
+  "Host": "利雲特",
+  "OddStake": "2.5球",
+  "Guest": "畢爾巴鄂競技",
+  "Prefer": "大球",
+  "Odds": 1.07,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-05 22:26",
+  "Person": "Lk930"
+}

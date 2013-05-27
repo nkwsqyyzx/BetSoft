@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德甲",
+  "Time1": "05-18 21:30",
+  "Host": "慕遜加柏",
+  "OddStake": "3球",
+  "Guest": "拜仁慕尼黑",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "3-4",
+  "PreferResult": 1,
+  "Time2": "05-18 20:36",
+  "Person": "空中飞人"
+}

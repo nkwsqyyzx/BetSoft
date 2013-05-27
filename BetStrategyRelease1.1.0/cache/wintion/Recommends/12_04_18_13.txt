@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "女亞冠U19",
+  "Time1": "12-04 20:00",
+  "Host": "泰國女足U19(中)",
+  "OddStake": "5/5.5球",
+  "Guest": "伊朗女足U19",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "12-04 18:13",
+  "Person": "wintion"
+}

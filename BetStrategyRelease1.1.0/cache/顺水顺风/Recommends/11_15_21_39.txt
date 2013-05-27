@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-16 02:00",
+  "Host": "費倫天拿",
+  "OddStake": "2.5/3球",
+  "Guest": "蒙特利爾衝擊",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "11-15 21:39",
+  "Person": "顺水顺风"
+}

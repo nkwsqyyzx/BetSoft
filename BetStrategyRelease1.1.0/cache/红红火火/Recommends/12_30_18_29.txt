@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇超",
+  "Time1": "12-30 23:00",
+  "Host": "登地聯",
+  "OddStake": "半球",
+  "Guest": "聖米倫",
+  "Prefer": "聖米倫",
+  "Odds": 0.88,
+  "Result": "3-4",
+  "PreferResult": 5,
+  "Time2": "12-30 18:29",
+  "Person": "红红火火"
+}

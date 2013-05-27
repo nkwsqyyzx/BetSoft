@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "澳維超",
+  "Time1": "05-25 13:00",
+  "Host": "卡瓦利爾斯",
+  "OddStake": "平/半",
+  "Guest": "墨爾本港鯊魚",
+  "Prefer": "墨爾本港鯊魚",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-25 12:16",
+  "Person": "空山新雨"
+}

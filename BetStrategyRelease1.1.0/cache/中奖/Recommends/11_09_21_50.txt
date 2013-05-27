@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英冠",
+  "Time1": "11-10 03:45",
+  "Host": "米德爾斯堡",
+  "OddStake": "半球",
+  "Guest": "錫周三",
+  "Prefer": "米德爾斯堡",
+  "Odds": 0.81,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "11-09 21:50",
+  "Person": "中奖"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "日職乙",
+  "Time1": "10-21 18:00",
+  "Host": "鳥取SC",
+  "OddStake": "受半球",
+  "Guest": "大分三神",
+  "Prefer": "大分三神",
+  "Odds": 1.01,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "10-21 17:50",
+  "Person": "lxf1234"
+}

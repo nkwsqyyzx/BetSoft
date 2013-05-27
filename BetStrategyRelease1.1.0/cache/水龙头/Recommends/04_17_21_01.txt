@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "克羅盃",
+  "Time1": "04-18 01:00",
+  "Host": "夏積杜克",
+  "OddStake": "一球",
+  "Guest": "比路樸",
+  "Prefer": "夏積杜克",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-17 21:01",
+  "Person": "水龙头"
+}

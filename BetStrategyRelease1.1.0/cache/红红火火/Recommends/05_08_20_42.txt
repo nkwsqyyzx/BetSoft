@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "阿塞超",
+  "Time1": "05-08 21:00",
+  "Host": "阿紮巴古",
+  "OddStake": "2.5球",
+  "Guest": "蘇姆蓋特",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-08 20:42",
+  "Person": "红红火火"
+}

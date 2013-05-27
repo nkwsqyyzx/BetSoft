@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "",
+  "Time1": "01-27 01:30",
+  "Host": "曼聯",
+  "OddStake": "3/3.5球",
+  "Guest": "富勒姆",
+  "Prefer": "大球",
+  "Odds": 1.07,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "01-27 01:17",
+  "Person": "夜是彩市圆"
+}

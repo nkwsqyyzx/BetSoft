@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德甲",
+  "Time1": "11-29 03:00",
+  "Host": "慕遜加柏",
+  "OddStake": "平/半",
+  "Guest": "沃爾夫斯堡",
+  "Prefer": "沃爾夫斯堡",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "11-28 15:03",
+  "Person": "天之骄子"
+}

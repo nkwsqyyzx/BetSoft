@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓足總",
+  "Time1": "05-08 18:00",
+  "Host": "全北現代",
+  "OddStake": "球半/两球",
+  "Guest": "龍仁市FC",
+  "Prefer": "全北現代",
+  "Odds": 0.81,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "05-08 13:13",
+  "Person": "12388123"
+}

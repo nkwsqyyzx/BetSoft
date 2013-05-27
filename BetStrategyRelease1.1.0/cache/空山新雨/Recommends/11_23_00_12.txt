@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-23 04:05",
+  "Host": "布魯日",
+  "OddStake": "平手",
+  "Guest": "波爾多",
+  "Prefer": "波爾多",
+  "Odds": 0.88,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "11-23 00:12",
+  "Person": "空山新雨"
+}

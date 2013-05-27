@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "阿根廷盃",
+  "Time1": "04-18 04:00",
+  "Host": "拉魯斯",
+  "OddStake": "半/一",
+  "Guest": "艾朗迪考瑞法拉",
+  "Prefer": "拉魯斯",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-18 00:36",
+  "Person": "lk930"
+}

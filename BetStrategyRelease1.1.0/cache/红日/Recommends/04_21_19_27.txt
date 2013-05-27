@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法甲",
+  "Time1": "04-21 20:00",
+  "Host": "巴斯蒂亞",
+  "OddStake": "受半球",
+  "Guest": "利爾",
+  "Prefer": "利爾",
+  "Odds": 0.97,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "04-21 19:27",
+  "Person": "红日"
+}

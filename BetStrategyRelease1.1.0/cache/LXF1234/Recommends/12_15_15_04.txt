@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英冠",
+  "Time1": "12-15 23:00",
+  "Host": "白禮頓",
+  "OddStake": "半球",
+  "Guest": "諾定咸森林",
+  "Prefer": "諾定咸森林",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "12-15 15:04",
+  "Person": "lxf1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐冠盃",
+  "Time1": "12-06 03:45",
+  "Host": "薩克達",
+  "OddStake": "平手",
+  "Guest": "祖雲達斯",
+  "Prefer": "祖雲達斯",
+  "Odds": 1.05,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-05 19:29",
+  "Person": "天之骄子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "土耳其盃",
+  "Time1": "01-25 02:30",
+  "Host": "特拉布宗",
+  "OddStake": "2.5/3球",
+  "Guest": "梅爾辛",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "3-0",
+  "PreferResult": 4,
+  "Time2": "01-25 02:08",
+  "Person": "234678136"
+}

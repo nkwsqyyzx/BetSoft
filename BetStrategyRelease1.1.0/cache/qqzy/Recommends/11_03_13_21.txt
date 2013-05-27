@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "",
+  "Time1": "11-03 14:00",
+  "Host": "蔚山現代",
+  "OddStake": "受平/半",
+  "Guest": "浦項制鐵",
+  "Prefer": "蔚山現代",
+  "Odds": 0.83,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "11-03 13:21",
+  "Person": "qqzy"
+}

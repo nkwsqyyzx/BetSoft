@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "秘魯春",
+  "Time1": "05-06 02:30",
+  "Host": "梅加",
+  "OddStake": "一球",
+  "Guest": "聖馬丁",
+  "Prefer": "梅加",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "05-06 01:10",
+  "Person": "12388123"
+}

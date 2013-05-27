@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德甲",
+  "Time1": "11-10 22:30",
+  "Host": "史浩克04",
+  "OddStake": "一球/球半",
+  "Guest": "雲達不萊梅",
+  "Prefer": "雲達不萊梅",
+  "Odds": 0.89,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "11-10 17:36",
+  "Person": "zy530"
+}

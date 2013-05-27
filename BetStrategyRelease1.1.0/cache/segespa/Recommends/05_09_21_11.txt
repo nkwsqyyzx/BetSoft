@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比利時盃",
+  "Time1": "05-10 02:45",
+  "Host": "色格拉布魯日(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "亨克",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "05-09 21:11",
+  "Person": "segespa"
+}

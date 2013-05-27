@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄盃",
+  "Time1": "10-30 23:59",
+  "Host": "羅斯托夫",
+  "OddStake": "受半球",
+  "Guest": "莫斯科斯巴達",
+  "Prefer": "莫斯科斯巴達",
+  "Odds": 0.89,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "10-30 23:46",
+  "Person": "红日"
+}

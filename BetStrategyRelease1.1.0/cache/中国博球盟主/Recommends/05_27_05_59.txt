@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "墨西聯",
+  "Time1": "05-27 09:00",
+  "Host": "阿美利加會",
+  "OddStake": "2/2.5球",
+  "Guest": "阿蘇爾",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 05:59",
+  "Person": "中国博球盟主"
+}

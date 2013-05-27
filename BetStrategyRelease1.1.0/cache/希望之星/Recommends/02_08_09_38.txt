@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳職聯",
+  "Time1": "02-08 16:30",
+  "Host": "阿德萊得聯",
+  "OddStake": "平手",
+  "Guest": "墨爾本勝利",
+  "Prefer": "墨爾本勝利",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-08 09:38",
+  "Person": "希望之星"
+}

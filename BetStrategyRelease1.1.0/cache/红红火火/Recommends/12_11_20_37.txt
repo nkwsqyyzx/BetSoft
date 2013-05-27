@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-11 23:00",
+  "Host": "以色列U18",
+  "OddStake": "3.5球",
+  "Guest": "德國U18",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "12-11 20:37",
+  "Person": "红红火火"
+}

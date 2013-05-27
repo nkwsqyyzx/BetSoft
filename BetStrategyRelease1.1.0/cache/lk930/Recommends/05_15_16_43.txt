@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "埃及甲",
+  "Time1": "05-15 21:30",
+  "Host": "達克爾野",
+  "OddStake": "受平/半",
+  "Guest": "塔拉雅",
+  "Prefer": "塔拉雅",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "05-15 16:43",
+  "Person": "lk930"
+}

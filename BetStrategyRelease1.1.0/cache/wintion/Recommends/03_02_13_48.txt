@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "蘇乙",
+  "Time1": "03-02 23:00",
+  "Host": "科化體育會",
+  "OddStake": "3/3.5球",
+  "Guest": "斯青威爾",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "03-02 13:48",
+  "Person": "wintion"
+}

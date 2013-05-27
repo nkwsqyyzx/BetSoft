@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "02-09 03:00",
+  "Host": "沙特魯",
+  "OddStake": "2/2.5球",
+  "Guest": "甘岡",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "02-08 22:33",
+  "Person": "qqzy"
+}

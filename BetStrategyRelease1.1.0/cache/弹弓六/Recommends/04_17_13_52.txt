@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法國盃",
+  "Time1": "04-18 02:55",
+  "Host": "伊維恩",
+  "OddStake": "受一球",
+  "Guest": "巴黎聖日門",
+  "Prefer": "伊維恩",
+  "Odds": 0.94,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-17 13:52",
+  "Person": "弹弓六"
+}

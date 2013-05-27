@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德甲",
+  "Time1": "04-14 23:30",
+  "Host": "奧斯堡",
+  "OddStake": "平/半",
+  "Guest": "法蘭克福",
+  "Prefer": "奧斯堡",
+  "Odds": 1.09,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-14 22:32",
+  "Person": "segespa"
+}

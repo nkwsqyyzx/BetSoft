@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬甲",
+  "Time1": "05-09 22:00",
+  "Host": "SJK塞那喬其",
+  "OddStake": "球半/两球",
+  "Guest": "卡傑尼",
+  "Prefer": "SJK塞那喬其",
+  "Odds": 1.0,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "05-09 21:40",
+  "Person": "红日"
+}

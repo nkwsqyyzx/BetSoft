@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "01-03 21:30",
+  "Host": "柏迪亞",
+  "OddStake": "受两球/两球半",
+  "Guest": "AC米蘭",
+  "Prefer": "柏迪亞",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 3,
+  "Time2": "01-03 19:15",
+  "Person": "中奖太简单啦"
+}

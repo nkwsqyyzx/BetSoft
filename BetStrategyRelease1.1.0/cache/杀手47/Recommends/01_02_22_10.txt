@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇乙",
+  "Time1": "01-02 23:00",
+  "Host": "艾爾",
+  "OddStake": "2.5/3球",
+  "Guest": "南後",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "1-5",
+  "PreferResult": 5,
+  "Time2": "01-02 22:10",
+  "Person": "杀手47"
+}

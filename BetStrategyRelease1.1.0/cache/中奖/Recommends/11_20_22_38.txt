@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英甲",
+  "Time1": "11-21 03:45",
+  "Host": "克拉雷鎮",
+  "OddStake": "半/一",
+  "Guest": "伊奧華",
+  "Prefer": "伊奧華",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-20 22:38",
+  "Person": "中奖"
+}

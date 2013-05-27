@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美職業",
+  "Time1": "05-03 10:30",
+  "Host": "波特蘭木材",
+  "OddStake": "半/一",
+  "Guest": "新英倫革命",
+  "Prefer": "波特蘭木材",
+  "Odds": 1.02,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-02 23:04",
+  "Person": "LXF1234"
+}

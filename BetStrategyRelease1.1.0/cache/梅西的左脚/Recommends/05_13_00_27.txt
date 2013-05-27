@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "05-13 03:00",
+  "Host": "馬拉加",
+  "OddStake": "受平/半",
+  "Guest": "塞維利亞",
+  "Prefer": "塞維利亞",
+  "Odds": 1.08,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "05-13 00:27",
+  "Person": "梅西的左脚"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士超",
+  "Time1": "05-19 01:45",
+  "Host": "蘇黎世",
+  "OddStake": "半/一",
+  "Guest": "盧森",
+  "Prefer": "盧森",
+  "Odds": 0.89,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "05-19 01:08",
+  "Person": "水龙头"
+}

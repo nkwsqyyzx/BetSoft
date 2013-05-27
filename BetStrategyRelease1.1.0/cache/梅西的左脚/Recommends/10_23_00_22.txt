@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "瑞典超",
+  "Time1": "10-23 01:00",
+  "Host": "西里安斯卡",
+  "OddStake": "2.5球",
+  "Guest": "松茲瓦爾",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "10-23 00:22",
+  "Person": "梅西的左脚"
+}

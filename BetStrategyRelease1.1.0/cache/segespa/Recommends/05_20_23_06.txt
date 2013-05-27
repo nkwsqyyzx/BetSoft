@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西甲",
+  "Time1": "05-21 04:00",
+  "Host": "馬略卡",
+  "OddStake": "平手",
+  "Guest": "皇家貝迪斯",
+  "Prefer": "馬略卡",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-20 23:06",
+  "Person": "segespa"
+}

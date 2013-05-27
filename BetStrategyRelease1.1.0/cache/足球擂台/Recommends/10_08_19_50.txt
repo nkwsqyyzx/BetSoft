@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "塞浦甲",
+  "Time1": "10-08 23:59",
+  "Host": "奧林比克斯尼克西亞",
+  "OddStake": "2/2.5球",
+  "Guest": "AEL利馬斯素爾",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "10-08 19:50",
+  "Person": "足球擂台"
+}

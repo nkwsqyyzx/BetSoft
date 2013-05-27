@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "格雷納盃",
+  "Time1": "01-07 16:00",
+  "Host": "立陶宛U18(中)",
+  "OddStake": "受一球",
+  "Guest": "烏克蘭U18",
+  "Prefer": "烏克蘭U18",
+  "Odds": 0.92,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "01-07 15:09",
+  "Person": "余韵犹在"
+}

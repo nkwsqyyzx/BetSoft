@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "01-12 03:00",
+  "Host": "朗斯",
+  "OddStake": "半/一",
+  "Guest": "阿萊斯亞維農",
+  "Prefer": "朗斯",
+  "Odds": 1.03,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-11 22:57",
+  "Person": "lxf1234"
+}

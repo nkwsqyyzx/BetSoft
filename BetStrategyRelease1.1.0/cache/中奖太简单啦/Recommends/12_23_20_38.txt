@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法乙",
+  "Time1": "12-23 21:15",
+  "Host": "色當",
+  "OddStake": "2球",
+  "Guest": "南特",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "12-23 20:38",
+  "Person": "中奖太简单啦"
+}

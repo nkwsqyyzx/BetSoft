@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英U21",
+  "Time1": "04-16 02:00",
+  "Host": "阿斯頓維拉U21",
+  "OddStake": "3球",
+  "Guest": "切爾西U21",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-16 00:35",
+  "Person": "梅西的左脚"
+}

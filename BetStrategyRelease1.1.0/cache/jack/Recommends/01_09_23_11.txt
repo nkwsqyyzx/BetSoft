@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "01-10 02:30",
+  "Host": "塞維利亞",
+  "OddStake": "一球",
+  "Guest": "馬略卡",
+  "Prefer": "馬略卡",
+  "Odds": 0.97,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "01-09 23:11",
+  "Person": "jack"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "法乙",
+  "Time1": "10-27 00:45",
+  "Host": "安格斯",
+  "OddStake": "半球",
+  "Guest": "沙特魯",
+  "Prefer": "沙特魯",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "10-27 00:27",
+  "Person": "余韵犹在"
+}

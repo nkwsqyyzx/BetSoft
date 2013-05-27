@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德甲",
+  "Time1": "11-17 22:30",
+  "Host": "紐倫堡",
+  "OddStake": "受球半",
+  "Guest": "拜仁慕尼黑",
+  "Prefer": "紐倫堡",
+  "Odds": 0.99,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "11-17 20:54",
+  "Person": "中奖"
+}

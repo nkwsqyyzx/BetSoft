@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-25 23:00",
+  "Host": "修咸頓",
+  "OddStake": "平/半",
+  "Guest": "紐卡素",
+  "Prefer": "紐卡素",
+  "Odds": 1.07,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "11-25 19:05",
+  "Person": "无极旋风"
+}

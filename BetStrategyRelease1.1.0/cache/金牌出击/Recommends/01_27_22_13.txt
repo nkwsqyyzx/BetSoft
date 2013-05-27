@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-27 23:59",
+  "Host": "華歷簡奴",
+  "OddStake": "平/半",
+  "Guest": "皇家貝迪斯",
+  "Prefer": "皇家貝迪斯",
+  "Odds": 1.11,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "01-27 22:13",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-15 18:30",
+  "Host": "布里斯本前鋒",
+  "OddStake": "3.5球",
+  "Guest": "布里斯班狼隊",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-15 16:26",
+  "Person": "希望之星"
+}

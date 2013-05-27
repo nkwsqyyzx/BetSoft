@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法甲",
+  "Time1": "12-22 23:59",
+  "Host": "利爾",
+  "OddStake": "2/2.5球",
+  "Guest": "蒙彼利埃",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "12-22 23:17",
+  "Person": "无极旋风"
+}

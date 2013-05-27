@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "蘇超",
+  "Time1": "05-19 19:45",
+  "Host": "聖莊士東",
+  "OddStake": "2.5球",
+  "Guest": "馬瑟韋爾",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-19 12:54",
+  "Person": "云里金刚虎"
+}

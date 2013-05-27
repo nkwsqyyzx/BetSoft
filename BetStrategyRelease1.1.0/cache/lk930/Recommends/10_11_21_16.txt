@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "友誼賽",
+  "Time1": "10-12 02:00",
+  "Host": "北愛爾蘭U16",
+  "OddStake": "受一球/球半",
+  "Guest": "比利時U16",
+  "Prefer": "北愛爾蘭U16",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "10-11 21:16",
+  "Person": "lk930"
+}

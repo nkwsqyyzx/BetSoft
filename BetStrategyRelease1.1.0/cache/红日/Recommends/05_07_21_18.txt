@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德南聯",
+  "Time1": "05-08 01:00",
+  "Host": "赫森卡瑟",
+  "OddStake": "半球",
+  "Guest": "法蘭克福青年隊",
+  "Prefer": "赫森卡瑟",
+  "Odds": 0.99,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-07 21:18",
+  "Person": "红日"
+}

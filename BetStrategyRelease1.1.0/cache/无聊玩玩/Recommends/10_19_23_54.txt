@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "法乙",
+  "Time1": "10-20 00:45",
+  "Host": "克萊蒙特",
+  "OddStake": "2球",
+  "Guest": "伊斯特",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "10-19 23:54",
+  "Person": "无聊玩玩"
+}

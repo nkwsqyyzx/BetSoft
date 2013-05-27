@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西甲",
+  "Time1": "10-30 04:30",
+  "Host": "華拉度列",
+  "OddStake": "2.5球",
+  "Guest": "皇家蘇斯達",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "10-29 23:35",
+  "Person": "zy530"
+}

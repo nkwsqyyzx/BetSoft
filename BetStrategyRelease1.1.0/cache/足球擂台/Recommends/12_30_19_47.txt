@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意乙",
+  "Time1": "12-31 01:00",
+  "Host": "維羅納",
+  "OddStake": "2/2.5球",
+  "Guest": "摩德納",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-30 19:47",
+  "Person": "足球擂台"
+}

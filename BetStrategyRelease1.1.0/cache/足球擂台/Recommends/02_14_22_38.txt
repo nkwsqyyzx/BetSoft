@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "02-15 08:00",
+  "Host": "彭美拉斯",
+  "OddStake": "一球",
+  "Guest": "水晶競技",
+  "Prefer": "水晶競技",
+  "Odds": 1.01,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "02-14 22:38",
+  "Person": "足球擂台"
+}

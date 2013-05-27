@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英非聯",
+  "Time1": "02-13 03:45",
+  "Host": "史托港",
+  "OddStake": "2.5/3球",
+  "Guest": "林肯城",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-13 03:24",
+  "Person": "wintion"
+}

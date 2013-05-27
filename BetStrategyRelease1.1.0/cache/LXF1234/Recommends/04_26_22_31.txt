@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "蘇超",
+  "Time1": "04-27 02:35",
+  "Host": "羅斯郡",
+  "OddStake": "平/半",
+  "Guest": "登地聯",
+  "Prefer": "登地聯",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-26 22:31",
+  "Person": "LXF1234"
+}

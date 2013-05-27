@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英乙",
+  "Time1": "01-29 03:45",
+  "Host": "艾斯特城",
+  "OddStake": "半球",
+  "Guest": "托基聯",
+  "Prefer": "艾斯特城",
+  "Odds": 1.05,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-29 00:00",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "印尼超",
+  "Time1": "02-26 16:30",
+  "Host": "培斯塔坦格朗",
+  "OddStake": "2.5/3球",
+  "Guest": "佩西加雅加達",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-26 12:49",
+  "Person": "wintion"
+}

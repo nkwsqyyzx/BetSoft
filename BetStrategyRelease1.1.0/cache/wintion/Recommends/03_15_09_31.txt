@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "哥斯甲",
+  "Time1": "03-15 10:00",
+  "Host": "利蒙",
+  "OddStake": "2/2.5球",
+  "Guest": "肯塔吉內斯",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "03-15 09:31",
+  "Person": "wintion"
+}

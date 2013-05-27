@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英甲",
+  "Time1": "11-07 18:00",
+  "Host": "廣島三箭",
+  "OddStake": "3.5球",
+  "Guest": "札幌岡薩多",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "11-07 17:15",
+  "Person": "zy530"
+}

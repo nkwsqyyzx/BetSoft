@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬超",
+  "Time1": "05-09 22:00",
+  "Host": "邁柏",
+  "OddStake": "半球",
+  "Guest": "查路",
+  "Prefer": "邁柏",
+  "Odds": 0.93,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-09 20:24",
+  "Person": "弹弓六"
+}

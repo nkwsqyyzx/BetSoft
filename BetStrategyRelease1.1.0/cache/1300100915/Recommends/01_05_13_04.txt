@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英足總盃",
+  "Time1": "01-05 20:30",
+  "Host": "白禮頓",
+  "OddStake": "平手",
+  "Guest": "紐卡素",
+  "Prefer": "紐卡素",
+  "Odds": 1.08,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-05 13:04",
+  "Person": "1300100915"
+}

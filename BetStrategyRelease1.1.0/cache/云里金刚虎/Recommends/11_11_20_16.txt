@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "土超",
+  "Time1": "11-12 01:30",
+  "Host": "拉魯斯",
+  "OddStake": "2/2.5球",
+  "Guest": "堤格雷",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "11-11 20:16",
+  "Person": "云里金刚虎"
+}

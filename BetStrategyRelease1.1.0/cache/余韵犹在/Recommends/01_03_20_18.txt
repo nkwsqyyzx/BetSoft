@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿聯酋甲",
+  "Time1": "01-03 20:55",
+  "Host": "泰阿沃足球俱樂部",
+  "OddStake": "3.5球",
+  "Guest": "迪巴阿辛",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "01-03 20:18",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "伊朗甲",
+  "Time1": "10-18 19:15",
+  "Host": "斯蘭澤",
+  "OddStake": "受平/半",
+  "Guest": "PAS哈馬丹",
+  "Prefer": "斯蘭澤",
+  "Odds": 0.94,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "10-18 16:32",
+  "Person": "qqzy"
+}

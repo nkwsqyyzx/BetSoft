@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "丹麥超",
+  "Time1": "11-20 02:00",
+  "Host": "蘭達斯",
+  "OddStake": "2.5球",
+  "Guest": "奧丹斯",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "11-19 20:51",
+  "Person": "中奖"
+}

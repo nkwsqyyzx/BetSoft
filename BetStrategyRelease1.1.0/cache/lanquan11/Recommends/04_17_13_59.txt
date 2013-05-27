@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-17 18:30",
+  "Host": "城南一和天馬",
+  "OddStake": "受半球",
+  "Guest": "FC漢城",
+  "Prefer": "城南一和天馬",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-17 13:59",
+  "Person": "lanquan11"
+}

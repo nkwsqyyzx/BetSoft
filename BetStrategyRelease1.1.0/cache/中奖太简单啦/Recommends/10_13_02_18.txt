@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐洲預選",
+  "Time1": "10-13 02:45",
+  "Host": "愛爾蘭",
+  "OddStake": "受一球/球半",
+  "Guest": "德國",
+  "Prefer": "德國",
+  "Odds": 0.97,
+  "Result": "1-6",
+  "PreferResult": 5,
+  "Time2": "10-13 02:18",
+  "Person": "中奖太简单啦"
+}

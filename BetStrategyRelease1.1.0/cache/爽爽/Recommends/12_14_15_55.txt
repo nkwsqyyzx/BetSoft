@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "澳職聯",
+  "Time1": "12-14 18:45",
+  "Host": "珀斯光榮",
+  "OddStake": "半球",
+  "Guest": "紐卡斯托",
+  "Prefer": "紐卡斯托",
+  "Odds": 1.04,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "12-14 15:55",
+  "Person": "爽爽"
+}

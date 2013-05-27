@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-15 03:45",
+  "Host": "阿爾巴尼亞(中)",
+  "OddStake": "2.5球",
+  "Guest": "喀麥隆",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-14 22:27",
+  "Person": "中奖"
+}

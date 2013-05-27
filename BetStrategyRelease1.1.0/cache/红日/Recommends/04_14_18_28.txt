@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷甲",
+  "Time1": "04-14 20:30",
+  "Host": "RKC華域克",
+  "OddStake": "受半球",
+  "Guest": "飛燕諾",
+  "Prefer": "飛燕諾",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-14 18:28",
+  "Person": "红日"
+}

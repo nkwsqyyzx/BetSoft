@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄超",
+  "Time1": "11-19 23:45",
+  "Host": "克拉斯諾達爾",
+  "OddStake": "平手",
+  "Guest": "塔利克",
+  "Prefer": "克拉斯諾達爾",
+  "Odds": 0.9,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "11-19 22:55",
+  "Person": "segespa"
+}

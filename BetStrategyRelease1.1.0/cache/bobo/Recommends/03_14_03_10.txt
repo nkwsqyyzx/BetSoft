@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "",
+  "Time1": "03-14 04:00",
+  "Host": "蘇里亞",
+  "OddStake": "平/半",
+  "Guest": "阿拉瓜",
+  "Prefer": "阿拉瓜",
+  "Odds": 0.85,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "03-14 03:10",
+  "Person": "bobo"
+}

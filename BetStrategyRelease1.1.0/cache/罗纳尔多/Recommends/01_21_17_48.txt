@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "非國盃",
+  "Time1": "01-21 23:00",
+  "Host": "贊比亞(中)",
+  "OddStake": "半/一",
+  "Guest": "埃塞俄比亞",
+  "Prefer": "埃塞俄比亞",
+  "Odds": 1.08,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-21 17:48",
+  "Person": "罗纳尔多"
+}

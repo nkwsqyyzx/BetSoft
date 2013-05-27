@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "澳職聯",
+  "Time1": "12-27 18:45",
+  "Host": "珀斯光榮",
+  "OddStake": "平/半",
+  "Guest": "西部悉尼流浪者",
+  "Prefer": "西部悉尼流浪者",
+  "Odds": 1.0,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-27 18:28",
+  "Person": "中奖太简单啦"
+}

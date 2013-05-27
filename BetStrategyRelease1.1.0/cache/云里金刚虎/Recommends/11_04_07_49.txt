@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "比乙",
+  "Time1": "11-04 22:00",
+  "Host": "布蘇",
+  "OddStake": "2.5/3球",
+  "Guest": "奧斯坦德",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 2,
+  "Time2": "11-04 07:49",
+  "Person": "云里金刚虎"
+}

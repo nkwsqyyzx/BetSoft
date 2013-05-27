@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "中超",
+  "Time1": "03-09 19:45",
+  "Host": "上海申花",
+  "OddStake": "平/半",
+  "Guest": "天津泰達",
+  "Prefer": "天津泰達",
+  "Odds": 0.95,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "03-09 18:18",
+  "Person": "爽爽"
+}

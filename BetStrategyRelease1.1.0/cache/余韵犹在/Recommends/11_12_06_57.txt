@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "土超",
+  "Time1": "11-12 07:30",
+  "Host": "競賽會",
+  "OddStake": "半球",
+  "Guest": "沙蘭迪兵工廠",
+  "Prefer": "沙蘭迪兵工廠",
+  "Odds": 0.93,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-12 06:57",
+  "Person": "余韵犹在"
+}

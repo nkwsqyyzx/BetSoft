@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英乙",
+  "Time1": "03-23 23:00",
+  "Host": "托基聯",
+  "OddStake": "平/半",
+  "Guest": "約克城",
+  "Prefer": "約克城",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-23 21:58",
+  "Person": "罗纳尔多"
+}

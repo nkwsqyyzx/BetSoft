@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意乙",
+  "Time1": "02-02 03:45",
+  "Host": "里賈納",
+  "OddStake": "2/2.5球",
+  "Guest": "維羅納",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "02-02 00:29",
+  "Person": "云里金刚虎"
+}

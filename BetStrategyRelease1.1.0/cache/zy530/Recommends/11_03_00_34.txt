@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "馬爾甲",
+  "Time1": "11-03 01:00",
+  "Host": "梅利塔",
+  "OddStake": "3.5球",
+  "Guest": "莫斯塔",
+  "Prefer": "大球",
+  "Odds": 0.81,
+  "Result": "0-5",
+  "PreferResult": 5,
+  "Time2": "11-03 00:34",
+  "Person": "zy530"
+}

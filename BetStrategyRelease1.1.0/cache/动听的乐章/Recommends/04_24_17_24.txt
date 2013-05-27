@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日聯盃",
+  "Time1": "04-24 18:00",
+  "Host": "湘南比馬",
+  "OddStake": "受半/一",
+  "Guest": "橫濱水手",
+  "Prefer": "橫濱水手",
+  "Odds": 0.83,
+  "Result": "0-1",
+  "PreferResult": 4,
+  "Time2": "04-24 17:24",
+  "Person": "动听的乐章"
+}

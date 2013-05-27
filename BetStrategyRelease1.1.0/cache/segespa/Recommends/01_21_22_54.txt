@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-22 04:00",
+  "Host": "修咸頓",
+  "OddStake": "受半球",
+  "Guest": "愛華頓",
+  "Prefer": "修咸頓",
+  "Odds": 0.89,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-21 22:54",
+  "Person": "segespa"
+}

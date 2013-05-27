@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中超",
+  "Time1": "05-25 19:35",
+  "Host": "天津泰達",
+  "OddStake": "平手",
+  "Guest": "貴州人和",
+  "Prefer": "貴州人和",
+  "Odds": 1.05,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-25 16:25",
+  "Person": "罗纳尔多"
+}

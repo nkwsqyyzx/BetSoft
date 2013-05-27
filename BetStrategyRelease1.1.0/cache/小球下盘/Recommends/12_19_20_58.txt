@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡聯盃",
+  "Time1": "12-19 23:59",
+  "Host": "拿華爾",
+  "OddStake": "2/2.5球",
+  "Guest": "比拉馬",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "12-19 20:58",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "",
+  "Time1": "05-05 10:00",
+  "Host": "艾特萊",
+  "OddStake": "2/2.5球",
+  "Guest": "利昂",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-05 08:02",
+  "Person": "梅西的左脚"
+}

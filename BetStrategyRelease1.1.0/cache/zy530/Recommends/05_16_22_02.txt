@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威甲",
+  "Time1": "05-16 23:59",
+  "Host": "拜尼",
+  "OddStake": "半/一",
+  "Guest": "廣士雲格",
+  "Prefer": "拜尼",
+  "Odds": 0.95,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-16 22:02",
+  "Person": "zy530"
+}

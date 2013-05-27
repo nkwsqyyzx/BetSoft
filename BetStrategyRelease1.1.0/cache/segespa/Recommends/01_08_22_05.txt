@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英錦賽",
+  "Time1": "01-09 03:00",
+  "Host": "奧連特",
+  "OddStake": "2.5/3球",
+  "Guest": "伊奧華",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-08 22:05",
+  "Person": "segespa"
+}

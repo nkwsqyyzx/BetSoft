@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西甲",
+  "Time1": "12-08 23:00",
+  "Host": "皇家蘇斯達",
+  "OddStake": "2.5球",
+  "Guest": "加泰",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-08 21:05",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "歐霸盃",
+  "Time1": "05-16 02:45",
+  "Host": "賓菲加(中)",
+  "OddStake": "受平/半",
+  "Guest": "切爾西",
+  "Prefer": "賓菲加(中)",
+  "Odds": 0.86,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-15 17:18",
+  "Person": "弹弓六"
+}

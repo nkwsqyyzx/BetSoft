@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐洲預選",
+  "Time1": "11-15 03:45",
+  "Host": "北愛爾蘭",
+  "OddStake": "半/一",
+  "Guest": "阿塞拜疆",
+  "Prefer": "阿塞拜疆",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "11-15 01:20",
+  "Person": "jack"
+}

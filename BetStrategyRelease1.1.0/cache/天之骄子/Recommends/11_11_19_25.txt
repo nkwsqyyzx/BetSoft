@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-11 20:30",
+  "Host": "FSV法蘭克福",
+  "OddStake": "平手",
+  "Guest": "慕尼黑1860",
+  "Prefer": "FSV法蘭克福",
+  "Odds": 1.03,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "11-11 19:25",
+  "Person": "天之骄子"
+}

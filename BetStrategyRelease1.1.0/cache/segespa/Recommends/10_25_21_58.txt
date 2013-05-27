@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐霸盃",
+  "Time1": "10-26 01:00",
+  "Host": "馬里博爾",
+  "OddStake": "2.5球",
+  "Guest": "托特納姆熱刺",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "10-25 21:58",
+  "Person": "segespa"
+}

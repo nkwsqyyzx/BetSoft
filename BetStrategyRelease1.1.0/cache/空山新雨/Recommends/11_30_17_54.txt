@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德甲",
+  "Time1": "12-01 03:30",
+  "Host": "杜塞爾多夫",
+  "OddStake": "受平/半",
+  "Guest": "法蘭克福",
+  "Prefer": "杜塞爾多夫",
+  "Odds": 0.81,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "11-30 17:54",
+  "Person": "空山新雨"
+}

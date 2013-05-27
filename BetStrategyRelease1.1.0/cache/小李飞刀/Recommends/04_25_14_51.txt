@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐霸盃",
+  "Time1": "04-26 03:05",
+  "Host": "費倫巴治",
+  "OddStake": "受平/半",
+  "Guest": "賓菲加",
+  "Prefer": "賓菲加",
+  "Odds": 1.08,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-25 14:51",
+  "Person": "小李飞刀"
+}

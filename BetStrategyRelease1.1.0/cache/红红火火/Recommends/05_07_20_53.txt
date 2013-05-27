@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "羅甲",
+  "Time1": "05-07 23:59",
+  "Host": "布格勒斯特戴拿模",
+  "OddStake": "一球/球半",
+  "Guest": "席洛爾",
+  "Prefer": "布格勒斯特戴拿模",
+  "Odds": 0.94,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-07 20:53",
+  "Person": "红红火火"
+}

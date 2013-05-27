@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "哥倫乙",
+  "Time1": "02-18 04:30",
+  "Host": "馬大雷拿",
+  "OddStake": "2.5球",
+  "Guest": "瓦倫杜帕爾",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-18 01:28",
+  "Person": "足球擂台"
+}

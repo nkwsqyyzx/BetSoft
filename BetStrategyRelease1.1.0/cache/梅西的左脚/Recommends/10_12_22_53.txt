@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "德巴聯",
+  "Time1": "10-13 01:00",
+  "Host": "黒木斯德騰",
+  "OddStake": "2球",
+  "Guest": "1860羅森海姆隊",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "10-12 22:53",
+  "Person": "梅西的左脚"
+}

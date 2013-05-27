@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "伊朗甲",
+  "Time1": "12-28 18:30",
+  "Host": "尼洛耶扎米尼",
+  "OddStake": "2/2.5球",
+  "Guest": "斯蘭澤",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "2-0",
+  "PreferResult": 2,
+  "Time2": "12-28 17:11",
+  "Person": "无聊玩玩"
+}

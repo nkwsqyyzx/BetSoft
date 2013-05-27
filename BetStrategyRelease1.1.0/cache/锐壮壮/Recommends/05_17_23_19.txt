@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-17 23:30",
+  "Host": "古比斯",
+  "OddStake": "半球",
+  "Guest": "路雲尼米",
+  "Prefer": "路雲尼米",
+  "Odds": 1.1,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-17 23:19",
+  "Person": "锐壮壮"
+}

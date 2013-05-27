@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意盃",
+  "Time1": "12-13 00:30",
+  "Host": "帕爾馬",
+  "OddStake": "半球",
+  "Guest": "卡坦尼亞",
+  "Prefer": "卡坦尼亞",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-12 22:53",
+  "Person": "中奖"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷乙",
+  "Time1": "12-15 03:00",
+  "Host": "阿梅爾城",
+  "OddStake": "3球",
+  "Guest": "多積治",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "12-14 18:51",
+  "Person": "234678136"
+}

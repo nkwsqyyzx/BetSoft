@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-16 02:00",
+  "Host": "希拉爾",
+  "OddStake": "2.5球",
+  "Guest": "里科威亞",
+  "Prefer": "大球",
+  "Odds": 0.91,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-16 00:30",
+  "Person": "希望之星"
+}

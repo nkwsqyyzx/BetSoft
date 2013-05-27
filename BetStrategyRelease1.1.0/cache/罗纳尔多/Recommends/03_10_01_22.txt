@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法丙",
+  "Time1": "03-10 02:00",
+  "Host": "克維伊",
+  "OddStake": "受平/半",
+  "Guest": "彭特杜加得",
+  "Prefer": "彭特杜加得",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-10 01:22",
+  "Person": "罗纳尔多"
+}

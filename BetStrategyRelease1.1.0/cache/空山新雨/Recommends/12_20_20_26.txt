@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西亞盃",
+  "Time1": "12-20 21:10",
+  "Host": "阿曼(中)",
+  "OddStake": "受平/半",
+  "Guest": "巴林",
+  "Prefer": "阿曼(中)",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-20 20:26",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "比甲",
+  "Time1": "12-26 21:30",
+  "Host": "威爾郡",
+  "OddStake": "2.5/3球",
+  "Guest": "海文利",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "12-26 19:57",
+  "Person": "杀手47"
+}

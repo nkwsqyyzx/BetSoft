@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "葡甲",
+  "Time1": "11-28 23:00",
+  "Host": "葡萄牙體育會",
+  "OddStake": "受平/半",
+  "Guest": "賓菲加B隊",
+  "Prefer": "葡萄牙體育會",
+  "Odds": 1.03,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-28 16:02",
+  "Person": "空山新雨"
+}

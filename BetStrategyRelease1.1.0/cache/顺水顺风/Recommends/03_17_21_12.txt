@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "西甲",
+  "Time1": "03-17 23:59",
+  "Host": "塞維利亞",
+  "OddStake": "2.5/3球",
+  "Guest": "薩拉戈薩",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "03-17 21:12",
+  "Person": "顺水顺风"
+}

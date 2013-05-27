@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英冠",
+  "Time1": "03-16 23:00",
+  "Host": "伊普斯維奇",
+  "OddStake": "2.5球",
+  "Guest": "保頓",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-16 22:49",
+  "Person": "小球下盘"
+}

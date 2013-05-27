@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德國盃",
+  "Time1": "02-27 03:30",
+  "Host": "奧芬巴查踢球者",
+  "OddStake": "2.5/3球",
+  "Guest": "沃爾夫斯堡",
+  "Prefer": "大球",
+  "Odds": 1.08,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "02-26 14:02",
+  "Person": "1300100915"
+}

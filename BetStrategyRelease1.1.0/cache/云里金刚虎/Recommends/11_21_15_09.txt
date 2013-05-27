@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "厄瓜甲",
+  "Time1": "11-22 08:30",
+  "Host": "巴塞隆拿SC",
+  "OddStake": "一球",
+  "Guest": "曼塔",
+  "Prefer": "曼塔",
+  "Odds": 0.94,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-21 15:09",
+  "Person": "云里金刚虎"
+}

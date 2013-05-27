@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西乙",
+  "Time1": "01-06 19:00",
+  "Host": "赫羅納",
+  "OddStake": "平/半",
+  "Guest": "艾美利亞",
+  "Prefer": "艾美利亞",
+  "Odds": 0.83,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "01-06 15:27",
+  "Person": "qqzy"
+}

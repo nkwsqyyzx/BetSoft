@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "荷甲",
+  "Time1": "11-11 02:45",
+  "Host": "雲路",
+  "OddStake": "半/一",
+  "Guest": "威廉二世",
+  "Prefer": "雲路",
+  "Odds": 0.99,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "11-11 00:35",
+  "Person": "金牌出击"
+}

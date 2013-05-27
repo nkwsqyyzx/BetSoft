@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英U21",
+  "Time1": "01-21 21:00",
+  "Host": "西布朗U21",
+  "OddStake": "平手",
+  "Guest": "托特納姆熱刺U21",
+  "Prefer": "托特納姆熱刺U21",
+  "Odds": 0.97,
+  "Result": "0-4",
+  "PreferResult": 3,
+  "Time2": "01-21 18:13",
+  "Person": "余韵犹在"
+}

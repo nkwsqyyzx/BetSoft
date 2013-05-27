@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "泰超",
+  "Time1": "10-10 20:00",
+  "Host": "TOT俱樂部",
+  "OddStake": "2.5/3球",
+  "Guest": "孟通",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "10-10 18:48",
+  "Person": "zxy60120"
+}

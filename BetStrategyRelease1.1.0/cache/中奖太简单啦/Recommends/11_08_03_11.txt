@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "11-08 03:45",
+  "Host": "拜仁慕尼黑",
+  "OddStake": "球半/两球",
+  "Guest": "利爾",
+  "Prefer": "拜仁慕尼黑",
+  "Odds": 0.94,
+  "Result": "6-1",
+  "PreferResult": 5,
+  "Time2": "11-08 03:11",
+  "Person": "中奖太简单啦"
+}

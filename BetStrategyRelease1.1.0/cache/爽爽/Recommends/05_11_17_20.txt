@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中超",
+  "Time1": "05-11 19:35",
+  "Host": "大連阿爾濱",
+  "OddStake": "一球",
+  "Guest": "上海申鑫",
+  "Prefer": "上海申鑫",
+  "Odds": 0.9,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-11 17:20",
+  "Person": "爽爽"
+}

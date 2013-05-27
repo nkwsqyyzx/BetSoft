@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-20 23:59",
+  "Host": "洛辛堡",
+  "OddStake": "一球",
+  "Guest": "莫迪",
+  "Prefer": "洛辛堡",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-20 21:34",
+  "Person": "罗纳尔多"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "愛沙甲",
+  "Time1": "04-27 00:30",
+  "Host": "科羅拉",
+  "OddStake": "3.5球",
+  "Guest": "塔馬卡",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-26 23:53",
+  "Person": "12388123"
+}

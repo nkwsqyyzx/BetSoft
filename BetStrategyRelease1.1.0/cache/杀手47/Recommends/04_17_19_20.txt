@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥甲",
+  "Time1": "04-18 01:00",
+  "Host": "AB哥本哈根",
+  "OddStake": "受半球",
+  "Guest": "西希蘭",
+  "Prefer": "AB哥本哈根",
+  "Odds": 0.96,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "04-17 19:20",
+  "Person": "杀手47"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-27 19:00",
+  "Host": "皇家馬德里",
+  "OddStake": "3.5/4球",
+  "Guest": "加泰",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "4-0",
+  "PreferResult": 2,
+  "Time2": "01-27 14:14",
+  "Person": "无极旋风"
+}

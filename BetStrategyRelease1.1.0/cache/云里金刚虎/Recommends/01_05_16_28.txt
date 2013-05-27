@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "蘇乙",
+  "Time1": "01-05 23:00",
+  "Host": "士登后斯莫亞",
+  "OddStake": "平手",
+  "Guest": "科化體育會",
+  "Prefer": "士登后斯莫亞",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "01-05 16:28",
+  "Person": "云里金刚虎"
+}

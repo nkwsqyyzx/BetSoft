@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-30 03:45",
+  "Host": "斯托克城",
+  "OddStake": "平/半",
+  "Guest": "韋根",
+  "Prefer": "韋根",
+  "Odds": 1.03,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "01-29 21:37",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法甲",
+  "Time1": "12-12 02:00",
+  "Host": "華倫西恩斯",
+  "OddStake": "2.5球",
+  "Guest": "巴黎聖日門",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "12-11 23:38",
+  "Person": "金牌出击"
+}

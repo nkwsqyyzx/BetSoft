@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "04-14 18:30",
+  "Host": "卡斯帕薩",
+  "OddStake": "半球",
+  "Guest": "阿克希薩爾",
+  "Prefer": "阿克希薩爾",
+  "Odds": 1.05,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-14 14:08",
+  "Person": "lanquan11"
+}

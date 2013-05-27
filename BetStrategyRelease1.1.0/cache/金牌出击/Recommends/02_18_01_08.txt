@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法甲",
+  "Time1": "02-18 04:00",
+  "Host": "索察",
+  "OddStake": "受一球/球半",
+  "Guest": "巴黎聖日門",
+  "Prefer": "巴黎聖日門",
+  "Odds": 1.02,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "02-18 01:08",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "塞浦甲",
+  "Time1": "02-27 23:00",
+  "Host": "AEL利馬斯素爾",
+  "OddStake": "2/2.5球",
+  "Guest": "AEK拉納卡",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "02-27 22:45",
+  "Person": "qqzy"
+}

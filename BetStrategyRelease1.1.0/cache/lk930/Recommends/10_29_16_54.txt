@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "挪威超",
+  "Time1": "10-30 02:00",
+  "Host": "白蘭恩",
+  "OddStake": "一球",
+  "Guest": "利尼史特朗",
+  "Prefer": "利尼史特朗",
+  "Odds": 0.92,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "10-29 16:54",
+  "Person": "lk930"
+}

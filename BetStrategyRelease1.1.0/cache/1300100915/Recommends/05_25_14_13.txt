@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德北聯",
+  "Time1": "05-25 20:00",
+  "Host": "卡伯司瓦",
+  "OddStake": "平/半",
+  "Guest": "佩克斯",
+  "Prefer": "佩克斯",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-25 14:13",
+  "Person": "1300100915"
+}

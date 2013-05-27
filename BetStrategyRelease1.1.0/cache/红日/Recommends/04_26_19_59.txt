@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥超",
+  "Time1": "04-27 00:30",
+  "Host": "施克堡",
+  "OddStake": "2.5球",
+  "Guest": "艾斯堡",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-26 19:59",
+  "Person": "红日"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "沙地聯",
+  "Time1": "01-26 00:55",
+  "Host": "伊地法格",
+  "OddStake": "2.5/3球",
+  "Guest": "希拉爾",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "01-26 00:33",
+  "Person": "中奖太简单啦"
+}

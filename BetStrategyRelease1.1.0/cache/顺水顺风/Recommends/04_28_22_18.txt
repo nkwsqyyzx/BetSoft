@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-28 23:00",
+  "Host": "馬拉加",
+  "OddStake": "一球",
+  "Guest": "加泰",
+  "Prefer": "加泰",
+  "Odds": 0.91,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "04-28 22:18",
+  "Person": "顺水顺风"
+}

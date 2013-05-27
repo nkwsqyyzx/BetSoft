@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-18 22:00",
+  "Host": "費倫天拿",
+  "OddStake": "半/一",
+  "Guest": "阿特蘭大",
+  "Prefer": "阿特蘭大",
+  "Odds": 1.12,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "11-18 21:38",
+  "Person": "中奖"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "德東北聯",
+  "Time1": "10-27 07:00",
+  "Host": "巴路里",
+  "OddStake": "半球",
+  "Guest": "美國RN",
+  "Prefer": "美國RN",
+  "Odds": 0.95,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "10-27 05:33",
+  "Person": "金牌出击"
+}

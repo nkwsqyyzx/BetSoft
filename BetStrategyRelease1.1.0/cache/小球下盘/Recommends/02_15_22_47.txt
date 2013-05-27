@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "厄瓜甲",
+  "Time1": "02-16 09:15",
+  "Host": "庫恩卡",
+  "OddStake": "2.5球",
+  "Guest": "奎維多體育",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-15 22:47",
+  "Person": "小球下盘"
+}

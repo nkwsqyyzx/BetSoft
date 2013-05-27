@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意乙",
+  "Time1": "12-15 03:45",
+  "Host": "利禾奴",
+  "OddStake": "半/一",
+  "Guest": "特拉納",
+  "Prefer": "利禾奴",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "12-14 22:08",
+  "Person": "余韵犹在"
+}

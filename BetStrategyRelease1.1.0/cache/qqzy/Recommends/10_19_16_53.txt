@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "伊朗超",
+  "Time1": "10-19 20:00",
+  "Host": "法加爾瑟帕斯",
+  "OddStake": "平/半",
+  "Guest": "德黑蘭",
+  "Prefer": "德黑蘭",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "10-19 16:53",
+  "Person": "qqzy"
+}

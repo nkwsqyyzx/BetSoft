@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "丹麥超",
+  "Time1": "11-13 02:00",
+  "Host": "米迪蘭特",
+  "OddStake": "平/半",
+  "Guest": "艾斯堡",
+  "Prefer": "米迪蘭特",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "11-12 23:23",
+  "Person": "segespa"
+}

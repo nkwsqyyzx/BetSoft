@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "葡超",
+  "Time1": "11-13 04:15",
+  "Host": "馬里迪莫",
+  "OddStake": "2/2.5球",
+  "Guest": "塞圖巴爾",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "11-12 23:50",
+  "Person": "zy530"
+}

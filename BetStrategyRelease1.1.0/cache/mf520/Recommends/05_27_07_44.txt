@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿甲",
+  "Time1": "05-27 08:30",
+  "Host": "紐維爾舊生",
+  "OddStake": "2/2.5球",
+  "Guest": "小保加",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 07:44",
+  "Person": "mf520"
+}

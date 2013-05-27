@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西乙",
+  "Time1": "03-03 19:00",
+  "Host": "威斯卡",
+  "OddStake": "2/2.5球",
+  "Guest": "阿柯孔",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-03 13:40",
+  "Person": "小球下盘"
+}

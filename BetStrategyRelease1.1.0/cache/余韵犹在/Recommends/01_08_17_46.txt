@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-08 18:00",
+  "Host": "維爾瓦(中)",
+  "OddStake": "2.5球",
+  "Guest": "柏林聯",
+  "Prefer": "小球",
+  "Odds": 1.04,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-08 17:46",
+  "Person": "余韵犹在"
+}

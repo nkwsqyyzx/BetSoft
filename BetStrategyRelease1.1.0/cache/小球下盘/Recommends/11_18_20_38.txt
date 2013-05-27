@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "丹麥超",
+  "Time1": "11-18 21:00",
+  "Host": "阿爾堡",
+  "OddStake": "2.5球",
+  "Guest": "AC侯森斯",
+  "Prefer": "小球",
+  "Odds": 0.93,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-18 20:38",
+  "Person": "小球下盘"
+}

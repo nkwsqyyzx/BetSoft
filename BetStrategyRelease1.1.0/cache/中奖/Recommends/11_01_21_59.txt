@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "女歐協盃",
+  "Time1": "11-02 04:15",
+  "Host": "比蘭倫斯",
+  "OddStake": "半球",
+  "Guest": "彭拿費爾",
+  "Prefer": "比蘭倫斯",
+  "Odds": 0.98,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-01 21:59",
+  "Person": "中奖"
+}

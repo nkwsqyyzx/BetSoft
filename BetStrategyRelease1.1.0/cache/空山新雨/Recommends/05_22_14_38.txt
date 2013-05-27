@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "印尼超",
+  "Time1": "05-22 16:30",
+  "Host": "帕森拉",
+  "OddStake": "受平/半",
+  "Guest": "阿雷瑪",
+  "Prefer": "帕森拉",
+  "Odds": 0.89,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "05-22 14:38",
+  "Person": "空山新雨"
+}

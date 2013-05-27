@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "02-04 23:00",
+  "Host": "康戈迪亞齊安(中)",
+  "OddStake": "平手",
+  "Guest": "廣州恆大",
+  "Prefer": "康戈迪亞齊安(中)",
+  "Odds": 1.08,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "02-04 22:27",
+  "Person": "空山新雨"
+}

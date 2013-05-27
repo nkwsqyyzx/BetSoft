@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿聯酋超",
+  "Time1": "12-11 20:45",
+  "Host": "沙巴柏杜拜",
+  "OddStake": "3/3.5球",
+  "Guest": "杜拜",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "12-11 20:24",
+  "Person": "小球下盘"
+}

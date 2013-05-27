@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法甲",
+  "Time1": "02-02 03:30",
+  "Host": "圖魯茲",
+  "OddStake": "受半球",
+  "Guest": "巴黎聖日門",
+  "Prefer": "巴黎聖日門",
+  "Odds": 0.85,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "02-01 20:31",
+  "Person": "罗纳尔多"
+}

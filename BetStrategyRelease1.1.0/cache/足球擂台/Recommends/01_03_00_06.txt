@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "01-03 03:45",
+  "Host": "切爾西",
+  "OddStake": "球半/两球",
+  "Guest": "昆士柏流浪",
+  "Prefer": "切爾西",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-03 00:06",
+  "Person": "足球擂台"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "波蘭甲",
+  "Time1": "03-19 01:30",
+  "Host": "派雅斯特",
+  "OddStake": "2/2.5球",
+  "Guest": "列治亞",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "03-18 17:35",
+  "Person": "LK930"
+}

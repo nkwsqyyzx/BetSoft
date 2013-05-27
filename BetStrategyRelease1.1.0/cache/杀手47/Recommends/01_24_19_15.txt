@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "01-25 05:00",
+  "Host": "馬拉加",
+  "OddStake": "3/3.5球",
+  "Guest": "巴塞羅那",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "01-24 19:15",
+  "Person": "杀手47"
+}

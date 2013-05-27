@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "女歐U17",
+  "Time1": "10-29 19:30",
+  "Host": "俄羅斯女足U17(中)",
+  "OddStake": "3.5球",
+  "Guest": "羅馬尼亞女足U17",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "6-1",
+  "PreferResult": 5,
+  "Time2": "10-29 19:18",
+  "Person": "余韵犹在"
+}

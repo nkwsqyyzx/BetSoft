@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典超",
+  "Time1": "04-18 01:00",
+  "Host": "奧斯達",
+  "OddStake": "受平/半",
+  "Guest": "哈肯",
+  "Prefer": "哈肯",
+  "Odds": 1.01,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-17 20:30",
+  "Person": "lxf1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "01-09 04:30",
+  "Host": "華倫西亞",
+  "OddStake": "一球/球半",
+  "Guest": "奧薩蘇納",
+  "Prefer": "奧薩蘇納",
+  "Odds": 0.89,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "01-08 22:36",
+  "Person": "lxf1234"
+}

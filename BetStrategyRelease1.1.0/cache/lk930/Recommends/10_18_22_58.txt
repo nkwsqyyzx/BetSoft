@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西班牙盃",
+  "Time1": "10-19 03:00",
+  "Host": "拉斯彭馬斯",
+  "OddStake": "平/半",
+  "Guest": "桑坦德",
+  "Prefer": "拉斯彭馬斯",
+  "Odds": 0.9,
+  "Result": "2-2",
+  "PreferResult": 2,
+  "Time2": "10-18 22:58",
+  "Person": "lk930"
+}

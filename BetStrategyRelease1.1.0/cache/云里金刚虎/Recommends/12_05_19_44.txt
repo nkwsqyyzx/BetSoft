@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "哥斯甲",
+  "Time1": "12-06 10:00",
+  "Host": "利蒙",
+  "OddStake": "2.5/3球",
+  "Guest": "阿拉倫斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-05 19:44",
+  "Person": "云里金刚虎"
+}

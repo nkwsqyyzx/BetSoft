@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德甲",
+  "Time1": "04-20 02:30",
+  "Host": "門興格拉德巴赫",
+  "OddStake": "平/半",
+  "Guest": "奧斯堡",
+  "Prefer": "奧斯堡",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-19 22:07",
+  "Person": "LXF1234"
+}

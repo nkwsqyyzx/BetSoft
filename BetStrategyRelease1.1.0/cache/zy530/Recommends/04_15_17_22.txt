@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "伊朗甲",
+  "Time1": "04-15 19:45",
+  "Host": "拿芙馬塞索利曼",
+  "OddStake": "2.5球",
+  "Guest": "高爾高赫",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "04-15 17:22",
+  "Person": "zy530"
+}

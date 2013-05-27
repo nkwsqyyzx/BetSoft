@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西女超",
+  "Time1": "12-06 18:30",
+  "Host": "畢爾巴鄂競技女足",
+  "OddStake": "三球",
+  "Guest": "皇家蘇斯達女足",
+  "Prefer": "畢爾巴鄂競技女足",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "12-06 17:45",
+  "Person": "余韵犹在"
+}

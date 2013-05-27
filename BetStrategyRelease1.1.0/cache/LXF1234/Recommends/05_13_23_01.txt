@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬超",
+  "Time1": "05-13 23:30",
+  "Host": "TPS杜古",
+  "OddStake": "平手",
+  "Guest": "英特杜古",
+  "Prefer": "TPS杜古",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-13 23:01",
+  "Person": "LXF1234"
+}

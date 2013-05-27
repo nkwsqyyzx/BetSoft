@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土耳其盃",
+  "Time1": "12-12 23:59",
+  "Host": "安迪亞斯堡",
+  "OddStake": "平手",
+  "Guest": "比錫達斯",
+  "Prefer": "安迪亞斯堡",
+  "Odds": 1.11,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "12-12 22:37",
+  "Person": "梅西的左脚"
+}

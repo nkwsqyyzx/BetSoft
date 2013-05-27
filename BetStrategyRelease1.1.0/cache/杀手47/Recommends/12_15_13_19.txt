@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德甲",
+  "Time1": "12-15 22:30",
+  "Host": "沃爾夫斯堡",
+  "OddStake": "2.5/3球",
+  "Guest": "法蘭克福",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "12-15 13:19",
+  "Person": "杀手47"
+}

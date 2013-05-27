@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德國盃",
+  "Time1": "10-31 02:00",
+  "Host": "慕士達",
+  "OddStake": "2.5球",
+  "Guest": "奧斯堡",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "10-30 17:16",
+  "Person": "小球下盘"
+}

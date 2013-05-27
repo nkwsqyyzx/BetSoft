@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "蘇超",
+  "Time1": "01-30 03:45",
+  "Host": "馬瑟韋爾",
+  "OddStake": "平/半",
+  "Guest": "登地聯",
+  "Prefer": "登地聯",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 3,
+  "Time2": "01-30 00:05",
+  "Person": "梅西的左脚"
+}

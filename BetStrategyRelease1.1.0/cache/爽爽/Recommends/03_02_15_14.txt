@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德甲",
+  "Time1": "03-02 22:30",
+  "Host": "多特蒙德",
+  "OddStake": "球半",
+  "Guest": "漢諾威",
+  "Prefer": "漢諾威",
+  "Odds": 1.08,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "03-02 15:14",
+  "Person": "爽爽"
+}

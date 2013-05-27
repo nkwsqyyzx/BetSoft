@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-09 21:30",
+  "Host": "曼城",
+  "OddStake": "平/半",
+  "Guest": "曼聯",
+  "Prefer": "曼聯",
+  "Odds": 1.07,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "12-09 17:54",
+  "Person": "爽爽"
+}

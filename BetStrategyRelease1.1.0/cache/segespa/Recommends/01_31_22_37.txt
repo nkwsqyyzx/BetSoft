@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷蘭盃",
+  "Time1": "02-01 03:45",
+  "Host": "維迪斯(中)",
+  "OddStake": "受半/一",
+  "Guest": "阿積士",
+  "Prefer": "維迪斯(中)",
+  "Odds": 0.98,
+  "Result": "0-4",
+  "PreferResult": 1,
+  "Time2": "01-31 22:37",
+  "Person": "segespa"
+}

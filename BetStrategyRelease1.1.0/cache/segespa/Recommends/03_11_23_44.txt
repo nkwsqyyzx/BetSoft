@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "羅甲",
+  "Time1": "03-12 01:00",
+  "Host": "古積大學",
+  "OddStake": "平/半",
+  "Guest": "突弩塞維林",
+  "Prefer": "突弩塞維林",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-11 23:44",
+  "Person": "segespa"
+}

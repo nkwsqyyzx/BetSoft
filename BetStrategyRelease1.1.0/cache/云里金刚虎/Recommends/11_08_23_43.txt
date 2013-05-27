@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 04:05",
+  "Host": "托特納姆熱刺",
+  "OddStake": "2.5/3球",
+  "Guest": "馬里博爾",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "11-08 23:43",
+  "Person": "云里金刚虎"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "馬來甲",
+  "Time1": "03-01 16:45",
+  "Host": "玻璃市",
+  "OddStake": "受平/半",
+  "Guest": "皇家警察足球俱樂部",
+  "Prefer": "玻璃市",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "03-01 16:30",
+  "Person": "qqzy"
+}

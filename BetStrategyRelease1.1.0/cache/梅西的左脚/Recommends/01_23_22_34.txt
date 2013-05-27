@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-23 23:00",
+  "Host": "特羅素(中)",
+  "OddStake": "受平/半",
+  "Guest": "瓦斯路易",
+  "Prefer": "瓦斯路易",
+  "Odds": 1.02,
+  "Result": "2-2",
+  "PreferResult": 2,
+  "Time2": "01-23 22:34",
+  "Person": "梅西的左脚"
+}

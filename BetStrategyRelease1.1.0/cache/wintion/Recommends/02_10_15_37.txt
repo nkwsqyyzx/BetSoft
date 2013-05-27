@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德青西",
+  "Time1": "02-10 18:00",
+  "Host": "多特蒙德U19",
+  "OddStake": "3.5球",
+  "Guest": "杜伊斯堡U19",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "5-3",
+  "PreferResult": 5,
+  "Time2": "02-10 15:37",
+  "Person": "wintion"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-22 04:05",
+  "Host": "奧林比亞高斯CFP",
+  "OddStake": "半/一",
+  "Guest": "利雲特",
+  "Prefer": "奧林比亞高斯CFP",
+  "Odds": 0.99,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-21 21:03",
+  "Person": "lxf1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "沙地聯",
+  "Time1": "12-05 00:35",
+  "Host": "希拉爾",
+  "OddStake": "球半/两球",
+  "Guest": "哈哲爾",
+  "Prefer": "希拉爾",
+  "Odds": 0.86,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "12-04 15:42",
+  "Person": "足球擂台"
+}

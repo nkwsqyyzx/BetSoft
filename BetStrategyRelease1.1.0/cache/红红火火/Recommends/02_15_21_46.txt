@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "維亞盃",
+  "Time1": "02-15 22:00",
+  "Host": "拖連奴U19",
+  "OddStake": "3.5球",
+  "Guest": "迪康塞普森U19",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "02-15 21:46",
+  "Person": "红红火火"
+}

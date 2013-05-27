@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-27 02:00",
+  "Host": "卡利亞里",
+  "OddStake": "平手",
+  "Guest": "拿玻里",
+  "Prefer": "拿玻里",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-26 23:48",
+  "Person": "无聊玩玩"
+}

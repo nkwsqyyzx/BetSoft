@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "奧甲",
+  "Time1": "11-04 01:30",
+  "Host": "格拉茨",
+  "OddStake": "平/半",
+  "Guest": "維也納迅速",
+  "Prefer": "格拉茨",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-03 23:27",
+  "Person": "金牌出击"
+}

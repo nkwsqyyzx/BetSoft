@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德乙",
+  "Time1": "05-19 19:30",
+  "Host": "杜伊斯堡",
+  "OddStake": "平/半",
+  "Guest": "派特博恩",
+  "Prefer": "派特博恩",
+  "Odds": 1.02,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "05-19 18:17",
+  "Person": "lanquan11"
+}

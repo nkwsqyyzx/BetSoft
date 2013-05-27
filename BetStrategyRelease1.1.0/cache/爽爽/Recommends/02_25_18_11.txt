@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意甲",
+  "Time1": "02-26 02:00",
+  "Host": "烏甸尼斯",
+  "OddStake": "受平/半",
+  "Guest": "拿玻里",
+  "Prefer": "烏甸尼斯",
+  "Odds": 0.84,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "02-25 18:11",
+  "Person": "爽爽"
+}

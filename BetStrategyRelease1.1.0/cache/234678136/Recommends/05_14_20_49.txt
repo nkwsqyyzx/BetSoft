@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "自由盃",
+  "Time1": "05-15 09:00",
+  "Host": "彭美拉斯",
+  "OddStake": "2/2.5球",
+  "Guest": "提華納",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-14 20:49",
+  "Person": "234678136"
+}

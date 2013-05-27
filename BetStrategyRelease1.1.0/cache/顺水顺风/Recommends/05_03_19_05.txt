@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "05-03 23:59",
+  "Host": "VFR亞倫",
+  "OddStake": "半/一",
+  "Guest": "雷根斯堡",
+  "Prefer": "VFR亞倫",
+  "Odds": 0.94,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-03 19:05",
+  "Person": "顺水顺风"
+}

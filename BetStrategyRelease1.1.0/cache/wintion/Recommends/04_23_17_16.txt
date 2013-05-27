@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "",
+  "Time1": "04-23 19:00",
+  "Host": "伊利捷維斯U19",
+  "OddStake": "3.5球",
+  "Guest": "柔亞U19",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-23 17:16",
+  "Person": "wintion"
+}

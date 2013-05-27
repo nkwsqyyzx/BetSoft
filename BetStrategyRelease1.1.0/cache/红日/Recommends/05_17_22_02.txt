@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "土超",
+  "Time1": "05-18 01:00",
+  "Host": "梅爾辛",
+  "OddStake": "2.5球",
+  "Guest": "加辛塔士邦",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-17 22:02",
+  "Person": "红日"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "加拿超",
+  "Time1": "05-27 04:30",
+  "Host": "阿斯特瓦沙",
+  "OddStake": "受半/一",
+  "Guest": "金士頓",
+  "Prefer": "金士頓",
+  "Odds": 1.03,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 02:42",
+  "Person": "哥哥"
+}

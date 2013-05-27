@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "蘇足總",
+  "Time1": "02-03 23:30",
+  "Host": "喜百年",
+  "OddStake": "2.5球",
+  "Guest": "阿伯丁",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-03 20:28",
+  "Person": "小球下盘"
+}

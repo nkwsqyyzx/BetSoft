@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英冠",
+  "Time1": "01-01 21:00",
+  "Host": "沃特福德",
+  "OddStake": "2.5球",
+  "Guest": "查爾頓",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "3-4",
+  "PreferResult": 5,
+  "Time2": "01-01 16:10",
+  "Person": "中奖"
+}

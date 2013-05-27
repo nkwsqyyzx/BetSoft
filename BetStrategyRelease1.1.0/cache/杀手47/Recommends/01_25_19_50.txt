@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "比甲",
+  "Time1": "01-26 03:30",
+  "Host": "標準列治",
+  "OddStake": "一球",
+  "Guest": "科特賴克",
+  "Prefer": "標準列治",
+  "Odds": 1.08,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "01-25 19:50",
+  "Person": "杀手47"
+}

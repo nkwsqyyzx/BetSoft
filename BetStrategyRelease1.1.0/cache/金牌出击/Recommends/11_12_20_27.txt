@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "捷U21",
+  "Time1": "11-12 21:00",
+  "Host": "賈布朗尼U21",
+  "OddStake": "半/一",
+  "Guest": "伊希拉瓦U21",
+  "Prefer": "賈布朗尼U21",
+  "Odds": 0.82,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "11-12 20:27",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法丙",
+  "Time1": "04-27 02:00",
+  "Host": "紅星聖歐恩",
+  "OddStake": "2/2.5球",
+  "Guest": "克維伊",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-26 16:32",
+  "Person": "qqzy"
+}

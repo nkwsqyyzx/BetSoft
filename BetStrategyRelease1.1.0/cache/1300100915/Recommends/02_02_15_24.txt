@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德甲",
+  "Time1": "02-03 01:30",
+  "Host": "漢堡",
+  "OddStake": "平/半",
+  "Guest": "法蘭克福",
+  "Prefer": "法蘭克福",
+  "Odds": 0.92,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "02-02 15:24",
+  "Person": "1300100915"
+}

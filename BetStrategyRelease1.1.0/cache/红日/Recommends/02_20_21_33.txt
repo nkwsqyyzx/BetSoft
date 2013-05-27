@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "02-21 06:45",
+  "Host": "沙士菲",
+  "OddStake": "球半",
+  "Guest": "伊庫伊奎",
+  "Prefer": "沙士菲",
+  "Odds": 0.89,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "02-20 21:33",
+  "Person": "红日"
+}

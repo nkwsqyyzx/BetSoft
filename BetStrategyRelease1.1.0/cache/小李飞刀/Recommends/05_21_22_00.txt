@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-22 00:30",
+  "Host": "薩普斯堡08",
+  "OddStake": "平手",
+  "Guest": "華拿倫加",
+  "Prefer": "華拿倫加",
+  "Odds": 1.09,
+  "Result": "3-3",
+  "PreferResult": 3,
+  "Time2": "05-21 22:00",
+  "Person": "小李飞刀"
+}

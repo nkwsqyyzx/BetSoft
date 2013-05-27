@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞士超",
+  "Time1": "05-04 01:45",
+  "Host": "洛桑體育隊",
+  "OddStake": "受半球",
+  "Guest": "蘇黎世",
+  "Prefer": "蘇黎世",
+  "Odds": 0.81,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-03 22:29",
+  "Person": "LXF1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德丙聯",
+  "Time1": "05-18 19:30",
+  "Host": "海登海默",
+  "OddStake": "3球",
+  "Guest": "奧芬巴查踢球者",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-18 14:21",
+  "Person": "wintion"
+}

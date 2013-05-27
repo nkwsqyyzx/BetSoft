@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷乙",
+  "Time1": "03-02 03:00",
+  "Host": "FC奧斯",
+  "OddStake": "半球",
+  "Guest": "恩浩雲",
+  "Prefer": "恩浩雲",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-01 21:03",
+  "Person": "小球下盘"
+}

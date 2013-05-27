@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中超",
+  "Time1": "05-18 15:35",
+  "Host": "貴州人和",
+  "OddStake": "半/一",
+  "Guest": "廣州富力",
+  "Prefer": "貴州人和",
+  "Odds": 0.89,
+  "Result": "3-2",
+  "PreferResult": 4,
+  "Time2": "05-18 12:57",
+  "Person": "量力而為"
+}

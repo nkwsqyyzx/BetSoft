@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 04:05",
+  "Host": "士砵亭",
+  "OddStake": "一球",
+  "Guest": "亨克",
+  "Prefer": "亨克",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "11-08 21:22",
+  "Person": "顺水顺风"
+}

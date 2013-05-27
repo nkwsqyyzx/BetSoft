@@ -7,8 +7,8 @@
   "Guest": "干亞士邦",
   "Prefer": "小球",
   "Odds": 0.8,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "0-2",
+  "PreferResult": 4,
   "Time2": "05-26 21:27",
   "Person": "bin-bin"
 }

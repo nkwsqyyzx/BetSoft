@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英足總盃",
+  "Time1": "12-12 03:45",
+  "Host": "修安聯",
+  "OddStake": "平/半",
+  "Guest": "貝利",
+  "Prefer": "修安聯",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "12-11 19:01",
+  "Person": "杀手47"
+}

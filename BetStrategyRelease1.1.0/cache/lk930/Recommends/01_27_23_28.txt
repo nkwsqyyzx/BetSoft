@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡超",
+  "Time1": "01-28 02:00",
+  "Host": "士砵亭",
+  "OddStake": "一球",
+  "Guest": "甘馬雷斯",
+  "Prefer": "甘馬雷斯",
+  "Odds": 0.99,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-27 23:28",
+  "Person": "Lk930"
+}

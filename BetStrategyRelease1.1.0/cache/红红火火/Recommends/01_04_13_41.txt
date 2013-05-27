@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英甲",
+  "Time1": "01-05 03:45",
+  "Host": "華素爾",
+  "OddStake": "半球",
+  "Guest": "樸茨茅夫",
+  "Prefer": "華素爾",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "01-04 13:41",
+  "Person": "红红火火"
+}

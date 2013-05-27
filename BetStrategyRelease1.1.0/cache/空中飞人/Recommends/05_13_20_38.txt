@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "羅甲",
+  "Time1": "05-13 23:59",
+  "Host": "古積大學",
+  "OddStake": "2/2.5球",
+  "Guest": "CSMS伊啊斯",
+  "Prefer": "小球",
+  "Odds": 1.02,
+  "Result": "0-2",
+  "PreferResult": 4,
+  "Time2": "05-13 20:38",
+  "Person": "空中飞人"
+}

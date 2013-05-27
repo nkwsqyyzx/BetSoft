@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "捷克甲",
+  "Time1": "04-20 02:15",
+  "Host": "皮爾森",
+  "OddStake": "球半",
+  "Guest": "普利布蘭",
+  "Prefer": "皮爾森",
+  "Odds": 0.93,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-19 09:19",
+  "Person": "无极旋风"
+}

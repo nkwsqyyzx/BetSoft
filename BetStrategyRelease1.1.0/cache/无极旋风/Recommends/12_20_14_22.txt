@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西乙",
+  "Time1": "12-21 03:00",
+  "Host": "薩雷斯",
+  "OddStake": "受平/半",
+  "Guest": "維拉利爾",
+  "Prefer": "薩雷斯",
+  "Odds": 0.98,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "12-20 14:22",
+  "Person": "无极旋风"
+}

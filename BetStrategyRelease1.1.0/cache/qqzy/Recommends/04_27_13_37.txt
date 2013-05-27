@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英甲",
+  "Time1": "04-27 15:00",
+  "Host": "橫濱水手",
+  "OddStake": "半/一",
+  "Guest": "甲府風林",
+  "Prefer": "橫濱水手",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-27 13:37",
+  "Person": "qqzy"
+}

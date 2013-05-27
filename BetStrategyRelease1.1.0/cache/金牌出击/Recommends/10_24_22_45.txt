@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐冠盃",
+  "Time1": "10-24 23:59",
+  "Host": "聖彼德斯堡澤尼特",
+  "OddStake": "2.5/3球",
+  "Guest": "安德列治",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "10-24 22:45",
+  "Person": "金牌出击"
+}

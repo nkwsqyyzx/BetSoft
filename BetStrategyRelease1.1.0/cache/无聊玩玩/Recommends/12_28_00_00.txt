@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "比甲",
+  "Time1": "12-28 01:00",
+  "Host": "標準列治",
+  "OddStake": "球半/两球",
+  "Guest": "比爾肖特",
+  "Prefer": "標準列治",
+  "Odds": 0.82,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "12-28 00:00",
+  "Person": "无聊玩玩"
+}

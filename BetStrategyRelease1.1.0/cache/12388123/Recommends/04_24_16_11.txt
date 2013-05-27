@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "印尼超",
+  "Time1": "04-24 16:30",
+  "Host": "巴日托",
+  "OddStake": "2.5/3球",
+  "Guest": "佩西加雅加達",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "04-24 16:11",
+  "Person": "12388123"
+}

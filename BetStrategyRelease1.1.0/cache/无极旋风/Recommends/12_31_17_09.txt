@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "伊朗超",
+  "Time1": "12-31 19:30",
+  "Host": "達瑪希吉蘭",
+  "OddStake": "半球",
+  "Guest": "阿魯密尼曼",
+  "Prefer": "達瑪希吉蘭",
+  "Odds": 1.02,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "12-31 17:09",
+  "Person": "无极旋风"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "澳職聯",
+  "Time1": "11-02 16:30",
+  "Host": "西部悉尼流浪者",
+  "OddStake": "2/2.5球",
+  "Guest": "墨爾本赫爾",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-02 14:35",
+  "Person": "空山新雨"
+}

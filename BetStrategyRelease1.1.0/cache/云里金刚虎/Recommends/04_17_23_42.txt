@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "白俄超",
+  "Time1": "04-17 23:59",
+  "Host": "紐曼",
+  "OddStake": "2/2.5球",
+  "Guest": "波里索夫巴迪",
+  "Prefer": "大球",
+  "Odds": 1.14,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-17 23:42",
+  "Person": "云里金刚虎"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "克亞甲",
+  "Time1": "03-01 23:59",
+  "Host": "西班利特",
+  "OddStake": "半/一",
+  "Guest": "奧斯積克",
+  "Prefer": "西班利特",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "03-01 21:22",
+  "Person": "顺水顺风"
+}

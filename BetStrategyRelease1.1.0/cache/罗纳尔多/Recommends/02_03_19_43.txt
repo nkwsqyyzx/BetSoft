@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法甲",
+  "Time1": "02-03 21:00",
+  "Host": "阿些斯奧",
+  "OddStake": "受平/半",
+  "Guest": "里昂",
+  "Prefer": "里昂",
+  "Odds": 0.85,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "02-03 19:43",
+  "Person": "罗纳尔多"
+}

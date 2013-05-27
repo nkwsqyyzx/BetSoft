@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意乙",
+  "Time1": "03-24 22:00",
+  "Host": "森索羅",
+  "OddStake": "一球",
+  "Guest": "特拉納",
+  "Prefer": "特拉納",
+  "Odds": 0.99,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-24 21:23",
+  "Person": "弹弓六"
+}

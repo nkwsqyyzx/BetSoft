@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西乙",
+  "Time1": "05-25 13:00",
+  "Host": "甲府風林",
+  "OddStake": "受平/半",
+  "Guest": "大宮松鼠",
+  "Prefer": "大宮松鼠",
+  "Odds": 0.84,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "05-25 12:32",
+  "Person": "战无不胜"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英聯盃",
+  "Time1": "12-12 03:45",
+  "Host": "巴拉福特",
+  "OddStake": "受球半",
+  "Guest": "阿森納",
+  "Prefer": "巴拉福特",
+  "Odds": 0.91,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-11 14:51",
+  "Person": "足球擂台"
+}

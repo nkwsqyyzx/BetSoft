@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "斯伐甲",
+  "Time1": "11-17 00:30",
+  "Host": "摩拉瓦斯",
+  "OddStake": "半/一",
+  "Guest": "柯西斯",
+  "Prefer": "摩拉瓦斯",
+  "Odds": 0.91,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "11-16 22:12",
+  "Person": "segespa"
+}

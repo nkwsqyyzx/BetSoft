@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意乙",
+  "Time1": "02-05 03:45",
+  "Host": "阿斯科利",
+  "OddStake": "半球",
+  "Guest": "蘭西安奴",
+  "Prefer": "蘭西安奴",
+  "Odds": 0.83,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-04 20:46",
+  "Person": "小球下盘"
+}

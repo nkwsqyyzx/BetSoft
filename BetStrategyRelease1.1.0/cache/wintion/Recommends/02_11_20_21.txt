@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "費王盃",
+  "Time1": "02-11 21:20",
+  "Host": "阿爾艾利吉達U21",
+  "OddStake": "3球",
+  "Guest": "納撒利雅德U21",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-11 20:21",
+  "Person": "wintion"
+}

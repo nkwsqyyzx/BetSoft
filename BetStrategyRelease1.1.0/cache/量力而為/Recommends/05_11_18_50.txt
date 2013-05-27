@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "05-11 19:45",
+  "Host": "阿斯頓維拉",
+  "OddStake": "2.5/3球",
+  "Guest": "切爾西",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "05-11 18:50",
+  "Person": "量力而為"
+}

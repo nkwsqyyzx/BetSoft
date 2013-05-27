@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "美乙",
+  "Time1": "04-15 06:00",
+  "Host": "奧蘭多市",
+  "OddStake": "2.5球",
+  "Guest": "羅徹斯特犀牛",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-15 00:20",
+  "Person": "无极旋风"
+}

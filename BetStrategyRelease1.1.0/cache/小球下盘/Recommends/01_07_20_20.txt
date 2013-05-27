@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法國盃",
+  "Time1": "01-08 03:45",
+  "Host": "伊斯特",
+  "OddStake": "2.5球",
+  "Guest": "華倫西恩斯",
+  "Prefer": "小球",
+  "Odds": 0.93,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-07 20:20",
+  "Person": "小球下盘"
+}

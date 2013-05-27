@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德甲",
+  "Time1": "12-15 03:30",
+  "Host": "拜仁慕尼黑",
+  "OddStake": "两球/两球半",
+  "Guest": "慕遜加柏",
+  "Prefer": "慕遜加柏",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "12-15 02:59",
+  "Person": "中奖太简单啦"
+}

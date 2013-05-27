@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "蘇甲",
+  "Time1": "04-16 08:30",
+  "Host": "貝爾格拉諾",
+  "OddStake": "2球",
+  "Guest": "基爾梅斯",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "04-16 07:13",
+  "Person": "顺水顺风"
+}

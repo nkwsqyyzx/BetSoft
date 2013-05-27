@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西乙",
+  "Time1": "03-10 01:00",
+  "Host": "艾爾切",
+  "OddStake": "一球",
+  "Guest": "米蘭迪斯",
+  "Prefer": "米蘭迪斯",
+  "Odds": 0.93,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-10 00:30",
+  "Person": "弹弓六"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法乙",
+  "Time1": "12-15 01:45",
+  "Host": "GFC阿些斯奧",
+  "OddStake": "平/半",
+  "Guest": "拉華爾",
+  "Prefer": "拉華爾",
+  "Odds": 0.91,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "12-14 16:42",
+  "Person": "弹弓六"
+}

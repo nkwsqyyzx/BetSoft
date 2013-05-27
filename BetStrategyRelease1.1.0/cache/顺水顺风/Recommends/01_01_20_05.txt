@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "01-01 23:00",
+  "Host": "曼城",
+  "OddStake": "一球/球半",
+  "Guest": "斯托克城",
+  "Prefer": "曼城",
+  "Odds": 0.89,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "01-01 20:05",
+  "Person": "顺水顺风"
+}

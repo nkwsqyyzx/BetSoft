@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "土甲",
+  "Time1": "11-17 22:00",
+  "Host": "哥茲塔比",
+  "OddStake": "半/一",
+  "Guest": "安卡拉高古",
+  "Prefer": "哥茲塔比",
+  "Odds": 0.83,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "11-17 20:48",
+  "Person": "顺水顺风"
+}

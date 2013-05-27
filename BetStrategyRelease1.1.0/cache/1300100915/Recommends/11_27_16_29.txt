@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德西聯",
+  "Time1": "11-27 21:30",
+  "Host": "SC維爾",
+  "OddStake": "2.5/3球",
+  "Guest": "波鴻青年隊",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "11-27 16:29",
+  "Person": "1300100915"
+}

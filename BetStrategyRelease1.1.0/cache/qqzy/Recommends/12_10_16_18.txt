@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西亞盃",
+  "Time1": "12-10 22:25",
+  "Host": "伊拉克(中)",
+  "OddStake": "2/2.5球",
+  "Guest": "約旦",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-10 16:18",
+  "Person": "qqzy"
+}

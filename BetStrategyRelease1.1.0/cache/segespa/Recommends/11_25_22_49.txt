@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-26 03:45",
+  "Host": "AC米蘭",
+  "OddStake": "受平/半",
+  "Guest": "祖雲達斯",
+  "Prefer": "AC米蘭",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-25 22:49",
+  "Person": "segespa"
+}

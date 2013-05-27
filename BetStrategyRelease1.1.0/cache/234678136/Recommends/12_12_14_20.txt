@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "世冠盃",
+  "Time1": "12-12 15:30",
+  "Host": "廣島三箭",
+  "OddStake": "平/半",
+  "Guest": "蔚山現代",
+  "Prefer": "廣島三箭",
+  "Odds": 0.9,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "12-12 14:20",
+  "Person": "234678136"
+}

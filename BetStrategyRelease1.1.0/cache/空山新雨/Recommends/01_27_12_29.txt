@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-27 22:00",
+  "Host": "卡坦尼亞",
+  "OddStake": "受平/半",
+  "Guest": "費倫天拿",
+  "Prefer": "卡坦尼亞",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "01-27 12:29",
+  "Person": "空山新雨"
+}

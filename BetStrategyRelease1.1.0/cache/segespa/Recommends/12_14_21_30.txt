@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德乙",
+  "Time1": "12-15 01:00",
+  "Host": "凱沙羅頓",
+  "OddStake": "一球",
+  "Guest": "VFR亞倫",
+  "Prefer": "VFR亞倫",
+  "Odds": 0.92,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-14 21:30",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典乙南",
+  "Time1": "05-22 01:00",
+  "Host": "隆德",
+  "OddStake": "半/一",
+  "Guest": "邦克福洛",
+  "Prefer": "隆德",
+  "Odds": 0.97,
+  "Result": "6-2",
+  "PreferResult": 5,
+  "Time2": "05-21 22:03",
+  "Person": "234678136"
+}

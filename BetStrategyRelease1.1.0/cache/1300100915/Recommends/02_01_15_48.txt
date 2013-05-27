@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德西聯",
+  "Time1": "02-02 02:30",
+  "Host": "埃森",
+  "OddStake": "2.5/3球",
+  "Guest": "SC維爾",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-01 15:48",
+  "Person": "1300100915"
+}

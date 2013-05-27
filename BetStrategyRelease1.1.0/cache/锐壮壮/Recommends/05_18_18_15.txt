@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中超",
+  "Time1": "05-18 19:35",
+  "Host": "山東魯能泰山",
+  "OddStake": "2.5/3球",
+  "Guest": "上海東亞",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-18 18:15",
+  "Person": "锐壮壮"
+}

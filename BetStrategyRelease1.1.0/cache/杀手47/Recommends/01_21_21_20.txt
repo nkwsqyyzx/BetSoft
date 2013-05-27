@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡超",
+  "Time1": "01-21 23:59",
+  "Host": "科英布拉大學",
+  "OddStake": "2.5球",
+  "Guest": "國民隊",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-21 21:20",
+  "Person": "杀手47"
+}

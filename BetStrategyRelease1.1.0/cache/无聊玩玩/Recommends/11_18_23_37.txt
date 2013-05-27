@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法甲",
+  "Time1": "11-19 04:00",
+  "Host": "波爾多",
+  "OddStake": "2球",
+  "Guest": "馬賽",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-18 23:37",
+  "Person": "无聊玩玩"
+}

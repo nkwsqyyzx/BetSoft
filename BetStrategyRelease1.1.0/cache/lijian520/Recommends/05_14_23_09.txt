@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "英超",
+  "Time1": "05-15 03:00",
+  "Host": "雷丁",
+  "OddStake": "3球",
+  "Guest": "曼城",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "05-14 23:09",
+  "Person": "lijian520"
+}

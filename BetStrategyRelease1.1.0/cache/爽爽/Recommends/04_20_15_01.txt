@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "中超",
+  "Time1": "04-20 15:35",
+  "Host": "山東魯能泰山",
+  "OddStake": "半球",
+  "Guest": "遼寧宏運",
+  "Prefer": "遼寧宏運",
+  "Odds": 1.03,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "04-20 15:01",
+  "Person": "爽爽"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "04-17 02:45",
+  "Host": "狼隊",
+  "OddStake": "受平/半",
+  "Guest": "侯城",
+  "Prefer": "狼隊",
+  "Odds": 1.0,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-16 23:14",
+  "Person": "segespa"
+}

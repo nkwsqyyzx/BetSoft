@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "丹麥超",
+  "Time1": "05-20 23:00",
+  "Host": "哥本哈根",
+  "OddStake": "一球/球半",
+  "Guest": "桑德捷斯基",
+  "Prefer": "哥本哈根",
+  "Odds": 1.11,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-20 21:39",
+  "Person": "杀手47"
+}

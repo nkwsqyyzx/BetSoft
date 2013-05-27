@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-03 01:00",
+  "Host": "哈化柏林",
+  "OddStake": "一球",
+  "Guest": "印戈斯塔德",
+  "Prefer": "印戈斯塔德",
+  "Odds": 1.01,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-02 18:10",
+  "Person": "小李飞刀"
+}

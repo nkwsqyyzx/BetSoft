@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-16 23:59",
+  "Host": "史卓加斯特",
+  "OddStake": "球半",
+  "Guest": "桑恩達",
+  "Prefer": "桑恩達",
+  "Odds": 0.85,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "05-16 23:45",
+  "Person": "qqzy"
+}

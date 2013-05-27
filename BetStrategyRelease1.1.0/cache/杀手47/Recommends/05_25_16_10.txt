@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "澳威超",
+  "Time1": "05-25 16:30",
+  "Host": "中央海岸學院",
+  "OddStake": "3/3.5球",
+  "Guest": "南部海岸狼隊",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "4-3",
+  "PreferResult": 5,
+  "Time2": "05-25 16:10",
+  "Person": "杀手47"
+}

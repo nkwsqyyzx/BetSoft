@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "瑞典超",
+  "Time1": "10-27 01:00",
+  "Host": "馬模",
+  "OddStake": "一球/球半",
+  "Guest": "佐加頓斯",
+  "Prefer": "佐加頓斯",
+  "Odds": 0.89,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "10-26 22:40",
+  "Person": "segespa"
+}

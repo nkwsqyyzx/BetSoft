@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "巴西甲",
+  "Time1": "10-15 05:30",
+  "Host": "甘美奧",
+  "OddStake": "2.5球",
+  "Guest": "博塔福格RJ",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "10-14 22:45",
+  "Person": "龙缘"
+}

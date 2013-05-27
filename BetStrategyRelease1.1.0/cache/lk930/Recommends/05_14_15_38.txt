@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "斯伐甲",
+  "Time1": "05-14 23:30",
+  "Host": "尼特拉",
+  "OddStake": "平/半",
+  "Guest": "柯西斯",
+  "Prefer": "尼特拉",
+  "Odds": 1.05,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-14 15:38",
+  "Person": "lk930"
+}

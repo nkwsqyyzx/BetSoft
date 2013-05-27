@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "05-12 15:00",
+  "Host": "山形蒙迪奧",
+  "OddStake": "2/2.5球",
+  "Guest": "札幌岡薩多",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-12 13:23",
+  "Person": "qqzy"
+}

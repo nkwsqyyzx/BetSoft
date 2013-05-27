@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-12 04:30",
+  "Host": "畢爾巴鄂競技",
+  "OddStake": "2.5/3球",
+  "Guest": "華歷簡奴",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "01-12 03:48",
+  "Person": "中奖太简单啦"
+}

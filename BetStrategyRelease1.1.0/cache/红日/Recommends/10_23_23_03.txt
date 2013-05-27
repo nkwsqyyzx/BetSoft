@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英甲",
+  "Time1": "10-24 02:45",
+  "Host": "史提芬納治",
+  "OddStake": "半球",
+  "Guest": "樸茨茅夫",
+  "Prefer": "樸茨茅夫",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-23 23:03",
+  "Person": "红日"
+}

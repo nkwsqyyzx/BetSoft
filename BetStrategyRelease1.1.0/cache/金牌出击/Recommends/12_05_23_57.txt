@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英非北",
+  "Time1": "12-06 03:45",
+  "Host": "古魯斯特城",
+  "OddStake": "受平/半",
+  "Guest": "波士頓聯",
+  "Prefer": "古魯斯特城",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-05 23:57",
+  "Person": "金牌出击"
+}

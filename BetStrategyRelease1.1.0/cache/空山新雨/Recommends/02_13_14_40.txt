@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "港賀歲盃",
+  "Time1": "02-13 15:00",
+  "Host": "香港聯賽特選隊",
+  "OddStake": "3球",
+  "Guest": "孟通",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "02-13 14:40",
+  "Person": "空山新雨"
+}

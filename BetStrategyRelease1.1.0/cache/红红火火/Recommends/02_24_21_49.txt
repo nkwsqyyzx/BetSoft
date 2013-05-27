@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "墨西聯",
+  "Time1": "02-25 02:00",
+  "Host": "托拉卡",
+  "OddStake": "2.5球",
+  "Guest": "賈奎斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-24 21:49",
+  "Person": "红红火火"
+}

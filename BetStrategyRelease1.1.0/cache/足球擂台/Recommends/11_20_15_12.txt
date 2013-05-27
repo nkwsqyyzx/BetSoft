@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄甲",
+  "Time1": "11-20 20:00",
+  "Host": "唐姆斯基",
+  "OddStake": "一球/球半",
+  "Guest": "烏法",
+  "Prefer": "烏法",
+  "Odds": 0.95,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-20 15:12",
+  "Person": "足球擂台"
+}

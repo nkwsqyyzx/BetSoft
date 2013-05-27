@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英甲",
+  "Time1": "01-23 03:45",
+  "Host": "哈特爾浦",
+  "OddStake": "受半球",
+  "Guest": "般尼茅夫",
+  "Prefer": "哈特爾浦",
+  "Odds": 0.98,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "01-22 21:59",
+  "Person": "金牌出击"
+}

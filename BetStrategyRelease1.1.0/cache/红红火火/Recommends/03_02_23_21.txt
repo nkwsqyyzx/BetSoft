@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "03-03 01:00",
+  "Host": "拉科魯尼亞",
+  "OddStake": "平/半",
+  "Guest": "華歷簡奴",
+  "Prefer": "華歷簡奴",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "03-02 23:21",
+  "Person": "红红火火"
+}

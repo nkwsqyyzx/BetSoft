@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英甲",
+  "Time1": "01-26 23:00",
+  "Host": "高車士打",
+  "OddStake": "平手",
+  "Guest": "華素爾",
+  "Prefer": "華素爾",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-26 22:42",
+  "Person": "罗纳尔多"
+}

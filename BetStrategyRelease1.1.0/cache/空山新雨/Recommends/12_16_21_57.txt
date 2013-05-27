@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英非南",
+  "Time1": "12-16 23:00",
+  "Host": "海斯葉丁",
+  "OddStake": "2.5/3球",
+  "Guest": "多佛",
+  "Prefer": "大球",
+  "Odds": 0.81,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "12-16 21:57",
+  "Person": "空山新雨"
+}

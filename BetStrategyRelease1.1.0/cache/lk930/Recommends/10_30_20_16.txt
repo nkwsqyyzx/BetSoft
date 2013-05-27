@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "10-31 03:45",
+  "Host": "巴勒莫",
+  "OddStake": "2.5球",
+  "Guest": "AC米蘭",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "10-30 20:16",
+  "Person": "lk930"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意乙",
+  "Time1": "12-23 22:00",
+  "Host": "森索羅",
+  "OddStake": "2.5球",
+  "Guest": "蘭西安奴",
+  "Prefer": "小球",
+  "Odds": 1.02,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "12-23 20:33",
+  "Person": "余韵犹在"
+}

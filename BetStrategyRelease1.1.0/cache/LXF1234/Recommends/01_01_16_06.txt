@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "01-01 23:00",
+  "Host": "史雲斯",
+  "OddStake": "一球",
+  "Guest": "阿斯頓維拉",
+  "Prefer": "史雲斯",
+  "Odds": 1.1,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "01-01 16:06",
+  "Person": "lxf1234"
+}

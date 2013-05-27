@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "烏克U21",
+  "Time1": "10-18 20:00",
+  "Host": "薩克達U21",
+  "OddStake": "球半",
+  "Guest": "伊利捷維斯U21",
+  "Prefer": "薩克達U21",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "10-18 17:22",
+  "Person": "余韵犹在"
+}

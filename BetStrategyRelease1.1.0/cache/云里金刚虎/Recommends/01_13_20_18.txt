@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡甲",
+  "Time1": "01-13 23:00",
+  "Host": "士砵亭B隊",
+  "OddStake": "半/一",
+  "Guest": "奧利維倫斯",
+  "Prefer": "奧利維倫斯",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-13 20:18",
+  "Person": "云里金刚虎"
+}

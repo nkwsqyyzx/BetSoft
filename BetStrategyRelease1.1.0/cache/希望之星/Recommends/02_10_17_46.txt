@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德青北",
+  "Time1": "02-10 18:00",
+  "Host": "奧斯拿布克U19",
+  "OddStake": "3球",
+  "Guest": "羅斯托克U19",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "1-2",
+  "PreferResult": 3,
+  "Time2": "02-10 17:46",
+  "Person": "希望之星"
+}
