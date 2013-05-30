@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "捷U21",
+  "Time1": "05-30 17:00",
+  "Host": "奧斯泰華U21",
+  "OddStake": "半球",
+  "Guest": "布咸麥恩斯1905U21",
+  "Prefer": "奧斯泰華U21",
+  "Odds": 1.05,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-30 16:45",
+  "Person": "足球老青年"
+}

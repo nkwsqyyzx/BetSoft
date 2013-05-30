@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "海灣錦标",
+  "Time1": "11-26 22:15",
+  "Host": "布賽丁",
+  "OddStake": "平/半",
+  "Guest": "費薩里哈曼",
+  "Prefer": "費薩里哈曼",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-26 20:38",
+  "Person": "segespa"
+}

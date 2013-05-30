@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "伊朗超",
+  "Time1": "02-21 23:30",
+  "Host": "艾斯迪格拿",
+  "OddStake": "2.5球",
+  "Guest": "納夫特",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-21 22:38",
+  "Person": "顺水顺风"
+}

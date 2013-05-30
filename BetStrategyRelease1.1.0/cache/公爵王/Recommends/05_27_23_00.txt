@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典乙南",
+  "Time1": "05-28 01:00",
+  "Host": "特利堡",
+  "OddStake": "半/一",
+  "Guest": "克里斯提斯塔",
+  "Prefer": "特利堡",
+  "Odds": 0.84,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-27 23:00",
+  "Person": "公爵王"
+}

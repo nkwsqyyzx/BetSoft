@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "捷U19",
+  "Time1": "05-28 19:00",
+  "Host": "奧林莫斯U19",
+  "OddStake": "平/半",
+  "Guest": "布拉格斯拉維亞U19",
+  "Prefer": "布拉格斯拉維亞U19",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-28 17:23",
+  "Person": "珊湖秀才"
+}

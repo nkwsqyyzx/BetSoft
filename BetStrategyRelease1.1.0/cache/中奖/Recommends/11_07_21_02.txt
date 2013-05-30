@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "11-08 03:45",
+  "Host": "些路迪",
+  "OddStake": "受球半",
+  "Guest": "巴塞羅那",
+  "Prefer": "巴塞羅那",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-07 21:02",
+  "Person": "中奖"
+}

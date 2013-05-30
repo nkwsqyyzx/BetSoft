@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "阿聯盃",
+  "Time1": "01-10 21:00",
+  "Host": "艾恩",
+  "OddStake": "球半",
+  "Guest": "杜拜",
+  "Prefer": "艾恩",
+  "Odds": 0.89,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-10 19:55",
+  "Person": "余韵犹在"
+}

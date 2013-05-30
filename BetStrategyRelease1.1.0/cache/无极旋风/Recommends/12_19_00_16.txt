@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-19 01:00",
+  "Host": "土耳其U20",
+  "OddStake": "2.5/3球",
+  "Guest": "克羅地亞U20",
+  "Prefer": "大球",
+  "Odds": 1.04,
+  "Result": "3-0",
+  "PreferResult": 4,
+  "Time2": "12-19 00:16",
+  "Person": "无极旋风"
+}

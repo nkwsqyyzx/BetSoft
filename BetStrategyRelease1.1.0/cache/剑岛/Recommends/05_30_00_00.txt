@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭乙",
+  "Time1": "05-30 01:00",
+  "Host": "阿卡",
+  "OddStake": "2/2.5球",
+  "Guest": "奧爾什丁",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-30 00:00",
+  "Person": "剑岛"
+}

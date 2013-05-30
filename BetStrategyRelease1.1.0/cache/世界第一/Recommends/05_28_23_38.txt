@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-29 02:45",
+  "Host": "巴塞羅那U17",
+  "OddStake": "2.5/3球",
+  "Guest": "哥連泰斯U17",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-28 23:38",
+  "Person": "世界第一"
+}

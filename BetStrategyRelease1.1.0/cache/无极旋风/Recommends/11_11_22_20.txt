@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "哥斯甲",
+  "Time1": "11-12 01:00",
+  "Host": "朋塔雷納斯",
+  "OddStake": "2.5球",
+  "Guest": "肯塔吉內斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-11 22:20",
+  "Person": "无极旋风"
+}

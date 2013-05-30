@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇超",
+  "Time1": "01-02 22:00",
+  "Host": "聖莊士東",
+  "OddStake": "2.5球",
+  "Guest": "登地",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-02 18:33",
+  "Person": "红红火火"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "中国博球盟主",
+  "LastUpdateTime": "\/Date(1369882392758+0800)\/",
+  "Person": {
+    "TotalROI": -2.18,
+    "CurrentROI": -2.18,
+    "TotalYield": -0.545,
+    "CurrentYield": -0.545,
+    "Total": 4,
+    "Profit": -2.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 3,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "中国博球盟主"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意盃",
+  "Time1": "12-20 00:30",
+  "Host": "烏甸尼斯",
+  "OddStake": "平手",
+  "Guest": "費倫天拿",
+  "Prefer": "費倫天拿",
+  "Odds": 0.95,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-19 21:48",
+  "Person": "segespa"
+}

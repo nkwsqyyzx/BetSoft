@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德甲",
+  "Time1": "11-29 03:00",
+  "Host": "斯圖加特",
+  "OddStake": "半/一",
+  "Guest": "奧斯堡",
+  "Prefer": "斯圖加特",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "11-28 22:00",
+  "Person": "lxf1234"
+}

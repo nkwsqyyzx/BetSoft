@@ -1,0 +1,18 @@
+{
+  "Name": "中奖太简单啦",
+  "LastUpdateTime": "\/Date(1369882395632+0800)\/",
+  "Person": {
+    "TotalROI": -18.6600037,
+    "CurrentROI": 5.66500044,
+    "TotalYield": -0.08760565,
+    "CurrentYield": 0.354062527,
+    "Total": 213,
+    "Profit": -11.5,
+    "Win": 80,
+    "WinHalf": 17,
+    "Lose": 93,
+    "LoseHalf": 14,
+    "Draw": 9,
+    "Name": "中奖太简单啦"
+  }
+}

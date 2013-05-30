@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐霸盃",
+  "Time1": "10-26 03:05",
+  "Host": "迪尼普",
+  "OddStake": "平/半",
+  "Guest": "拿玻里",
+  "Prefer": "迪尼普",
+  "Odds": 0.84,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "10-26 01:35",
+  "Person": "梅西的左脚"
+}

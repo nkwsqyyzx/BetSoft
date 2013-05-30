@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德乙",
+  "Time1": "03-29 01:00",
+  "Host": "科特布斯",
+  "OddStake": "2/2.5球",
+  "Guest": "VFR亞倫",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "03-28 18:37",
+  "Person": "小球下盘"
+}

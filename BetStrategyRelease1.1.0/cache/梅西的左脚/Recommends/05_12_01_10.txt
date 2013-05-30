@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞士超",
+  "Time1": "05-12 01:45",
+  "Host": "盧森",
+  "OddStake": "平/半",
+  "Guest": "年青人",
+  "Prefer": "盧森",
+  "Odds": 1.07,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "05-12 01:10",
+  "Person": "梅西的左脚"
+}

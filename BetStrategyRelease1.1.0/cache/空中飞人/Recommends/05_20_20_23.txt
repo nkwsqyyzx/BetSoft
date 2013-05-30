@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "以色列甲",
+  "Time1": "05-20 23:00",
+  "Host": "克拉瑪甘",
+  "OddStake": "2/2.5球",
+  "Guest": "法薩巴夏普爾",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-20 20:23",
+  "Person": "空中飞人"
+}

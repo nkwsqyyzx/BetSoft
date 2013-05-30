@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "葡超",
+  "Time1": "02-16 04:30",
+  "Host": "比拉馬",
+  "OddStake": "受球半",
+  "Guest": "波圖",
+  "Prefer": "波圖",
+  "Odds": 0.89,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "02-15 22:59",
+  "Person": "234678136"
+}

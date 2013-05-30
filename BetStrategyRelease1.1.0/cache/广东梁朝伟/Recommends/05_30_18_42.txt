@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "哈薩超",
+  "Time1": "05-30 19:00",
+  "Host": "奧達巴斯",
+  "OddStake": "2/2.5球",
+  "Guest": "阿特勞",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-30 18:42",
+  "Person": "广东梁朝伟"
+}

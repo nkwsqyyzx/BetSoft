@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英乙",
+  "Time1": "01-12 23:00",
+  "Host": "洛達咸",
+  "OddStake": "2.5/3球",
+  "Guest": "班列特",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "01-12 21:51",
+  "Person": "金牌出击"
+}

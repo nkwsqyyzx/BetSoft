@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西乙",
+  "Time1": "05-29 06:30",
+  "Host": "卡爾拉",
+  "OddStake": "半球",
+  "Guest": "帕桑度",
+  "Prefer": "卡爾拉",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 15:26",
+  "Person": "摩云金翅麒麟"
+}

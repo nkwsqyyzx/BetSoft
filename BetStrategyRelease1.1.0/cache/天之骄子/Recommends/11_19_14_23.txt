@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄超",
+  "Time1": "11-19 21:45",
+  "Host": "蘇維杜夫",
+  "OddStake": "受半/一",
+  "Guest": "莫斯科火車頭",
+  "Prefer": "蘇維杜夫",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 2,
+  "Time2": "11-19 14:23",
+  "Person": "天之骄子"
+}

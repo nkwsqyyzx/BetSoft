@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西甲",
+  "Time1": "05-30 06:30",
+  "Host": "博塔福格RJ",
+  "OddStake": "2.5球",
+  "Guest": "山度士",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 16:21",
+  "Person": "风林"
+}

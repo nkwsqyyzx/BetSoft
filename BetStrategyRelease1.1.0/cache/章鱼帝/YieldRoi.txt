@@ -1,0 +1,18 @@
+{
+  "Name": "章鱼帝",
+  "LastUpdateTime": "\/Date(1369882412530+0800)\/",
+  "Person": {
+    "TotalROI": 10.9950008,
+    "CurrentROI": -0.199999928,
+    "TotalYield": 0.18325001,
+    "CurrentYield": -0.0285714176,
+    "Total": 60,
+    "Profit": 15.0,
+    "Win": 31,
+    "WinHalf": 8,
+    "Lose": 19,
+    "LoseHalf": 2,
+    "Draw": 0,
+    "Name": "章鱼帝"
+  }
+}

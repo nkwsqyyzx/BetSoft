@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-01 03:45",
+  "Host": "國際米蘭",
+  "OddStake": "一球",
+  "Guest": "森多利亞",
+  "Prefer": "國際米蘭",
+  "Odds": 0.85,
+  "Result": "3-2",
+  "PreferResult": 3,
+  "Time2": "10-31 13:18",
+  "Person": "杀手47"
+}

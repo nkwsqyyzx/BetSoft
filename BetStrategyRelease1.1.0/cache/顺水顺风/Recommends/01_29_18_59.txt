@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-29 20:00",
+  "Host": "萊克",
+  "OddStake": "半球",
+  "Guest": "馬特斯",
+  "Prefer": "萊克",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-29 18:59",
+  "Person": "顺水顺风"
+}

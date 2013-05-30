@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法丙",
+  "Time1": "11-03 03:00",
+  "Host": "科爾馬",
+  "OddStake": "2/2.5球",
+  "Guest": "梅斯",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-02 14:42",
+  "Person": "足球擂台"
+}

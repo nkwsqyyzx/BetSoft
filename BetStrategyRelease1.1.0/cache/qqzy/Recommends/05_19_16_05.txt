@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "英超",
+  "Time1": "05-19 23:00",
+  "Host": "切爾西",
+  "OddStake": "半/一",
+  "Guest": "愛華頓",
+  "Prefer": "切爾西",
+  "Odds": 0.93,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-19 16:05",
+  "Person": "qqzy"
+}

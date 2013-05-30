@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "加拿超",
+  "Time1": "05-27 06:30",
+  "Host": "約克區射手",
+  "OddStake": "2.5/3球",
+  "Guest": "塞爾維亞白鷹",
+  "Prefer": "小球",
+  "Odds": 1.06,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-27 06:17",
+  "Person": "足球老青年"
+}

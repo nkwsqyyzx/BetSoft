@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-28 01:00",
+  "Host": "奧斯特桑斯",
+  "OddStake": "2.5球",
+  "Guest": "安其爾何馬士",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 15:14",
+  "Person": "印加帝国"
+}

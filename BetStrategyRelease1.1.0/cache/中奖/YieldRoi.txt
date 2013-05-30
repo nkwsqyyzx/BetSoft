@@ -1,0 +1,18 @@
+{
+  "Name": "中奖",
+  "LastUpdateTime": "\/Date(1369882394050+0800)\/",
+  "Person": {
+    "TotalROI": -3.42400074,
+    "CurrentROI": 4.453,
+    "TotalYield": -0.0212670863,
+    "CurrentYield": 0.2968667,
+    "Total": 161,
+    "Profit": 6.0,
+    "Win": 81,
+    "WinHalf": 0,
+    "Lose": 73,
+    "LoseHalf": 4,
+    "Draw": 1,
+    "Name": "中奖"
+  }
+}

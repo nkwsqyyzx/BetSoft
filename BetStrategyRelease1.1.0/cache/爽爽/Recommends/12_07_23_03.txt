@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿乙",
+  "Time1": "12-08 08:30",
+  "Host": "門多薩獨立",
+  "OddStake": "半球",
+  "Guest": "佩卓納托",
+  "Prefer": "佩卓納托",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-07 23:03",
+  "Person": "爽爽"
+}

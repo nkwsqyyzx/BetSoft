@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿塞超",
+  "Time1": "12-10 22:00",
+  "Host": "巴庫尼菲治",
+  "OddStake": "2.5/3球",
+  "Guest": "拉莞巴古",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "12-10 17:26",
+  "Person": "zy530"
+}

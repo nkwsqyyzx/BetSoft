@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "瑞士甲",
+  "Time1": "02-26 02:45",
+  "Host": "畢爾",
+  "OddStake": "平/半",
+  "Guest": "華杜茲",
+  "Prefer": "畢爾",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-25 22:00",
+  "Person": "杀手47"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土耳其盃",
+  "Time1": "02-27 23:59",
+  "Host": "梅爾辛",
+  "OddStake": "受一球",
+  "Guest": "伊斯基錫海斯普",
+  "Prefer": "伊斯基錫海斯普",
+  "Odds": 1.01,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "02-27 22:29",
+  "Person": "金牌出击"
+}

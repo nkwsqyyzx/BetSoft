@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "04-21 21:00",
+  "Host": "錫耶納",
+  "OddStake": "2/2.5球",
+  "Guest": "切沃",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-21 13:34",
+  "Person": "qqzy"
+}

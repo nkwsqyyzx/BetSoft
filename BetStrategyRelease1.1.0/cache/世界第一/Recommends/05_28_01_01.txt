@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士甲",
+  "Time1": "05-28 01:45",
+  "Host": "溫特圖爾",
+  "OddStake": "半/一",
+  "Guest": "韋爾",
+  "Prefer": "溫特圖爾",
+  "Odds": 0.86,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-28 01:01",
+  "Person": "世界第一"
+}

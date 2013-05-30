@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-24 19:40",
+  "Host": "江蘇舜天",
+  "OddStake": "2/2.5球",
+  "Guest": "FC漢城",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "0-2",
+  "PreferResult": 4,
+  "Time2": "04-24 16:30",
+  "Person": "qqzy"
+}

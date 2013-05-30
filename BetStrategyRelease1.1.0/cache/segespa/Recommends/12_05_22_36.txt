@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英錦賽",
+  "Time1": "12-06 03:45",
+  "Host": "諾咸頓",
+  "OddStake": "2.5球",
+  "Guest": "奧連特",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "12-05 22:36",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土超",
+  "Time1": "12-16 01:00",
+  "Host": "伊拉茲斯堡",
+  "OddStake": "2/2.5球",
+  "Guest": "加辛塔士邦",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "12-15 23:51",
+  "Person": "云里金刚虎"
+}

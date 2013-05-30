@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐洲預選",
+  "Time1": "10-17 23:00",
+  "Host": "波蘭",
+  "OddStake": "受半球",
+  "Guest": "英格蘭",
+  "Prefer": "英格蘭",
+  "Odds": 1.0,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "10-17 21:39",
+  "Person": "天之骄子"
+}

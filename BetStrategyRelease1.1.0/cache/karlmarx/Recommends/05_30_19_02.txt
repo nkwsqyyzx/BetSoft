@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "俄超",
+  "Time1": "05-30 22:30",
+  "Host": "蘇維杜夫",
+  "OddStake": "一球/球半",
+  "Guest": "納爾奇克斯巴達",
+  "Prefer": "納爾奇克斯巴達",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 19:02",
+  "Person": "karlmarx"
+}

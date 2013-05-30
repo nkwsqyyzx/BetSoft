@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "蘇超",
+  "Time1": "11-28 03:45",
+  "Host": "登地聯",
+  "OddStake": "平/半",
+  "Guest": "馬瑟韋爾",
+  "Prefer": "馬瑟韋爾",
+  "Odds": 0.83,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "11-27 20:02",
+  "Person": "空山新雨"
+}

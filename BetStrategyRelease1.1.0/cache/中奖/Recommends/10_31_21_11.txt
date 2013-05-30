@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德國盃",
+  "Time1": "11-01 02:00",
+  "Host": "比勒費爾德",
+  "OddStake": "受球半",
+  "Guest": "利華古遜",
+  "Prefer": "利華古遜",
+  "Odds": 0.94,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "10-31 21:11",
+  "Person": "中奖"
+}

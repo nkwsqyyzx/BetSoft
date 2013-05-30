@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "葡甲",
+  "Time1": "11-28 23:00",
+  "Host": "特芬森",
+  "OddStake": "2球",
+  "Guest": "辛達卡拉",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-3",
+  "PreferResult": 1,
+  "Time2": "11-28 22:46",
+  "Person": "梅西的左脚"
+}

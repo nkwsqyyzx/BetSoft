@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "03-02 23:00",
+  "Host": "查爾頓",
+  "OddStake": "2.5球",
+  "Guest": "般尼",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-02 21:59",
+  "Person": "红日"
+}

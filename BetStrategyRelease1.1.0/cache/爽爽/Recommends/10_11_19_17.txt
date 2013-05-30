@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "友誼賽",
+  "Time1": "10-11 20:30",
+  "Host": "烏拉圭U20",
+  "OddStake": "半/一",
+  "Guest": "秘魯U20",
+  "Prefer": "烏拉圭U20",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "10-11 19:17",
+  "Person": "爽爽"
+}

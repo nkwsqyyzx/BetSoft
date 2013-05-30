@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "03-06 08:30",
+  "Host": "米倫拿列奧",
+  "OddStake": "球半",
+  "Guest": "聖喬希奧魯羅",
+  "Prefer": "聖喬希奧魯羅",
+  "Odds": 1.07,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "03-05 22:24",
+  "Person": "罗纳尔多"
+}

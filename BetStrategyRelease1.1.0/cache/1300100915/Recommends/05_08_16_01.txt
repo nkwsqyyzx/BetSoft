@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "05-09 02:45",
+  "Host": "巴勒莫",
+  "OddStake": "平/半",
+  "Guest": "烏甸尼斯",
+  "Prefer": "巴勒莫",
+  "Odds": 0.83,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "05-08 16:01",
+  "Person": "1300100915"
+}

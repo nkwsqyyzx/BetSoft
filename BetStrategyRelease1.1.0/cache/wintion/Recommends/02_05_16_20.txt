@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "印尼超",
+  "Time1": "02-05 16:30",
+  "Host": "佩利塔",
+  "OddStake": "2.5/3球",
+  "Guest": "佩西加雅加達",
+  "Prefer": "大球",
+  "Odds": 1.08,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "02-05 16:20",
+  "Person": "wintion"
+}

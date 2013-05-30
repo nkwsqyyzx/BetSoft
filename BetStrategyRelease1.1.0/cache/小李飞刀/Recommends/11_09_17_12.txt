@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "蘇甲",
+  "Time1": "11-10 08:15",
+  "Host": "沙士菲",
+  "OddStake": "半/一",
+  "Guest": "葛度爾古斯",
+  "Prefer": "沙士菲",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "11-09 17:12",
+  "Person": "小李飞刀"
+}

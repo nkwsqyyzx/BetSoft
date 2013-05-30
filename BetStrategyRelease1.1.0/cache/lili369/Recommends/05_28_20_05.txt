@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "羅甲",
+  "Time1": "05-29 03:00",
+  "Host": "加拉迪",
+  "OddStake": "2.5球",
+  "Guest": "布格勒斯特戴拿模",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 20:05",
+  "Person": "lili369"
+}

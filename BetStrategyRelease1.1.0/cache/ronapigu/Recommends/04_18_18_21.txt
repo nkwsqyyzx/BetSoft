@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "沙地聯",
+  "Time1": "04-18 21:40",
+  "Host": "瓦赫達麥加",
+  "OddStake": "3球",
+  "Guest": "阿爾菲斯",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "04-18 18:21",
+  "Person": "ronapigu"
+}

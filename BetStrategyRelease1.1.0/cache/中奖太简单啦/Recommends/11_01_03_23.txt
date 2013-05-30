@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英聯盃",
+  "Time1": "11-01 03:45",
+  "Host": "切爾西",
+  "OddStake": "3球",
+  "Guest": "曼聯",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "11-01 03:23",
+  "Person": "中奖太简单啦"
+}

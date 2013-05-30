@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "以色列甲",
+  "Time1": "02-11 23:59",
+  "Host": "阿基納紮力馬卡比",
+  "OddStake": "2/2.5球",
+  "Guest": "彼達提克瓦夏普",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "02-11 22:41",
+  "Person": "云里金刚虎"
+}

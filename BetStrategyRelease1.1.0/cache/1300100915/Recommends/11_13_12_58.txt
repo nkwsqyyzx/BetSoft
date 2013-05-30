@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英挑盃",
+  "Time1": "11-14 03:45",
+  "Host": "希克雷",
+  "OddStake": "2.5/3球",
+  "Guest": "真斯布洛治",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "11-13 12:58",
+  "Person": "1300100915"
+}

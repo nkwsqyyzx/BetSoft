@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "01-01 23:00",
+  "Host": "曼城",
+  "OddStake": "球半",
+  "Guest": "斯托克城",
+  "Prefer": "斯托克城",
+  "Odds": 0.91,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "01-01 17:41",
+  "Person": "弹弓六"
+}

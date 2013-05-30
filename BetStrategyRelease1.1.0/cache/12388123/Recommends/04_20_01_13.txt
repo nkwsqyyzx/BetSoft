@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "愛超",
+  "Time1": "04-20 02:45",
+  "Host": "杜希達聯",
+  "OddStake": "2.5球",
+  "Guest": "都柏林大學",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "04-20 01:13",
+  "Person": "12388123"
+}

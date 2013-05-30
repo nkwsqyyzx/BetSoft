@@ -1,0 +1,18 @@
+{
+  "Name": "心情",
+  "LastUpdateTime": "\/Date(1369882405038+0800)\/",
+  "Person": {
+    "TotalROI": 19.2749939,
+    "CurrentROI": 4.77,
+    "TotalYield": 0.127648965,
+    "CurrentYield": 0.340714276,
+    "Total": 151,
+    "Profit": 27.5,
+    "Win": 71,
+    "WinHalf": 20,
+    "Lose": 49,
+    "LoseHalf": 9,
+    "Draw": 1,
+    "Name": "心情"
+  }
+}

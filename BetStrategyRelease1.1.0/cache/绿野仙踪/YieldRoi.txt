@@ -1,0 +1,18 @@
+{
+  "Name": "绿野仙踪",
+  "LastUpdateTime": "\/Date(1369882414028+0800)\/",
+  "Person": {
+    "TotalROI": 10.74,
+    "CurrentROI": 0.2299999,
+    "TotalYield": 0.191785708,
+    "CurrentYield": 0.0255555436,
+    "Total": 56,
+    "Profit": 13.5,
+    "Win": 26,
+    "WinHalf": 9,
+    "Lose": 16,
+    "LoseHalf": 2,
+    "Draw": 3,
+    "Name": "绿野仙踪"
+  }
+}

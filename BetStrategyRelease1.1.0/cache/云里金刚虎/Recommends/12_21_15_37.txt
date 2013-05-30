@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷甲",
+  "Time1": "12-22 03:00",
+  "Host": "艾克馬亞",
+  "OddStake": "受平/半",
+  "Guest": "川迪",
+  "Prefer": "艾克馬亞",
+  "Odds": 0.82,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "12-21 15:37",
+  "Person": "云里金刚虎"
+}

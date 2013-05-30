@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西乙",
+  "Time1": "02-03 19:00",
+  "Host": "邦弗拉甸拿",
+  "OddStake": "平/半",
+  "Guest": "赫羅納",
+  "Prefer": "赫羅納",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-03 12:40",
+  "Person": "空山新雨"
+}

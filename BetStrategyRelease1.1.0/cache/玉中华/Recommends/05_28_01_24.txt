@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德乙",
+  "Time1": "05-28 02:30",
+  "Host": "凱沙羅頓",
+  "OddStake": "2.5/3球",
+  "Guest": "賀芬咸",
+  "Prefer": "大球",
+  "Odds": 1.03,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "05-28 01:24",
+  "Person": "玉中华"
+}

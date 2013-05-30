@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "伊朗超",
+  "Time1": "03-04 20:30",
+  "Host": "泰拉克托",
+  "OddStake": "半球",
+  "Guest": "德黑蘭",
+  "Prefer": "泰拉克托",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "03-04 19:45",
+  "Person": "顺水顺风"
+}

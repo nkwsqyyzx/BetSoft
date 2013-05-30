@@ -1,0 +1,18 @@
+{
+  "Name": "无极旋风",
+  "LastUpdateTime": "\/Date(1369882405376+0800)\/",
+  "Person": {
+    "TotalROI": -3.00499964,
+    "CurrentROI": -3.2,
+    "TotalYield": -0.0341477245,
+    "CurrentYield": -0.32,
+    "Total": 88,
+    "Profit": 0.5,
+    "Win": 32,
+    "WinHalf": 11,
+    "Lose": 33,
+    "LoseHalf": 8,
+    "Draw": 2,
+    "Name": "无极旋风"
+  }
+}

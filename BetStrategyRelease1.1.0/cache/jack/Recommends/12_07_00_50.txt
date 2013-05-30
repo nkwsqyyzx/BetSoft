@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐霸盃",
+  "Time1": "12-07 04:05",
+  "Host": "利華古遜",
+  "OddStake": "一球/球半",
+  "Guest": "洛辛堡",
+  "Prefer": "利華古遜",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "12-07 00:50",
+  "Person": "jack"
+}

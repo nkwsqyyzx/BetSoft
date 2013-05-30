@@ -7,8 +7,8 @@
   "Guest": "薩普斯堡08",
   "Prefer": "薩普斯堡08",
   "Odds": 0.85,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "3-1",
+  "PreferResult": 1,
   "Time2": "05-26 23:54",
   "Person": "哥是杯清茶"
 }

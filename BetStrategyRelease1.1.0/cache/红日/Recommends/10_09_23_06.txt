@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "北愛聯盃",
+  "Time1": "10-10 02:45",
+  "Host": "格蘭坊",
+  "OddStake": "球半",
+  "Guest": "德維",
+  "Prefer": "格蘭坊",
+  "Odds": 0.98,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-09 23:06",
+  "Person": "红日"
+}

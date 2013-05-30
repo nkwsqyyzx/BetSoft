@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "03-08 01:00",
+  "Host": "安芝(中)",
+  "OddStake": "2.5球",
+  "Guest": "紐卡素",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-07 21:04",
+  "Person": "qqzy"
+}

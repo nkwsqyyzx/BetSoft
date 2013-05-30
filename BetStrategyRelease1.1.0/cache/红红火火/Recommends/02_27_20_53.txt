@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "南非甲",
+  "Time1": "02-27 21:30",
+  "Host": "波羅克瓦尼城",
+  "OddStake": "2.5球",
+  "Guest": "玫瑰聯",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "02-27 20:53",
+  "Person": "红红火火"
+}

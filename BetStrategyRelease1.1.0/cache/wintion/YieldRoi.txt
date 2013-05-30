@@ -1,0 +1,18 @@
+{
+  "Name": "wintion",
+  "LastUpdateTime": "\/Date(1369882391215+0800)\/",
+  "Person": {
+    "TotalROI": -12.205,
+    "CurrentROI": -5.89000034,
+    "TotalYield": -0.07874194,
+    "CurrentYield": -0.368125021,
+    "Total": 155,
+    "Profit": -6.5,
+    "Win": 56,
+    "WinHalf": 10,
+    "Lose": 64,
+    "LoseHalf": 7,
+    "Draw": 17,
+    "Name": "wintion"
+  }
+}

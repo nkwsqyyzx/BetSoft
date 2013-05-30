@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "荷甲",
+  "Time1": "12-02 03:45",
+  "Host": "阿積士",
+  "OddStake": "3球",
+  "Guest": "PSV燕豪芬",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-02 02:31",
+  "Person": "余韵犹在"
+}

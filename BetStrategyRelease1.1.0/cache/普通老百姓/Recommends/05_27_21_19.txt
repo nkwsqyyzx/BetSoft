@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西乙",
+  "Time1": "05-28 03:00",
+  "Host": "維拉利爾",
+  "OddStake": "两球/两球半",
+  "Guest": "薩雷斯",
+  "Prefer": "薩雷斯",
+  "Odds": 0.89,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 21:19",
+  "Person": "普通老百姓"
+}

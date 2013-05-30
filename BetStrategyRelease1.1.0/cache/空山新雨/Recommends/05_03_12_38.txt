@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "05-03 13:00",
+  "Host": "熊本深紅",
+  "OddStake": "平/半",
+  "Guest": "水戶霍利克",
+  "Prefer": "水戶霍利克",
+  "Odds": 0.89,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "05-03 12:38",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳職聯",
+  "Time1": "01-06 15:00",
+  "Host": "西部悉尼流浪者",
+  "OddStake": "受平/半",
+  "Guest": "中央海岸",
+  "Prefer": "西部悉尼流浪者",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "01-06 14:38",
+  "Person": "爽爽"
+}

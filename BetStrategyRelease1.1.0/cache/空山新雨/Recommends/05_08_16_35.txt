@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓足總",
+  "Time1": "05-08 18:30",
+  "Host": "大邱FC",
+  "OddStake": "平/半",
+  "Guest": "水原FC",
+  "Prefer": "水原FC",
+  "Odds": 0.92,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-08 16:35",
+  "Person": "空山新雨"
+}

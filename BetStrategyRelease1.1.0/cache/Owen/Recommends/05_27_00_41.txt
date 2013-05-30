@@ -7,8 +7,8 @@
   "Guest": "英格蘭U19",
   "Prefer": "英格蘭U19",
   "Odds": 0.96,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "1-1",
+  "PreferResult": 2,
   "Time2": "05-27 00:41",
   "Person": "Owen"
 }

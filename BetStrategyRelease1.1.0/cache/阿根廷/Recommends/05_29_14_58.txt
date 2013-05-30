@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日職聯",
+  "Time1": "05-29 18:30",
+  "Host": "浦和紅鑽",
+  "OddStake": "半/一",
+  "Guest": "仙台维加泰",
+  "Prefer": "浦和紅鑽",
+  "Odds": 0.82,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 14:58",
+  "Person": "阿根廷"
+}

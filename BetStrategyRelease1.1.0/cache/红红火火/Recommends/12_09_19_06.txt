@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "丹麥超",
+  "Time1": "12-09 21:00",
+  "Host": "AC侯森斯",
+  "OddStake": "2.5球",
+  "Guest": "米迪蘭特",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "12-09 19:06",
+  "Person": "红红火火"
+}

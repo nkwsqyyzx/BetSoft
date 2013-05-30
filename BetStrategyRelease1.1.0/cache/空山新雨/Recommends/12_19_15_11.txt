@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "東南錦",
+  "Time1": "12-19 20:00",
+  "Host": "新加坡",
+  "OddStake": "受平/半",
+  "Guest": "泰國",
+  "Prefer": "新加坡",
+  "Odds": 0.84,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-19 15:11",
+  "Person": "空山新雨"
+}

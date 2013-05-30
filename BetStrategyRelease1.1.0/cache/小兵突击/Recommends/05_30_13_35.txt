@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士甲",
+  "Time1": "05-31 01:45",
+  "Host": "溫特圖爾",
+  "OddStake": "半/一",
+  "Guest": "畢爾",
+  "Prefer": "溫特圖爾",
+  "Odds": 0.84,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 13:35",
+  "Person": "小兵突击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄超",
+  "Time1": "11-27 01:00",
+  "Host": "米塔利斯",
+  "OddStake": "一球/球半",
+  "Guest": "泰夫利亞",
+  "Prefer": "泰夫利亞",
+  "Odds": 1.06,
+  "Result": "5-0",
+  "PreferResult": 1,
+  "Time2": "11-26 22:16",
+  "Person": "金牌出击"
+}

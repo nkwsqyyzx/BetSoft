@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德甲",
+  "Time1": "12-08 03:30",
+  "Host": "漢堡",
+  "OddStake": "平/半",
+  "Guest": "賀芬咸",
+  "Prefer": "漢堡",
+  "Odds": 0.87,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "12-08 03:03",
+  "Person": "中奖太简单啦"
+}

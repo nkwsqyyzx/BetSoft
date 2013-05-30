@@ -1,0 +1,18 @@
+{
+  "Name": "民哥也疯狂",
+  "LastUpdateTime": "\/Date(1369882409144+0800)\/",
+  "Person": {
+    "TotalROI": 7.4800005,
+    "CurrentROI": 4.84,
+    "TotalYield": 0.16622223,
+    "CurrentYield": 0.322666675,
+    "Total": 45,
+    "Profit": 9.5,
+    "Win": 24,
+    "WinHalf": 2,
+    "Lose": 15,
+    "LoseHalf": 1,
+    "Draw": 2,
+    "Name": "民哥也疯狂"
+  }
+}

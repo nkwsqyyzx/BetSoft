@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "墨西聯",
+  "Time1": "11-16 09:00",
+  "Host": "蒙特瑞",
+  "OddStake": "平/半",
+  "Guest": "提華納",
+  "Prefer": "提華納",
+  "Odds": 0.87,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-15 23:34",
+  "Person": "空山新雨"
+}

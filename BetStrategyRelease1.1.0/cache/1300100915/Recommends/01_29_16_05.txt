@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "伊朗超",
+  "Time1": "01-29 21:20",
+  "Host": "派肯",
+  "OddStake": "受一球",
+  "Guest": "艾斯迪格拿",
+  "Prefer": "派肯",
+  "Odds": 0.9,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "01-29 16:05",
+  "Person": "1300100915"
+}

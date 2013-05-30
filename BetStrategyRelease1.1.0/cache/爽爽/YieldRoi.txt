@@ -1,0 +1,18 @@
+{
+  "Name": "爽爽",
+  "LastUpdateTime": "\/Date(1369882410805+0800)\/",
+  "Person": {
+    "TotalROI": -14.1099977,
+    "CurrentROI": -2.59499979,
+    "TotalYield": -0.102246359,
+    "CurrentYield": -0.324374974,
+    "Total": 138,
+    "Profit": -8.5,
+    "Win": 51,
+    "WinHalf": 15,
+    "Lose": 66,
+    "LoseHalf": 2,
+    "Draw": 4,
+    "Name": "爽爽"
+  }
+}

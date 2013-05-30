@@ -7,8 +7,8 @@
   "Guest": "奧烙特",
   "Prefer": "大球",
   "Odds": 0.96,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "1-0",
+  "PreferResult": 1,
   "Time2": "05-26 23:25",
   "Person": "大浪人"
 }

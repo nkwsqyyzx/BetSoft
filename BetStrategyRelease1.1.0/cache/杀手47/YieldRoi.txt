@@ -1,0 +1,18 @@
+{
+  "Name": "杀手47",
+  "LastUpdateTime": "\/Date(1369882407233+0800)\/",
+  "Person": {
+    "TotalROI": -11.9200029,
+    "CurrentROI": -4.975,
+    "TotalYield": -0.08700732,
+    "CurrentYield": -0.3826923,
+    "Total": 137,
+    "Profit": -7.0,
+    "Win": 53,
+    "WinHalf": 9,
+    "Lose": 61,
+    "LoseHalf": 7,
+    "Draw": 7,
+    "Name": "杀手47"
+  }
+}

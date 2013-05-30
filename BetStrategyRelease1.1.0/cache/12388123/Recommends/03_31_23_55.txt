@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "哥倫甲",
+  "Time1": "04-01 06:30",
+  "Host": "國家體育會",
+  "OddStake": "半/一",
+  "Guest": "小巴蘭哈拉",
+  "Prefer": "國家體育會",
+  "Odds": 0.91,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "03-31 23:55",
+  "Person": "12388123"
+}

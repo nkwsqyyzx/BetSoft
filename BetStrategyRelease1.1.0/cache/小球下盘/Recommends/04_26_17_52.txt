@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "捷克甲",
+  "Time1": "04-26 23:59",
+  "Host": "杜克拉布拉格",
+  "OddStake": "2.5球",
+  "Guest": "奧林莫斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-26 17:52",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德西聯",
+  "Time1": "05-13 22:00",
+  "Host": "科隆青年隊",
+  "OddStake": "半球",
+  "Guest": "杜伊斯堡青年隊",
+  "Prefer": "科隆青年隊",
+  "Odds": 0.95,
+  "Result": "9-0",
+  "PreferResult": 5,
+  "Time2": "05-13 12:41",
+  "Person": "12388123"
+}

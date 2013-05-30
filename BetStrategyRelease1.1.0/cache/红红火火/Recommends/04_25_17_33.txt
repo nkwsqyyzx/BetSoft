@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "南韓女聯",
+  "Time1": "04-25 18:00",
+  "Host": "全北公團女足",
+  "OddStake": "2.5球",
+  "Guest": "高陽大橋女足",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "04-25 17:33",
+  "Person": "红红火火"
+}

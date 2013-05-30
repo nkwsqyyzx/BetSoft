@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-28 01:00",
+  "Host": "哈馬比",
+  "OddStake": "半/一",
+  "Guest": "喬科平所達",
+  "Prefer": "哈馬比",
+  "Odds": 1.02,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-27 23:30",
+  "Person": "从头来过"
+}

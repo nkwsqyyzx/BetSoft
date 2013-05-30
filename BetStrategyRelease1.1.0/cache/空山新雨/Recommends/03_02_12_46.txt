@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳職聯",
+  "Time1": "03-02 14:30",
+  "Host": "阿德萊得聯",
+  "OddStake": "平手",
+  "Guest": "布里斯班獅吼",
+  "Prefer": "布里斯班獅吼",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-02 12:46",
+  "Person": "空山新雨"
+}

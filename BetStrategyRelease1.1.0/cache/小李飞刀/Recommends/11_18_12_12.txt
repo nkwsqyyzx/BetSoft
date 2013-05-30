@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-18 22:00",
+  "Host": "卡坦尼亞",
+  "OddStake": "半球",
+  "Guest": "切沃",
+  "Prefer": "卡坦尼亞",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-18 12:12",
+  "Person": "小李飞刀"
+}

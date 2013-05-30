@@ -1,0 +1,18 @@
+{
+  "Name": "lxf1234",
+  "LastUpdateTime": "\/Date(1369882390695+0800)\/",
+  "Person": {
+    "TotalROI": -30.2150021,
+    "CurrentROI": -4.18999958,
+    "TotalYield": -0.1853681,
+    "CurrentYield": -0.380909055,
+    "Total": 163,
+    "Profit": -24.5,
+    "Win": 51,
+    "WinHalf": 18,
+    "Lose": 82,
+    "LoseHalf": 5,
+    "Draw": 7,
+    "Name": "lxf1234"
+  }
+}

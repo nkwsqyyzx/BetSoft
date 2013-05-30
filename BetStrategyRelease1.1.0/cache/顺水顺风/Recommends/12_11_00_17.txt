@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "馬爾甲",
+  "Time1": "12-11 01:00",
+  "Host": "佛羅里亞納",
+  "OddStake": "半球",
+  "Guest": "巴爾贊",
+  "Prefer": "佛羅里亞納",
+  "Odds": 1.04,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-11 00:17",
+  "Person": "顺水顺风"
+}

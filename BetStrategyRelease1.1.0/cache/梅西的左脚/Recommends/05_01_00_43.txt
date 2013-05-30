@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "05-01 09:30",
+  "Host": "提華納",
+  "OddStake": "半/一",
+  "Guest": "彭美拉斯",
+  "Prefer": "提華納",
+  "Odds": 0.95,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-01 00:43",
+  "Person": "梅西的左脚"
+}

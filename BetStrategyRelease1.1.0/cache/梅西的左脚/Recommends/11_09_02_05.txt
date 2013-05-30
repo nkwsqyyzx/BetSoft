@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 04:05",
+  "Host": "米塔利斯",
+  "OddStake": "2.5/3球",
+  "Guest": "洛辛堡",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "11-09 02:05",
+  "Person": "梅西的左脚"
+}

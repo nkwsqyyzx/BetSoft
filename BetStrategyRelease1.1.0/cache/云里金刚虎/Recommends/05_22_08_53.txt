@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西盃",
+  "Time1": "05-23 09:00",
+  "Host": "高士路",
+  "OddStake": "球半/两球",
+  "Guest": "雷森德",
+  "Prefer": "高士路",
+  "Odds": 1.07,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "05-22 08:53",
+  "Person": "云里金刚虎"
+}

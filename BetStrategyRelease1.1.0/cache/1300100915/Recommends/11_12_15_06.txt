@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "丹後備",
+  "Time1": "11-12 23:00",
+  "Host": "HB科治後備隊",
+  "OddStake": "受平/半",
+  "Guest": "AB哥本哈根後備隊",
+  "Prefer": "HB科治後備隊",
+  "Odds": 0.85,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "11-12 15:06",
+  "Person": "1300100915"
+}

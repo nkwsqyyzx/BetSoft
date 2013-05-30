@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-22 01:45",
+  "Host": "阿爾艾利吉達",
+  "OddStake": "半/一",
+  "Guest": "賈徐卡塔爾",
+  "Prefer": "阿爾艾利吉達",
+  "Odds": 1.05,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-21 22:55",
+  "Person": "LXF1234"
+}

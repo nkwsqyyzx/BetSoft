@@ -7,8 +7,8 @@
   "Guest": "帕拉尼恩斯",
   "Prefer": "帕拉尼恩斯",
   "Odds": 0.86,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "2-1",
+  "PreferResult": 1,
   "Time2": "05-26 21:53",
   "Person": "古惑仔"
 }

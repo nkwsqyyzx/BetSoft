@@ -1,0 +1,18 @@
+{
+  "Name": "咖啡病毒",
+  "LastUpdateTime": "\/Date(1369882403468+0800)\/",
+  "Person": {
+    "TotalROI": 0.335000038,
+    "CurrentROI": 0.335000038,
+    "TotalYield": 0.111666679,
+    "CurrentYield": 0.111666679,
+    "Total": 3,
+    "Profit": 0.5,
+    "Win": 1,
+    "WinHalf": 1,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "咖啡病毒"
+  }
+}

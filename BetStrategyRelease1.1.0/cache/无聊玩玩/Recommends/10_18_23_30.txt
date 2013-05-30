@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "巴西甲",
+  "Time1": "10-19 08:00",
+  "Host": "利斯菲體育會",
+  "OddStake": "2.5球",
+  "Guest": "邦迪比達",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "10-18 23:30",
+  "Person": "无聊玩玩"
+}

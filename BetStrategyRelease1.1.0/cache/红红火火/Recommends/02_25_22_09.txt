@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "羅甲",
+  "Time1": "02-26 02:30",
+  "Host": "瓦斯路易",
+  "OddStake": "半球",
+  "Guest": "克盧日",
+  "Prefer": "克盧日",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "02-25 22:09",
+  "Person": "红红火火"
+}

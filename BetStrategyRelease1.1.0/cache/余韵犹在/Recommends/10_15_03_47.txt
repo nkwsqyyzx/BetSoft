@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "墨西聯",
+  "Time1": "10-15 06:00",
+  "Host": "芝華士",
+  "OddStake": "半球",
+  "Guest": "賈奎斯",
+  "Prefer": "賈奎斯",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "10-15 03:47",
+  "Person": "余韵犹在"
+}

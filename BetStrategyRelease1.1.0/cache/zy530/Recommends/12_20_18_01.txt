@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿塞超",
+  "Time1": "12-20 20:00",
+  "Host": "蘇姆蓋特(中)",
+  "OddStake": "2.5球",
+  "Guest": "卡帕",
+  "Prefer": "大球",
+  "Odds": 1.29,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "12-20 18:01",
+  "Person": "zy530"
+}

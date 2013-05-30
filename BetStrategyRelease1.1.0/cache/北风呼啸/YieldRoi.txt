@@ -1,0 +1,18 @@
+{
+  "Name": "北风呼啸",
+  "LastUpdateTime": "\/Date(1369882402737+0800)\/",
+  "Person": {
+    "TotalROI": 0.67,
+    "CurrentROI": 0.67,
+    "TotalYield": 0.1675,
+    "CurrentYield": 0.1675,
+    "Total": 4,
+    "Profit": 1.0,
+    "Win": 2,
+    "WinHalf": 0,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "北风呼啸"
+  }
+}

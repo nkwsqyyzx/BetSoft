@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西乙",
+  "Time1": "01-20 19:00",
+  "Host": "赫古拉斯",
+  "OddStake": "平/半",
+  "Guest": "盧戈",
+  "Prefer": "盧戈",
+  "Odds": 0.88,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "01-20 15:38",
+  "Person": "lxf1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-29 04:30",
+  "Host": "塞維利亞",
+  "OddStake": "一球/球半",
+  "Guest": "格拉納達",
+  "Prefer": "格拉納達",
+  "Odds": 0.91,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "01-28 23:41",
+  "Person": "空山新雨"
+}

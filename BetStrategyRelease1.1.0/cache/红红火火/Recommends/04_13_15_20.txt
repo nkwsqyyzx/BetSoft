@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英甲",
+  "Time1": "04-13 16:00",
+  "Host": "清水心跳",
+  "OddStake": "2.5球",
+  "Guest": "磐田山葉",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-13 15:20",
+  "Person": "红红火火"
+}

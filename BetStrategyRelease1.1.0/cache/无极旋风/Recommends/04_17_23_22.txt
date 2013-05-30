@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德青南",
+  "Time1": "04-17 23:59",
+  "Host": "莫斯科中央陸軍",
+  "OddStake": "3/3.5球",
+  "Guest": "克拉斯諾亞爾斯克",
+  "Prefer": "小球",
+  "Odds": 1.04,
+  "Result": "3-0",
+  "PreferResult": 4,
+  "Time2": "04-17 23:22",
+  "Person": "无极旋风"
+}

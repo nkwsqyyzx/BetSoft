@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "03-06 03:45",
+  "Host": "卡迪夫城",
+  "OddStake": "半/一",
+  "Guest": "德比郡",
+  "Prefer": "卡迪夫城",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-05 22:57",
+  "Person": "qqzy"
+}

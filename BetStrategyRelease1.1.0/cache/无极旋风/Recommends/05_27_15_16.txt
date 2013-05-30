@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "越南聯",
+  "Time1": "05-27 18:00",
+  "Host": "TT河内",
+  "OddStake": "球半",
+  "Guest": "隆安",
+  "Prefer": "TT河内",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 15:16",
+  "Person": "无极旋风"
+}

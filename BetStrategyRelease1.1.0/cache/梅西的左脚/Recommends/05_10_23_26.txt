@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "愛超",
+  "Time1": "05-11 02:45",
+  "Host": "布咸美恩斯",
+  "OddStake": "受平/半",
+  "Guest": "科克城",
+  "Prefer": "科克城",
+  "Odds": 0.97,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-10 23:26",
+  "Person": "梅西的左脚"
+}

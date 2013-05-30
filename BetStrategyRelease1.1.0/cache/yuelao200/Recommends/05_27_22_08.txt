@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿甲",
+  "Time1": "05-28 05:10",
+  "Host": "學生隊",
+  "OddStake": "半/一",
+  "Guest": "小阿根廷人",
+  "Prefer": "學生隊",
+  "Odds": 0.94,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-27 22:08",
+  "Person": "yuelao200"
+}

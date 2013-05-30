@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-24 19:00",
+  "Host": "阿曉斯(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "桑德捷斯基",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "02-24 18:36",
+  "Person": "wintion"
+}

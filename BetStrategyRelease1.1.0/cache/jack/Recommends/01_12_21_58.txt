@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法甲",
+  "Time1": "01-12 23:59",
+  "Host": "特魯瓦",
+  "OddStake": "2.5球",
+  "Guest": "里昂",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "01-12 21:58",
+  "Person": "jack"
+}

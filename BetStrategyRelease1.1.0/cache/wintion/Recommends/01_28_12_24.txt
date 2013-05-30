@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "印度甲",
+  "Time1": "01-28 16:30",
+  "Host": "派欖阿羅",
+  "OddStake": "2.5/3球",
+  "Guest": "錫金",
+  "Prefer": "大球",
+  "Odds": 1.07,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "01-28 12:24",
+  "Person": "wintion"
+}

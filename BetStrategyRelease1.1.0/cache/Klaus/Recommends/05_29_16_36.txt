@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中超",
+  "Time1": "05-29 20:00",
+  "Host": "廣州恆大",
+  "OddStake": "3球",
+  "Guest": "貴州人和",
+  "Prefer": "小球",
+  "Odds": 1.05,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 16:36",
+  "Person": "Klaus"
+}

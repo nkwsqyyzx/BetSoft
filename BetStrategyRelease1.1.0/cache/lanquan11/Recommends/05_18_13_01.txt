@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日職聯",
+  "Time1": "05-18 15:00",
+  "Host": "橫濱水手",
+  "OddStake": "2.5球",
+  "Guest": "仙台维加泰",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-18 13:01",
+  "Person": "lanquan11"
+}

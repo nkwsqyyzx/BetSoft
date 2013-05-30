@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德青北",
+  "Time1": "05-01 17:00",
+  "Host": "基爾高士丁U19",
+  "OddStake": "3/3.5球",
+  "Guest": "卡爾斯耶拿U19",
+  "Prefer": "大球",
+  "Odds": 0.99,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "05-01 15:02",
+  "Person": "wintion"
+}

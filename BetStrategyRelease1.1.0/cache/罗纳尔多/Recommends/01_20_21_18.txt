@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-20 23:59",
+  "Host": "托特納姆熱刺",
+  "OddStake": "受平/半",
+  "Guest": "曼聯",
+  "Prefer": "曼聯",
+  "Odds": 1.06,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "01-20 21:18",
+  "Person": "罗纳尔多"
+}

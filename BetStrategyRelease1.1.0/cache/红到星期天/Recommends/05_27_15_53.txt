@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬甲",
+  "Time1": "05-27 23:59",
+  "Host": "PK35萬達(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "伊爾韋斯",
+  "Prefer": "大球",
+  "Odds": 1.04,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 15:53",
+  "Person": "红到星期天"
+}

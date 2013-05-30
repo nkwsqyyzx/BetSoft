@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-29 02:45",
+  "Host": "聖巴特里",
+  "OddStake": "2.5/3球",
+  "Guest": "都柏林大學",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 16:33",
+  "Person": "澳门盘口"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英乙",
+  "Time1": "02-16 23:00",
+  "Host": "車頓咸",
+  "OddStake": "半球",
+  "Guest": "艾迪索特",
+  "Prefer": "艾迪索特",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-16 21:49",
+  "Person": "红日"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "東南錦",
+  "Time1": "10-09 16:30",
+  "Host": "柬埔寨(中)",
+  "OddStake": "受半/一",
+  "Guest": "汶萊",
+  "Prefer": "柬埔寨(中)",
+  "Odds": 0.8,
+  "Result": "2-3",
+  "PreferResult": 2,
+  "Time2": "10-09 14:59",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "04-19 06:45",
+  "Host": "水晶競技",
+  "OddStake": "2/2.5球",
+  "Guest": "彭美拉斯",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-18 16:38",
+  "Person": "qqzy"
+}

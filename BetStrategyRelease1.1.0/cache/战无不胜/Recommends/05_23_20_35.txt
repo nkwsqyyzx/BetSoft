@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-24 01:00",
+  "Host": "華保斯",
+  "OddStake": "2.5/3球",
+  "Guest": "奧基迪",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "5-1",
+  "PreferResult": 1,
+  "Time2": "05-23 20:35",
+  "Person": "战无不胜"
+}

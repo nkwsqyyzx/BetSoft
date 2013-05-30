@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "葡超",
+  "Time1": "02-12 04:00",
+  "Host": "布拉加",
+  "OddStake": "半/一",
+  "Guest": "費利拿",
+  "Prefer": "布拉加",
+  "Odds": 0.89,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "02-11 22:47",
+  "Person": "lxf1234"
+}

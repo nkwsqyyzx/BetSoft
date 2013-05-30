@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "芬聯盃",
+  "Time1": "01-25 21:00",
+  "Host": "TPS杜古(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "韋斯屈萊",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-25 18:23",
+  "Person": "wintion"
+}

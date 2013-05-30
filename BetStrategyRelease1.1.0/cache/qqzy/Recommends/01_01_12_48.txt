@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "日皇盃",
+  "Time1": "01-01 13:00",
+  "Host": "大阪飛腳(中)",
+  "OddStake": "平手",
+  "Guest": "柏雷素爾",
+  "Prefer": "柏雷素爾",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "01-01 12:48",
+  "Person": "qqzy"
+}

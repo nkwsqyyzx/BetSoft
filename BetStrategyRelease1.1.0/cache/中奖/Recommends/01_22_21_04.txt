@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英甲",
+  "Time1": "01-23 03:45",
+  "Host": "諾士郡",
+  "OddStake": "2.5球",
+  "Guest": "奧咸",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-22 21:04",
+  "Person": "中奖"
+}

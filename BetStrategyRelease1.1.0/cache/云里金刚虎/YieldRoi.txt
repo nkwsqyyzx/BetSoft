@@ -1,0 +1,18 @@
+{
+  "Name": "云里金刚虎",
+  "LastUpdateTime": "\/Date(1369882397040+0800)\/",
+  "Person": {
+    "TotalROI": -6.679997,
+    "CurrentROI": -3.03,
+    "TotalYield": -0.0484057739,
+    "CurrentYield": -0.336666673,
+    "Total": 138,
+    "Profit": -0.5,
+    "Win": 54,
+    "WinHalf": 13,
+    "Lose": 55,
+    "LoseHalf": 12,
+    "Draw": 2,
+    "Name": "云里金刚虎"
+  }
+}

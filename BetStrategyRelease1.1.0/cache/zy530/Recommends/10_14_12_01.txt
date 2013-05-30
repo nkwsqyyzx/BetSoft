@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "波蘭乙",
+  "Time1": "10-14 18:30",
+  "Host": "弗洛塔",
+  "OddStake": "半/一",
+  "Guest": "瓦塔波茲南",
+  "Prefer": "弗洛塔",
+  "Odds": 1.03,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "10-14 12:01",
+  "Person": "zy530"
+}

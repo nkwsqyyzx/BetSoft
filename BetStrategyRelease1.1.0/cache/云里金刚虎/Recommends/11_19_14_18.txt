@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "土超",
+  "Time1": "11-20 07:15",
+  "Host": "競賽會",
+  "OddStake": "半/一",
+  "Guest": "基爾梅斯",
+  "Prefer": "基爾梅斯",
+  "Odds": 0.8,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "11-19 14:18",
+  "Person": "云里金刚虎"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "05-08 02:45",
+  "Host": "羅馬",
+  "OddStake": "球半",
+  "Guest": "切沃",
+  "Prefer": "切沃",
+  "Odds": 1.02,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-07 21:23",
+  "Person": "LXF1234"
+}

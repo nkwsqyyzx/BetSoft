@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "自由盃",
+  "Time1": "03-14 06:45",
+  "Host": "巴塞隆拿SC",
+  "OddStake": "2/2.5球",
+  "Guest": "托拉卡",
+  "Prefer": "小球",
+  "Odds": 1.06,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-14 01:54",
+  "Person": "segespa"
+}

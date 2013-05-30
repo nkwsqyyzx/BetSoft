@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "丹麥超",
+  "Time1": "03-09 01:30",
+  "Host": "蘭達斯",
+  "OddStake": "2.5球",
+  "Guest": "桑德捷斯基",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "03-08 21:38",
+  "Person": "小球下盘"
+}

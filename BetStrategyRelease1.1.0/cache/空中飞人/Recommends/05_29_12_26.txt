@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭乙",
+  "Time1": "05-29 23:30",
+  "Host": "GKS台基",
+  "OddStake": "2/2.5球",
+  "Guest": "瓦塔波茲南",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 12:26",
+  "Person": "空中飞人"
+}

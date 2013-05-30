@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "印尼甲",
+  "Time1": "05-27 16:30",
+  "Host": "PS莫佐克多普特拉",
+  "OddStake": "3/3.5球",
+  "Guest": "瑪敦普撻",
+  "Prefer": "大球",
+  "Odds": 0.81,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-27 15:35",
+  "Person": "明明白白"
+}

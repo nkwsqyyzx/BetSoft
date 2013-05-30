@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "阿甲",
+  "Time1": "11-16 08:30",
+  "Host": "堤格雷",
+  "OddStake": "平/半",
+  "Guest": "沙蘭迪兵工廠",
+  "Prefer": "沙蘭迪兵工廠",
+  "Odds": 0.93,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-15 21:11",
+  "Person": "qqzy"
+}

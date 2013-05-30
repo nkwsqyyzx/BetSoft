@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德甲",
+  "Time1": "02-24 01:30",
+  "Host": "史浩克04",
+  "OddStake": "2.5/3球",
+  "Guest": "杜塞爾多夫",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "02-24 01:11",
+  "Person": "zy530"
+}

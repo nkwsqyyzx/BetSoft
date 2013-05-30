@@ -1,0 +1,18 @@
+{
+  "Name": "你是我的最爱",
+  "LastUpdateTime": "\/Date(1369882401579+0800)\/",
+  "Person": {
+    "TotalROI": 1.08,
+    "CurrentROI": 1.08,
+    "TotalYield": 0.36,
+    "CurrentYield": 0.36,
+    "Total": 3,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "你是我的最爱"
+  }
+}

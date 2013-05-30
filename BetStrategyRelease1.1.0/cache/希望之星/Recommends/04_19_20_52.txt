@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "羅乙2",
+  "Time1": "04-19 23:00",
+  "Host": "UTA亞拉德",
+  "OddStake": "2.5球",
+  "Guest": "奧拉迪亞",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-19 20:52",
+  "Person": "希望之星"
+}

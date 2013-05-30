@@ -1,0 +1,18 @@
+{
+  "Name": "动听的乐章",
+  "LastUpdateTime": "\/Date(1369882402731+0800)\/",
+  "Person": {
+    "TotalROI": -4.31,
+    "CurrentROI": -3.15,
+    "TotalYield": -0.287333339,
+    "CurrentYield": -0.63,
+    "Total": 15,
+    "Profit": -4.0,
+    "Win": 4,
+    "WinHalf": 2,
+    "Lose": 9,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "动听的乐章"
+  }
+}

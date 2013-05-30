@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "印尼甲",
+  "Time1": "05-30 16:30",
+  "Host": "普沃達堤",
+  "OddStake": "2/2.5球",
+  "Guest": "伯斯古古杜斯",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 15:25",
+  "Person": "明明白白"
+}

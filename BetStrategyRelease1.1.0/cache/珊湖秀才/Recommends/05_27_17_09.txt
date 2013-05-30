@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "越南聯",
+  "Time1": "05-27 17:30",
+  "Host": "峴港",
+  "OddStake": "2.5/3球",
+  "Guest": "宋蘭義安",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 17:09",
+  "Person": "珊湖秀才"
+}

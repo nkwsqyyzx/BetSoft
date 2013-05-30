@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "04-27 22:00",
+  "Host": "布力般流浪",
+  "OddStake": "2.5球",
+  "Guest": "水晶宮",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-27 19:38",
+  "Person": "小球下盘"
+}

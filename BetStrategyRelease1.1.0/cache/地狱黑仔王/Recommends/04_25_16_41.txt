@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "南韓女聯",
+  "Time1": "04-25 18:00",
+  "Host": "水原女足",
+  "OddStake": "2.5/3球",
+  "Guest": "首爾城亞馬遜女足",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "04-25 16:41",
+  "Person": "地狱黑仔王"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "02-20 03:45",
+  "Host": "伯明翰",
+  "OddStake": "2.5球",
+  "Guest": "錫周三",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "02-19 23:45",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-14 02:00",
+  "Host": "馬德里體育會",
+  "OddStake": "2.5/3球",
+  "Guest": "薩拉戈薩",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "01-14 00:32",
+  "Person": "梅西的左脚"
+}

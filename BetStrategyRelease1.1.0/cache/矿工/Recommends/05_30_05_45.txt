@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "哥倫盃",
+  "Time1": "05-30 08:30",
+  "Host": "喀他基那",
+  "OddStake": "2.5球",
+  "Guest": "巴瑞庫拉",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "5-0",
+  "PreferResult": 1,
+  "Time2": "05-30 05:45",
+  "Person": "矿工"
+}

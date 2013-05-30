@@ -1,0 +1,18 @@
+{
+  "Name": "飞天戟",
+  "LastUpdateTime": "\/Date(1369882420184+0800)\/",
+  "Person": {
+    "TotalROI": 0.4,
+    "CurrentROI": 0.4,
+    "TotalYield": 0.4,
+    "CurrentYield": 0.4,
+    "Total": 1,
+    "Profit": 0.5,
+    "Win": 0,
+    "WinHalf": 1,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "飞天戟"
+  }
+}

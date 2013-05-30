@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "希臘超",
+  "Time1": "05-16 00:15",
+  "Host": "亞圖米圖斯",
+  "OddStake": "2球",
+  "Guest": "PAOK沙朗歷基",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-15 23:09",
+  "Person": "lijian520"
+}

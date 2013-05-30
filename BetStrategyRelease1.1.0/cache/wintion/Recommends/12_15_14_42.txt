@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "比甲",
+  "Time1": "12-15 16:00",
+  "Host": "大阪櫻花",
+  "OddStake": "2.5/3球",
+  "Guest": "清水心跳",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "12-15 14:42",
+  "Person": "wintion"
+}

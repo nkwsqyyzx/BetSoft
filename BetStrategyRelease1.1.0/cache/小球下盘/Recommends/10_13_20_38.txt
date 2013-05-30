@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英乙",
+  "Time1": "10-13 22:00",
+  "Host": "洛達咸",
+  "OddStake": "半球",
+  "Guest": "修安聯",
+  "Prefer": "修安聯",
+  "Odds": 0.92,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "10-13 20:38",
+  "Person": "小球下盘"
+}

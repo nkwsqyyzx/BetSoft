@@ -1,0 +1,18 @@
+{
+  "Name": "我型我show",
+  "LastUpdateTime": "\/Date(1369882405101+0800)\/",
+  "Person": {
+    "TotalROI": -0.9399992,
+    "CurrentROI": 1.925,
+    "TotalYield": -0.009999991,
+    "CurrentYield": 0.160416663,
+    "Total": 94,
+    "Profit": 2.5,
+    "Win": 37,
+    "WinHalf": 10,
+    "Lose": 37,
+    "LoseHalf": 5,
+    "Draw": 4,
+    "Name": "我型我show"
+  }
+}

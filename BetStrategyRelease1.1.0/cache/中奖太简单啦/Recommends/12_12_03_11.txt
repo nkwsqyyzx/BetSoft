@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英聯盃",
+  "Time1": "12-12 03:45",
+  "Host": "巴拉福特",
+  "OddStake": "3/3.5球",
+  "Guest": "阿森納",
+  "Prefer": "大球",
+  "Odds": 1.03,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "12-12 03:11",
+  "Person": "中奖太简单啦"
+}

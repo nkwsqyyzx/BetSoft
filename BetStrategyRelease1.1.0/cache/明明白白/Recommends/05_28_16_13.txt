@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-28 17:30",
+  "Host": "阿爾巴尼克里克",
+  "OddStake": "3.5/4球",
+  "Guest": "貝賽聯",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-28 16:13",
+  "Person": "明明白白"
+}

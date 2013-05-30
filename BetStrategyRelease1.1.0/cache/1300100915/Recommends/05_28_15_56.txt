@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "馬足總",
+  "Time1": "05-28 20:45",
+  "Host": "彭亨",
+  "OddStake": "平/半",
+  "Guest": "達羅塔晉",
+  "Prefer": "達羅塔晉",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 15:56",
+  "Person": "1300100915"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德乙",
+  "Time1": "12-15 01:00",
+  "Host": "桑德豪森",
+  "OddStake": "受半球",
+  "Guest": "科隆",
+  "Prefer": "科隆",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "12-14 22:48",
+  "Person": "lxf1234"
+}

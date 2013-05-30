@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "土倫盃",
+  "Time1": "05-29 01:30",
+  "Host": "法國U21",
+  "OddStake": "一球/球半",
+  "Guest": "美國U21",
+  "Prefer": "美國U21",
+  "Odds": 0.94,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "05-29 01:13",
+  "Person": "菠菜大胜"
+}

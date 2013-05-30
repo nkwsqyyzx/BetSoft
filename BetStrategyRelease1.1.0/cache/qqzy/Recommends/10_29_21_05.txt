@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "以超",
+  "Time1": "10-30 02:50",
+  "Host": "比達耶路撒冷",
+  "OddStake": "2.5球",
+  "Guest": "特拉維夫夏普爾",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "10-29 21:05",
+  "Person": "qqzy"
+}

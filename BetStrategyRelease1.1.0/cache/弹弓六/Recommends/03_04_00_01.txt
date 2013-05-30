@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德甲",
+  "Time1": "03-04 00:30",
+  "Host": "杜塞爾多夫",
+  "OddStake": "受平/半",
+  "Guest": "緬恩斯",
+  "Prefer": "杜塞爾多夫",
+  "Odds": 0.81,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "03-04 00:01",
+  "Person": "弹弓六"
+}

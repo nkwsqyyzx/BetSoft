@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "荷甲",
+  "Time1": "05-17 00:45",
+  "Host": "高寧根",
+  "OddStake": "受平/半",
+  "Guest": "川迪",
+  "Prefer": "高寧根",
+  "Odds": 1.08,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-16 22:57",
+  "Person": "segespa"
+}

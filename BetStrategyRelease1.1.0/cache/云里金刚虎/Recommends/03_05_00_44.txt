@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿乙曼特",
+  "Time1": "03-05 08:00",
+  "Host": "普拉騰斯",
+  "OddStake": "2/2.5球",
+  "Guest": "CD阿曼尼歐",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-05 00:44",
+  "Person": "云里金刚虎"
+}

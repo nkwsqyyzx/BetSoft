@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西乙",
+  "Time1": "05-29 08:50",
+  "Host": "美國MG",
+  "OddStake": "平/半",
+  "Guest": "費古倫斯",
+  "Prefer": "費古倫斯",
+  "Odds": 0.9,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "05-29 08:12",
+  "Person": "绿野仙踪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-15 02:00",
+  "Host": "拿玻里",
+  "OddStake": "一球",
+  "Guest": "皮爾森",
+  "Prefer": "拿玻里",
+  "Odds": 0.85,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "02-14 21:52",
+  "Person": "金牌出击"
+}

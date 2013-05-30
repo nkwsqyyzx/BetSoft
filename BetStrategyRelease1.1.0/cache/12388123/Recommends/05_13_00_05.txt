@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "玻利甲",
+  "Time1": "05-13 03:30",
+  "Host": "史莊格斯特",
+  "OddStake": "球半/两球",
+  "Guest": "拉佩茲",
+  "Prefer": "史莊格斯特",
+  "Odds": 0.97,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "05-13 00:05",
+  "Person": "12388123"
+}

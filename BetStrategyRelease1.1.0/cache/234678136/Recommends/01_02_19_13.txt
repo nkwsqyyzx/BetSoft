@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇超",
+  "Time1": "01-02 23:00",
+  "Host": "些路迪",
+  "OddStake": "3球",
+  "Guest": "馬瑟韋爾",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-02 19:13",
+  "Person": "234678136"
+}

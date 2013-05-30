@@ -1,0 +1,18 @@
+{
+  "Name": "热血青年",
+  "LastUpdateTime": "\/Date(1369882409637+0800)\/",
+  "Person": {
+    "TotalROI": -2.0,
+    "CurrentROI": -2.0,
+    "TotalYield": -0.4,
+    "CurrentYield": -0.4,
+    "Total": 5,
+    "Profit": -2.0,
+    "Win": 0,
+    "WinHalf": 0,
+    "Lose": 2,
+    "LoseHalf": 0,
+    "Draw": 1,
+    "Name": "热血青年"
+  }
+}

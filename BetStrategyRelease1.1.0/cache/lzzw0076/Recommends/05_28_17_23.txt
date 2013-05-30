@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "捷U19",
+  "Time1": "05-28 19:00",
+  "Host": "奧林莫斯U19",
+  "OddStake": "3/3.5球",
+  "Guest": "布拉格斯拉維亞U19",
+  "Prefer": "小球",
+  "Odds": 1.05,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-28 17:23",
+  "Person": "lzzw0076"
+}

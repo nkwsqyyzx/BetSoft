@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "",
+  "Time1": "11-01 20:00",
+  "Host": "蘇格蘭U17(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "烏克蘭U17",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-01 19:21",
+  "Person": "爽爽"
+}

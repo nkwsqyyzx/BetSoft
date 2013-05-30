@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "西乙",
+  "Time1": "05-25 22:00",
+  "Host": "阿柯孔",
+  "OddStake": "2.5球",
+  "Guest": "艾美利亞",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "05-25 21:34",
+  "Person": "小球下盘"
+}

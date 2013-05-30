@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "俄甲",
+  "Time1": "10-26 23:59",
+  "Host": "維洛格瑞德",
+  "OddStake": "平/半",
+  "Guest": "席比爾",
+  "Prefer": "席比爾",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "10-26 16:55",
+  "Person": "1300100915"
+}

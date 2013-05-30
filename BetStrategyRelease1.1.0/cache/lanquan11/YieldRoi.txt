@@ -1,0 +1,18 @@
+{
+  "Name": "lanquan11",
+  "LastUpdateTime": "\/Date(1369882390573+0800)\/",
+  "Person": {
+    "TotalROI": -4.99999952,
+    "CurrentROI": -7.16,
+    "TotalYield": -0.238095209,
+    "CurrentYield": -0.650909066,
+    "Total": 21,
+    "Profit": -4.5,
+    "Win": 7,
+    "WinHalf": 0,
+    "Lose": 11,
+    "LoseHalf": 1,
+    "Draw": 1,
+    "Name": "lanquan11"
+  }
+}

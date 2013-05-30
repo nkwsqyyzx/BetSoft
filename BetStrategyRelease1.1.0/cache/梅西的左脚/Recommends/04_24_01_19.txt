@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英南超",
+  "Time1": "04-24 02:45",
+  "Host": "托頓",
+  "OddStake": "3球",
+  "Guest": "茨伯翰",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-5",
+  "PreferResult": 5,
+  "Time2": "04-24 01:19",
+  "Person": "梅西的左脚"
+}

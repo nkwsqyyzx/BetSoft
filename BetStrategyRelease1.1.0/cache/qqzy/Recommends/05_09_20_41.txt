@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "05-09 21:30",
+  "Host": "維京",
+  "OddStake": "半/一",
+  "Guest": "候格森德",
+  "Prefer": "候格森德",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-09 20:41",
+  "Person": "qqzy"
+}

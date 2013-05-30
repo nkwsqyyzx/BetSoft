@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "卡塔盃",
+  "Time1": "11-12 21:00",
+  "Host": "沙拉爾",
+  "OddStake": "2.5/3球",
+  "Guest": "卡達爾競技",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "11-12 19:10",
+  "Person": "爽爽"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "美青盃",
+  "Time1": "02-22 07:30",
+  "Host": "巴拿馬U20(中)",
+  "OddStake": "2.5球",
+  "Guest": "波多黎各U20",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "02-22 01:34",
+  "Person": "梅西的左脚"
+}

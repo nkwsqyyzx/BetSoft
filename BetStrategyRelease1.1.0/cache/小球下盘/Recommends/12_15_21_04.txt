@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德甲",
+  "Time1": "12-15 22:30",
+  "Host": "杜塞爾多夫",
+  "OddStake": "2.5球",
+  "Guest": "漢諾威",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "12-15 21:04",
+  "Person": "小球下盘"
+}

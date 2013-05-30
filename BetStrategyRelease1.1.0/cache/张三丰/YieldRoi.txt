@@ -1,0 +1,18 @@
+{
+  "Name": "张三丰",
+  "LastUpdateTime": "\/Date(1369882404733+0800)\/",
+  "Person": {
+    "TotalROI": 1.69,
+    "CurrentROI": 1.69,
+    "TotalYield": 0.845,
+    "CurrentYield": 0.845,
+    "Total": 2,
+    "Profit": 2.0,
+    "Win": 2,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "张三丰"
+  }
+}

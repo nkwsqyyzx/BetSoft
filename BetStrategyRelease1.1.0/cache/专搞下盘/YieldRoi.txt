@@ -1,0 +1,18 @@
+{
+  "Name": "专搞下盘",
+  "LastUpdateTime": "\/Date(1369882392670+0800)\/",
+  "Person": {
+    "TotalROI": 1.34000027,
+    "CurrentROI": 6.15,
+    "TotalYield": 0.022333337,
+    "CurrentYield": 0.47307694,
+    "Total": 60,
+    "Profit": 4.5,
+    "Win": 25,
+    "WinHalf": 7,
+    "Lose": 24,
+    "LoseHalf": 0,
+    "Draw": 2,
+    "Name": "专搞下盘"
+  }
+}

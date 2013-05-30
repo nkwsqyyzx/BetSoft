@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-30 02:30",
+  "Host": "厄瓜多爾(中)",
+  "OddStake": "受半/一",
+  "Guest": "德國",
+  "Prefer": "厄瓜多爾(中)",
+  "Odds": 0.86,
+  "Result": "2-4",
+  "PreferResult": 1,
+  "Time2": "05-29 20:45",
+  "Person": "战警"
+}

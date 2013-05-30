@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "捷U21",
+  "Time1": "11-12 21:00",
+  "Host": "布拉格斯拉維亞U21",
+  "OddStake": "球半",
+  "Guest": "皮爾森U21",
+  "Prefer": "布拉格斯拉維亞U21",
+  "Odds": 0.8,
+  "Result": "6-0",
+  "PreferResult": 5,
+  "Time2": "11-12 14:57",
+  "Person": "余韵犹在"
+}

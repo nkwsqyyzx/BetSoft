@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "委内超秋",
+  "Time1": "02-18 04:30",
+  "Host": "佩塔雷體育會",
+  "OddStake": "2/2.5球",
+  "Guest": "薩馬拉",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "02-18 01:33",
+  "Person": "云里金刚虎"
+}

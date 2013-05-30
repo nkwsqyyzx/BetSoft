@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐霸盃",
+  "Time1": "12-07 02:00",
+  "Host": "斯圖加特",
+  "OddStake": "两球",
+  "Guest": "莫迪",
+  "Prefer": "斯圖加特",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "12-06 12:12",
+  "Person": "小李飞刀"
+}

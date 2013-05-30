@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-28 17:00",
+  "Host": "羅切達爾流浪",
+  "OddStake": "3.5/4球",
+  "Guest": "洛根利泰柠",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-28 15:20",
+  "Person": "wintion"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西盃",
+  "Time1": "05-16 06:30",
+  "Host": "基斯奧馬",
+  "OddStake": "一球/球半",
+  "Guest": "聖貝納多",
+  "Prefer": "聖貝納多",
+  "Odds": 0.82,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "05-16 01:39",
+  "Person": "234678136"
+}

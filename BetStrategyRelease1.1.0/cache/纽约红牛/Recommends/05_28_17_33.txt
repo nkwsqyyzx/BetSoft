@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美公開盃",
+  "Time1": "05-29 09:30",
+  "Host": "皇家鹽湖城",
+  "OddStake": "3球",
+  "Guest": "亞特蘭大銀猩",
+  "Prefer": "小球",
+  "Odds": 1.03,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 17:33",
+  "Person": "纽约红牛"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "3000元",
+  "LastUpdateTime": "\/Date(1369882389330+0800)\/",
+  "Person": {
+    "TotalROI": 0.82,
+    "CurrentROI": 0.82,
+    "TotalYield": 0.41,
+    "CurrentYield": 0.41,
+    "Total": 2,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "3000元"
+  }
+}

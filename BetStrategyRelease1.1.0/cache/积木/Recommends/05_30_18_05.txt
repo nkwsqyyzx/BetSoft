@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭甲",
+  "Time1": "05-30 23:59",
+  "Host": "魯治卓索",
+  "OddStake": "受平/半",
+  "Guest": "歷基亞",
+  "Prefer": "魯治卓索",
+  "Odds": 1.08,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 18:05",
+  "Person": "积木"
+}

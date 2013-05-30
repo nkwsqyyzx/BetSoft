@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "南冠U20",
+  "Time1": "01-21 09:00",
+  "Host": "哥倫比亞U20(中)",
+  "OddStake": "平/半",
+  "Guest": "厄瓜多爾U20",
+  "Prefer": "厄瓜多爾U20",
+  "Odds": 1.02,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-21 08:14",
+  "Person": "空山新雨"
+}

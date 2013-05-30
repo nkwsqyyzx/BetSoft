@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪乙C",
+  "Time1": "05-20 21:00",
+  "Host": "諾托登",
+  "OddStake": "3.5球",
+  "Guest": "阿爾嘉德",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "5-0",
+  "PreferResult": 1,
+  "Time2": "05-20 20:16",
+  "Person": "小球下盘"
+}

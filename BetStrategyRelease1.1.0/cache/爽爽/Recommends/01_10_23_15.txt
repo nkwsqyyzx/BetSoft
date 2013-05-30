@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英錦賽",
+  "Time1": "01-11 03:45",
+  "Host": "高雲地利",
+  "OddStake": "半球",
+  "Guest": "普雷斯頓",
+  "Prefer": "普雷斯頓",
+  "Odds": 0.85,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "01-10 23:15",
+  "Person": "爽爽"
+}

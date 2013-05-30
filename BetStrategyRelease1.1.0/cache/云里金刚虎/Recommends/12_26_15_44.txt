@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-26 23:00",
+  "Host": "曼聯",
+  "OddStake": "球半/两球",
+  "Guest": "紐卡素",
+  "Prefer": "紐卡素",
+  "Odds": 1.01,
+  "Result": "4-3",
+  "PreferResult": 5,
+  "Time2": "12-26 15:44",
+  "Person": "云里金刚虎"
+}

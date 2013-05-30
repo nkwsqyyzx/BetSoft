@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西乙",
+  "Time1": "05-29 06:30",
+  "Host": "美國RN",
+  "OddStake": "2.5球",
+  "Guest": "艾卡沙",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 12:00",
+  "Person": "阿汉"
+}

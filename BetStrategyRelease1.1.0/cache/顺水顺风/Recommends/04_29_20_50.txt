@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "阿甲",
+  "Time1": "04-30 08:15",
+  "Host": "拉魯斯",
+  "OddStake": "半/一",
+  "Guest": "艾朗迪考瑞法拉",
+  "Prefer": "拉魯斯",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-29 20:50",
+  "Person": "顺水顺风"
+}

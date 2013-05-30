@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿乙",
+  "Time1": "05-29 07:30",
+  "Host": "羅沙里奧中央",
+  "OddStake": "2/2.5球",
+  "Guest": "艾度思維",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 07:49",
+  "Person": "人在美洲"
+}

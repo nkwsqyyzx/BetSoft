@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐冠盃",
+  "Time1": "10-24 02:45",
+  "Host": "巴塞羅那",
+  "OddStake": "两球半/三球",
+  "Guest": "些路迪",
+  "Prefer": "巴塞羅那",
+  "Odds": 1.06,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-23 14:56",
+  "Person": "1300100915"
+}

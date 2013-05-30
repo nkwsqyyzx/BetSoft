@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "比利時盃",
+  "Time1": "12-14 03:45",
+  "Host": "威爾郡",
+  "OddStake": "平手",
+  "Guest": "亨克",
+  "Prefer": "威爾郡",
+  "Odds": 0.84,
+  "Result": "0-5",
+  "PreferResult": 1,
+  "Time2": "12-13 22:34",
+  "Person": "lxf1234"
+}

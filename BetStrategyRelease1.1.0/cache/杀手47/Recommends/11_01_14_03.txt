@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西班牙盃",
+  "Time1": "11-02 02:00",
+  "Host": "塞維利亞",
+  "OddStake": "一球",
+  "Guest": "愛斯賓奴",
+  "Prefer": "塞維利亞",
+  "Odds": 0.84,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "11-01 14:03",
+  "Person": "杀手47"
+}

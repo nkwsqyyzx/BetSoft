@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "02-25 04:00",
+  "Host": "皇家貝迪斯",
+  "OddStake": "平/半",
+  "Guest": "馬拉加",
+  "Prefer": "皇家貝迪斯",
+  "Odds": 1.0,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "02-24 14:15",
+  "Person": "1300100915"
+}

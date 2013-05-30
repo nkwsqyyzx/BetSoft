@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "印尼超",
+  "Time1": "05-21 16:30",
+  "Host": "巴厘巴板",
+  "OddStake": "3球",
+  "Guest": "伯希三普特拉沙馬林達",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-21 15:20",
+  "Person": "空山新雨"
+}

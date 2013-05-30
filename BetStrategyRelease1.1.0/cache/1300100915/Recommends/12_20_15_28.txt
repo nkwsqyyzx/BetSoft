@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西甲",
+  "Time1": "12-21 05:00",
+  "Host": "皇家蘇斯達",
+  "OddStake": "平/半",
+  "Guest": "塞維利亞",
+  "Prefer": "塞維利亞",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "12-20 15:28",
+  "Person": "1300100915"
+}

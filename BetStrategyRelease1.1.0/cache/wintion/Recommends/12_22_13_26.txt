@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇丙",
+  "Time1": "12-22 23:00",
+  "Host": "士特寧",
+  "OddStake": "3/3.5球",
+  "Guest": "安南體育會",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "12-22 13:26",
+  "Person": "wintion"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-15 02:45",
+  "Host": "立麥立克",
+  "OddStake": "平/半",
+  "Guest": "杜希達聯",
+  "Prefer": "杜希達聯",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-14 23:06",
+  "Person": "segespa"
+}

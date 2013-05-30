@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-20 13:00",
+  "Host": "大田市民",
+  "OddStake": "2.5球",
+  "Guest": "水原三星",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "04-20 12:32",
+  "Person": "希望之星"
+}

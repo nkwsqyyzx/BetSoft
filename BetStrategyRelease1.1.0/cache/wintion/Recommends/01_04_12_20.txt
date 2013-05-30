@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "印度甲",
+  "Time1": "01-04 16:30",
+  "Host": "帕亞聯",
+  "OddStake": "3/3.5球",
+  "Guest": "甸普",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-04 12:20",
+  "Person": "wintion"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-20 03:00",
+  "Host": "馬略卡",
+  "OddStake": "平/半",
+  "Guest": "瓦萊卡諾",
+  "Prefer": "瓦萊卡諾",
+  "Odds": 1.01,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-19 19:27",
+  "Person": "qqzy"
+}

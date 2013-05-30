@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-26 20:00",
+  "Host": "史托曼",
+  "OddStake": "3/3.5球",
+  "Guest": "艾維洛姆",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 2,
+  "Time2": "01-26 19:09",
+  "Person": "wintion"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法甲",
+  "Time1": "12-24 04:00",
+  "Host": "馬賽",
+  "OddStake": "2/2.5球",
+  "Guest": "聖伊天",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "12-23 22:41",
+  "Person": "无极旋风"
+}

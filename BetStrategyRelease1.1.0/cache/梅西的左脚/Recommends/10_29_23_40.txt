@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "希臘超",
+  "Time1": "10-30 01:30",
+  "Host": "阿里斯",
+  "OddStake": "2/2.5球",
+  "Guest": "奧林比亞高斯CFP",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "10-29 23:40",
+  "Person": "梅西的左脚"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇超",
+  "Time1": "12-26 23:00",
+  "Host": "基馬諾克",
+  "OddStake": "平手",
+  "Guest": "赫斯",
+  "Prefer": "基馬諾克",
+  "Odds": 1.1,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-26 20:46",
+  "Person": "顺水顺风"
+}

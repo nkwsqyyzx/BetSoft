@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐冠盃",
+  "Time1": "10-23 23:59",
+  "Host": "莫斯科斯巴達",
+  "OddStake": "平手",
+  "Guest": "賓菲加",
+  "Prefer": "賓菲加",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-23 23:42",
+  "Person": "梅西的左脚"
+}

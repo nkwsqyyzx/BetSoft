@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "04-02 18:30",
+  "Host": "FC漢城",
+  "OddStake": "2.5球",
+  "Guest": "仙台维加泰",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-02 17:27",
+  "Person": "红红火火"
+}

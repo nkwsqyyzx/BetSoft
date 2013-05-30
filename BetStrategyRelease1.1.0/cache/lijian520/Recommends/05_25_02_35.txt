@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-25 02:45",
+  "Host": "布咸美恩斯",
+  "OddStake": "受一球",
+  "Guest": "聖巴特里",
+  "Prefer": "布咸美恩斯",
+  "Odds": 1.06,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "05-25 02:35",
+  "Person": "lijian520"
+}

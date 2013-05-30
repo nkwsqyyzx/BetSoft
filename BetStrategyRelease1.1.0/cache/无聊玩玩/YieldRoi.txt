@@ -1,0 +1,18 @@
+{
+  "Name": "无聊玩玩",
+  "LastUpdateTime": "\/Date(1369882405524+0800)\/",
+  "Person": {
+    "TotalROI": 2.47999883,
+    "CurrentROI": -2.21500015,
+    "TotalYield": 0.0136263669,
+    "CurrentYield": -0.184583351,
+    "Total": 182,
+    "Profit": 15.0,
+    "Win": 72,
+    "WinHalf": 28,
+    "Lose": 69,
+    "LoseHalf": 4,
+    "Draw": 9,
+    "Name": "无聊玩玩"
+  }
+}

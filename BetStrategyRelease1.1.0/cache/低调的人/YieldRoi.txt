@@ -1,0 +1,18 @@
+{
+  "Name": "低调的人",
+  "LastUpdateTime": "\/Date(1369882399929+0800)\/",
+  "Person": {
+    "TotalROI": -0.6169998,
+    "CurrentROI": 3.08999968,
+    "TotalYield": -0.00761728175,
+    "CurrentYield": 0.237692282,
+    "Total": 81,
+    "Profit": 3.5,
+    "Win": 32,
+    "WinHalf": 12,
+    "Lose": 34,
+    "LoseHalf": 1,
+    "Draw": 2,
+    "Name": "低调的人"
+  }
+}

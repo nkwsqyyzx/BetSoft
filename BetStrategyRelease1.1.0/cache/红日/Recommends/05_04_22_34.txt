@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "05-04 23:59",
+  "Host": "格拉納達",
+  "OddStake": "2.5球",
+  "Guest": "馬拉加",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-04 22:34",
+  "Person": "红日"
+}

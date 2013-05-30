@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 01:00",
+  "Host": "安芝(中)",
+  "OddStake": "半/一",
+  "Guest": "利物浦",
+  "Prefer": "利物浦",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "11-08 18:41",
+  "Person": "杀手47"
+}

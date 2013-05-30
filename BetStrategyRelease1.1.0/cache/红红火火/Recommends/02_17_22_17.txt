@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "02-18 02:00",
+  "Host": "華拉度列",
+  "OddStake": "2.5球",
+  "Guest": "馬德里體育會",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "02-17 22:17",
+  "Person": "红红火火"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-27 23:00",
+  "Host": "約旦",
+  "OddStake": "2/2.5球",
+  "Guest": "利比亞",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 21:09",
+  "Person": "karlmarx"
+}

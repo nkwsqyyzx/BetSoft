@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德U17西",
+  "Time1": "02-24 18:00",
+  "Host": "科隆U17",
+  "OddStake": "3.5/4球",
+  "Guest": "奧柏侯遜U17",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 3,
+  "Time2": "02-24 17:33",
+  "Person": "wintion"
+}

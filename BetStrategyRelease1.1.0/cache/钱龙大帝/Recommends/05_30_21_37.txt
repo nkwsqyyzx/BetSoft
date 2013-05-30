@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "冰島盃",
+  "Time1": "05-31 03:15",
+  "Host": "KR雷克查域克",
+  "OddStake": "3.5球",
+  "Guest": "格連戴域克",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 21:37",
+  "Person": "钱龙大帝"
+}

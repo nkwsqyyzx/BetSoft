@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-15 18:00",
+  "Host": "愛爾蘭U16",
+  "OddStake": "受平/半",
+  "Guest": "比利時U16",
+  "Prefer": "愛爾蘭U16",
+  "Odds": 0.94,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-15 17:18",
+  "Person": "空山新雨"
+}

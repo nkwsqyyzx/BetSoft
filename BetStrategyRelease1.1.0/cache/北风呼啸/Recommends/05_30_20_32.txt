@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "歐青U21",
+  "Time1": "05-30 23:00",
+  "Host": "塞浦路斯U21",
+  "OddStake": "半球",
+  "Guest": "北愛爾蘭U21",
+  "Prefer": "北愛爾蘭U21",
+  "Odds": 0.97,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 20:32",
+  "Person": "北风呼啸"
+}

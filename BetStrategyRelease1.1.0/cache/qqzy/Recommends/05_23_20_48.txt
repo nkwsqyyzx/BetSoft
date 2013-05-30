@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "也門甲",
+  "Time1": "05-23 21:00",
+  "Host": "阿爾歐魯巴扎比",
+  "OddStake": "2.5球",
+  "Guest": "瓦赫達阿丹",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-23 20:48",
+  "Person": "qqzy"
+}

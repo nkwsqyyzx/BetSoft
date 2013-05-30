@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "02-17 02:45",
+  "Host": "洛達",
+  "OddStake": "2.5/3球",
+  "Guest": "艾克馬亞",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "02-16 12:07",
+  "Person": "空山新雨"
+}

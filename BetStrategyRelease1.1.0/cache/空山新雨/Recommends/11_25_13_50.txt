@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-25 21:30",
+  "Host": "史雲斯",
+  "OddStake": "受平/半",
+  "Guest": "利物浦",
+  "Prefer": "史雲斯",
+  "Odds": 1.05,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "11-25 13:50",
+  "Person": "空山新雨"
+}

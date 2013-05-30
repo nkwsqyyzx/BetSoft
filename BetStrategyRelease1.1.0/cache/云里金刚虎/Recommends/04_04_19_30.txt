@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "巴聖錦標",
+  "Time1": "04-05 06:30",
+  "Host": "山度士",
+  "OddStake": "球半",
+  "Guest": "聖卡坦奴",
+  "Prefer": "山度士",
+  "Odds": 1.04,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-04 19:30",
+  "Person": "云里金刚虎"
+}

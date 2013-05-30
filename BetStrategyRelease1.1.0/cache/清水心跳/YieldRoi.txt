@@ -1,0 +1,18 @@
+{
+  "Name": "清水心跳",
+  "LastUpdateTime": "\/Date(1369882409490+0800)\/",
+  "Person": {
+    "TotalROI": 3.13,
+    "CurrentROI": 3.13,
+    "TotalYield": 0.7825,
+    "CurrentYield": 0.7825,
+    "Total": 4,
+    "Profit": 3.5,
+    "Win": 3,
+    "WinHalf": 1,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "清水心跳"
+  }
+}

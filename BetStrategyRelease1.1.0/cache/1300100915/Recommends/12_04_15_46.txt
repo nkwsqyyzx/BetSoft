@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英錦賽",
+  "Time1": "12-05 03:45",
+  "Host": "克魯",
+  "OddStake": "平手",
+  "Guest": "唐卡士打",
+  "Prefer": "唐卡士打",
+  "Odds": 1.02,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "12-04 15:46",
+  "Person": "1300100915"
+}

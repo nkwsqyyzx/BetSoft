@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-20 22:00",
+  "Host": "錫耶納",
+  "OddStake": "平/半",
+  "Guest": "森多利亞",
+  "Prefer": "森多利亞",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-20 15:06",
+  "Person": "爽爽"
+}

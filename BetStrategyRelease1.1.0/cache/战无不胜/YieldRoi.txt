@@ -1,0 +1,18 @@
+{
+  "Name": "战无不胜",
+  "LastUpdateTime": "\/Date(1369882405227+0800)\/",
+  "Person": {
+    "TotalROI": -13.1750011,
+    "CurrentROI": -3.13,
+    "TotalYield": -0.4391667,
+    "CurrentYield": -0.447142869,
+    "Total": 30,
+    "Profit": -12.5,
+    "Win": 7,
+    "WinHalf": 1,
+    "Lose": 19,
+    "LoseHalf": 2,
+    "Draw": 1,
+    "Name": "战无不胜"
+  }
+}

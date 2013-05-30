@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "05-07 02:15",
+  "Host": "布倫瑞克",
+  "OddStake": "半球",
+  "Guest": "科特布斯",
+  "Prefer": "科特布斯",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-06 23:55",
+  "Person": "梅西的左脚"
+}

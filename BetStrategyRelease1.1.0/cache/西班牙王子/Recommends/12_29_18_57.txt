@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "",
+  "Time1": "12-29 22:30",
+  "Host": "拉內利",
+  "OddStake": "平/半",
+  "Guest": "卡馬頓",
+  "Prefer": "卡馬頓",
+  "Odds": 0.9,
+  "Result": "4-2",
+  "PreferResult": 1,
+  "Time2": "12-29 18:57",
+  "Person": "西班牙王子"
+}

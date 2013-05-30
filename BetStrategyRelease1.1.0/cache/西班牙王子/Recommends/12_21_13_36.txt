@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意甲",
+  "Time1": "12-22 01:00",
+  "Host": "比斯卡拉",
+  "OddStake": "受平/半",
+  "Guest": "卡坦尼亞",
+  "Prefer": "比斯卡拉",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "12-21 13:36",
+  "Person": "西班牙王子"
+}

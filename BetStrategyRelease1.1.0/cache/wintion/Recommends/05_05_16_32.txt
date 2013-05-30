@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷甲",
+  "Time1": "05-05 18:30",
+  "Host": "艾克馬亞",
+  "OddStake": "3球",
+  "Guest": "施禾尼",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "05-05 16:32",
+  "Person": "wintion"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "锐壮壮",
+  "LastUpdateTime": "\/Date(1369882419217+0800)\/",
+  "Person": {
+    "TotalROI": -9.905,
+    "CurrentROI": -2.95,
+    "TotalYield": -0.471666664,
+    "CurrentYield": -0.590000033,
+    "Total": 21,
+    "Profit": -9.5,
+    "Win": 5,
+    "WinHalf": 1,
+    "Lose": 15,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "锐壮壮"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐霸盃",
+  "Time1": "12-07 04:05",
+  "Host": "柏迪遜",
+  "OddStake": "2/2.5球",
+  "Guest": "魯賓卡讚",
+  "Prefer": "小球",
+  "Odds": 1.02,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-06 22:32",
+  "Person": "云里金刚虎"
+}

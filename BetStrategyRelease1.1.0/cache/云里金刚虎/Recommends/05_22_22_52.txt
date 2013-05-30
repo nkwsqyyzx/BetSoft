@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "斯伐甲",
+  "Time1": "05-22 23:30",
+  "Host": "邁加華斯巴達",
+  "OddStake": "平/半",
+  "Guest": "柯西斯",
+  "Prefer": "柯西斯",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-22 22:52",
+  "Person": "云里金刚虎"
+}

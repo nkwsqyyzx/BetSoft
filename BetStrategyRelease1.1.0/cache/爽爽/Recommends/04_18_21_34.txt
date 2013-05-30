@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "04-19 01:00",
+  "Host": "佐加頓斯",
+  "OddStake": "半球",
+  "Guest": "布諾馬博亞納",
+  "Prefer": "佐加頓斯",
+  "Odds": 0.85,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-18 21:34",
+  "Person": "爽爽"
+}

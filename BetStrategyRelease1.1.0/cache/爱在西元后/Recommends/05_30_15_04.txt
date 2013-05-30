@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士甲",
+  "Time1": "05-31 01:45",
+  "Host": "基亞索",
+  "OddStake": "半球",
+  "Guest": "華杜茲",
+  "Prefer": "基亞索",
+  "Odds": 1.06,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 15:04",
+  "Person": "爱在西元后"
+}

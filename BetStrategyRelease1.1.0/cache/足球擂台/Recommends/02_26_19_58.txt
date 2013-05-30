@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英乙",
+  "Time1": "02-27 04:00",
+  "Host": "班列特",
+  "OddStake": "受平/半",
+  "Guest": "修安聯",
+  "Prefer": "班列特",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-26 19:58",
+  "Person": "足球擂台"
+}

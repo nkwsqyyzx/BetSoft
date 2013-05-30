@@ -1,0 +1,18 @@
+{
+  "Name": "玉中华",
+  "LastUpdateTime": "\/Date(1369882410810+0800)\/",
+  "Person": {
+    "TotalROI": -0.485,
+    "CurrentROI": -0.485,
+    "TotalYield": -0.2425,
+    "CurrentYield": -0.2425,
+    "Total": 2,
+    "Profit": -0.5,
+    "Win": 0,
+    "WinHalf": 1,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "玉中华"
+  }
+}

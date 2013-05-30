@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "以超",
+  "Time1": "03-05 02:50",
+  "Host": "海法馬卡比",
+  "OddStake": "2.5球",
+  "Guest": "海法夏普爾",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-04 22:13",
+  "Person": "红日"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "澳南超",
+  "Time1": "05-17 18:00",
+  "Host": "阿德萊得城",
+  "OddStake": "2.5球",
+  "Guest": "地鐵之星",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-17 12:26",
+  "Person": "12388123"
+}

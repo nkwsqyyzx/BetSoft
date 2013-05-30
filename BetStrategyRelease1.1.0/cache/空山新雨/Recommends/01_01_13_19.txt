@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "澳職聯",
+  "Time1": "01-01 15:15",
+  "Host": "西部悉尼流浪者",
+  "OddStake": "平/半",
+  "Guest": "墨爾本勝利",
+  "Prefer": "墨爾本勝利",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-01 13:19",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿聯酋超",
+  "Time1": "05-27 22:15",
+  "Host": "瓦斯爾",
+  "OddStake": "受半/一",
+  "Guest": "般尼亞斯",
+  "Prefer": "瓦斯爾",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-27 21:19",
+  "Person": "dfyj1111"
+}

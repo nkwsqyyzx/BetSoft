@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "厄瓜甲",
+  "Time1": "01-31 01:45",
+  "Host": "卡托利卡基多",
+  "OddStake": "受平/半",
+  "Guest": "尹美利克",
+  "Prefer": "卡托利卡基多",
+  "Odds": 0.83,
+  "Result": "0-4",
+  "PreferResult": 1,
+  "Time2": "01-30 12:24",
+  "Person": "1300100915"
+}

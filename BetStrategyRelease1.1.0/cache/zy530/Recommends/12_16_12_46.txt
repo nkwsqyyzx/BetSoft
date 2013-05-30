@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "澳職聯",
+  "Time1": "12-16 14:00",
+  "Host": "阿德萊得聯",
+  "OddStake": "半球",
+  "Guest": "威寧頓復活",
+  "Prefer": "阿德萊得聯",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-16 12:46",
+  "Person": "zy530"
+}

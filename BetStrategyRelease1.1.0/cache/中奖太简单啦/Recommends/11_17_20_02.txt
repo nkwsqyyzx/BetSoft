@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-17 20:45",
+  "Host": "阿森納",
+  "OddStake": "3球",
+  "Guest": "托特納姆熱刺",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "5-2",
+  "PreferResult": 5,
+  "Time2": "11-17 20:02",
+  "Person": "中奖太简单啦"
+}

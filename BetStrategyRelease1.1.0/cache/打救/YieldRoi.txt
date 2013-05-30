@@ -1,0 +1,18 @@
+{
+  "Name": "打救",
+  "LastUpdateTime": "\/Date(1369882405245+0800)\/",
+  "Person": {
+    "TotalROI": -1.49,
+    "CurrentROI": -1.49,
+    "TotalYield": -0.3725,
+    "CurrentYield": -0.3725,
+    "Total": 4,
+    "Profit": -1.5,
+    "Win": 0,
+    "WinHalf": 1,
+    "Lose": 2,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "打救"
+  }
+}

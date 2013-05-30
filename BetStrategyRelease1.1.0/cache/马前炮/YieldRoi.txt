@@ -1,0 +1,18 @@
+{
+  "Name": "马前炮",
+  "LastUpdateTime": "\/Date(1369882420568+0800)\/",
+  "Person": {
+    "TotalROI": 0.87,
+    "CurrentROI": 0.87,
+    "TotalYield": 0.2175,
+    "CurrentYield": 0.2175,
+    "Total": 4,
+    "Profit": 1.0,
+    "Win": 2,
+    "WinHalf": 0,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "马前炮"
+  }
+}

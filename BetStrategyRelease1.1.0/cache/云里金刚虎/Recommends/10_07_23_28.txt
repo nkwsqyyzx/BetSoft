@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "烏拉甲秋",
+  "Time1": "10-08 03:00",
+  "Host": "尤文都德彼德拉斯",
+  "OddStake": "2/2.5球",
+  "Guest": "貝亞維斯塔",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "10-07 23:28",
+  "Person": "云里金刚虎"
+}

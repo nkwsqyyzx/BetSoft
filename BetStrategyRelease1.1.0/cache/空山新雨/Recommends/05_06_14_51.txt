@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英甲",
+  "Time1": "05-06 18:00",
+  "Host": "名古屋鯨魚",
+  "OddStake": "平/半",
+  "Guest": "仙台维加泰",
+  "Prefer": "仙台维加泰",
+  "Odds": 0.86,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "05-06 14:51",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪女超",
+  "Time1": "05-28 23:59",
+  "Host": "庫爾伯特女足",
+  "OddStake": "3.5球",
+  "Guest": "阿那巴莊那女足",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 21:18",
+  "Person": "小球下盘"
+}

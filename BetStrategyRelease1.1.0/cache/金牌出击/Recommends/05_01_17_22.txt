@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 18:30",
+  "Host": "仙台维加泰",
+  "OddStake": "2.5球",
+  "Guest": "江蘇舜天",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-01 17:22",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "南球盃",
+  "Time1": "10-24 08:45",
+  "Host": "米倫拿列奧",
+  "OddStake": "2.5球",
+  "Guest": "彭美拉斯",
+  "Prefer": "小球",
+  "Odds": 0.89,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "10-24 06:13",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "03-06 03:45",
+  "Host": "沃特福德",
+  "OddStake": "2.5/3球",
+  "Guest": "錫周三",
+  "Prefer": "大球",
+  "Odds": 1.04,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "03-05 21:32",
+  "Person": "金牌出击"
+}

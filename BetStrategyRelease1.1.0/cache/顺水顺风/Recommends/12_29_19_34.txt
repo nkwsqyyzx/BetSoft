@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "",
+  "Time1": "12-29 20:30",
+  "Host": "侯城",
+  "OddStake": "半球",
+  "Guest": "列斯聯",
+  "Prefer": "侯城",
+  "Odds": 0.89,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "12-29 19:34",
+  "Person": "顺水顺风"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷甲",
+  "Time1": "02-03 19:30",
+  "Host": "NEC尼美根",
+  "OddStake": "平手",
+  "Guest": "維迪斯",
+  "Prefer": "維迪斯",
+  "Odds": 1.04,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "02-03 18:38",
+  "Person": "lxf1234"
+}

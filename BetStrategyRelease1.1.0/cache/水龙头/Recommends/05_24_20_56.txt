@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威超",
+  "Time1": "05-25 01:00",
+  "Host": "史卓加斯特",
+  "OddStake": "一球",
+  "Guest": "阿利辛特",
+  "Prefer": "史卓加斯特",
+  "Odds": 0.91,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "05-24 20:56",
+  "Person": "水龙头"
+}

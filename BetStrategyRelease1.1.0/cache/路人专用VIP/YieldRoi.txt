@@ -1,0 +1,18 @@
+{
+  "Name": "路人专用VIP",
+  "LastUpdateTime": "\/Date(1369882416264+0800)\/",
+  "Person": {
+    "TotalROI": 0.48,
+    "CurrentROI": 0.48,
+    "TotalYield": 0.16,
+    "CurrentYield": 0.16,
+    "Total": 3,
+    "Profit": 0.5,
+    "Win": 0,
+    "WinHalf": 1,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "路人专用VIP"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意甲",
+  "Time1": "12-09 22:00",
+  "Host": "拖連奴",
+  "OddStake": "受平/半",
+  "Guest": "AC米蘭",
+  "Prefer": "AC米蘭",
+  "Odds": 0.83,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "12-09 19:23",
+  "Person": "无极旋风"
+}

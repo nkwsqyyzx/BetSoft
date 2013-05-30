@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土超",
+  "Time1": "12-16 01:00",
+  "Host": "伊拉茲斯堡",
+  "OddStake": "平/半",
+  "Guest": "加辛塔士邦",
+  "Prefer": "加辛塔士邦",
+  "Odds": 0.84,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "12-16 00:05",
+  "Person": "金牌出击"
+}

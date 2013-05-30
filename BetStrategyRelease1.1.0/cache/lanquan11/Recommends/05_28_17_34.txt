@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "捷U19",
+  "Time1": "05-28 21:00",
+  "Host": "奧斯泰華U19",
+  "OddStake": "3/3.5球",
+  "Guest": "布迪祖懷斯U19",
+  "Prefer": "小球",
+  "Odds": 1.2,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 17:34",
+  "Person": "lanquan11"
+}

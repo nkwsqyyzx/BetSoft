@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "蘇青聯",
+  "Time1": "05-01 02:00",
+  "Host": "喜百年U20",
+  "OddStake": "球半/两球",
+  "Guest": "登地U20",
+  "Prefer": "喜百年U20",
+  "Odds": 0.86,
+  "Result": "3-1",
+  "PreferResult": 4,
+  "Time2": "05-01 00:00",
+  "Person": "12388123"
+}

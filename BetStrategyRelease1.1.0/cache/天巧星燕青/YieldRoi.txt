@@ -1,0 +1,18 @@
+{
+  "Name": "天巧星燕青",
+  "LastUpdateTime": "\/Date(1369882404528+0800)\/",
+  "Person": {
+    "TotalROI": 13.6449995,
+    "CurrentROI": 0.329999983,
+    "TotalYield": 0.162440464,
+    "CurrentYield": 0.03,
+    "Total": 84,
+    "Profit": 19.5,
+    "Win": 40,
+    "WinHalf": 15,
+    "Lose": 28,
+    "LoseHalf": 0,
+    "Draw": 1,
+    "Name": "天巧星燕青"
+  }
+}

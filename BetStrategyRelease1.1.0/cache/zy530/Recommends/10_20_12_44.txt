@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "韓聯盟",
+  "Time1": "10-20 14:00",
+  "Host": "大田HNP",
+  "OddStake": "2.5/3球",
+  "Guest": "仁川地鐵",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "10-20 12:44",
+  "Person": "zy530"
+}

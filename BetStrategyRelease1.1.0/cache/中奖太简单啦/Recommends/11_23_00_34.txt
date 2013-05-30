@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-23 01:00",
+  "Host": "安芝(中)",
+  "OddStake": "半/一",
+  "Guest": "烏甸尼斯",
+  "Prefer": "安芝(中)",
+  "Odds": 1.03,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-23 00:34",
+  "Person": "中奖太简单啦"
+}

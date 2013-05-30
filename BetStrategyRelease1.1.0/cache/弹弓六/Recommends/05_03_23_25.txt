@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "05-03 23:59",
+  "Host": "哈化柏林",
+  "OddStake": "一球/球半",
+  "Guest": "艾格比治",
+  "Prefer": "艾格比治",
+  "Odds": 0.96,
+  "Result": "3-2",
+  "PreferResult": 4,
+  "Time2": "05-03 23:25",
+  "Person": "弹弓六"
+}

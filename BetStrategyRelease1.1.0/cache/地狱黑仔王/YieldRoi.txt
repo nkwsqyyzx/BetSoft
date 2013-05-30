@@ -1,0 +1,18 @@
+{
+  "Name": "地狱黑仔王",
+  "LastUpdateTime": "\/Date(1369882403608+0800)\/",
+  "Person": {
+    "TotalROI": 2.08,
+    "CurrentROI": -3.05,
+    "TotalYield": 0.115555555,
+    "CurrentYield": -0.61,
+    "Total": 18,
+    "Profit": 3.5,
+    "Win": 10,
+    "WinHalf": 1,
+    "Lose": 7,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "地狱黑仔王"
+  }
+}

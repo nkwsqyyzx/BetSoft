@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐洲預選",
+  "Time1": "03-23 01:00",
+  "Host": "克羅地亞",
+  "OddStake": "半/一",
+  "Guest": "塞爾維亞",
+  "Prefer": "克羅地亞",
+  "Odds": 0.91,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "03-22 20:50",
+  "Person": "顺水顺风"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英乙",
+  "Time1": "10-24 02:45",
+  "Host": "諾咸頓",
+  "OddStake": "2.5/3球",
+  "Guest": "巴拉福特",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "10-24 00:53",
+  "Person": "龙缘"
+}

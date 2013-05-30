@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英超",
+  "Time1": "03-02 23:00",
+  "Host": "曼聯",
+  "OddStake": "球半",
+  "Guest": "諾域治",
+  "Prefer": "曼聯",
+  "Odds": 1.03,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "03-02 22:47",
+  "Person": "罗纳尔多"
+}

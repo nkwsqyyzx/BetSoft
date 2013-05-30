@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英甲",
+  "Time1": "02-27 03:45",
+  "Host": "卡素爾",
+  "OddStake": "平/半",
+  "Guest": "華素爾",
+  "Prefer": "華素爾",
+  "Odds": 0.8,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "02-26 23:51",
+  "Person": "segespa"
+}

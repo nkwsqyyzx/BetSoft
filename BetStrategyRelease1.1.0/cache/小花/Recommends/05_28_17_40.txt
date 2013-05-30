@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "自由盃",
+  "Time1": "05-29 09:00",
+  "Host": "聖塔菲",
+  "OddStake": "一球",
+  "Guest": "皇家加西拉索",
+  "Prefer": "聖塔菲",
+  "Odds": 0.87,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 17:40",
+  "Person": "小花"
+}

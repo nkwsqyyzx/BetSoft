@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威盃",
+  "Time1": "05-29 23:59",
+  "Host": "維京",
+  "OddStake": "一球/球半",
+  "Guest": "拜尼",
+  "Prefer": "拜尼",
+  "Odds": 1.06,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "05-29 21:38",
+  "Person": "ycdy"
+}

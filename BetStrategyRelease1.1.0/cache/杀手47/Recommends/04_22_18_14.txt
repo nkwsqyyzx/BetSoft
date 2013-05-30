@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "04-23 07:30",
+  "Host": "堤格雷",
+  "OddStake": "平/半",
+  "Guest": "小阿根廷人",
+  "Prefer": "堤格雷",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-22 18:14",
+  "Person": "杀手47"
+}

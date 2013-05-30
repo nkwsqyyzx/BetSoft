@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西甲",
+  "Time1": "01-05 04:30",
+  "Host": "薩拉戈薩",
+  "OddStake": "2.5球",
+  "Guest": "皇家貝迪斯",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "01-04 18:31",
+  "Person": "杀手47"
+}

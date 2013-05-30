@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "葡超",
+  "Time1": "02-11 02:00",
+  "Host": "國民隊",
+  "OddStake": "受一球/球半",
+  "Guest": "賓菲加",
+  "Prefer": "賓菲加",
+  "Odds": 0.99,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "02-10 21:52",
+  "Person": "lxf1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "哥倫甲",
+  "Time1": "12-17 06:30",
+  "Host": "米倫拿列奧",
+  "OddStake": "2/2.5球",
+  "Guest": "曼特寧獨立",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "12-17 01:11",
+  "Person": "梅西的左脚"
+}

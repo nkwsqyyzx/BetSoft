@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英足總盃",
+  "Time1": "04-01 19:30",
+  "Host": "切爾西",
+  "OddStake": "平手",
+  "Guest": "曼聯",
+  "Prefer": "曼聯",
+  "Odds": 1.01,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-01 14:06",
+  "Person": "弹弓六"
+}

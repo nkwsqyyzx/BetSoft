@@ -1,0 +1,18 @@
+{
+  "Name": "我行我素",
+  "LastUpdateTime": "\/Date(1369882405216+0800)\/",
+  "Person": {
+    "TotalROI": 2.76800132,
+    "CurrentROI": 4.46,
+    "TotalYield": 0.0152928252,
+    "CurrentYield": 0.446,
+    "Total": 181,
+    "Profit": 13.0,
+    "Win": 74,
+    "WinHalf": 22,
+    "Lose": 69,
+    "LoseHalf": 6,
+    "Draw": 8,
+    "Name": "我行我素"
+  }
+}

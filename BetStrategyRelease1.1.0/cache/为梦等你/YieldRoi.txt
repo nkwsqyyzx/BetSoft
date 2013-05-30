@@ -1,0 +1,18 @@
+{
+  "Name": "为梦等你",
+  "LastUpdateTime": "\/Date(1369882395712+0800)\/",
+  "Person": {
+    "TotalROI": 3.01,
+    "CurrentROI": 3.01,
+    "TotalYield": 0.7525,
+    "CurrentYield": 0.7525,
+    "Total": 4,
+    "Profit": 3.5,
+    "Win": 3,
+    "WinHalf": 1,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "为梦等你"
+  }
+}

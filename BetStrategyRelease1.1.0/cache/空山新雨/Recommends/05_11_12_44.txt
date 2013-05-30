@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西乙",
+  "Time1": "05-11 13:00",
+  "Host": "磐田山葉",
+  "OddStake": "2.5/3球",
+  "Guest": "柏雷素爾",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-11 12:44",
+  "Person": "空山新雨"
+}

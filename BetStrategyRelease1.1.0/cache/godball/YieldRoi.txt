@@ -1,0 +1,18 @@
+{
+  "Name": "godball",
+  "LastUpdateTime": "\/Date(1369882390169+0800)\/",
+  "Person": {
+    "TotalROI": 4.925001,
+    "CurrentROI": 7.180001,
+    "TotalYield": 0.107065246,
+    "CurrentYield": 0.652727365,
+    "Total": 46,
+    "Profit": 8.0,
+    "Win": 22,
+    "WinHalf": 5,
+    "Lose": 15,
+    "LoseHalf": 3,
+    "Draw": 0,
+    "Name": "godball"
+  }
+}

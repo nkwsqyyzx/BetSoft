@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "04-22 23:00",
+  "Host": "基輔阿森納",
+  "OddStake": "平手",
+  "Guest": "卡帕堤利夫",
+  "Prefer": "卡帕堤利夫",
+  "Odds": 0.8,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "04-22 22:14",
+  "Person": "空山新雨"
+}

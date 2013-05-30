@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "04-19 23:59",
+  "Host": "VFR亞倫",
+  "OddStake": "平手",
+  "Guest": "柏林聯",
+  "Prefer": "VFR亞倫",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "04-19 23:24",
+  "Person": "水龙头"
+}

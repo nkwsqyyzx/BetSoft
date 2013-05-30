@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "捷U21",
+  "Time1": "05-27 22:00",
+  "Host": "普利布蘭U21",
+  "OddStake": "一球/球半",
+  "Guest": "奧斯泰華U21",
+  "Prefer": "奧斯泰華U21",
+  "Odds": 0.95,
+  "Result": "6-0",
+  "PreferResult": 1,
+  "Time2": "05-27 21:14",
+  "Person": "ycdy"
+}

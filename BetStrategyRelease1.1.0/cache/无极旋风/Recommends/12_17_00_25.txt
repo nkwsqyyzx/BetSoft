@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "以超",
+  "Time1": "12-17 02:15",
+  "Host": "比達耶路撒冷",
+  "OddStake": "2/2.5球",
+  "Guest": "伊若尼奇亞夏普爾",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "12-17 00:25",
+  "Person": "无极旋风"
+}

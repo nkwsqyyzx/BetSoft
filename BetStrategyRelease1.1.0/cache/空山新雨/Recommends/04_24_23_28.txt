@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-24 23:45",
+  "Host": "詹辛拉",
+  "OddStake": "受平/半",
+  "Guest": "泰拉克托",
+  "Prefer": "詹辛拉",
+  "Odds": 0.83,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-24 23:28",
+  "Person": "空山新雨"
+}

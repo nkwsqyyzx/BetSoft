@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "突尼甲",
+  "Time1": "05-29 22:30",
+  "Host": "斯法克斯",
+  "OddStake": "一球/球半",
+  "Guest": "非洲人隊",
+  "Prefer": "非洲人隊",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-29 22:18",
+  "Person": "爷有旺仔"
+}

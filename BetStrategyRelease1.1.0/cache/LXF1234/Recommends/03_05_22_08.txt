@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "03-06 03:45",
+  "Host": "多特蒙德",
+  "OddStake": "一球",
+  "Guest": "薩克達",
+  "Prefer": "薩克達",
+  "Odds": 0.86,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "03-05 22:08",
+  "Person": "lxf1234"
+}

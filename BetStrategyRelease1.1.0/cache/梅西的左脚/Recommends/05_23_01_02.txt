@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "意乙",
+  "Time1": "05-23 02:45",
+  "Host": "諾和華",
+  "OddStake": "平/半",
+  "Guest": "恩波里",
+  "Prefer": "諾和華",
+  "Odds": 0.99,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "05-23 01:02",
+  "Person": "梅西的左脚"
+}

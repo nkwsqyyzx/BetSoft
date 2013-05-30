@@ -1,0 +1,18 @@
+{
+  "Name": "红红火火",
+  "LastUpdateTime": "\/Date(1369882413505+0800)\/",
+  "Person": {
+    "TotalROI": 10.2560005,
+    "CurrentROI": -3.67000031,
+    "TotalYield": 0.07172028,
+    "CurrentYield": -0.2823077,
+    "Total": 143,
+    "Profit": 19.5,
+    "Win": 78,
+    "WinHalf": 3,
+    "Lose": 59,
+    "LoseHalf": 2,
+    "Draw": 1,
+    "Name": "红红火火"
+  }
+}

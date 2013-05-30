@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "捷U19",
+  "Time1": "10-25 17:00",
+  "Host": "布咸麥恩斯1905U19",
+  "OddStake": "3.5球",
+  "Guest": "塔比歷斯U19",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "10-25 16:36",
+  "Person": "余韵犹在"
+}

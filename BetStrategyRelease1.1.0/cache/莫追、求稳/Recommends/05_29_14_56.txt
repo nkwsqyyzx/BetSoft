@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "印尼甲",
+  "Time1": "05-29 16:30",
+  "Host": "PPSM薩克蒂瑪格朗",
+  "OddStake": "2.5/3球",
+  "Guest": "永亞卡達",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 14:56",
+  "Person": "莫追、求稳"
+}

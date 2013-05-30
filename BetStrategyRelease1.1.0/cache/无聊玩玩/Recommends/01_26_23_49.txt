@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "",
+  "Time1": "01-27 01:00",
+  "Host": "拉素",
+  "OddStake": "半/一",
+  "Guest": "切沃",
+  "Prefer": "拉素",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-26 23:49",
+  "Person": "无聊玩玩"
+}

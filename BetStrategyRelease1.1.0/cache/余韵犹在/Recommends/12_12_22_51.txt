@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐U19冠",
+  "Time1": "12-13 03:00",
+  "Host": "切爾西U19",
+  "OddStake": "平/半",
+  "Guest": "阿積士U19",
+  "Prefer": "阿積士U19",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "12-12 22:51",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英聯盃",
+  "Time1": "11-01 03:45",
+  "Host": "切爾西",
+  "OddStake": "3球",
+  "Guest": "曼聯",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "3-3",
+  "PreferResult": 1,
+  "Time2": "10-31 14:11",
+  "Person": "lk930"
+}

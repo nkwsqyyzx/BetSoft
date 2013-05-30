@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬甲",
+  "Time1": "05-29 23:30",
+  "Host": "維京吉特",
+  "OddStake": "受半球",
+  "Guest": "SJK塞那喬其",
+  "Prefer": "SJK塞那喬其",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-29 23:10",
+  "Person": "人在美洲"
+}

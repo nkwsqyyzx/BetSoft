@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威盃",
+  "Time1": "05-29 23:00",
+  "Host": "波杜基林特",
+  "OddStake": "3/3.5球",
+  "Guest": "艾維洛姆",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 12:20",
+  "Person": "BUICKfifa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-11 03:45",
+  "Host": "比斯卡拉",
+  "OddStake": "2.5/3球",
+  "Guest": "祖雲達斯",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "1-6",
+  "PreferResult": 5,
+  "Time2": "11-10 23:34",
+  "Person": "无聊玩玩"
+}

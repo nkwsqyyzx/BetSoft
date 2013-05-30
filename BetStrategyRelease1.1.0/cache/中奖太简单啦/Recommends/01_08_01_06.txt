@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "希臘超",
+  "Time1": "01-08 01:30",
+  "Host": "薩丁",
+  "OddStake": "1.5/2球",
+  "Guest": "OFI克雷迪",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "01-08 01:06",
+  "Person": "中奖太简单啦"
+}

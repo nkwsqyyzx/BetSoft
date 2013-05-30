@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "澳女聯",
+  "Time1": "11-17 11:00",
+  "Host": "珀斯光榮女足",
+  "OddStake": "平/半",
+  "Guest": "悉尼女足",
+  "Prefer": "珀斯光榮女足",
+  "Odds": 0.97,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "11-17 09:59",
+  "Person": "余韵犹在"
+}

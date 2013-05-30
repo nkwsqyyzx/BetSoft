@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "格雷納盃",
+  "Time1": "01-08 20:30",
+  "Host": "白俄羅斯U18(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "意大利U18",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "01-08 18:56",
+  "Person": "爽爽"
+}

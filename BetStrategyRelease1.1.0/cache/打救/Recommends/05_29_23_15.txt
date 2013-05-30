@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德丙附",
+  "Time1": "05-29 23:30",
+  "Host": "洪卡",
+  "OddStake": "半/一",
+  "Guest": "拉迪",
+  "Prefer": "洪卡",
+  "Odds": 1.02,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "05-29 23:15",
+  "Person": "打救"
+}

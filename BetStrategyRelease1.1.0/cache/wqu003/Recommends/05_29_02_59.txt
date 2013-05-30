@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美公開盃",
+  "Time1": "05-29 07:30",
+  "Host": "查爾斯頓電池",
+  "OddStake": "受半/一",
+  "Guest": "聖荷西地震",
+  "Prefer": "聖荷西地震",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-29 02:59",
+  "Person": "wqu003"
+}

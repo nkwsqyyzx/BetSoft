@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "捷U21",
+  "Time1": "05-16 21:00",
+  "Host": "泰博斯寇U21",
+  "OddStake": "3.5球",
+  "Guest": "奧斯泰華U21",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "05-16 20:17",
+  "Person": "希望之星"
+}

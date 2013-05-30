@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土甲",
+  "Time1": "02-24 01:00",
+  "Host": "里澤士邦",
+  "OddStake": "2.5球",
+  "Guest": "布魯斯堡",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-23 23:51",
+  "Person": "云里金刚虎"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西甲",
+  "Time1": "05-30 08:00",
+  "Host": "法林明高RJ",
+  "OddStake": "半/一",
+  "Guest": "邦迪比達",
+  "Prefer": "法林明高RJ",
+  "Odds": 0.92,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "05-30 06:43",
+  "Person": "默默非金"
+}

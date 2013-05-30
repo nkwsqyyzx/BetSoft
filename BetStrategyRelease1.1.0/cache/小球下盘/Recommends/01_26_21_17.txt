@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英非聯",
+  "Time1": "01-26 23:00",
+  "Host": "海德",
+  "OddStake": "半球",
+  "Guest": "艾貝斯費特聯",
+  "Prefer": "艾貝斯費特聯",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-26 21:17",
+  "Person": "小球下盘"
+}

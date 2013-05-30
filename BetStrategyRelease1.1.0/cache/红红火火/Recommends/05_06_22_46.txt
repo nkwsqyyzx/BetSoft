@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "愛超",
+  "Time1": "05-06 23:59",
+  "Host": "斯萊戈",
+  "OddStake": "平/半",
+  "Guest": "德利城",
+  "Prefer": "斯萊戈",
+  "Odds": 0.83,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-06 22:46",
+  "Person": "红红火火"
+}

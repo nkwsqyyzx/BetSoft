@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-30 00:30",
+  "Host": "基爾高士丁",
+  "OddStake": "2.5球",
+  "Guest": "赫森卡瑟",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 08:44",
+  "Person": "九月九的酒"
+}

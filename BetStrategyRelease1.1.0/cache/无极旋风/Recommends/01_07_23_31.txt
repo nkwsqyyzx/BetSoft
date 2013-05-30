@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "以超",
+  "Time1": "01-08 02:50",
+  "Host": "伊若尼奇亞夏普爾",
+  "OddStake": "2/2.5球",
+  "Guest": "特拉維夫馬卡比",
+  "Prefer": "小球",
+  "Odds": 1.04,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-07 23:31",
+  "Person": "无极旋风"
+}

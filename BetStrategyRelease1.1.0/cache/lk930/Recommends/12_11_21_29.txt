@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡甲",
+  "Time1": "12-11 23:00",
+  "Host": "甘馬雷斯B隊",
+  "OddStake": "受平/半",
+  "Guest": "烏尼翁馬德拉",
+  "Prefer": "甘馬雷斯B隊",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "12-11 21:29",
+  "Person": "Lk930"
+}

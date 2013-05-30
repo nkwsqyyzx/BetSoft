@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德甲",
+  "Time1": "12-08 03:30",
+  "Host": "漢堡",
+  "OddStake": "半球",
+  "Guest": "賀芬咸",
+  "Prefer": "賀芬咸",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "12-08 00:52",
+  "Person": "Lk930"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "澳職聯",
+  "Time1": "03-03 14:00",
+  "Host": "墨爾本勝利",
+  "OddStake": "一球",
+  "Guest": "紐卡斯托",
+  "Prefer": "紐卡斯托",
+  "Odds": 0.84,
+  "Result": "5-0",
+  "PreferResult": 1,
+  "Time2": "03-03 13:15",
+  "Person": "qqzy"
+}

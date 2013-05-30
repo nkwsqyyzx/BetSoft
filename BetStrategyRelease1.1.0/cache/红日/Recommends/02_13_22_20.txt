@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法丁A",
+  "Time1": "02-14 01:00",
+  "Host": "康皮尼",
+  "OddStake": "2.5球",
+  "Guest": "朗斯II隊",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "02-13 22:20",
+  "Person": "红日"
+}

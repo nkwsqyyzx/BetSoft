@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-23 03:00",
+  "Host": "曼聯",
+  "OddStake": "球半/两球",
+  "Guest": "阿斯頓維拉",
+  "Prefer": "阿斯頓維拉",
+  "Odds": 1.02,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "04-23 01:22",
+  "Person": "罗纳尔多"
+}

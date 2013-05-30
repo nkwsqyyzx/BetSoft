@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士超",
+  "Time1": "05-30 02:30",
+  "Host": "年青人",
+  "OddStake": "受一球",
+  "Guest": "巴素利",
+  "Prefer": "年青人",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 3,
+  "Time2": "05-30 02:15",
+  "Person": "bobo"
+}

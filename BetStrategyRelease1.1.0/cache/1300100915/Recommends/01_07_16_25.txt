@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "以色列甲",
+  "Time1": "01-07 23:00",
+  "Host": "克拉瑪甘",
+  "OddStake": "平/半",
+  "Guest": "阿斯基倫夏普爾",
+  "Prefer": "阿斯基倫夏普爾",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "01-07 16:25",
+  "Person": "1300100915"
+}

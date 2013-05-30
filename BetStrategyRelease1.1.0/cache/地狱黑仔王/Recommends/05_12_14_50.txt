@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "05-12 15:00",
+  "Host": "山形蒙迪奧",
+  "OddStake": "2/2.5球",
+  "Guest": "札幌岡薩多",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-12 14:50",
+  "Person": "地狱黑仔王"
+}

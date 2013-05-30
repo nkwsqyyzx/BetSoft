@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英甲",
+  "Time1": "11-07 18:00",
+  "Host": "大宮松鼠",
+  "OddStake": "受平/半",
+  "Guest": "鹿島鹿角",
+  "Prefer": "大宮松鼠",
+  "Odds": 0.94,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "11-07 16:58",
+  "Person": "空山新雨"
+}

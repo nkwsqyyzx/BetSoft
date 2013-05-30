@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "日職乙",
+  "Time1": "10-14 18:00",
+  "Host": "FC岐阜",
+  "OddStake": "受平/半",
+  "Guest": "山形蒙迪奧",
+  "Prefer": "FC岐阜",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "10-14 09:35",
+  "Person": "lxf1234"
+}

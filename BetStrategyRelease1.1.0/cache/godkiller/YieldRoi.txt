@@ -1,0 +1,18 @@
+{
+  "Name": "godkiller",
+  "LastUpdateTime": "\/Date(1369882390206+0800)\/",
+  "Person": {
+    "TotalROI": -0.97,
+    "CurrentROI": -0.97,
+    "TotalYield": -0.323333353,
+    "CurrentYield": -0.323333353,
+    "Total": 3,
+    "Profit": -1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 2,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "godkiller"
+  }
+}

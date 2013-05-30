@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷乙",
+  "Time1": "02-23 03:00",
+  "Host": "SBV精英隊",
+  "OddStake": "3球",
+  "Guest": "多積治",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "02-22 12:20",
+  "Person": "wintion"
+}

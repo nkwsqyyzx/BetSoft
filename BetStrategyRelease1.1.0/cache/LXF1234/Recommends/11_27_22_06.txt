@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德甲",
+  "Time1": "11-28 03:00",
+  "Host": "漢諾威",
+  "OddStake": "半/一",
+  "Guest": "格拉特霍夫",
+  "Prefer": "格拉特霍夫",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "11-27 22:06",
+  "Person": "lxf1234"
+}

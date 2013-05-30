@@ -1,0 +1,18 @@
+{
+  "Name": "上下摆风",
+  "LastUpdateTime": "\/Date(1369882391714+0800)\/",
+  "Person": {
+    "TotalROI": 1.28,
+    "CurrentROI": 1.28,
+    "TotalYield": 0.64,
+    "CurrentYield": 0.64,
+    "Total": 2,
+    "Profit": 1.5,
+    "Win": 1,
+    "WinHalf": 1,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "上下摆风"
+  }
+}

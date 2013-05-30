@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡甲",
+  "Time1": "12-09 23:00",
+  "Host": "費雷姆德",
+  "OddStake": "受半球",
+  "Guest": "費倫斯",
+  "Prefer": "費倫斯",
+  "Odds": 1.05,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "12-09 22:20",
+  "Person": "Lk930"
+}

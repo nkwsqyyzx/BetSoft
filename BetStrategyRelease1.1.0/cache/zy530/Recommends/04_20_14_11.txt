@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英甲",
+  "Time1": "04-20 18:00",
+  "Host": "新瀉天鵝",
+  "OddStake": "受平/半",
+  "Guest": "橫濱水手",
+  "Prefer": "橫濱水手",
+  "Odds": 1.08,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-20 14:11",
+  "Person": "zy530"
+}

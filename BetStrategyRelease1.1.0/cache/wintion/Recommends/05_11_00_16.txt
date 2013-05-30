@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥超",
+  "Time1": "05-11 00:30",
+  "Host": "洛斯查蘭特",
+  "OddStake": "2.5/3球",
+  "Guest": "奧丹斯",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "05-11 00:16",
+  "Person": "wintion"
+}

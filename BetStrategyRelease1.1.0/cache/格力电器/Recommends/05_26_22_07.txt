@@ -7,8 +7,8 @@
   "Guest": "格拉納達",
   "Prefer": "華倫西亞",
   "Odds": 0.97,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "1-0",
+  "PreferResult": 1,
   "Time2": "05-26 22:07",
   "Person": "格力电器"
 }

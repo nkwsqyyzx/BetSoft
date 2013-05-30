@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "阿爾巴超",
+  "Time1": "11-14 21:00",
+  "Host": "庫克斯",
+  "OddStake": "2.5球",
+  "Guest": "貝薩",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "11-14 15:44",
+  "Person": "云里金刚虎"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "哈薩超",
+  "Time1": "05-30 22:00",
+  "Host": "阿卡托比",
+  "OddStake": "半/一",
+  "Guest": "伊特什",
+  "Prefer": "阿卡托比",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 16:14",
+  "Person": "空山新雨"
+}

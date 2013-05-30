@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英聯盃",
+  "Time1": "01-09 03:45",
+  "Host": "巴拉福特",
+  "OddStake": "受半球",
+  "Guest": "阿斯頓維拉",
+  "Prefer": "巴拉福特",
+  "Odds": 0.92,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-09 01:11",
+  "Person": "jack"
+}

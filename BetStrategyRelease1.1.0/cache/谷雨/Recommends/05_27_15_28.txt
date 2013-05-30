@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "南韓女聯",
+  "Time1": "05-27 18:00",
+  "Host": "釜山尚武女足",
+  "OddStake": "2.5/3球",
+  "Guest": "水原女足",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 15:28",
+  "Person": "谷雨"
+}

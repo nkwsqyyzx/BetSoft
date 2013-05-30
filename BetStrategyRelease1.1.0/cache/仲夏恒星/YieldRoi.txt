@@ -1,0 +1,18 @@
+{
+  "Name": "仲夏恒星",
+  "LastUpdateTime": "\/Date(1369882398997+0800)\/",
+  "Person": {
+    "TotalROI": 2.80000019,
+    "CurrentROI": 2.80000019,
+    "TotalYield": 0.700000048,
+    "CurrentYield": 0.700000048,
+    "Total": 4,
+    "Profit": 3.0,
+    "Win": 2,
+    "WinHalf": 2,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "仲夏恒星"
+  }
+}

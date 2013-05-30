@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西甲",
+  "Time1": "10-23 03:30",
+  "Host": "塞維利亞",
+  "OddStake": "2.5球",
+  "Guest": "馬略卡",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "10-22 18:53",
+  "Person": "爽爽"
+}

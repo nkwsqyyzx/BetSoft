@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-20 22:00",
+  "Host": "西漢姆聯",
+  "OddStake": "2.5球",
+  "Guest": "維岡競技",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-20 21:47",
+  "Person": "水龙头"
+}

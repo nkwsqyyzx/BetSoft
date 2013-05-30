@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳職聯",
+  "Time1": "02-07 16:00",
+  "Host": "中央海岸",
+  "OddStake": "一球/球半",
+  "Guest": "威寧頓復活",
+  "Prefer": "中央海岸",
+  "Odds": 0.96,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "02-07 12:54",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "沙王冠",
+  "Time1": "05-29 00:30",
+  "Host": "阿爾艾利吉達",
+  "OddStake": "2.5/3球",
+  "Guest": "阿爾菲斯",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-28 23:01",
+  "Person": "蓝天火"
+}

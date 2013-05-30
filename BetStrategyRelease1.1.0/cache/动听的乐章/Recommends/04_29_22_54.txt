@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "奧乙",
+  "Time1": "04-30 00:30",
+  "Host": "奧地利路斯登洛",
+  "OddStake": "2.5/3球",
+  "Guest": "霍恩",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-29 22:54",
+  "Person": "动听的乐章"
+}

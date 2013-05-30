@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日職聯",
+  "Time1": "05-29 18:30",
+  "Host": "浦和紅鑽",
+  "OddStake": "2.5/3球",
+  "Guest": "仙台维加泰",
+  "Prefer": "大球",
+  "Odds": 1.1,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 16:51",
+  "Person": "身不由己"
+}

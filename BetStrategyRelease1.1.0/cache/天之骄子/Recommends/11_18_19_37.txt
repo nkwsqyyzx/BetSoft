@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法甲",
+  "Time1": "11-18 21:00",
+  "Host": "里昂",
+  "OddStake": "一球/球半",
+  "Guest": "威姆斯",
+  "Prefer": "里昂",
+  "Odds": 0.95,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "11-18 19:37",
+  "Person": "天之骄子"
+}

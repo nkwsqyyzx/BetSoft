@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "土超",
+  "Time1": "11-20 08:30",
+  "Host": "河床",
+  "OddStake": "半/一",
+  "Guest": "小阿根廷人",
+  "Prefer": "小阿根廷人",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-20 06:16",
+  "Person": "中奖太简单啦"
+}

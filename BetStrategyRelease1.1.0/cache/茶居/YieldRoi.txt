@@ -1,0 +1,18 @@
+{
+  "Name": "茶居",
+  "LastUpdateTime": "\/Date(1369882414607+0800)\/",
+  "Person": {
+    "TotalROI": 1.02,
+    "CurrentROI": 1.02,
+    "TotalYield": 0.34,
+    "CurrentYield": 0.34,
+    "Total": 3,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "茶居"
+  }
+}

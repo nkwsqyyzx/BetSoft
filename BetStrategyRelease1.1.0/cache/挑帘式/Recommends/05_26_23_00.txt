@@ -7,8 +7,8 @@
   "Guest": "小保加",
   "Prefer": "小球",
   "Odds": 0.8,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "4-0",
+  "PreferResult": 1,
   "Time2": "05-26 23:00",
   "Person": "挑帘式"
 }

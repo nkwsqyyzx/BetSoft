@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-14 22:00",
+  "Host": "利尼史特朗",
+  "OddStake": "3球",
+  "Guest": "莫斯科中央陸軍",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "02-14 19:20",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "秘魯春",
+  "Time1": "05-27 04:45",
+  "Host": "帕斯菲科利馬(中)",
+  "OddStake": "平手",
+  "Guest": "阿里薩利馬",
+  "Prefer": "帕斯菲科利馬(中)",
+  "Odds": 1.07,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-27 03:23",
+  "Person": "香鸡脚"
+}

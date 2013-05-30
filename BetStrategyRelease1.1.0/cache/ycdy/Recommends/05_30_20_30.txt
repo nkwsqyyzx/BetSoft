@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "立陶甲",
+  "Time1": "05-30 23:00",
+  "Host": "戴拿瓦阿爾提斯",
+  "OddStake": "受球半",
+  "Guest": "阿蘭達斯",
+  "Prefer": "戴拿瓦阿爾提斯",
+  "Odds": 1.17,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 20:30",
+  "Person": "ycdy"
+}

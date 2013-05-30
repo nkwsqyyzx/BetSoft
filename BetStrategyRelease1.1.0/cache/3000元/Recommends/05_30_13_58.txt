@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西甲",
+  "Time1": "05-31 06:30",
+  "Host": "國際體育會(中)",
+  "OddStake": "2.5球",
+  "Guest": "基斯奧馬",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 13:58",
+  "Person": "3000元"
+}

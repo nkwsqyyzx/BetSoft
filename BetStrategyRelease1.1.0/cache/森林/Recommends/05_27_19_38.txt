@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "英冠",
+  "Time1": "05-27 22:00",
+  "Host": "水晶宮(中)",
+  "OddStake": "2.5球",
+  "Guest": "沃特福德",
+  "Prefer": "小球",
+  "Odds": 0.91,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-27 19:38",
+  "Person": "森林"
+}

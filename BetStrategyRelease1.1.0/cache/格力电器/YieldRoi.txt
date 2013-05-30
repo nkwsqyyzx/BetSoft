@@ -1,0 +1,18 @@
+{
+  "Name": "格力电器",
+  "LastUpdateTime": "\/Date(1369882407845+0800)\/",
+  "Person": {
+    "TotalROI": -3.19500017,
+    "CurrentROI": 2.90000033,
+    "TotalYield": -0.0443750024,
+    "CurrentYield": 0.181250021,
+    "Total": 72,
+    "Profit": 1.5,
+    "Win": 29,
+    "WinHalf": 7,
+    "Lose": 29,
+    "LoseHalf": 4,
+    "Draw": 1,
+    "Name": "格力电器"
+  }
+}

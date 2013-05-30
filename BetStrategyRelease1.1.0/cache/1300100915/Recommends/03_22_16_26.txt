@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "澳布超",
+  "Time1": "03-22 18:30",
+  "Host": "洛根利泰柠",
+  "OddStake": "受半/一",
+  "Guest": "卡帕拉巴",
+  "Prefer": "卡帕拉巴",
+  "Odds": 0.97,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "03-22 16:26",
+  "Person": "1300100915"
+}

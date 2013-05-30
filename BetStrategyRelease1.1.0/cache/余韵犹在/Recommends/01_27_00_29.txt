@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "",
+  "Time1": "01-27 01:00",
+  "Host": "梅西亞",
+  "OddStake": "平手",
+  "Guest": "希杭",
+  "Prefer": "希杭",
+  "Odds": 0.85,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "01-27 00:29",
+  "Person": "余韵犹在"
+}

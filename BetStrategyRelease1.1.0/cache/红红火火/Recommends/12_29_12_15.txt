@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英冠",
+  "Time1": "12-29 20:30",
+  "Host": "侯城",
+  "OddStake": "半球",
+  "Guest": "列斯聯",
+  "Prefer": "侯城",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "12-29 12:15",
+  "Person": "红红火火"
+}

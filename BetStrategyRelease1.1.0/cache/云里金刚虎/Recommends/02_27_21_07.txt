@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德國盃",
+  "Time1": "02-28 03:30",
+  "Host": "拜仁慕尼黑",
+  "OddStake": "半/一",
+  "Guest": "多特蒙德",
+  "Prefer": "拜仁慕尼黑",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "02-27 21:07",
+  "Person": "云里金刚虎"
+}

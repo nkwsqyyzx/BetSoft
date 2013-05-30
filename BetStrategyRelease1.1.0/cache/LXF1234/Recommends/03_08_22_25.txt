@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法乙",
+  "Time1": "03-09 03:00",
+  "Host": "歐塞爾",
+  "OddStake": "平/半",
+  "Guest": "勒哈費爾",
+  "Prefer": "歐塞爾",
+  "Odds": 0.92,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "03-08 22:25",
+  "Person": "lxf1234"
+}

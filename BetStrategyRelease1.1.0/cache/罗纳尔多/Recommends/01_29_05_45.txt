@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "阿乙曼特",
+  "Time1": "01-29 08:00",
+  "Host": "瑪倫",
+  "OddStake": "半/一",
+  "Guest": "聖太摩",
+  "Prefer": "瑪倫",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "01-29 05:45",
+  "Person": "罗纳尔多"
+}

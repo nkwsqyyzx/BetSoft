@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿聯酋超",
+  "Time1": "02-22 00:15",
+  "Host": "沙巴柏杜拜",
+  "OddStake": "受平/半",
+  "Guest": "阿爾艾利杜拜",
+  "Prefer": "阿爾艾利杜拜",
+  "Odds": 1.02,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-21 23:40",
+  "Person": "金牌出击"
+}

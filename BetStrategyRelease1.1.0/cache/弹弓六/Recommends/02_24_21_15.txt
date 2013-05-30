@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意甲",
+  "Time1": "02-24 22:00",
+  "Host": "祖雲達斯",
+  "OddStake": "球半/两球",
+  "Guest": "錫耶納",
+  "Prefer": "錫耶納",
+  "Odds": 1.05,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "02-24 21:15",
+  "Person": "弹弓六"
+}

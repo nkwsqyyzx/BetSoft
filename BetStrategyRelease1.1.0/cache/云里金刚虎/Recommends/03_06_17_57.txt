@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "約旦超",
+  "Time1": "03-06 20:00",
+  "Host": "雷斯",
+  "OddStake": "2.5球",
+  "Guest": "亞吉拉安曼",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-06 17:57",
+  "Person": "云里金刚虎"
+}

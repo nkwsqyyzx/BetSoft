@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "04-28 23:59",
+  "Host": "薩普斯堡08",
+  "OddStake": "半/一",
+  "Guest": "侯尼霍斯",
+  "Prefer": "侯尼霍斯",
+  "Odds": 0.84,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-28 22:17",
+  "Person": "金牌出击"
+}

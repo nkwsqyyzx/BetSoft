@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "芬聯盃",
+  "Time1": "02-05 22:30",
+  "Host": "韋斯屈萊",
+  "OddStake": "受平/半",
+  "Guest": "拉迪",
+  "Prefer": "韋斯屈萊",
+  "Odds": 0.87,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "02-05 21:19",
+  "Person": "小球下盘"
+}

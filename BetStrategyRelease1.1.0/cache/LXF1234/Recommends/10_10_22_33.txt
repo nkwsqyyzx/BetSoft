@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "巴西甲",
+  "Time1": "10-11 06:30",
+  "Host": "邦迪比達",
+  "OddStake": "半/一",
+  "Guest": "納帝科PE",
+  "Prefer": "邦迪比達",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "10-10 22:33",
+  "Person": "lxf1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "土倫盃",
+  "Time1": "05-30 23:30",
+  "Host": "哥倫比亞U21(中)",
+  "OddStake": "半球",
+  "Guest": "美國U21",
+  "Prefer": "哥倫比亞U21(中)",
+  "Odds": 0.88,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 20:52",
+  "Person": "红日"
+}

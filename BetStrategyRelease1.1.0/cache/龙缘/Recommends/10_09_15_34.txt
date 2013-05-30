@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "巴西乙",
+  "Time1": "10-10 08:00",
+  "Host": "巴路里",
+  "OddStake": "半球",
+  "Guest": "伊帕汀加",
+  "Prefer": "巴路里",
+  "Odds": 0.98,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "10-09 15:34",
+  "Person": "龙缘"
+}

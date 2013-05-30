@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥超",
+  "Time1": "05-12 20:00",
+  "Host": "米迪蘭特",
+  "OddStake": "2.5球",
+  "Guest": "蘭達斯",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-12 13:16",
+  "Person": "lanquan11"
+}

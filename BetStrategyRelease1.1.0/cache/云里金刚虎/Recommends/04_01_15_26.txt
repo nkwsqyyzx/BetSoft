@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英非北",
+  "Time1": "04-01 22:00",
+  "Host": "索利哈爾",
+  "OddStake": "2.5/3球",
+  "Guest": "古魯斯特城",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "04-01 15:26",
+  "Person": "云里金刚虎"
+}

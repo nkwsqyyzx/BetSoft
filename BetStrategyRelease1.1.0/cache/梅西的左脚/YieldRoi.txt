@@ -1,0 +1,18 @@
+{
+  "Name": "梅西的左脚",
+  "LastUpdateTime": "\/Date(1369882408712+0800)\/",
+  "Person": {
+    "TotalROI": -12.67,
+    "CurrentROI": -4.47000027,
+    "TotalYield": -0.08922535,
+    "CurrentYield": -0.406363666,
+    "Total": 142,
+    "Profit": -7.0,
+    "Win": 53,
+    "WinHalf": 6,
+    "Lose": 57,
+    "LoseHalf": 12,
+    "Draw": 13,
+    "Name": "梅西的左脚"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士超",
+  "Time1": "05-30 02:30",
+  "Host": "蘇黎世",
+  "OddStake": "半球",
+  "Guest": "杜安",
+  "Prefer": "蘇黎世",
+  "Odds": 0.84,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-29 21:51",
+  "Person": "金牌出击"
+}

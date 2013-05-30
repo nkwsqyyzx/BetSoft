@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法甲",
+  "Time1": "11-18 03:00",
+  "Host": "華倫西恩斯",
+  "OddStake": "2/2.5球",
+  "Guest": "蒙彼利埃",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "11-18 01:16",
+  "Person": "梅西的左脚"
+}

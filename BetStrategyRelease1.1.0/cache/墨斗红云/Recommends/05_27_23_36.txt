@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-28 01:00",
+  "Host": "阿西里斯卡",
+  "OddStake": "半/一",
+  "Guest": "蘭斯干拿",
+  "Prefer": "阿西里斯卡",
+  "Odds": 0.8,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "05-27 23:36",
+  "Person": "墨斗红云"
+}

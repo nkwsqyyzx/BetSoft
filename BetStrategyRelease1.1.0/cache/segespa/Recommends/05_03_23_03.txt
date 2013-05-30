@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "智利春",
+  "Time1": "05-04 08:00",
+  "Host": "希金斯",
+  "OddStake": "半球",
+  "Guest": "科布雷洛",
+  "Prefer": "希金斯",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-03 23:03",
+  "Person": "segespa"
+}

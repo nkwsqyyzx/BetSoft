@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 02:00",
+  "Host": "烏甸尼斯",
+  "OddStake": "2.5/3球",
+  "Guest": "年青人",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "11-09 00:29",
+  "Person": "无聊玩玩"
+}

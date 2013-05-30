@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德東北聯",
+  "Time1": "05-14 23:00",
+  "Host": "格賴夫",
+  "OddStake": "受半/一",
+  "Guest": "哈伯斯泰德",
+  "Prefer": "哈伯斯泰德",
+  "Odds": 1.09,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-14 21:22",
+  "Person": "爽爽"
+}

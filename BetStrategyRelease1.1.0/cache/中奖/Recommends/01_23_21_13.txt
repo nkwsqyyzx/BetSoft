@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "巴聖錦標",
+  "Time1": "01-24 03:00",
+  "Host": "哥連泰斯",
+  "OddStake": "半球",
+  "Guest": "邦迪比達",
+  "Prefer": "哥連泰斯",
+  "Odds": 0.97,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-23 21:13",
+  "Person": "中奖"
+}

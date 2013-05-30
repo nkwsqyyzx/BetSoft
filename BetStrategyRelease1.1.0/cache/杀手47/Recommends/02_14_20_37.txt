@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-15 02:00",
+  "Host": "基輔戴拿模",
+  "OddStake": "半球",
+  "Guest": "波爾多",
+  "Prefer": "基輔戴拿模",
+  "Odds": 1.05,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "02-14 20:37",
+  "Person": "杀手47"
+}

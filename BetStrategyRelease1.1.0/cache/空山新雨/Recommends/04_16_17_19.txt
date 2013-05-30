@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "馬足總",
+  "Time1": "04-16 20:15",
+  "Host": "砂勞越",
+  "OddStake": "受平/半",
+  "Guest": "吉蘭丹",
+  "Prefer": "砂勞越",
+  "Odds": 0.9,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "04-16 17:19",
+  "Person": "空山新雨"
+}

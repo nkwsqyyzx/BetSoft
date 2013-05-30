@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-30 01:00",
+  "Host": "馬模",
+  "OddStake": "平/半",
+  "Guest": "希爾星堡",
+  "Prefer": "希爾星堡",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-29 23:08",
+  "Person": "qqzy"
+}

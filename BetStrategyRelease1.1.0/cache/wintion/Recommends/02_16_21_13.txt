@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "蘇乙",
+  "Time1": "02-16 23:00",
+  "Host": "艾爾",
+  "OddStake": "3球",
+  "Guest": "艾比安流浪",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "5-2",
+  "PreferResult": 5,
+  "Time2": "02-16 21:13",
+  "Person": "wintion"
+}

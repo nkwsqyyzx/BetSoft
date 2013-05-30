@@ -7,8 +7,8 @@
   "Guest": "皇家馬德里",
   "Prefer": "大球",
   "Odds": 0.9,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "3-3",
+  "PreferResult": 5,
   "Time2": "05-26 23:23",
   "Person": "低调的人"
 }

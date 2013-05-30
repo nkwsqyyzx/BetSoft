@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "南球盃",
+  "Time1": "11-09 06:15",
+  "Host": "卡托利卡",
+  "OddStake": "半球",
+  "Guest": "獨立隊",
+  "Prefer": "獨立隊",
+  "Odds": 1.08,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-08 22:08",
+  "Person": "lk930"
+}

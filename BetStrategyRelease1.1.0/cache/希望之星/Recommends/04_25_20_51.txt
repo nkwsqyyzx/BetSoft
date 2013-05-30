@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "芬蘭盃",
+  "Time1": "04-25 23:00",
+  "Host": "古迪比(中)",
+  "OddStake": "2.5球",
+  "Guest": "洪卡",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-25 20:51",
+  "Person": "希望之星"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英非聯",
+  "Time1": "02-13 03:45",
+  "Host": "凱茲海得",
+  "OddStake": "2.5球",
+  "Guest": "京達米士特",
+  "Prefer": "小球",
+  "Odds": 0.821,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-12 22:13",
+  "Person": "红红火火"
+}

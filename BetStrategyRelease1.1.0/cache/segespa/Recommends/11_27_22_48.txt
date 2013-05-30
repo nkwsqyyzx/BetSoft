@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英冠",
+  "Time1": "11-28 03:45",
+  "Host": "侯城",
+  "OddStake": "平/半",
+  "Guest": "水晶宮",
+  "Prefer": "水晶宮",
+  "Odds": 1.0,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "11-27 22:48",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬蘭盃",
+  "Time1": "05-20 23:30",
+  "Host": "FC爵士",
+  "OddStake": "2.5球",
+  "Guest": "路雲尼米",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "05-20 20:33",
+  "Person": "红红火火"
+}

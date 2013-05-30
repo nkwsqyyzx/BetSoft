@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "里約錦標",
+  "Time1": "02-08 03:00",
+  "Host": "諾瓦艾夸古",
+  "OddStake": "平手",
+  "Guest": "柏維斯塔SC",
+  "Prefer": "柏維斯塔SC",
+  "Odds": 1.05,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "02-07 13:08",
+  "Person": "Lk930"
+}

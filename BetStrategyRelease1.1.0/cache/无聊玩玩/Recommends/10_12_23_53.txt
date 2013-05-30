@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐洲預選",
+  "Time1": "10-13 02:00",
+  "Host": "保加利亞",
+  "OddStake": "受平/半",
+  "Guest": "丹麥",
+  "Prefer": "丹麥",
+  "Odds": 1.1,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "10-12 23:53",
+  "Person": "无聊玩玩"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "量力而為",
+  "LastUpdateTime": "\/Date(1369882417513+0800)\/",
+  "Person": {
+    "TotalROI": -2.845,
+    "CurrentROI": -3.085,
+    "TotalYield": -0.158055559,
+    "CurrentYield": -0.205666676,
+    "Total": 18,
+    "Profit": -2.5,
+    "Win": 5,
+    "WinHalf": 2,
+    "Lose": 8,
+    "LoseHalf": 1,
+    "Draw": 0,
+    "Name": "量力而為"
+  }
+}

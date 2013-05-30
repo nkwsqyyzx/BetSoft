@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "以色列甲",
+  "Time1": "02-18 23:59",
+  "Host": "柏納洛德夏普爾",
+  "OddStake": "2/2.5球",
+  "Guest": "克拉瑪甘",
+  "Prefer": "大球",
+  "Odds": 1.02,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "02-18 19:15",
+  "Person": "足球擂台"
+}

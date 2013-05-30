@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "荷甲",
+  "Time1": "11-04 19:30",
+  "Host": "高寧根",
+  "OddStake": "半球",
+  "Guest": "NEC尼美根",
+  "Prefer": "NEC尼美根",
+  "Odds": 0.86,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "11-04 12:34",
+  "Person": "lxf1234"
+}

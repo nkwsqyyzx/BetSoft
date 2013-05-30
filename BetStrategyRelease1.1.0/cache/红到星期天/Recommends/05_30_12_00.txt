@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "自由盃",
+  "Time1": "05-31 09:00",
+  "Host": "米內羅競技",
+  "OddStake": "一球/球半",
+  "Guest": "提華納",
+  "Prefer": "提華納",
+  "Odds": 0.86,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 12:00",
+  "Person": "红到星期天"
+}

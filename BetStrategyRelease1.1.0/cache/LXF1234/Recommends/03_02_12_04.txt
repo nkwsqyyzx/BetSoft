@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英甲",
+  "Time1": "03-02 13:00",
+  "Host": "大阪櫻花",
+  "OddStake": "平/半",
+  "Guest": "新瀉天鵝",
+  "Prefer": "新瀉天鵝",
+  "Odds": 1.01,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-02 12:04",
+  "Person": "lxf1234"
+}

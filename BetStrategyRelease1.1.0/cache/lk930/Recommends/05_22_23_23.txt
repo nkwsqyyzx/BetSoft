@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "塞浦盃",
+  "Time1": "05-22 23:59",
+  "Host": "AEL利馬斯素爾",
+  "OddStake": "平/半",
+  "Guest": "阿波羅利馬斯索爾",
+  "Prefer": "阿波羅利馬斯索爾",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "05-22 23:23",
+  "Person": "Lk930"
+}

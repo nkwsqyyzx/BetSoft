@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "北愛聯盃",
+  "Time1": "10-10 02:45",
+  "Host": "高利寧",
+  "OddStake": "2.5/3球",
+  "Guest": "連菲特",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "10-09 21:19",
+  "Person": "红红火火"
+}

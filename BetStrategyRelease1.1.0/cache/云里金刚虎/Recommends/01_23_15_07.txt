@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡甲",
+  "Time1": "01-24 04:00",
+  "Host": "費倫斯",
+  "OddStake": "2/2.5球",
+  "Guest": "雷克斯歐斯",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "01-23 15:07",
+  "Person": "云里金刚虎"
+}

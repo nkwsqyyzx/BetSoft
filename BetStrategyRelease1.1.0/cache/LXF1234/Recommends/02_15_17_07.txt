@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英甲",
+  "Time1": "02-16 03:45",
+  "Host": "特蘭米爾",
+  "OddStake": "半球",
+  "Guest": "梳士貝利",
+  "Prefer": "特蘭米爾",
+  "Odds": 0.86,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "02-15 17:07",
+  "Person": "lxf1234"
+}

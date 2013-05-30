@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "印度甲",
+  "Time1": "04-17 21:00",
+  "Host": "巴得斯尤",
+  "OddStake": "半/一",
+  "Guest": "甸普",
+  "Prefer": "巴得斯尤",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "04-17 20:37",
+  "Person": "zy530"
+}

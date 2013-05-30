@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-28 01:00",
+  "Host": "盧恩斯基爾",
+  "OddStake": "2.5/3球",
+  "Guest": "華保斯",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-28 00:22",
+  "Person": "民哥也疯狂"
+}

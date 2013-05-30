@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西丁",
+  "Time1": "01-07 23:30",
+  "Host": "希奥林",
+  "OddStake": "2.5球",
+  "Guest": "托萊多",
+  "Prefer": "大球",
+  "Odds": 0.91,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "01-07 21:48",
+  "Person": "中奖"
+}

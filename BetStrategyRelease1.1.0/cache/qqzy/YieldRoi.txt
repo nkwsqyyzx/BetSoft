@@ -1,0 +1,18 @@
+{
+  "Name": "qqzy",
+  "LastUpdateTime": "\/Date(1369882390767+0800)\/",
+  "Person": {
+    "TotalROI": -28.4320145,
+    "CurrentROI": -5.98499966,
+    "TotalYield": -0.1553662,
+    "CurrentYield": -0.374062479,
+    "Total": 183,
+    "Profit": -19.0,
+    "Win": 49,
+    "WinHalf": 42,
+    "Lose": 89,
+    "LoseHalf": 0,
+    "Draw": 2,
+    "Name": "qqzy"
+  }
+}

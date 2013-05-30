@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英超",
+  "Time1": "10-28 23:59",
+  "Host": "切爾西",
+  "OddStake": "平/半",
+  "Guest": "曼聯",
+  "Prefer": "曼聯",
+  "Odds": 0.84,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "10-28 22:54",
+  "Person": "segespa"
+}

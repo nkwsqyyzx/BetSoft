@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "俄超",
+  "Time1": "05-30 22:30",
+  "Host": "蘇維杜夫",
+  "OddStake": "一球",
+  "Guest": "納爾奇克斯巴達",
+  "Prefer": "納爾奇克斯巴達",
+  "Odds": 1.01,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 20:53",
+  "Person": "lk930"
+}

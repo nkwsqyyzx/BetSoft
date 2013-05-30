@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英非北",
+  "Time1": "02-23 23:00",
+  "Host": "車士打足球俱樂部",
+  "OddStake": "3.5球",
+  "Guest": "沃克斯豪爾",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-23 17:25",
+  "Person": "wintion"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "美職業",
+  "Time1": "03-11 10:00",
+  "Host": "聖荷西地震",
+  "OddStake": "半球",
+  "Guest": "紐約紅牛",
+  "Prefer": "紐約紅牛",
+  "Odds": 0.84,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-10 22:37",
+  "Person": "红红火火"
+}

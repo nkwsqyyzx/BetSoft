@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "荷甲",
+  "Time1": "11-11 01:45",
+  "Host": "RKC華域克",
+  "OddStake": "2.5球",
+  "Guest": "烏德勒支",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "11-11 00:20",
+  "Person": "Lk930"
+}

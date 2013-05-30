@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法U19B",
+  "Time1": "01-28 02:00",
+  "Host": "托拉卡",
+  "OddStake": "2.5球",
+  "Guest": "普馬斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "01-27 21:16",
+  "Person": "云里金刚虎"
+}

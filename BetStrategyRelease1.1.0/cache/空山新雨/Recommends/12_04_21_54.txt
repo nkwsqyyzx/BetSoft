@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "12-05 03:45",
+  "Host": "巴黎聖日門",
+  "OddStake": "2.5球",
+  "Guest": "波圖",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "12-04 21:54",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德甲",
+  "Time1": "04-14 21:30",
+  "Host": "斯圖加特",
+  "OddStake": "平/半",
+  "Guest": "門興格拉德巴赫",
+  "Prefer": "門興格拉德巴赫",
+  "Odds": 0.89,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-14 21:08",
+  "Person": "qqzy"
+}

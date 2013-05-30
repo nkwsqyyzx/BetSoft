@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意甲",
+  "Time1": "03-18 03:45",
+  "Host": "羅馬",
+  "OddStake": "一球",
+  "Guest": "帕爾馬",
+  "Prefer": "帕爾馬",
+  "Odds": 0.99,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "03-18 00:50",
+  "Person": "罗纳尔多"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英冠",
+  "Time1": "10-24 02:45",
+  "Host": "卡迪夫城",
+  "OddStake": "半/一",
+  "Guest": "沃特福德",
+  "Prefer": "卡迪夫城",
+  "Odds": 0.87,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "10-23 21:22",
+  "Person": "qqzy"
+}

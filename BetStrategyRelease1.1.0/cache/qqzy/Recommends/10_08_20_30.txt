@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "芬超",
+  "Time1": "10-08 23:30",
+  "Host": "英特杜古",
+  "OddStake": "半/一",
+  "Guest": "馬利漢姆",
+  "Prefer": "英特杜古",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "10-08 20:30",
+  "Person": "qqzy"
+}

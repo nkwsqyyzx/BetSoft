@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "玻利甲",
+  "Time1": "11-09 03:30",
+  "Host": "聖喬希奧魯羅",
+  "OddStake": "2.5/3球",
+  "Guest": "史莊格斯特",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "11-09 00:40",
+  "Person": "zy530"
+}

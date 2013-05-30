@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪女超",
+  "Time1": "05-20 22:00",
+  "Host": "巴素利(中)",
+  "OddStake": "半/一",
+  "Guest": "草蜢",
+  "Prefer": "巴素利(中)",
+  "Odds": 0.93,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-20 21:06",
+  "Person": "水龙头"
+}

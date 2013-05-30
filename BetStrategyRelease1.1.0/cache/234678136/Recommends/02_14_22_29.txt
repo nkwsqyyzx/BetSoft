@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-14 23:59",
+  "Host": "盧多格瑞特拉茲格勒(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "歷基亞",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-14 22:29",
+  "Person": "234678136"
+}

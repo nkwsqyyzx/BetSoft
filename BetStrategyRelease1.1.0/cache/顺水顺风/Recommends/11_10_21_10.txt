@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-10 23:00",
+  "Host": "愛華頓",
+  "OddStake": "2.5球",
+  "Guest": "桑德蘭",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-10 21:10",
+  "Person": "顺水顺风"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐冠盃",
+  "Time1": "12-06 03:45",
+  "Host": "曼聯",
+  "OddStake": "半/一",
+  "Guest": "克盧日",
+  "Prefer": "克盧日",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-05 17:39",
+  "Person": "小李飞刀"
+}

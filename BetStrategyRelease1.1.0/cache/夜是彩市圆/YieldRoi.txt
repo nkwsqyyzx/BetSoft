@@ -1,0 +1,18 @@
+{
+  "Name": "夜是彩市圆",
+  "LastUpdateTime": "\/Date(1369882404185+0800)\/",
+  "Person": {
+    "TotalROI": 3.71,
+    "CurrentROI": 2.63,
+    "TotalYield": 0.0562121235,
+    "CurrentYield": 0.164375,
+    "Total": 66,
+    "Profit": 5.0,
+    "Win": 29,
+    "WinHalf": 5,
+    "Lose": 23,
+    "LoseHalf": 7,
+    "Draw": 1,
+    "Name": "夜是彩市圆"
+  }
+}

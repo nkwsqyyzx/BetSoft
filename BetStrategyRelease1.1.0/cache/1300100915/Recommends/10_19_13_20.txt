@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "德南聯",
+  "Time1": "10-20 01:00",
+  "Host": "特里爾",
+  "OddStake": "2.5/3球",
+  "Guest": "凱沙羅頓青年隊",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "10-19 13:20",
+  "Person": "1300100915"
+}

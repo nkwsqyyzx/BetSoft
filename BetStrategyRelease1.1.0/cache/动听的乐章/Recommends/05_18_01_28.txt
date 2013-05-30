@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士超",
+  "Time1": "05-18 02:30",
+  "Host": "杜安",
+  "OddStake": "2/2.5球",
+  "Guest": "聖加倫",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-18 01:28",
+  "Person": "动听的乐章"
+}

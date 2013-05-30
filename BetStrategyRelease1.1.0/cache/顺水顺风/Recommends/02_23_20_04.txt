@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "伊朗超",
+  "Time1": "02-23 20:30",
+  "Host": "德黑蘭",
+  "OddStake": "2/2.5球",
+  "Guest": "高赫紮格魯",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "02-23 20:04",
+  "Person": "顺水顺风"
+}

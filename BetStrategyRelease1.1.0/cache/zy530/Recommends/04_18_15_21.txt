@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典超",
+  "Time1": "04-19 01:00",
+  "Host": "米亞爾比",
+  "OddStake": "2/2.5球",
+  "Guest": "加費萊",
+  "Prefer": "大球",
+  "Odds": 1.09,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-18 15:21",
+  "Person": "zy530"
+}

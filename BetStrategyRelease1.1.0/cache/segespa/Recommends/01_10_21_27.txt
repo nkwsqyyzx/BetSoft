@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-11 01:00",
+  "Host": "加納(中)",
+  "OddStake": "平/半",
+  "Guest": "埃及",
+  "Prefer": "埃及",
+  "Odds": 0.85,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "01-10 21:27",
+  "Person": "segespa"
+}

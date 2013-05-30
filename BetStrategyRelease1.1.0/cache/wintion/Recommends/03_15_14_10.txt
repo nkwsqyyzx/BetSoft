@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "澳職聯",
+  "Time1": "03-15 16:30",
+  "Host": "阿德萊得聯",
+  "OddStake": "半球",
+  "Guest": "紐卡斯托",
+  "Prefer": "紐卡斯托",
+  "Odds": 0.93,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "03-15 14:10",
+  "Person": "wintion"
+}

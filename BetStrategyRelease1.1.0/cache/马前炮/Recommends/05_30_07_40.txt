@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-30 08:00",
+  "Host": "美國",
+  "OddStake": "受平/半",
+  "Guest": "比利時",
+  "Prefer": "比利時",
+  "Odds": 0.92,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "05-30 07:40",
+  "Person": "马前炮"
+}

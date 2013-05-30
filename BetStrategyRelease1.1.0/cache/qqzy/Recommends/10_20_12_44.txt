@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英甲",
+  "Time1": "10-20 14:00",
+  "Host": "清水心跳",
+  "OddStake": "半球",
+  "Guest": "神戶勝利船",
+  "Prefer": "清水心跳",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "10-20 12:44",
+  "Person": "qqzy"
+}

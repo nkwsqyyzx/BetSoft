@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "阿美超",
+  "Time1": "05-03 23:00",
+  "Host": "佩歷克",
+  "OddStake": "2.5球",
+  "Guest": "舒拉克",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-03 20:11",
+  "Person": "小球下盘"
+}

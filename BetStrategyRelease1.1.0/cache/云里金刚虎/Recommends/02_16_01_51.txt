@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-16 03:45",
+  "Host": "科布漫步者隊",
+  "OddStake": "2.5/3球",
+  "Guest": "科克城",
+  "Prefer": "小球",
+  "Odds": 1.0,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-16 01:51",
+  "Person": "云里金刚虎"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "匈盃",
+  "Time1": "04-16 23:59",
+  "Host": "華薩斯",
+  "OddStake": "2.5/3球",
+  "Guest": "迪比辛尼",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "0-3",
+  "PreferResult": 4,
+  "Time2": "04-16 18:08",
+  "Person": "zy530"
+}

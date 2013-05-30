@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德乙",
+  "Time1": "12-15 01:00",
+  "Host": "凱沙羅頓",
+  "OddStake": "2.5球",
+  "Guest": "VFR亞倫",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-14 19:45",
+  "Person": "小球下盘"
+}

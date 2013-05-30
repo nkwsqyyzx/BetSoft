@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-10 23:00",
+  "Host": "多特蒙德(中)",
+  "OddStake": "两球",
+  "Guest": "梅赫倫",
+  "Prefer": "多特蒙德(中)",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-10 20:07",
+  "Person": "罗纳尔多"
+}

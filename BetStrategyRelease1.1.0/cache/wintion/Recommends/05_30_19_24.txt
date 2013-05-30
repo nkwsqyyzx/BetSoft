@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴林超",
+  "Time1": "05-30 23:59",
+  "Host": "巴林隊",
+  "OddStake": "3球",
+  "Guest": "哈拉",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 19:24",
+  "Person": "wintion"
+}

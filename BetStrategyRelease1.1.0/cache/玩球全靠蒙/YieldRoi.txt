@@ -1,0 +1,18 @@
+{
+  "Name": "玩球全靠蒙",
+  "LastUpdateTime": "\/Date(1369882410905+0800)\/",
+  "Person": {
+    "TotalROI": 4.73,
+    "CurrentROI": 4.73,
+    "TotalYield": 0.394166678,
+    "CurrentYield": 0.394166678,
+    "Total": 12,
+    "Profit": 5.5,
+    "Win": 7,
+    "WinHalf": 2,
+    "Lose": 2,
+    "LoseHalf": 1,
+    "Draw": 0,
+    "Name": "玩球全靠蒙"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "澳威超",
+  "Time1": "03-30 16:00",
+  "Host": "保尼白鷹",
+  "OddStake": "球半",
+  "Guest": "中央海岸學院",
+  "Prefer": "保尼白鷹",
+  "Odds": 0.89,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "03-30 15:01",
+  "Person": "红红火火"
+}

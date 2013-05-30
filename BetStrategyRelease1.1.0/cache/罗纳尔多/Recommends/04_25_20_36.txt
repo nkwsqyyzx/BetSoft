@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "捷U21",
+  "Time1": "04-25 23:00",
+  "Host": "塔比歷斯U21",
+  "OddStake": "受一球",
+  "Guest": "布拉格斯拉維亞U21",
+  "Prefer": "布拉格斯拉維亞U21",
+  "Odds": 1.03,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "04-25 20:36",
+  "Person": "罗纳尔多"
+}

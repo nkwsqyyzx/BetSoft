@@ -7,8 +7,8 @@
   "Guest": "雷恩",
   "Prefer": "里昂",
   "Odds": 1.08,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "2-0",
+  "PreferResult": 5,
   "Time2": "05-26 21:53",
   "Person": "默默非金"
 }

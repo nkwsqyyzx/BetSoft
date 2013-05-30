@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英乙",
+  "Time1": "05-03 02:45",
+  "Host": "諾咸頓",
+  "OddStake": "平/半",
+  "Guest": "車頓咸",
+  "Prefer": "車頓咸",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-02 21:42",
+  "Person": "segespa"
+}

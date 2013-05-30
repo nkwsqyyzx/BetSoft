@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德乙",
+  "Time1": "05-28 02:30",
+  "Host": "凱沙羅頓",
+  "OddStake": "平手",
+  "Guest": "賀芬咸",
+  "Prefer": "賀芬咸",
+  "Odds": 1.03,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-27 23:54",
+  "Person": "godkiller"
+}

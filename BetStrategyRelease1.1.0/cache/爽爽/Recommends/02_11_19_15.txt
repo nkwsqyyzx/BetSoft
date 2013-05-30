@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-11 21:00",
+  "Host": "挪威U18(中)",
+  "OddStake": "平/半",
+  "Guest": "匈牙利U18",
+  "Prefer": "匈牙利U18",
+  "Odds": 0.93,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "02-11 19:15",
+  "Person": "爽爽"
+}

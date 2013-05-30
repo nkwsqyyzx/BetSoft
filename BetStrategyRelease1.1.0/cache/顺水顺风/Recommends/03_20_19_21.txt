@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "沙地甲",
+  "Time1": "03-20 20:45",
+  "Host": "那達赫達曼",
+  "OddStake": "2.5球",
+  "Guest": "亞哈",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "5-0",
+  "PreferResult": 1,
+  "Time2": "03-20 19:21",
+  "Person": "顺水顺风"
+}

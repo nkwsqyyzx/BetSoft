@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "北美預選",
+  "Time1": "03-23 10:10",
+  "Host": "美國",
+  "OddStake": "2.5球",
+  "Guest": "哥斯達黎加",
+  "Prefer": "小球",
+  "Odds": 0.97,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-23 07:49",
+  "Person": "梅西的左脚"
+}

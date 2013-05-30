@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡超",
+  "Time1": "02-03 23:59",
+  "Host": "國民隊",
+  "OddStake": "一球",
+  "Guest": "摩里倫斯",
+  "Prefer": "國民隊",
+  "Odds": 0.95,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "02-03 23:43",
+  "Person": "中奖太简单啦"
+}

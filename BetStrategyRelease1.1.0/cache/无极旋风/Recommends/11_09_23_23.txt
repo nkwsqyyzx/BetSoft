@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "蘇甲",
+  "Time1": "11-10 04:00",
+  "Host": "貝爾格拉諾",
+  "OddStake": "2/2.5球",
+  "Guest": "小阿根廷人",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-09 23:23",
+  "Person": "无极旋风"
+}

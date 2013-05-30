@@ -1,0 +1,18 @@
+{
+  "Name": "赢球偷着乐",
+  "LastUpdateTime": "\/Date(1369882415509+0800)\/",
+  "Person": {
+    "TotalROI": -3.309999,
+    "CurrentROI": 3.05000043,
+    "TotalYield": -0.0447297171,
+    "CurrentYield": 0.217857167,
+    "Total": 74,
+    "Profit": 0.5,
+    "Win": 23,
+    "WinHalf": 16,
+    "Lose": 30,
+    "LoseHalf": 1,
+    "Draw": 2,
+    "Name": "赢球偷着乐"
+  }
+}

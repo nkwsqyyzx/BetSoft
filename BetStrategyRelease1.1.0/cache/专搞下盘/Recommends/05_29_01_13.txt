@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-29 08:00",
+  "Host": "加拿大",
+  "OddStake": "平手",
+  "Guest": "哥斯達黎加",
+  "Prefer": "哥斯達黎加",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-29 01:13",
+  "Person": "专搞下盘"
+}

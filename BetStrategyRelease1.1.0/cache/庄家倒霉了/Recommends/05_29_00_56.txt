@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞青甲南",
+  "Time1": "05-29 01:20",
+  "Host": "霖寇平女足",
+  "OddStake": "3球",
+  "Guest": "LdB馬模女足",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "05-29 00:56",
+  "Person": "庄家倒霉了"
+}

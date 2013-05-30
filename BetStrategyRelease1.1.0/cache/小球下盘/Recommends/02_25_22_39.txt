@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英超",
+  "Time1": "02-26 04:00",
+  "Host": "西漢姆",
+  "OddStake": "受平/半",
+  "Guest": "托特納姆熱刺",
+  "Prefer": "西漢姆",
+  "Odds": 0.94,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "02-25 22:39",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威盃",
+  "Time1": "05-30 23:59",
+  "Host": "史達比克",
+  "OddStake": "平/半",
+  "Guest": "費德列斯達",
+  "Prefer": "史達比克",
+  "Odds": 0.98,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 20:59",
+  "Person": "super"
+}

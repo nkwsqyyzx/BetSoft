@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-28 01:00",
+  "Host": "盧恩斯基爾",
+  "OddStake": "半球",
+  "Guest": "華保斯",
+  "Prefer": "盧恩斯基爾",
+  "Odds": 0.93,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-27 23:50",
+  "Person": "歡樂今宵"
+}

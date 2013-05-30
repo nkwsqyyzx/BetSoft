@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土超",
+  "Time1": "12-22 02:00",
+  "Host": "比錫達斯",
+  "OddStake": "半/一",
+  "Guest": "基錫里士邦",
+  "Prefer": "比錫達斯",
+  "Odds": 0.9,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-21 21:57",
+  "Person": "杀手47"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "矿工",
+  "LastUpdateTime": "\/Date(1369882411046+0800)\/",
+  "Person": {
+    "TotalROI": -3.0,
+    "CurrentROI": -3.0,
+    "TotalYield": -0.75,
+    "CurrentYield": -0.75,
+    "Total": 4,
+    "Profit": -3.0,
+    "Win": 0,
+    "WinHalf": 0,
+    "Lose": 3,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "矿工"
+  }
+}

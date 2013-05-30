@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意丙A",
+  "Time1": "11-25 21:30",
+  "Host": "巴維亞",
+  "OddStake": "2/2.5球",
+  "Guest": "特拉帕尼",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "11-25 20:07",
+  "Person": "足球擂台"
+}

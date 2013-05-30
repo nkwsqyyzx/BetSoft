@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-30 03:00",
+  "Host": "阿斯頓維拉",
+  "OddStake": "2.5球",
+  "Guest": "桑德蘭",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "6-1",
+  "PreferResult": 1,
+  "Time2": "04-29 15:55",
+  "Person": "小球下盘"
+}

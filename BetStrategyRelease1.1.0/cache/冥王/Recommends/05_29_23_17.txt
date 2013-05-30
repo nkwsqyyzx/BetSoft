@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-30 03:30",
+  "Host": "巴塞羅那(中)",
+  "OddStake": "3球",
+  "Guest": "愛斯賓奴",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-29 23:17",
+  "Person": "冥王"
+}

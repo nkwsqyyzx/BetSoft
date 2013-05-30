@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "海灣錦标",
+  "Time1": "05-17 23:59",
+  "Host": "科赫",
+  "OddStake": "2.5球",
+  "Guest": "般尼亞斯",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-17 21:29",
+  "Person": "红红火火"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "05-11 02:45",
+  "Host": "水晶宮",
+  "OddStake": "2/2.5球",
+  "Guest": "白禮頓",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-11 02:21",
+  "Person": "空中飞人"
+}

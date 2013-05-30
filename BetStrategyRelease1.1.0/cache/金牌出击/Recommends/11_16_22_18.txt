@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "克亞甲",
+  "Time1": "11-16 23:00",
+  "Host": "國際薩佩斯克",
+  "OddStake": "平/半",
+  "Guest": "艾斯特拉",
+  "Prefer": "國際薩佩斯克",
+  "Odds": 1.07,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-16 22:18",
+  "Person": "金牌出击"
+}

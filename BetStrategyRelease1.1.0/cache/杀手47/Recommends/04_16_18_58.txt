@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "愛超",
+  "Time1": "04-17 02:45",
+  "Host": "立麥立克",
+  "OddStake": "半球",
+  "Guest": "布咸美恩斯",
+  "Prefer": "立麥立克",
+  "Odds": 0.92,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-16 18:58",
+  "Person": "杀手47"
+}

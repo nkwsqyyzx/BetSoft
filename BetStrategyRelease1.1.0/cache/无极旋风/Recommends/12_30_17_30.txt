@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡甲",
+  "Time1": "12-30 23:00",
+  "Host": "雷克斯歐斯",
+  "OddStake": "2/2.5球",
+  "Guest": "奧利維倫斯",
+  "Prefer": "大球",
+  "Odds": 1.03,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "12-30 17:30",
+  "Person": "无极旋风"
+}

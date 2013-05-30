@@ -1,0 +1,18 @@
+{
+  "Name": "lzzw0076",
+  "LastUpdateTime": "\/Date(1369882390696+0800)\/",
+  "Person": {
+    "TotalROI": 1.05,
+    "CurrentROI": 1.05,
+    "TotalYield": 0.525,
+    "CurrentYield": 0.525,
+    "Total": 2,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "lzzw0076"
+  }
+}

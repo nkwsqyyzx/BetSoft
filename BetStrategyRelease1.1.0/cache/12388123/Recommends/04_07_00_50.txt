@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "智利春",
+  "Time1": "04-07 02:30",
+  "Host": "聖地牙哥漫游者",
+  "OddStake": "2.5/3球",
+  "Guest": "聖馬洛科斯",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-07 00:50",
+  "Person": "12388123"
+}

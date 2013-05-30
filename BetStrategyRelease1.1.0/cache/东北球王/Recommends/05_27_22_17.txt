@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "埃及甲",
+  "Time1": "05-28 00:30",
+  "Host": "艾德瀚德",
+  "OddStake": "受一球",
+  "Guest": "紮馬雷克",
+  "Prefer": "艾德瀚德",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-27 22:17",
+  "Person": "东北球王"
+}

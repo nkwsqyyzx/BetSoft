@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "澳職聯",
+  "Time1": "10-19 16:30",
+  "Host": "墨爾本勝利",
+  "OddStake": "平手",
+  "Guest": "阿德萊得聯",
+  "Prefer": "阿德萊得聯",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-19 12:07",
+  "Person": "金牌出击"
+}

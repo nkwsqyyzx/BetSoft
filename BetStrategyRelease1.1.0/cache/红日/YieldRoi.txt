@@ -1,0 +1,18 @@
+{
+  "Name": "红日",
+  "LastUpdateTime": "\/Date(1369882412912+0800)\/",
+  "Person": {
+    "TotalROI": -22.81,
+    "CurrentROI": -5.93,
+    "TotalYield": -0.223627448,
+    "CurrentYield": -0.45615384,
+    "Total": 102,
+    "Profit": -18.0,
+    "Win": 40,
+    "WinHalf": 1,
+    "Lose": 57,
+    "LoseHalf": 3,
+    "Draw": 0,
+    "Name": "红日"
+  }
+}

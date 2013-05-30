@@ -1,0 +1,18 @@
+{
+  "Name": "12388123",
+  "LastUpdateTime": "\/Date(1369882389256+0800)\/",
+  "Person": {
+    "TotalROI": -7.025002,
+    "CurrentROI": -4.545,
+    "TotalYield": -0.115163967,
+    "CurrentYield": -0.2840625,
+    "Total": 61,
+    "Profit": -4.5,
+    "Win": 19,
+    "WinHalf": 9,
+    "Lose": 28,
+    "LoseHalf": 0,
+    "Draw": 3,
+    "Name": "12388123"
+  }
+}

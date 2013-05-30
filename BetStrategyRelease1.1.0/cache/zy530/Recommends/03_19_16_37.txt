@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "亞挑盃",
+  "Time1": "03-19 18:00",
+  "Host": "吉爾吉斯斯坦",
+  "OddStake": "1.5/2球",
+  "Guest": "巴基斯坦",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-19 16:37",
+  "Person": "zy530"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "爷有旺仔",
+  "LastUpdateTime": "\/Date(1369882410069+0800)\/",
+  "Person": {
+    "TotalROI": -1.79000032,
+    "CurrentROI": 7.28,
+    "TotalYield": -0.0142063517,
+    "CurrentYield": 0.520000041,
+    "Total": 126,
+    "Profit": 3.5,
+    "Win": 50,
+    "WinHalf": 14,
+    "Lose": 51,
+    "LoseHalf": 5,
+    "Draw": 5,
+    "Name": "爷有旺仔"
+  }
+}

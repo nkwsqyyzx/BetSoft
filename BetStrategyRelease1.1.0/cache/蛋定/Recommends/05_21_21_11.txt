@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-21 22:00",
+  "Host": "賓約哥",
+  "OddStake": "半/一",
+  "Guest": "布襦姆聯",
+  "Prefer": "布襦姆聯",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-21 21:11",
+  "Person": "蛋定"
+}

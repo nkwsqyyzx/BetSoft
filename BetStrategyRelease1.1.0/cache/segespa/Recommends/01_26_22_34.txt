@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英非南",
+  "Time1": "01-26 23:00",
+  "Host": "斯塔尼斯",
+  "OddStake": "2.5/3球",
+  "Guest": "東伯恩",
+  "Prefer": "大球",
+  "Odds": 1.02,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "01-26 22:34",
+  "Person": "segespa"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "罗纳尔多",
+  "LastUpdateTime": "\/Date(1369882414483+0800)\/",
+  "Person": {
+    "TotalROI": -9.935002,
+    "CurrentROI": -4.89000034,
+    "TotalYield": -0.09836636,
+    "CurrentYield": -0.305625021,
+    "Total": 101,
+    "Profit": -7.5,
+    "Win": 41,
+    "WinHalf": 1,
+    "Lose": 45,
+    "LoseHalf": 8,
+    "Draw": 4,
+    "Name": "罗纳尔多"
+  }
+}

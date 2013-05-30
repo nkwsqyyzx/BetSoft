@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄盃",
+  "Time1": "10-30 21:00",
+  "Host": "摩爾多維亞",
+  "OddStake": "受一球/球半",
+  "Guest": "聖彼德斯堡澤尼特",
+  "Prefer": "摩爾多維亞",
+  "Odds": 0.9,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "10-30 15:59",
+  "Person": "足球擂台"
+}

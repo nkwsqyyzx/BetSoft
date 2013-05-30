@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "羅甲",
+  "Time1": "03-18 02:00",
+  "Host": "布格勒斯特星隊",
+  "OddStake": "2.5球",
+  "Guest": "瓦斯路易",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "03-18 00:00",
+  "Person": "梅西的左脚"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "荷乙",
+  "Time1": "10-23 02:00",
+  "Host": "鹿特丹斯巴達",
+  "OddStake": "半球",
+  "Guest": "華倫丹",
+  "Prefer": "鹿特丹斯巴達",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "10-22 22:09",
+  "Person": "lxf1234"
+}

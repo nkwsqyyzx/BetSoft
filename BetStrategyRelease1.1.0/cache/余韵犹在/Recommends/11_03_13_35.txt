@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "",
+  "Time1": "11-03 14:00",
+  "Host": "蔚山現代",
+  "OddStake": "2.5球",
+  "Guest": "浦項制鐵",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "11-03 13:35",
+  "Person": "余韵犹在"
+}

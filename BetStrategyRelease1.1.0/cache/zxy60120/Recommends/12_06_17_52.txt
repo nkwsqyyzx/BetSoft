@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐霸盃",
+  "Time1": "12-07 04:05",
+  "Host": "維也納迅速",
+  "OddStake": "受半球",
+  "Guest": "米塔利斯",
+  "Prefer": "維也納迅速",
+  "Odds": 0.99,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "12-06 17:52",
+  "Person": "zxy60120"
+}

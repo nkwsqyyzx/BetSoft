@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐洲預選",
+  "Time1": "10-12 23:00",
+  "Host": "俄羅斯",
+  "OddStake": "平手",
+  "Guest": "葡萄牙",
+  "Prefer": "俄羅斯",
+  "Odds": 0.99,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "10-12 16:43",
+  "Person": "1300100915"
+}

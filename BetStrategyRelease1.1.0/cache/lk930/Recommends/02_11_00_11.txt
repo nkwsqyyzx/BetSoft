@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意甲",
+  "Time1": "02-11 03:45",
+  "Host": "國際米蘭",
+  "OddStake": "半/一",
+  "Guest": "切沃",
+  "Prefer": "切沃",
+  "Odds": 1.09,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "02-11 00:11",
+  "Person": "Lk930"
+}

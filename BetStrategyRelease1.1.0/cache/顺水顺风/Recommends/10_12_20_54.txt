@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐洲預選",
+  "Time1": "10-12 23:30",
+  "Host": "芬蘭",
+  "OddStake": "2/2.5球",
+  "Guest": "格魯吉亞",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "10-12 20:54",
+  "Person": "顺水顺风"
+}

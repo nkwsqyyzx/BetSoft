@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "12-05 03:45",
+  "Host": "奧林比亞高斯CFP",
+  "OddStake": "半球",
+  "Guest": "阿森納",
+  "Prefer": "奧林比亞高斯CFP",
+  "Odds": 1.03,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "12-04 23:03",
+  "Person": "梅西的左脚"
+}

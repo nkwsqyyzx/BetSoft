@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-27 19:00",
+  "Host": "皇家馬德里",
+  "OddStake": "两球/两球半",
+  "Guest": "加泰",
+  "Prefer": "加泰",
+  "Odds": 0.99,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "01-27 17:39",
+  "Person": "弹弓六"
+}

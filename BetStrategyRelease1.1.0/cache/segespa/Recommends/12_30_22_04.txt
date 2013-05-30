@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡聯盃",
+  "Time1": "12-30 23:59",
+  "Host": "科英布拉大學",
+  "OddStake": "平/半",
+  "Guest": "歐漢尼斯",
+  "Prefer": "歐漢尼斯",
+  "Odds": 1.04,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "12-30 22:04",
+  "Person": "segespa"
+}

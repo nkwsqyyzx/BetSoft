@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 02:00",
+  "Host": "科英布拉大學",
+  "OddStake": "受半/一",
+  "Guest": "馬德里體育會",
+  "Prefer": "科英布拉大學",
+  "Odds": 1.03,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-09 00:22",
+  "Person": "无极旋风"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德甲",
+  "Time1": "12-08 22:30",
+  "Host": "斯圖加特",
+  "OddStake": "受平/半",
+  "Guest": "史浩克04",
+  "Prefer": "斯圖加特",
+  "Odds": 0.96,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-08 20:43",
+  "Person": "天之骄子"
+}

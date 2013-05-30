@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "阿爾甲",
+  "Time1": "10-31 01:00",
+  "Host": "USM阿爾格",
+  "OddStake": "半/一",
+  "Guest": "卡比利亞",
+  "Prefer": "USM阿爾格",
+  "Odds": 1.0,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "10-30 23:42",
+  "Person": "空山新雨"
+}

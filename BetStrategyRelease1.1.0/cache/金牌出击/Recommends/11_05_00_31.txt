@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西甲",
+  "Time1": "11-05 00:50",
+  "Host": "奧薩蘇納",
+  "OddStake": "平/半",
+  "Guest": "華拉度列",
+  "Prefer": "華拉度列",
+  "Odds": 1.01,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-05 00:31",
+  "Person": "金牌出击"
+}

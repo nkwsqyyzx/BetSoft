@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "阿爾甲",
+  "Time1": "05-07 23:59",
+  "Host": "MC奧蘭",
+  "OddStake": "2球",
+  "Guest": "USM阿爾格",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "2-0",
+  "PreferResult": 3,
+  "Time2": "05-07 23:27",
+  "Person": "梅西的左脚"
+}

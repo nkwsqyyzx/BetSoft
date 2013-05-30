@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-28 03:45",
+  "Host": "桑德蘭",
+  "OddStake": "平/半",
+  "Guest": "昆士柏流浪",
+  "Prefer": "昆士柏流浪",
+  "Odds": 0.84,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "11-28 00:35",
+  "Person": "梅西的左脚"
+}

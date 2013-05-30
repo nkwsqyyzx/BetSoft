@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-21 21:00",
+  "Host": "桑恩達",
+  "OddStake": "2.5球",
+  "Guest": "桑德菲傑",
+  "Prefer": "小球",
+  "Odds": 0.97,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-21 19:51",
+  "Person": "红日"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典甲",
+  "Time1": "04-19 01:20",
+  "Host": "戴戈福斯",
+  "OddStake": "2.5球",
+  "Guest": "喬科平所達",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-19 00:32",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "烏克U19",
+  "Time1": "05-28 21:00",
+  "Host": "沃恩U19",
+  "OddStake": "受半/一",
+  "Guest": "米塔利斯U19",
+  "Prefer": "米塔利斯U19",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 19:14",
+  "Person": "心有不甘"
+}

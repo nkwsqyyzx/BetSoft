@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "秘魯春",
+  "Time1": "05-01 07:00",
+  "Host": "聖馬丁(中)",
+  "OddStake": "平/半",
+  "Guest": "卡加馬卡",
+  "Prefer": "聖馬丁(中)",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "05-01 03:20",
+  "Person": "战无不胜"
+}

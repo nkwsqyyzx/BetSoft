@@ -7,8 +7,8 @@
   "Guest": "奈斯",
   "Prefer": "大球",
   "Odds": 0.91,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "0-2",
+  "PreferResult": 1,
   "Time2": "05-27 01:23",
   "Person": "lanquan11"
 }

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "摩洛超",
+  "Time1": "01-05 04:00",
+  "Host": "FUS拉巴特",
+  "OddStake": "半/一",
+  "Guest": "外傣菲斯",
+  "Prefer": "FUS拉巴特",
+  "Odds": 0.94,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "01-05 00:43",
+  "Person": "无极旋风"
+}

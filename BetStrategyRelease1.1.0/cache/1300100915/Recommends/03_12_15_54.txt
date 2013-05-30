@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "03-12 18:00",
+  "Host": "全北現代",
+  "OddStake": "平/半",
+  "Guest": "廣州恆大",
+  "Prefer": "全北現代",
+  "Odds": 1.1,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "03-12 15:54",
+  "Person": "1300100915"
+}

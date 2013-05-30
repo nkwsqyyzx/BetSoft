@@ -1,0 +1,18 @@
+{
+  "Name": "扬名立万",
+  "LastUpdateTime": "\/Date(1369882405263+0800)\/",
+  "Person": {
+    "TotalROI": 4.30500031,
+    "CurrentROI": 5.41000032,
+    "TotalYield": 0.06330883,
+    "CurrentYield": 0.45083335,
+    "Total": 68,
+    "Profit": 8.0,
+    "Win": 31,
+    "WinHalf": 6,
+    "Lose": 24,
+    "LoseHalf": 4,
+    "Draw": 1,
+    "Name": "扬名立万"
+  }
+}

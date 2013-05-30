@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "12-05 03:45",
+  "Host": "AC米蘭",
+  "OddStake": "平手",
+  "Guest": "聖彼德斯堡澤尼特",
+  "Prefer": "AC米蘭",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "12-05 00:39",
+  "Person": "无聊玩玩"
+}

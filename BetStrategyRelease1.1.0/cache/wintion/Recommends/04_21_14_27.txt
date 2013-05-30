@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-21 15:00",
+  "Host": "千葉市原",
+  "OddStake": "一球",
+  "Guest": "福岡黃蜂",
+  "Prefer": "千葉市原",
+  "Odds": 0.97,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-21 14:27",
+  "Person": "wintion"
+}

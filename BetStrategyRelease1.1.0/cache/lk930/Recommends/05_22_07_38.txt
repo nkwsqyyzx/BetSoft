@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西盃",
+  "Time1": "05-22 08:00",
+  "Host": "利斯菲體育會",
+  "OddStake": "半/一",
+  "Guest": "ABCRN",
+  "Prefer": "ABCRN",
+  "Odds": 1.0,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "05-22 07:38",
+  "Person": "lk930"
+}

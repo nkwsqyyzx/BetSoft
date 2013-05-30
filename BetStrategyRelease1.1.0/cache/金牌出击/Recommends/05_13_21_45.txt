@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "05-14 00:30",
+  "Host": "阿利辛特",
+  "OddStake": "半/一",
+  "Guest": "利尼史特朗",
+  "Prefer": "利尼史特朗",
+  "Odds": 1.06,
+  "Result": "7-1",
+  "PreferResult": 1,
+  "Time2": "05-13 21:45",
+  "Person": "金牌出击"
+}

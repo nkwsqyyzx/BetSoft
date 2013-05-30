@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳青聯",
+  "Time1": "01-26 07:30",
+  "Host": "中央海岸青年隊U21",
+  "OddStake": "半球",
+  "Guest": "阿德萊得聯青年隊U21",
+  "Prefer": "中央海岸青年隊U21",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "01-26 04:58",
+  "Person": "罗纳尔多"
+}

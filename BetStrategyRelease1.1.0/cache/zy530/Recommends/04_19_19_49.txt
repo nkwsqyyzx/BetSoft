@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威超",
+  "Time1": "04-20 01:00",
+  "Host": "斯達",
+  "OddStake": "半球",
+  "Guest": "華拿倫加",
+  "Prefer": "斯達",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-19 19:49",
+  "Person": "zy530"
+}

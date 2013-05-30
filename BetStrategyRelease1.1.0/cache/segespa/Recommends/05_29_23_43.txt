@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-30 00:15",
+  "Host": "卡塔爾",
+  "OddStake": "平/半",
+  "Guest": "阿塞拜疆",
+  "Prefer": "阿塞拜疆",
+  "Odds": 1.03,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-29 23:43",
+  "Person": "segespa"
+}

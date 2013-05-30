@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "也門甲",
+  "Time1": "04-04 20:45",
+  "Host": "瓦赫達阿丹",
+  "OddStake": "2球",
+  "Guest": "瑞森德泰茲",
+  "Prefer": "大球",
+  "Odds": 1.05,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "04-04 19:32",
+  "Person": "顺水顺风"
+}

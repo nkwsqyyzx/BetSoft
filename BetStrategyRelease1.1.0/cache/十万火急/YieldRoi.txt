@@ -1,0 +1,18 @@
+{
+  "Name": "十万火急",
+  "LastUpdateTime": "\/Date(1369882402768+0800)\/",
+  "Person": {
+    "TotalROI": 1.7,
+    "CurrentROI": 1.7,
+    "TotalYield": 0.566666663,
+    "CurrentYield": 0.566666663,
+    "Total": 3,
+    "Profit": 2.0,
+    "Win": 2,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 1,
+    "Name": "十万火急"
+  }
+}

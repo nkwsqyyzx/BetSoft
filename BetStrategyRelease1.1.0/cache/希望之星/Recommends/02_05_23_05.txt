@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "02-05 23:30",
+  "Host": "魯賓卡讚(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "克盧日",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-05 23:05",
+  "Person": "希望之星"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-20 21:30",
+  "Host": "切爾西",
+  "OddStake": "半球",
+  "Guest": "阿森納",
+  "Prefer": "切爾西",
+  "Odds": 0.93,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "01-20 17:37",
+  "Person": "弹弓六"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英足總盃",
+  "Time1": "11-14 03:45",
+  "Host": "華素爾",
+  "OddStake": "2.5/3球",
+  "Guest": "林肯城",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "11-14 03:31",
+  "Person": "中奖太简单啦"
+}

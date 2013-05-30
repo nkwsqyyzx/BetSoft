@@ -1,0 +1,18 @@
+{
+  "Name": "瑪莉皇后2號郵輪",
+  "LastUpdateTime": "\/Date(1369882411042+0800)\/",
+  "Person": {
+    "TotalROI": -0.159999967,
+    "CurrentROI": -0.159999967,
+    "TotalYield": -0.03999999,
+    "CurrentYield": -0.03999999,
+    "Total": 4,
+    "Profit": 0.0,
+    "Win": 2,
+    "WinHalf": 0,
+    "Lose": 2,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "瑪莉皇后2號郵輪"
+  }
+}

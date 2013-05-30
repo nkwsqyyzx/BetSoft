@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "摩洛超",
+  "Time1": "02-12 03:00",
+  "Host": "柯里加",
+  "OddStake": "受半球",
+  "Guest": "外傣",
+  "Prefer": "外傣",
+  "Odds": 1.02,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "02-12 00:02",
+  "Person": "Lk930"
+}

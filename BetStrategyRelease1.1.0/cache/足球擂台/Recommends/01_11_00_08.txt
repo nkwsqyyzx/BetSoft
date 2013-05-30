@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "01-11 02:30",
+  "Host": "加泰",
+  "OddStake": "受平/半",
+  "Guest": "馬德里體育會",
+  "Prefer": "馬德里體育會",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 2,
+  "Time2": "01-11 00:08",
+  "Person": "足球擂台"
+}

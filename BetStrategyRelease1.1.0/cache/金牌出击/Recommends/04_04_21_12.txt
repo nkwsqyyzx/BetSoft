@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "世女歐預",
+  "Time1": "04-05 00:30",
+  "Host": "盧森堡女足(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "拉脫維亞女足",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "04-04 21:12",
+  "Person": "金牌出击"
+}

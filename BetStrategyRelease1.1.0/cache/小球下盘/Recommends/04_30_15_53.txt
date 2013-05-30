@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-30 18:30",
+  "Host": "中央海岸",
+  "OddStake": "2.5球",
+  "Guest": "柏雷素爾",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "04-30 15:53",
+  "Person": "小球下盘"
+}

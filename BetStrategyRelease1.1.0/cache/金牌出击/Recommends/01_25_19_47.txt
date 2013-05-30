@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "荷甲",
+  "Time1": "01-26 03:00",
+  "Host": "雲路",
+  "OddStake": "受半球",
+  "Guest": "艾克馬亞",
+  "Prefer": "雲路",
+  "Odds": 0.99,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "01-25 19:47",
+  "Person": "金牌出击"
+}

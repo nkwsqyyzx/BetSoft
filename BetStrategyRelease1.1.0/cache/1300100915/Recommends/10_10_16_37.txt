@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "日皇盃",
+  "Time1": "10-10 18:00",
+  "Host": "橫濱水手",
+  "OddStake": "2.5球",
+  "Guest": "橫濱",
+  "Prefer": "小球",
+  "Odds": 1.01,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-10 16:37",
+  "Person": "1300100915"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳青聯",
+  "Time1": "01-13 07:30",
+  "Host": "紐卡斯托青年隊U21",
+  "OddStake": "3.5球",
+  "Guest": "珀斯光榮青年隊U21",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "4-6",
+  "PreferResult": 5,
+  "Time2": "01-13 07:01",
+  "Person": "中奖太简单啦"
+}

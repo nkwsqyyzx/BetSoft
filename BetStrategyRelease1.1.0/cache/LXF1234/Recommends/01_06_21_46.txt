@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-06 22:00",
+  "Host": "熱拿亞",
+  "OddStake": "平/半",
+  "Guest": "博洛尼亞",
+  "Prefer": "博洛尼亞",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-06 21:46",
+  "Person": "lxf1234"
+}

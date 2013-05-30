@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿甲",
+  "Time1": "05-28 07:15",
+  "Host": "聖羅倫素",
+  "OddStake": "一球",
+  "Guest": "聖塔菲聯",
+  "Prefer": "聖羅倫素",
+  "Odds": 0.91,
+  "Result": "4-2",
+  "PreferResult": 5,
+  "Time2": "05-28 01:02",
+  "Person": "苍穹"
+}

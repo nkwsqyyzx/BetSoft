@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷青聯",
+  "Time1": "04-17 00:30",
+  "Host": "丹博斯治青年隊",
+  "OddStake": "3/3.5球",
+  "Guest": "海牙青年隊",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-16 20:10",
+  "Person": "水龙头"
+}

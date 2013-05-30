@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "05-13 01:00",
+  "Host": "馬德里體育會",
+  "OddStake": "受半球",
+  "Guest": "巴塞羅那",
+  "Prefer": "巴塞羅那",
+  "Odds": 1.11,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-13 00:43",
+  "Person": "弹弓六"
+}

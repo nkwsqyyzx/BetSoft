@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德丙聯",
+  "Time1": "11-30 22:15",
+  "Host": "克拉斯諾達爾",
+  "OddStake": "平手",
+  "Guest": "庫班",
+  "Prefer": "克拉斯諾達爾",
+  "Odds": 1.13,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-30 15:43",
+  "Person": "金牌出击"
+}

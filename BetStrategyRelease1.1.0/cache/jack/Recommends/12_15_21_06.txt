@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法U19D",
+  "Time1": "12-15 21:30",
+  "Host": "奈梅斯U19",
+  "OddStake": "2.5/3球",
+  "Guest": "里昂U19",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "12-15 21:06",
+  "Person": "jack"
+}

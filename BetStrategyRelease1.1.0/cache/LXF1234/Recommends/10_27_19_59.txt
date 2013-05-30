@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "意乙",
+  "Time1": "10-27 21:00",
+  "Host": "柏多華",
+  "OddStake": "平/半",
+  "Guest": "巴里",
+  "Prefer": "巴里",
+  "Odds": 0.83,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "10-27 19:59",
+  "Person": "lxf1234"
+}

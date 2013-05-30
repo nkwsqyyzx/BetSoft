@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-20 19:00",
+  "Host": "奧薩蘇納",
+  "OddStake": "半球",
+  "Guest": "拉科魯尼亞",
+  "Prefer": "拉科魯尼亞",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-20 18:06",
+  "Person": "234678136"
+}

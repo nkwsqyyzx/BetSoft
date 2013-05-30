@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-21 21:00",
+  "Host": "聖保利(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "奧地利維也納",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-21 20:42",
+  "Person": "中奖"
+}

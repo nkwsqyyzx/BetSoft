@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "",
+  "Time1": "12-06 03:45",
+  "Host": "些路迪",
+  "OddStake": "半/一",
+  "Guest": "莫斯科斯巴達",
+  "Prefer": "些路迪",
+  "Odds": 1.04,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "12-05 22:30",
+  "Person": "无极旋风"
+}

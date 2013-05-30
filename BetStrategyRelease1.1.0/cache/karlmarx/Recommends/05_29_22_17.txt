@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-29 23:30",
+  "Host": "路雲尼米",
+  "OddStake": "2/2.5球",
+  "Guest": "邁柏",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-29 22:17",
+  "Person": "karlmarx"
+}

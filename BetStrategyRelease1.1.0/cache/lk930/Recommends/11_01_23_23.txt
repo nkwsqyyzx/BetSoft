@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-02 03:45",
+  "Host": "熱拿亞",
+  "OddStake": "受平/半",
+  "Guest": "費倫天拿",
+  "Prefer": "熱拿亞",
+  "Odds": 1.02,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "11-01 23:23",
+  "Person": "lk930"
+}

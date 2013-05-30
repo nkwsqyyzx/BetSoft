@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德乙",
+  "Time1": "02-16 01:00",
+  "Host": "派特博恩",
+  "OddStake": "2.5球",
+  "Guest": "艾格比治",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "02-15 22:53",
+  "Person": "金牌出击"
+}

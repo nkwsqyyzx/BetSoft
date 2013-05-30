@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-29 23:30",
+  "Host": "VPS華沙",
+  "OddStake": "2/2.5球",
+  "Guest": "查路",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-29 20:18",
+  "Person": "大热天"
+}

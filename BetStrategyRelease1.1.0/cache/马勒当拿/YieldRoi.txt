@@ -1,0 +1,18 @@
+{
+  "Name": "马勒当拿",
+  "LastUpdateTime": "\/Date(1369882420591+0800)\/",
+  "Person": {
+    "TotalROI": 9.619996,
+    "CurrentROI": 1.5,
+    "TotalYield": 0.08907404,
+    "CurrentYield": 0.125,
+    "Total": 108,
+    "Profit": 15.5,
+    "Win": 56,
+    "WinHalf": 5,
+    "Lose": 42,
+    "LoseHalf": 2,
+    "Draw": 3,
+    "Name": "马勒当拿"
+  }
+}

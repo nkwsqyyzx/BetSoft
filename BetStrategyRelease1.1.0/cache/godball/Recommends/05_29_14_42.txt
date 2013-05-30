@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭乙",
+  "Time1": "05-30 01:00",
+  "Host": "阿卡",
+  "OddStake": "半球",
+  "Guest": "奧爾什丁",
+  "Prefer": "奧爾什丁",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 14:42",
+  "Person": "godball"
+}

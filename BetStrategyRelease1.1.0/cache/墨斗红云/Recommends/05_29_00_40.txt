@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-29 01:00",
+  "Host": "馬德里體育會U17",
+  "OddStake": "3/3.5球",
+  "Guest": "水晶競技U17",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-29 00:40",
+  "Person": "墨斗红云"
+}

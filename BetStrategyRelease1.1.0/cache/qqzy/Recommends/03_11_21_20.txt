@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿乙曼特",
+  "Time1": "03-12 08:00",
+  "Host": "阿爾馬格羅",
+  "OddStake": "2/2.5球",
+  "Guest": "科爾多瓦中央隊",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "03-11 21:20",
+  "Person": "qqzy"
+}

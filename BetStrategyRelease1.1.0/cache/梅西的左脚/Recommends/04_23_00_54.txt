@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "埃及甲",
+  "Time1": "04-23 02:00",
+  "Host": "索莫哈",
+  "OddStake": "2球",
+  "Guest": "哈伊赫多",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-23 00:54",
+  "Person": "梅西的左脚"
+}

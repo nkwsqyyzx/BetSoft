@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "马来超",
+  "Time1": "01-22 20:45",
+  "Host": "吉蘭丹",
+  "OddStake": "2.5/3球",
+  "Guest": "森美蘭",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-22 20:35",
+  "Person": "红日"
+}

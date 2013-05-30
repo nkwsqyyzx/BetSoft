@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士甲",
+  "Time1": "05-31 01:45",
+  "Host": "韋倫",
+  "OddStake": "2.5/3球",
+  "Guest": "盧加諾",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 12:01",
+  "Person": "龙泉之吻"
+}

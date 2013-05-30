@@ -1,0 +1,18 @@
+{
+  "Name": "九月九的酒",
+  "LastUpdateTime": "\/Date(1369882396437+0800)\/",
+  "Person": {
+    "TotalROI": 8.94000149,
+    "CurrentROI": 4.945,
+    "TotalYield": 0.125915512,
+    "CurrentYield": 0.449545473,
+    "Total": 71,
+    "Profit": 12.5,
+    "Win": 32,
+    "WinHalf": 11,
+    "Lose": 24,
+    "LoseHalf": 2,
+    "Draw": 1,
+    "Name": "九月九的酒"
+  }
+}

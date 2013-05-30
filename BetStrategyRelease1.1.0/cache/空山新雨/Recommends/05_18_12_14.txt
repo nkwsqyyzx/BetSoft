@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "韓聯盟",
+  "Time1": "05-18 14:00",
+  "Host": "仁川地鐵",
+  "OddStake": "平/半",
+  "Guest": "江陵",
+  "Prefer": "江陵",
+  "Odds": 0.87,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-18 12:14",
+  "Person": "空山新雨"
+}

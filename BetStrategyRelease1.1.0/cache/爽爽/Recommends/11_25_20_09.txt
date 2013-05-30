@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-25 20:30",
+  "Host": "聖保利",
+  "OddStake": "一球",
+  "Guest": "杜伊斯堡",
+  "Prefer": "杜伊斯堡",
+  "Odds": 0.96,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "11-25 20:09",
+  "Person": "爽爽"
+}

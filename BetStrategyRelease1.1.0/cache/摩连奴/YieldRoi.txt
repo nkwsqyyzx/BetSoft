@@ -1,0 +1,18 @@
+{
+  "Name": "摩连奴",
+  "LastUpdateTime": "\/Date(1369882405306+0800)\/",
+  "Person": {
+    "TotalROI": 2.16,
+    "CurrentROI": 2.8,
+    "TotalYield": 0.0720000044,
+    "CurrentYield": 0.233333334,
+    "Total": 30,
+    "Profit": 4.0,
+    "Win": 16,
+    "WinHalf": 1,
+    "Lose": 12,
+    "LoseHalf": 1,
+    "Draw": 0,
+    "Name": "摩连奴"
+  }
+}

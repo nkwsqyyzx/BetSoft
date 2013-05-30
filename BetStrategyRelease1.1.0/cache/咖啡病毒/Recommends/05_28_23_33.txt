@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-29 01:00",
+  "Host": "西里安斯卡",
+  "OddStake": "2/2.5球",
+  "Guest": "加費萊",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "05-28 23:33",
+  "Person": "咖啡病毒"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "卡塔盃",
+  "Time1": "10-11 23:00",
+  "Host": "阿拉畢多哈",
+  "OddStake": "2.5球",
+  "Guest": "沙拉爾",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "10-11 22:14",
+  "Person": "红日"
+}

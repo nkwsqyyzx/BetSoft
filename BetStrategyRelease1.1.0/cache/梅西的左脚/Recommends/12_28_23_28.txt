@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "威超",
+  "Time1": "12-29 03:30",
+  "Host": "賓高城",
+  "OddStake": "3.5球",
+  "Guest": "普利斯坦丁",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "12-28 23:28",
+  "Person": "梅西的左脚"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "H7N9",
+  "LastUpdateTime": "\/Date(1369882390223+0800)\/",
+  "Person": {
+    "TotalROI": -3.0,
+    "CurrentROI": -3.0,
+    "TotalYield": -1.0,
+    "CurrentYield": -1.0,
+    "Total": 3,
+    "Profit": -3.0,
+    "Win": 0,
+    "WinHalf": 0,
+    "Lose": 3,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "H7N9"
+  }
+}

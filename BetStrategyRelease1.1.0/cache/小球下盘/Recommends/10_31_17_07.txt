@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "亞冠盃",
+  "Time1": "10-31 18:30",
+  "Host": "蔚山現代",
+  "OddStake": "2.5/3球",
+  "Guest": "賓約哥",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "10-31 17:07",
+  "Person": "小球下盘"
+}

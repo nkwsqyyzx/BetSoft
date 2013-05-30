@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英超",
+  "Time1": "03-05 04:00",
+  "Host": "阿斯頓維拉",
+  "OddStake": "受一球/球半",
+  "Guest": "曼城",
+  "Prefer": "阿斯頓維拉",
+  "Odds": 0.89,
+  "Result": "0-1",
+  "PreferResult": 4,
+  "Time2": "03-04 23:23",
+  "Person": "弹弓六"
+}

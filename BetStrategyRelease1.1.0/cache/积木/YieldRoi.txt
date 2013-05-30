@@ -1,0 +1,18 @@
+{
+  "Name": "积木",
+  "LastUpdateTime": "\/Date(1369882411201+0800)\/",
+  "Person": {
+    "TotalROI": -0.06000024,
+    "CurrentROI": 4.40499973,
+    "TotalYield": -0.00103448692,
+    "CurrentYield": 0.314642847,
+    "Total": 58,
+    "Profit": 1.0,
+    "Win": 21,
+    "WinHalf": 5,
+    "Lose": 22,
+    "LoseHalf": 1,
+    "Draw": 7,
+    "Name": "积木"
+  }
+}

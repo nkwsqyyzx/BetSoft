@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿甲",
+  "Time1": "05-27 05:10",
+  "Host": "河床",
+  "OddStake": "半/一",
+  "Guest": "艾朗迪考瑞法拉",
+  "Prefer": "河床",
+  "Odds": 0.93,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-27 04:26",
+  "Person": "鬼鬼1991"
+}

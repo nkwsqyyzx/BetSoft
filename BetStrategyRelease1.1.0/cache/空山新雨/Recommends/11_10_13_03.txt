@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "土甲",
+  "Time1": "11-10 20:00",
+  "Host": "卡斯亞卡",
+  "OddStake": "平/半",
+  "Guest": "布魯斯堡",
+  "Prefer": "布魯斯堡",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-10 13:03",
+  "Person": "空山新雨"
+}

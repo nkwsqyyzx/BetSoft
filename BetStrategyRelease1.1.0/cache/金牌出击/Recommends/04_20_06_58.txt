@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "04-20 08:15",
+  "Host": "競賽會",
+  "OddStake": "半球",
+  "Guest": "科隆競技",
+  "Prefer": "競賽會",
+  "Odds": 1.06,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-20 06:58",
+  "Person": "金牌出击"
+}

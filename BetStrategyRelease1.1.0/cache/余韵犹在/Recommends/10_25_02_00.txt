@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐冠盃",
+  "Time1": "10-25 02:45",
+  "Host": "馬拉加",
+  "OddStake": "2.5球",
+  "Guest": "AC米蘭",
+  "Prefer": "小球",
+  "Odds": 1.05,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "10-25 02:00",
+  "Person": "余韵犹在"
+}

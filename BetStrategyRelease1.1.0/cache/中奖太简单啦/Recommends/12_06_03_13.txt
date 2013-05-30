@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐冠盃",
+  "Time1": "12-06 03:45",
+  "Host": "巴塞羅那",
+  "OddStake": "3球",
+  "Guest": "賓菲加",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "12-06 03:13",
+  "Person": "中奖太简单啦"
+}

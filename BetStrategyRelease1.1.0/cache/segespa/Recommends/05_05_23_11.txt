@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "丹麥超",
+  "Time1": "05-06 01:00",
+  "Host": "邦比",
+  "OddStake": "2.5/3球",
+  "Guest": "哥本哈根",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-05 23:11",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "01-09 02:30",
+  "Host": "馬拉加",
+  "OddStake": "球半",
+  "Guest": "伊巴",
+  "Prefer": "伊巴",
+  "Odds": 0.93,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "01-08 14:25",
+  "Person": "小李飞刀"
+}

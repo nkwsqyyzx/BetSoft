@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "沙地聯",
+  "Time1": "04-19 01:40",
+  "Host": "納撒利雅德",
+  "OddStake": "平手",
+  "Guest": "阿爾艾利吉達",
+  "Prefer": "阿爾艾利吉達",
+  "Odds": 0.96,
+  "Result": "2-2",
+  "PreferResult": 3,
+  "Time2": "04-18 23:01",
+  "Person": "lk930"
+}

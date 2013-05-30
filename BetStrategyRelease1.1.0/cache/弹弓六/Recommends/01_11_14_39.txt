@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "01-12 03:00",
+  "Host": "迪卓恩",
+  "OddStake": "半球",
+  "Guest": "利文斯",
+  "Prefer": "利文斯",
+  "Odds": 0.88,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "01-11 14:39",
+  "Person": "弹弓六"
+}

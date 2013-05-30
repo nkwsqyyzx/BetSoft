@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法甲",
+  "Time1": "12-13 02:00",
+  "Host": "伊維恩",
+  "OddStake": "半球",
+  "Guest": "特魯瓦",
+  "Prefer": "伊維恩",
+  "Odds": 0.86,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "12-12 19:50",
+  "Person": "杀手47"
+}

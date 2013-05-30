@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "蘇超",
+  "Time1": "05-11 19:15",
+  "Host": "些路迪",
+  "OddStake": "一球",
+  "Guest": "聖莊士東",
+  "Prefer": "些路迪",
+  "Odds": 0.84,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "05-11 15:33",
+  "Person": "LXF1234"
+}

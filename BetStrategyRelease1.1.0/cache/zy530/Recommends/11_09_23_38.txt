@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-10 01:00",
+  "Host": "科隆",
+  "OddStake": "半/一",
+  "Guest": "杜伊斯堡",
+  "Prefer": "杜伊斯堡",
+  "Odds": 0.94,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-09 23:38",
+  "Person": "zy530"
+}

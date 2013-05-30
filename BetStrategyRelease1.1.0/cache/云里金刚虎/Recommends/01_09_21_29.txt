@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法丁B",
+  "Time1": "01-09 22:00",
+  "Host": "比勒費爾德",
+  "OddStake": "平/半",
+  "Guest": "堡格侯森",
+  "Prefer": "堡格侯森",
+  "Odds": 0.82,
+  "Result": "5-1",
+  "PreferResult": 1,
+  "Time2": "01-09 21:29",
+  "Person": "云里金刚虎"
+}

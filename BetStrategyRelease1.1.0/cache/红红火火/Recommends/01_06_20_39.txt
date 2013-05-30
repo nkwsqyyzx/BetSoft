@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡甲",
+  "Time1": "01-06 23:00",
+  "Host": "阿魯卡",
+  "OddStake": "2/2.5球",
+  "Guest": "通迪拉",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "01-06 20:39",
+  "Person": "红红火火"
+}

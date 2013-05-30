@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德女聯",
+  "Time1": "12-06 01:00",
+  "Host": "拜仁慕尼黑女足",
+  "OddStake": "3.5球",
+  "Guest": "沃爾夫斯堡女足",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "12-05 21:53",
+  "Person": "红红火火"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "学习专家",
+  "LastUpdateTime": "\/Date(1369882404544+0800)\/",
+  "Person": {
+    "TotalROI": 1.03,
+    "CurrentROI": 1.03,
+    "TotalYield": 0.2575,
+    "CurrentYield": 0.2575,
+    "Total": 4,
+    "Profit": 1.0,
+    "Win": 2,
+    "WinHalf": 0,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 1,
+    "Name": "学习专家"
+  }
+}

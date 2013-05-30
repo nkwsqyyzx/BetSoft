@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "意乙",
+  "Time1": "05-30 02:45",
+  "Host": "恩波里",
+  "OddStake": "2/2.5球",
+  "Guest": "利禾奴",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "05-29 20:52",
+  "Person": "zzbb3344"
+}

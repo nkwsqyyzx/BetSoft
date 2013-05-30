@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西乙",
+  "Time1": "12-22 03:00",
+  "Host": "皇家馬德里卡斯蒂亞",
+  "OddStake": "平手",
+  "Guest": "艾爾切",
+  "Prefer": "艾爾切",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-21 21:53",
+  "Person": "lxf1234"
+}

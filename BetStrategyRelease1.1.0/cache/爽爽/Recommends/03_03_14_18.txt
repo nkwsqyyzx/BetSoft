@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "日職乙",
+  "Time1": "03-03 15:00",
+  "Host": "大阪飛腳",
+  "OddStake": "3球",
+  "Guest": "京都不死鳥",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "03-03 14:18",
+  "Person": "爽爽"
+}

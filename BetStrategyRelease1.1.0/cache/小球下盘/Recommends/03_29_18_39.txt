@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "烏茲超",
+  "Time1": "03-29 19:00",
+  "Host": "比克波德",
+  "OddStake": "2/2.5球",
+  "Guest": "帕克塔科",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "03-29 18:39",
+  "Person": "小球下盘"
+}

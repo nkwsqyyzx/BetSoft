@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "法乙",
+  "Time1": "04-06 02:00",
+  "Host": "迪卓恩",
+  "OddStake": "半球",
+  "Guest": "沙特魯",
+  "Prefer": "迪卓恩",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "04-05 22:34",
+  "Person": "lxf1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英足總盃",
+  "Time1": "11-14 03:45",
+  "Host": "貝羅",
+  "OddStake": "2.5/3球",
+  "Guest": "古斯雷",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-13 23:16",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-29 23:30",
+  "Host": "古比斯",
+  "OddStake": "2.5球",
+  "Guest": "英特杜古",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-29 22:22",
+  "Person": "钱龙大帝"
+}

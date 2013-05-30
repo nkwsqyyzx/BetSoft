@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "02-23 02:00",
+  "Host": "加辛塔士邦",
+  "OddStake": "受平/半",
+  "Guest": "柏薩士邦",
+  "Prefer": "加辛塔士邦",
+  "Odds": 0.97,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-22 12:03",
+  "Person": "空山新雨"
+}

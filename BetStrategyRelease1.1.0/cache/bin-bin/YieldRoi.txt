@@ -1,0 +1,18 @@
+{
+  "Name": "bin-bin",
+  "LastUpdateTime": "\/Date(1369882389453+0800)\/",
+  "Person": {
+    "TotalROI": 5.895,
+    "CurrentROI": 5.28500032,
+    "TotalYield": 0.178636357,
+    "CurrentYield": 0.480454564,
+    "Total": 33,
+    "Profit": 8.0,
+    "Win": 14,
+    "WinHalf": 6,
+    "Lose": 8,
+    "LoseHalf": 2,
+    "Draw": 1,
+    "Name": "bin-bin"
+  }
+}

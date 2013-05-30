@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "以超",
+  "Time1": "12-25 02:50",
+  "Host": "伊若尼奇亞夏普爾",
+  "OddStake": "平/半",
+  "Guest": "海法馬卡比",
+  "Prefer": "海法馬卡比",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "12-24 14:53",
+  "Person": "空山新雨"
+}

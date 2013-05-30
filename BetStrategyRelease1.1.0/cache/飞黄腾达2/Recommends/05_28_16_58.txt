@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美公開盃",
+  "Time1": "05-29 07:30",
+  "Host": "勞德代爾堡前鋒",
+  "OddStake": "受半球",
+  "Guest": "達拉斯",
+  "Prefer": "勞德代爾堡前鋒",
+  "Odds": 0.94,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 16:58",
+  "Person": "飞黄腾达2"
+}

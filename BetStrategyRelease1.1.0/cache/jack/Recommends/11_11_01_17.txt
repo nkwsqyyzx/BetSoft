@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "克亞甲",
+  "Time1": "11-11 02:00",
+  "Host": "西班利特",
+  "OddStake": "受半球",
+  "Guest": "薩格勒布戴拿模",
+  "Prefer": "薩格勒布戴拿模",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-11 01:17",
+  "Person": "jack"
+}

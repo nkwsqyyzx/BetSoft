@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "澳南超",
+  "Time1": "04-12 18:00",
+  "Host": "阿德萊得城",
+  "OddStake": "2.5/3球",
+  "Guest": "阿德萊德藍鷹",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-12 15:32",
+  "Person": "空山新雨"
+}

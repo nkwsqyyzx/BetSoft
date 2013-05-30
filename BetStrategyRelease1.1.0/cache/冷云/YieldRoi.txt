@@ -1,0 +1,18 @@
+{
+  "Name": "冷云",
+  "LastUpdateTime": "\/Date(1369882402580+0800)\/",
+  "Person": {
+    "TotalROI": 0.52,
+    "CurrentROI": 0.52,
+    "TotalYield": 0.52,
+    "CurrentYield": 0.52,
+    "Total": 1,
+    "Profit": 0.5,
+    "Win": 0,
+    "WinHalf": 1,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "冷云"
+  }
+}

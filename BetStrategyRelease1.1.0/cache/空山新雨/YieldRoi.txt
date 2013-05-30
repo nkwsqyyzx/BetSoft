@@ -1,0 +1,18 @@
+{
+  "Name": "空山新雨",
+  "LastUpdateTime": "\/Date(1369882412417+0800)\/",
+  "Person": {
+    "TotalROI": -0.5899989,
+    "CurrentROI": -4.465,
+    "TotalYield": -0.00263392366,
+    "CurrentYield": -0.2790625,
+    "Total": 224,
+    "Profit": 12.0,
+    "Win": 82,
+    "WinHalf": 43,
+    "Lose": 91,
+    "LoseHalf": 1,
+    "Draw": 5,
+    "Name": "空山新雨"
+  }
+}

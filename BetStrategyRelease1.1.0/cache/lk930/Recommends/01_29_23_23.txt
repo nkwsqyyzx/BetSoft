@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "歐U19冠",
+  "Time1": "01-30 02:00",
+  "Host": "阿積士U19",
+  "OddStake": "半/一",
+  "Guest": "切爾西U19",
+  "Prefer": "切爾西U19",
+  "Odds": 0.95,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "01-29 23:23",
+  "Person": "Lk930"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "意甲",
+  "Time1": "02-17 01:00",
+  "Host": "切沃",
+  "OddStake": "平/半",
+  "Guest": "巴勒莫",
+  "Prefer": "巴勒莫",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "02-17 00:25",
+  "Person": "segespa"
+}

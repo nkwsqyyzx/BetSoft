@@ -1,0 +1,18 @@
+{
+  "Name": "轻轻巧巧",
+  "LastUpdateTime": "\/Date(1369882417315+0800)\/",
+  "Person": {
+    "TotalROI": 8.656,
+    "CurrentROI": 4.66000032,
+    "TotalYield": 0.0515238121,
+    "CurrentYield": 0.31066668,
+    "Total": 168,
+    "Profit": 19.5,
+    "Win": 83,
+    "WinHalf": 12,
+    "Lose": 68,
+    "LoseHalf": 3,
+    "Draw": 1,
+    "Name": "轻轻巧巧"
+  }
+}

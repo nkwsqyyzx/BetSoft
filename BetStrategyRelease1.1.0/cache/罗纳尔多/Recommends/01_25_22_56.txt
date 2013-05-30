@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "01-26 03:00",
+  "Host": "克萊蒙特",
+  "OddStake": "平手",
+  "Guest": "卡昂",
+  "Prefer": "卡昂",
+  "Odds": 0.97,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "01-25 22:56",
+  "Person": "罗纳尔多"
+}

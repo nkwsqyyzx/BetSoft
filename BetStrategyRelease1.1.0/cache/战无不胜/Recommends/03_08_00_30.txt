@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "03-08 04:05",
+  "Host": "托特納姆熱刺",
+  "OddStake": "半/一",
+  "Guest": "國際米蘭",
+  "Prefer": "國際米蘭",
+  "Odds": 1.1,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "03-08 00:30",
+  "Person": "战无不胜"
+}

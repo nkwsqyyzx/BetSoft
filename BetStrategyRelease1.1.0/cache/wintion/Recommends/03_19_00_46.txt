@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "瑞青甲北",
+  "Time1": "03-19 01:00",
+  "Host": "戴戈福斯U21",
+  "OddStake": "3.5球",
+  "Guest": "天狼星U21",
+  "Prefer": "大球",
+  "Odds": 0.81,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "03-19 00:46",
+  "Person": "wintion"
+}

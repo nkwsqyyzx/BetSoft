@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-01 03:45",
+  "Host": "拉素",
+  "OddStake": "半球",
+  "Guest": "拖連奴",
+  "Prefer": "拉素",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "10-31 21:53",
+  "Person": "红红火火"
+}

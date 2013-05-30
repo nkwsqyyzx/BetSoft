@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "哥倫盃",
+  "Time1": "05-16 04:00",
+  "Host": "福塔雷扎FC",
+  "OddStake": "受半球",
+  "Guest": "托利馬",
+  "Prefer": "福塔雷扎FC",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-16 00:19",
+  "Person": "梅西的左脚"
+}

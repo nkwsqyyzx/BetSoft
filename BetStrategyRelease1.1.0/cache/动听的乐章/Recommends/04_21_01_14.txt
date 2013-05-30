@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷甲",
+  "Time1": "04-21 01:45",
+  "Host": "威廉二世",
+  "OddStake": "平手",
+  "Guest": "洛達",
+  "Prefer": "洛達",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-21 01:14",
+  "Person": "动听的乐章"
+}

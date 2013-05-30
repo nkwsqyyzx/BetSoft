@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "韓國K",
+  "Time1": "11-15 19:00",
+  "Host": "FC漢城",
+  "OddStake": "2.5球",
+  "Guest": "蔚山現代",
+  "Prefer": "小球",
+  "Odds": 0.93,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "11-15 12:42",
+  "Person": "小李飞刀"
+}

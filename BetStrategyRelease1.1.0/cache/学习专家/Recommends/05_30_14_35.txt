@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭甲",
+  "Time1": "05-30 23:59",
+  "Host": "薩比利斯",
+  "OddStake": "2/2.5球",
+  "Guest": "克拉科夫",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 14:35",
+  "Person": "学习专家"
+}

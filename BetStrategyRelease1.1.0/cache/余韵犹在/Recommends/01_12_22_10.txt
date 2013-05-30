@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-12 22:30",
+  "Host": "漢堡",
+  "OddStake": "一球",
+  "Guest": "奧地利維也納",
+  "Prefer": "奧地利維也納",
+  "Odds": 0.96,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-12 22:10",
+  "Person": "余韵犹在"
+}

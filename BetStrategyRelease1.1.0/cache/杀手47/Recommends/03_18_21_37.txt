@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "法乙",
+  "Time1": "03-19 03:30",
+  "Host": "迪卓恩",
+  "OddStake": "平手",
+  "Guest": "南特",
+  "Prefer": "南特",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "03-18 21:37",
+  "Person": "杀手47"
+}

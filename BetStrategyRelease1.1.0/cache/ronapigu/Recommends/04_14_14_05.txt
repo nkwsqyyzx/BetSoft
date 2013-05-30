@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職乙",
+  "Time1": "04-14 15:00",
+  "Host": "東京日視",
+  "OddStake": "2/2.5球",
+  "Guest": "鳥取SC",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "04-14 14:05",
+  "Person": "ronapigu"
+}

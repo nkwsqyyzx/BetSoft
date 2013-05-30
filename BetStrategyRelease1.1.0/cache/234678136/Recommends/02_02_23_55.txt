@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡超",
+  "Time1": "02-03 02:00",
+  "Host": "里奧阿維",
+  "OddStake": "平手",
+  "Guest": "士砵亭",
+  "Prefer": "里奧阿維",
+  "Odds": 1.07,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-02 23:55",
+  "Person": "234678136"
+}

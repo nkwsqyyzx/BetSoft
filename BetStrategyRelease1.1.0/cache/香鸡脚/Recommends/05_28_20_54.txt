@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬乙東",
+  "Time1": "05-28 23:30",
+  "Host": "HIFK足球",
+  "OddStake": "一球/球半",
+  "Guest": "富圖拉",
+  "Prefer": "HIFK足球",
+  "Odds": 0.92,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 20:54",
+  "Person": "香鸡脚"
+}

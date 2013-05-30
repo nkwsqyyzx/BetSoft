@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-28 01:00",
+  "Host": "柏瑞格",
+  "OddStake": "受半球",
+  "Guest": "奧雷布洛",
+  "Prefer": "柏瑞格",
+  "Odds": 1.08,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 16:08",
+  "Person": "浪子668"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法乙",
+  "Time1": "12-22 01:45",
+  "Host": "托爾司",
+  "OddStake": "平手",
+  "Guest": "安格斯",
+  "Prefer": "托爾司",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "12-22 00:25",
+  "Person": "梅西的左脚"
+}

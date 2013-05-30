@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "01-09 04:30",
+  "Host": "華倫西亞",
+  "OddStake": "2.5/3球",
+  "Guest": "奧薩蘇納",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "01-09 00:24",
+  "Person": "zy530"
+}

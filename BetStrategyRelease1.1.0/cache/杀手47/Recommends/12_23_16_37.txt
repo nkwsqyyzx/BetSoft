@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法乙",
+  "Time1": "12-23 21:15",
+  "Host": "色當",
+  "OddStake": "受平/半",
+  "Guest": "南特",
+  "Prefer": "色當",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "12-23 16:37",
+  "Person": "杀手47"
+}

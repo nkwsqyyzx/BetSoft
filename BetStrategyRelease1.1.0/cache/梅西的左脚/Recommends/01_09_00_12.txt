@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "歐U19冠",
+  "Time1": "01-09 03:00",
+  "Host": "利物浦U19",
+  "OddStake": "3/3.5球",
+  "Guest": "國際米蘭U19",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "01-09 00:12",
+  "Person": "梅西的左脚"
+}

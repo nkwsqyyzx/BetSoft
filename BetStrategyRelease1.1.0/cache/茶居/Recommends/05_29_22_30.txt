@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "土倫盃",
+  "Time1": "05-29 23:30",
+  "Host": "墨西哥U21(中)",
+  "OddStake": "半球",
+  "Guest": "尼日利亞U21",
+  "Prefer": "墨西哥U21(中)",
+  "Odds": 1.02,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-29 22:30",
+  "Person": "茶居"
+}

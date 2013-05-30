@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英非聯",
+  "Time1": "04-28 23:30",
+  "Host": "紐波特",
+  "OddStake": "2.5球",
+  "Guest": "甘士比",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-28 23:15",
+  "Person": "12388123"
+}

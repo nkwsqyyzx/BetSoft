@@ -1,0 +1,18 @@
+{
+  "Name": "明明白白",
+  "LastUpdateTime": "\/Date(1369882406287+0800)\/",
+  "Person": {
+    "TotalROI": -0.884999335,
+    "CurrentROI": 2.1,
+    "TotalYield": -0.005028405,
+    "CurrentYield": 0.13125,
+    "Total": 176,
+    "Profit": 11.5,
+    "Win": 84,
+    "WinHalf": 5,
+    "Lose": 71,
+    "LoseHalf": 8,
+    "Draw": 7,
+    "Name": "明明白白"
+  }
+}

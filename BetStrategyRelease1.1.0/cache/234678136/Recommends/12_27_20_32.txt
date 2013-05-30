@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "比甲",
+  "Time1": "12-28 03:00",
+  "Host": "安德列治",
+  "OddStake": "两球",
+  "Guest": "利亞斯",
+  "Prefer": "安德列治",
+  "Odds": 0.99,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "12-27 20:32",
+  "Person": "234678136"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "韓國K",
+  "Time1": "11-21 18:30",
+  "Host": "釜山偶像",
+  "OddStake": "受平/半",
+  "Guest": "浦項制鐵",
+  "Prefer": "釜山偶像",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "11-21 14:49",
+  "Person": "足球擂台"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿乙",
+  "Time1": "05-29 07:30",
+  "Host": "羅沙里奧中央",
+  "OddStake": "一球/球半",
+  "Guest": "艾度思維",
+  "Prefer": "艾度思維",
+  "Odds": 1.02,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-28 23:34",
+  "Person": "精彩一瞬奸"
+}

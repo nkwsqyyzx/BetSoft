@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-29 00:30",
+  "Host": "布倫瑞克",
+  "OddStake": "半球",
+  "Guest": "聖保利",
+  "Prefer": "布倫瑞克",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "11-28 22:06",
+  "Person": "金牌出击"
+}

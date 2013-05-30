@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "南美預選",
+  "Time1": "10-13 08:00",
+  "Host": "阿根廷",
+  "OddStake": "一球/球半",
+  "Guest": "烏拉圭",
+  "Prefer": "烏拉圭",
+  "Odds": 0.87,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "10-13 07:46",
+  "Person": "lxf1234"
+}

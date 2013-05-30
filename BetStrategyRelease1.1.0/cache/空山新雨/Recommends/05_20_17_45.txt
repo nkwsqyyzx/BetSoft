@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "丹乙西",
+  "Time1": "05-20 19:30",
+  "Host": "斯坎訥堡",
+  "OddStake": "受平/半",
+  "Guest": "奈斯比",
+  "Prefer": "斯坎訥堡",
+  "Odds": 1.0,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "05-20 17:45",
+  "Person": "空山新雨"
+}

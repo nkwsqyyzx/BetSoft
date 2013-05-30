@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-07 02:00",
+  "Host": "巴塞羅那",
+  "OddStake": "两球半/三球",
+  "Guest": "愛斯賓奴",
+  "Prefer": "愛斯賓奴",
+  "Odds": 1.02,
+  "Result": "4-0",
+  "PreferResult": 1,
+  "Time2": "01-06 21:56",
+  "Person": "小李飞刀"
+}

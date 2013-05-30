@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "印度甲",
+  "Time1": "01-24 16:30",
+  "Host": "莫亨巴根",
+  "OddStake": "2.5/3球",
+  "Guest": "錫金",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-24 15:13",
+  "Person": "wintion"
+}

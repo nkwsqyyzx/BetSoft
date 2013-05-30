@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意乙",
+  "Time1": "10-31 03:45",
+  "Host": "施達迪那",
+  "OddStake": "2/2.5球",
+  "Guest": "布雷西亞",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "10-30 22:43",
+  "Person": "jack"
+}

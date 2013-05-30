@@ -1,0 +1,18 @@
+{
+  "Name": "钱龙大帝",
+  "LastUpdateTime": "\/Date(1369882419043+0800)\/",
+  "Person": {
+    "TotalROI": -0.139999986,
+    "CurrentROI": -0.139999986,
+    "TotalYield": -0.0349999964,
+    "CurrentYield": -0.0349999964,
+    "Total": 4,
+    "Profit": 0.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "钱龙大帝"
+  }
+}

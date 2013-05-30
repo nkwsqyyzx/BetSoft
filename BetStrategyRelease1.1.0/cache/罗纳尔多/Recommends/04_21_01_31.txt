@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比甲",
+  "Time1": "04-21 02:00",
+  "Host": "真特",
+  "OddStake": "球半",
+  "Guest": "利亞斯",
+  "Prefer": "利亞斯",
+  "Odds": 0.89,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "04-21 01:31",
+  "Person": "罗纳尔多"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "卡塔爾聯",
+  "Time1": "11-01 23:30",
+  "Host": "里科威亞",
+  "OddStake": "平/半",
+  "Guest": "阿爾葛拉法",
+  "Prefer": "阿爾葛拉法",
+  "Odds": 1.07,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-01 23:15",
+  "Person": "金牌出击"
+}

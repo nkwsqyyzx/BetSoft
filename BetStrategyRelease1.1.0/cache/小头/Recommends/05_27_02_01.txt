@@ -7,8 +7,8 @@
   "Guest": "索察",
   "Prefer": "索察",
   "Odds": 0.94,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "0-0",
+  "PreferResult": 3,
   "Time2": "05-27 02:01",
   "Person": "小头"
 }

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "越南聯",
+  "Time1": "05-14 17:00",
+  "Host": "海防隊",
+  "OddStake": "2.5/3球",
+  "Guest": "西貢足球俱樂部",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-14 16:05",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "启蒙",
+  "LastUpdateTime": "\/Date(1369882403410+0800)\/",
+  "Person": {
+    "TotalROI": 1.6500001,
+    "CurrentROI": 1.6500001,
+    "TotalYield": 0.55,
+    "CurrentYield": 0.55,
+    "Total": 3,
+    "Profit": 2.0,
+    "Win": 2,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "启蒙"
+  }
+}

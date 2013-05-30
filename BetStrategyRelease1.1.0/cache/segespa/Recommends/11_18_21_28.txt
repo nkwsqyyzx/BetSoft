@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "比乙",
+  "Time1": "11-18 22:00",
+  "Host": "威森",
+  "OddStake": "平/半",
+  "Guest": "迪塞爾",
+  "Prefer": "迪塞爾",
+  "Odds": 0.9,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-18 21:28",
+  "Person": "segespa"
+}

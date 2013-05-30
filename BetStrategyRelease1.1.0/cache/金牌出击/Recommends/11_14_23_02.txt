@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-14 23:59",
+  "Host": "保加利亞",
+  "OddStake": "平手",
+  "Guest": "烏克蘭",
+  "Prefer": "烏克蘭",
+  "Odds": 1.09,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-14 23:02",
+  "Person": "金牌出击"
+}

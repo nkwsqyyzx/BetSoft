@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄超",
+  "Time1": "11-04 17:30",
+  "Host": "莫斯科中央陸軍",
+  "OddStake": "半球",
+  "Guest": "莫斯科火車頭",
+  "Prefer": "莫斯科中央陸軍",
+  "Odds": 0.87,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-04 15:25",
+  "Person": "余韵犹在"
+}

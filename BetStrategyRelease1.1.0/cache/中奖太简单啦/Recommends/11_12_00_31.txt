@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西甲",
+  "Time1": "11-12 00:50",
+  "Host": "馬略卡",
+  "OddStake": "受球半/两球",
+  "Guest": "巴塞羅那",
+  "Prefer": "馬略卡",
+  "Odds": 1.05,
+  "Result": "2-4",
+  "PreferResult": 2,
+  "Time2": "11-12 00:31",
+  "Person": "中奖太简单啦"
+}

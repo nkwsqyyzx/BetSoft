@@ -1,0 +1,18 @@
+{
+  "Name": "名花有主",
+  "LastUpdateTime": "\/Date(1369882403378+0800)\/",
+  "Person": {
+    "TotalROI": 0.94,
+    "CurrentROI": 0.94,
+    "TotalYield": 0.94,
+    "CurrentYield": 0.94,
+    "Total": 1,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "名花有主"
+  }
+}

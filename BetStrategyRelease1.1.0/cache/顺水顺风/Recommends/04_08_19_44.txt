@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "瑞典超",
+  "Time1": "04-09 01:00",
+  "Host": "IFK諾科平",
+  "OddStake": "半球",
+  "Guest": "加費萊",
+  "Prefer": "IFK諾科平",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-08 19:44",
+  "Person": "顺水顺风"
+}

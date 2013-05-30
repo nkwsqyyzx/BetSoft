@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "羅甲",
+  "Time1": "03-05 02:30",
+  "Host": "突弩塞維林",
+  "OddStake": "2.5球",
+  "Guest": "阿斯特拉吉爾古",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-04 22:21",
+  "Person": "小球下盘"
+}

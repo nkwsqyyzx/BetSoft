@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "厄瓜甲",
+  "Time1": "05-19 07:00",
+  "Host": "基多",
+  "OddStake": "2.5/3球",
+  "Guest": "馬卡拉",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-18 22:10",
+  "Person": "zy530"
+}

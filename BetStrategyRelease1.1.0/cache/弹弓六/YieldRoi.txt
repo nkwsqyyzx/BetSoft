@@ -1,0 +1,18 @@
+{
+  "Name": "弹弓六",
+  "LastUpdateTime": "\/Date(1369882404793+0800)\/",
+  "Person": {
+    "TotalROI": -11.3300009,
+    "CurrentROI": -4.0,
+    "TotalYield": -0.107904769,
+    "CurrentYield": -1.0,
+    "Total": 105,
+    "Profit": -9.0,
+    "Win": 38,
+    "WinHalf": 11,
+    "Lose": 51,
+    "LoseHalf": 3,
+    "Draw": 2,
+    "Name": "弹弓六"
+  }
+}

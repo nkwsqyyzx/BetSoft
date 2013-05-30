@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-16 01:00",
+  "Host": "瑞士U18",
+  "OddStake": "2.5球",
+  "Guest": "愛爾蘭U18",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-15 23:35",
+  "Person": "无聊玩玩"
+}

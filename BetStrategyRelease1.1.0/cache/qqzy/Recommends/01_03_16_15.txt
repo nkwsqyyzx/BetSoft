@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "阿聯酋甲",
+  "Time1": "01-03 20:55",
+  "Host": "詹辛拉阿爾哈姆拉",
+  "OddStake": "半/一",
+  "Guest": "拉姆斯",
+  "Prefer": "拉姆斯",
+  "Odds": 0.93,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "01-03 16:15",
+  "Person": "qqzy"
+}

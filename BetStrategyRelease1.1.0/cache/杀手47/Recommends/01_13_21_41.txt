@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-13 22:00",
+  "Host": "烏甸尼斯",
+  "OddStake": "2.5球",
+  "Guest": "費倫天拿",
+  "Prefer": "大球",
+  "Odds": 1.1,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-13 21:41",
+  "Person": "杀手47"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "埃及甲",
+  "Time1": "05-27 21:30",
+  "Host": "依斯麥里",
+  "OddStake": "2/2.5球",
+  "Guest": "阿拉伯建築",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-27 19:15",
+  "Person": "运达不来霉"
+}

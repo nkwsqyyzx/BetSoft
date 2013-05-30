@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德甲",
+  "Time1": "11-03 22:30",
+  "Host": "紐倫堡",
+  "OddStake": "2.5球",
+  "Guest": "沃爾夫斯堡",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-03 19:42",
+  "Person": "杀手47"
+}

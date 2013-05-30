@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意丙B",
+  "Time1": "11-18 21:30",
+  "Host": "卡坦薩羅",
+  "OddStake": "平/半",
+  "Guest": "普拉托",
+  "Prefer": "普拉托",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-18 13:38",
+  "Person": "空山新雨"
+}

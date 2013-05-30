@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿甲",
+  "Time1": "02-14 06:10",
+  "Host": "基爾梅斯",
+  "OddStake": "平/半",
+  "Guest": "堤格雷",
+  "Prefer": "堤格雷",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "02-13 23:27",
+  "Person": "lxf1234"
+}

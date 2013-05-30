@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "韓國K",
+  "Time1": "05-25 13:00",
+  "Host": "蔚山現代",
+  "OddStake": "半/一",
+  "Guest": "慶南FC",
+  "Prefer": "慶南FC",
+  "Odds": 0.96,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "05-25 12:17",
+  "Person": "lk930"
+}

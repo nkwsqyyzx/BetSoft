@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-30 18:20",
+  "Host": "日本",
+  "OddStake": "半/一",
+  "Guest": "保加利亞",
+  "Prefer": "日本",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "05-30 17:22",
+  "Person": "东北球王"
+}

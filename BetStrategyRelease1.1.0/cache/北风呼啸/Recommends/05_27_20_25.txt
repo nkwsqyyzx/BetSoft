@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪乙D",
+  "Time1": "05-27 21:00",
+  "Host": "史青希咸",
+  "OddStake": "球半",
+  "Guest": "特羅素B隊",
+  "Prefer": "史青希咸",
+  "Odds": 0.8,
+  "Result": "4-4",
+  "PreferResult": 1,
+  "Time2": "05-27 20:25",
+  "Person": "北风呼啸"
+}

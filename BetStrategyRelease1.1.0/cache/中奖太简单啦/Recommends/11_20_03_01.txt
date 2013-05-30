@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-20 03:15",
+  "Host": "哈化柏林",
+  "OddStake": "一球",
+  "Guest": "聖保利",
+  "Prefer": "哈化柏林",
+  "Odds": 1.04,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "11-20 03:01",
+  "Person": "中奖太简单啦"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-28 01:00",
+  "Host": "渥那模",
+  "OddStake": "受半球",
+  "Guest": "松茲瓦爾",
+  "Prefer": "渥那模",
+  "Odds": 0.95,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 17:10",
+  "Person": "飞黄腾达2"
+}

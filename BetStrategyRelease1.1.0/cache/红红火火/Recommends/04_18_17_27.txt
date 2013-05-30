@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "比U21",
+  "Time1": "04-19 01:00",
+  "Host": "佐加頓斯",
+  "OddStake": "2/2.5球",
+  "Guest": "布諾馬博亞納",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "04-18 17:27",
+  "Person": "红红火火"
+}

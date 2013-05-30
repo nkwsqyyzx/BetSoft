@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德乙",
+  "Time1": "05-29 02:30",
+  "Host": "特雷斯登",
+  "OddStake": "半/一",
+  "Guest": "奧斯拿布克",
+  "Prefer": "特雷斯登",
+  "Odds": 1.01,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 15:45",
+  "Person": "挑战者"
+}

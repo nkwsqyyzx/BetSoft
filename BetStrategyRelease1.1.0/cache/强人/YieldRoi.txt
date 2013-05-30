@@ -1,0 +1,18 @@
+{
+  "Name": "强人",
+  "LastUpdateTime": "\/Date(1369882404874+0800)\/",
+  "Person": {
+    "TotalROI": 0.8099994,
+    "CurrentROI": 5.67499971,
+    "TotalYield": 0.0110958824,
+    "CurrentYield": 0.5159091,
+    "Total": 73,
+    "Profit": 5.0,
+    "Win": 33,
+    "WinHalf": 5,
+    "Lose": 30,
+    "LoseHalf": 1,
+    "Draw": 3,
+    "Name": "强人"
+  }
+}

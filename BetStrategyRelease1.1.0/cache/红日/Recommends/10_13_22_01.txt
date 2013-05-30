@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "科威特聯",
+  "Time1": "10-13 22:50",
+  "Host": "卡德西亞",
+  "OddStake": "2.5球",
+  "Guest": "卡斯馬",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "10-13 22:01",
+  "Person": "红日"
+}

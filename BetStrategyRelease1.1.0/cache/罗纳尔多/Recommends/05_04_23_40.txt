@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德丙聯",
+  "Time1": "05-05 00:15",
+  "Host": "聖彼德斯堡澤尼特",
+  "OddStake": "球半/两球",
+  "Guest": "阿蘭尼亞瓦拉",
+  "Prefer": "聖彼德斯堡澤尼特",
+  "Odds": 0.91,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "05-04 23:40",
+  "Person": "罗纳尔多"
+}

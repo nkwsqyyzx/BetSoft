@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "友誼賽",
+  "Time1": "05-10 23:00",
+  "Host": "突尼西亞U19",
+  "OddStake": "2.5/3球",
+  "Guest": "約旦U19",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-10 22:48",
+  "Person": "金牌出击"
+}

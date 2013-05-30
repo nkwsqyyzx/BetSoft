@@ -1,0 +1,18 @@
+{
+  "Name": "鱼肝油",
+  "LastUpdateTime": "\/Date(1369882420696+0800)\/",
+  "Person": {
+    "TotalROI": 0.49,
+    "CurrentROI": 0.49,
+    "TotalYield": 0.245,
+    "CurrentYield": 0.245,
+    "Total": 2,
+    "Profit": 0.5,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 1,
+    "Draw": 0,
+    "Name": "鱼肝油"
+  }
+}

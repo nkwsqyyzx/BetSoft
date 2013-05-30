@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意丙B",
+  "Time1": "04-07 21:00",
+  "Host": "帕加尼斯",
+  "OddStake": "2/2.5球",
+  "Guest": "巴雷塔",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-07 12:01",
+  "Person": "无极旋风"
+}

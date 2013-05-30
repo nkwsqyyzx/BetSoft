@@ -1,0 +1,18 @@
+{
+  "Name": "阿麦的理想",
+  "LastUpdateTime": "\/Date(1369882419592+0800)\/",
+  "Person": {
+    "TotalROI": 12.125001,
+    "CurrentROI": 0.770000041,
+    "TotalYield": 0.116586551,
+    "CurrentYield": 0.07,
+    "Total": 104,
+    "Profit": 16.5,
+    "Win": 49,
+    "WinHalf": 8,
+    "Lose": 33,
+    "LoseHalf": 7,
+    "Draw": 7,
+    "Name": "阿麦的理想"
+  }
+}

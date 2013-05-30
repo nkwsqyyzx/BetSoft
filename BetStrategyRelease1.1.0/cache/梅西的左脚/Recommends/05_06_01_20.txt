@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "05-06 03:30",
+  "Host": "小保加",
+  "OddStake": "2球",
+  "Guest": "河床",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "05-06 01:20",
+  "Person": "梅西的左脚"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "阿夏賽",
+  "Time1": "01-13 09:10",
+  "Host": "獨立隊",
+  "OddStake": "2/2.5球",
+  "Guest": "河床",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 4,
+  "Time2": "01-13 00:11",
+  "Person": "segespa"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中超",
+  "Time1": "05-29 20:00",
+  "Host": "廣州恆大",
+  "OddStake": "球半/两球",
+  "Guest": "貴州人和",
+  "Prefer": "廣州恆大",
+  "Odds": 1.0,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 14:59",
+  "Person": "美女"
+}

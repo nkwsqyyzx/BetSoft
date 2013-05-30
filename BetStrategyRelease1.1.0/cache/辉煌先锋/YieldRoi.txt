@@ -1,0 +1,18 @@
+{
+  "Name": "辉煌先锋",
+  "LastUpdateTime": "\/Date(1369882417318+0800)\/",
+  "Person": {
+    "TotalROI": 0.415,
+    "CurrentROI": 0.415,
+    "TotalYield": 0.138333336,
+    "CurrentYield": 0.138333336,
+    "Total": 3,
+    "Profit": 0.5,
+    "Win": 0,
+    "WinHalf": 1,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "辉煌先锋"
+  }
+}

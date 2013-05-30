@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英挑盃",
+  "Time1": "02-06 03:45",
+  "Host": "真斯布洛治",
+  "OddStake": "2.5/3球",
+  "Guest": "貝羅",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-05 12:19",
+  "Person": "segespa"
+}

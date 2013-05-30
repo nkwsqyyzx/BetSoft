@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "墨西聯",
+  "Time1": "02-11 02:00",
+  "Host": "托拉卡",
+  "OddStake": "平手",
+  "Guest": "塔格雷斯",
+  "Prefer": "塔格雷斯",
+  "Odds": 0.87,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "02-11 00:19",
+  "Person": "金牌出击"
+}

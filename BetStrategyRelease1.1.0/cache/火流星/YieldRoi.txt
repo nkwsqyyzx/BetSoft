@@ -1,0 +1,18 @@
+{
+  "Name": "火流星",
+  "LastUpdateTime": "\/Date(1369882409544+0800)\/",
+  "Person": {
+    "TotalROI": 2.605,
+    "CurrentROI": 2.605,
+    "TotalYield": 0.65125,
+    "CurrentYield": 0.65125,
+    "Total": 4,
+    "Profit": 3.0,
+    "Win": 2,
+    "WinHalf": 2,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "火流星"
+  }
+}

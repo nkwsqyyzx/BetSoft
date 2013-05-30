@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德巴聯",
+  "Time1": "04-24 01:00",
+  "Host": "梅明根",
+  "OddStake": "一球",
+  "Guest": "艾斯曼尼",
+  "Prefer": "梅明根",
+  "Odds": 1.03,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-24 00:21",
+  "Person": "12388123"
+}

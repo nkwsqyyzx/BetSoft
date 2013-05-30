@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-10 01:00",
+  "Host": "艾格比治",
+  "OddStake": "2/2.5球",
+  "Guest": "布倫瑞克",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "11-09 12:10",
+  "Person": "1300100915"
+}

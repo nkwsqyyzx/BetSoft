@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威盃",
+  "Time1": "05-29 23:59",
+  "Host": "奧特格寧蘭",
+  "OddStake": "半/一",
+  "Guest": "桑德菲傑",
+  "Prefer": "桑德菲傑",
+  "Odds": 1.0,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-29 23:32",
+  "Person": "挑战者"
+}

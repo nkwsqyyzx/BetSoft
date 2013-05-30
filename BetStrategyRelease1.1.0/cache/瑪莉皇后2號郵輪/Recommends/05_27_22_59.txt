@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "羅甲",
+  "Time1": "05-28 00:30",
+  "Host": "康戈迪亞齊安",
+  "OddStake": "受半球",
+  "Guest": "潘杜歷",
+  "Prefer": "康戈迪亞齊安",
+  "Odds": 0.92,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-27 22:59",
+  "Person": "瑪莉皇后2號郵輪"
+}

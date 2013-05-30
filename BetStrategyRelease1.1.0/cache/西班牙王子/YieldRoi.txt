@@ -1,0 +1,18 @@
+{
+  "Name": "西班牙王子",
+  "LastUpdateTime": "\/Date(1369882415234+0800)\/",
+  "Person": {
+    "TotalROI": -2.159998,
+    "CurrentROI": -1.0,
+    "TotalYield": -0.0179999825,
+    "CurrentYield": -1.0,
+    "Total": 120,
+    "Profit": 4.0,
+    "Win": 49,
+    "WinHalf": 14,
+    "Lose": 52,
+    "LoseHalf": 0,
+    "Draw": 5,
+    "Name": "西班牙王子"
+  }
+}

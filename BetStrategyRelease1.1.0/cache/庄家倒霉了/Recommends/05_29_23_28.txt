@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威盃",
+  "Time1": "05-29 23:59",
+  "Host": "白蘭恩",
+  "OddStake": "3/3.5球",
+  "Guest": "莫達倫",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 2,
+  "Time2": "05-29 23:28",
+  "Person": "庄家倒霉了"
+}

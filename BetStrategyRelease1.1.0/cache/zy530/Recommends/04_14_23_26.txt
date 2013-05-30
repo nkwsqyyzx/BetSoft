@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "土超",
+  "Time1": "04-14 23:59",
+  "Host": "費倫巴治",
+  "OddStake": "2.5/3球",
+  "Guest": "伊斯基錫海斯普",
+  "Prefer": "大球",
+  "Odds": 1.02,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-14 23:26",
+  "Person": "zy530"
+}

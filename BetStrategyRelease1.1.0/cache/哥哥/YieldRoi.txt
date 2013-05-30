@@ -1,0 +1,18 @@
+{
+  "Name": "哥哥",
+  "LastUpdateTime": "\/Date(1369882403472+0800)\/",
+  "Person": {
+    "TotalROI": -2.5,
+    "CurrentROI": -2.0,
+    "TotalYield": -0.3125,
+    "CurrentYield": -0.2857143,
+    "Total": 8,
+    "Profit": -2.5,
+    "Win": 2,
+    "WinHalf": 0,
+    "Lose": 4,
+    "LoseHalf": 1,
+    "Draw": 0,
+    "Name": "哥哥"
+  }
+}

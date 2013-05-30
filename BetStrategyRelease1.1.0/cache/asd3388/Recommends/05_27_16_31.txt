@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "英冠",
+  "Time1": "05-27 22:00",
+  "Host": "水晶宮(中)",
+  "OddStake": "受平/半",
+  "Guest": "沃特福德",
+  "Prefer": "水晶宮(中)",
+  "Odds": 0.95,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 16:31",
+  "Person": "asd3388"
+}

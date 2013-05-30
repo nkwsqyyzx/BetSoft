@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐霸盃",
+  "Time1": "12-07 04:05",
+  "Host": "里昂",
+  "OddStake": "球半/两球",
+  "Guest": "伊若尼奇亞夏普爾",
+  "Prefer": "伊若尼奇亞夏普爾",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 2,
+  "Time2": "12-06 14:45",
+  "Person": "1300100915"
+}

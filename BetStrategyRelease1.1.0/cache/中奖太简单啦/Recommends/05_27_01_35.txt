@@ -7,8 +7,8 @@
   "Guest": "皇家馬德里",
   "Prefer": "大球",
   "Odds": 0.87,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "3-3",
+  "PreferResult": 5,
   "Time2": "05-27 01:35",
   "Person": "中奖太简单啦"
 }

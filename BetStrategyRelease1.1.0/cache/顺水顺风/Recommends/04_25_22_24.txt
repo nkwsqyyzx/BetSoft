@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英依超",
+  "Time1": "04-26 02:45",
+  "Host": "東土洛克",
+  "OddStake": "一球/球半",
+  "Guest": "哈士汀聯",
+  "Prefer": "東土洛克",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "04-25 22:24",
+  "Person": "顺水顺风"
+}

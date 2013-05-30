@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "里約錦標",
+  "Time1": "01-25 05:30",
+  "Host": "富明尼斯RJ",
+  "OddStake": "一球/球半",
+  "Guest": "奧拉里亞",
+  "Prefer": "富明尼斯RJ",
+  "Odds": 0.99,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-24 23:41",
+  "Person": "罗纳尔多"
+}

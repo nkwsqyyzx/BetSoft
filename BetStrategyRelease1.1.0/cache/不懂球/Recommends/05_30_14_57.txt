@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威盃",
+  "Time1": "05-30 23:59",
+  "Host": "費萊克羅力",
+  "OddStake": "3/3.5球",
+  "Guest": "斯達",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 14:57",
+  "Person": "不懂球"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德乙",
+  "Time1": "12-18 03:15",
+  "Host": "布倫瑞克",
+  "OddStake": "2.5球",
+  "Guest": "柏林聯",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "4-3",
+  "PreferResult": 5,
+  "Time2": "12-18 00:34",
+  "Person": "无聊玩玩"
+}

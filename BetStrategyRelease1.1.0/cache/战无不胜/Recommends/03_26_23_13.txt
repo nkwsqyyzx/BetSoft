@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐洲預選",
+  "Time1": "03-26 23:59",
+  "Host": "阿美尼亞",
+  "OddStake": "受平/半",
+  "Guest": "捷克",
+  "Prefer": "阿美尼亞",
+  "Odds": 1.04,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "03-26 23:13",
+  "Person": "战无不胜"
+}

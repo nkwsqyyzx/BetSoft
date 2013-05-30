@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-29 02:45",
+  "Host": "土耳其(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "拉脫維亞",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 09:57",
+  "Person": "龙缘"
+}

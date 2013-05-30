@@ -1,0 +1,18 @@
+{
+  "Name": "上上签",
+  "LastUpdateTime": "\/Date(1369882391712+0800)\/",
+  "Person": {
+    "TotalROI": 2.78,
+    "CurrentROI": 2.78,
+    "TotalYield": 0.9266667,
+    "CurrentYield": 0.9266667,
+    "Total": 3,
+    "Profit": 3.0,
+    "Win": 3,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "上上签"
+  }
+}

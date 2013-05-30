@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "非國盃",
+  "Time1": "02-06 23:00",
+  "Host": "馬里(中)",
+  "OddStake": "受平/半",
+  "Guest": "尼日利亞",
+  "Prefer": "馬里(中)",
+  "Odds": 0.97,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "02-06 22:36",
+  "Person": "云里金刚虎"
+}

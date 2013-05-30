@@ -1,0 +1,18 @@
+{
+  "Name": "人在美洲",
+  "LastUpdateTime": "\/Date(1369882398752+0800)\/",
+  "Person": {
+    "TotalROI": 5.44500351,
+    "CurrentROI": 5.92000055,
+    "TotalYield": 0.0388928838,
+    "CurrentYield": 0.348235339,
+    "Total": 140,
+    "Profit": 15.0,
+    "Win": 54,
+    "WinHalf": 23,
+    "Lose": 49,
+    "LoseHalf": 3,
+    "Draw": 9,
+    "Name": "人在美洲"
+  }
+}

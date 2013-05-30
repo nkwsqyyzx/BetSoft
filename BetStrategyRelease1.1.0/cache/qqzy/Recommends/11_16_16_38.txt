@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西乙",
+  "Time1": "11-17 04:00",
+  "Host": "希杭",
+  "OddStake": "半/一",
+  "Guest": "邦弗拉甸拿",
+  "Prefer": "希杭",
+  "Odds": 0.93,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "11-16 16:38",
+  "Person": "qqzy"
+}

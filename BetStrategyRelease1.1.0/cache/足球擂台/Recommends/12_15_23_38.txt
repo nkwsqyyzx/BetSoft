@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "巴拉甲春",
+  "Time1": "12-16 04:15",
+  "Host": "卡拉普瓜",
+  "OddStake": "受平/半",
+  "Guest": "奧林匹亞",
+  "Prefer": "卡拉普瓜",
+  "Odds": 1.04,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "12-15 23:38",
+  "Person": "足球擂台"
+}

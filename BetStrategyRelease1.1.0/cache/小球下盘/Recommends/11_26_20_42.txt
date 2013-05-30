@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄超",
+  "Time1": "11-26 21:45",
+  "Host": "魯賓卡讚",
+  "OddStake": "球半",
+  "Guest": "諾夫哥羅德",
+  "Prefer": "諾夫哥羅德",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "11-26 20:42",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "伊朗甲",
+  "Time1": "03-05 19:30",
+  "Host": "納薩及瑪贊達蘭",
+  "OddStake": "半/一",
+  "Guest": "艾塔卡葛根",
+  "Prefer": "艾塔卡葛根",
+  "Odds": 0.98,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-05 18:57",
+  "Person": "爽爽"
+}

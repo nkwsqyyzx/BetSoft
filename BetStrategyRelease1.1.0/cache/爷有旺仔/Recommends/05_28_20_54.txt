@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "羅甲",
+  "Time1": "05-28 23:00",
+  "Host": "布格勒斯特星隊",
+  "OddStake": "一球",
+  "Guest": "巴索夫",
+  "Prefer": "布格勒斯特星隊",
+  "Odds": 0.88,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "05-28 20:54",
+  "Person": "爷有旺仔"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "",
+  "Time1": "11-03 19:30",
+  "Host": "蘇維杜夫",
+  "OddStake": "受半/一",
+  "Guest": "莫斯科斯巴達",
+  "Prefer": "莫斯科斯巴達",
+  "Odds": 1.11,
+  "Result": "0-5",
+  "PreferResult": 5,
+  "Time2": "11-03 12:04",
+  "Person": "lxf1234"
+}

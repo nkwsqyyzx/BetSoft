@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "澳職聯",
+  "Time1": "11-09 16:30",
+  "Host": "墨爾本赫爾",
+  "OddStake": "受半球",
+  "Guest": "布里斯班獅吼",
+  "Prefer": "墨爾本赫爾",
+  "Odds": 0.8,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "11-09 12:08",
+  "Person": "顺水顺风"
+}

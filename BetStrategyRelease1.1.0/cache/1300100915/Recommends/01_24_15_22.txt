@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "巴聖錦標",
+  "Time1": "01-25 05:30",
+  "Host": "邁拉索爾",
+  "OddStake": "2.5/3球",
+  "Guest": "巴巴倫斯",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "01-24 15:22",
+  "Person": "1300100915"
+}

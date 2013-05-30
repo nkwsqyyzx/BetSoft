@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "羅甲",
+  "Time1": "02-23 02:00",
+  "Host": "加斯梅登",
+  "OddStake": "2.5球",
+  "Guest": "哥利亞",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-23 00:09",
+  "Person": "小球下盘"
+}

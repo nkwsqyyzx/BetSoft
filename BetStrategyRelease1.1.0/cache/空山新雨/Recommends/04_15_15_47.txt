@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "伊朗超",
+  "Time1": "04-15 22:30",
+  "Host": "泰拉克托",
+  "OddStake": "半球",
+  "Guest": "弗蘭候薩斯坦",
+  "Prefer": "弗蘭候薩斯坦",
+  "Odds": 0.81,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-15 15:47",
+  "Person": "空山新雨"
+}

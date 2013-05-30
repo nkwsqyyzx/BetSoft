@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德乙",
+  "Time1": "03-16 01:00",
+  "Host": "杜伊斯堡",
+  "OddStake": "平手",
+  "Guest": "科特布斯",
+  "Prefer": "科特布斯",
+  "Odds": 1.02,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-15 21:27",
+  "Person": "顺水顺风"
+}

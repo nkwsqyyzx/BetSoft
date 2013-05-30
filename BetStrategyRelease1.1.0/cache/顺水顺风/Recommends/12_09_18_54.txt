@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷甲",
+  "Time1": "12-09 19:30",
+  "Host": "海倫維恩",
+  "OddStake": "一球",
+  "Guest": "洛達",
+  "Prefer": "洛達",
+  "Odds": 0.95,
+  "Result": "4-4",
+  "PreferResult": 5,
+  "Time2": "12-09 18:54",
+  "Person": "顺水顺风"
+}

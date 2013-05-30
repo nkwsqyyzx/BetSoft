@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-17 01:00",
+  "Host": "特雷斯登",
+  "OddStake": "平/半",
+  "Guest": "FSV法蘭克福",
+  "Prefer": "FSV法蘭克福",
+  "Odds": 1.04,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-16 19:33",
+  "Person": "无聊玩玩"
+}

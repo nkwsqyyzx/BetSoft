@@ -1,0 +1,18 @@
+{
+  "Name": "lijian520",
+  "LastUpdateTime": "\/Date(1369882390598+0800)\/",
+  "Person": {
+    "TotalROI": -5.11999941,
+    "CurrentROI": -2.83,
+    "TotalYield": -0.232727244,
+    "CurrentYield": -0.35375,
+    "Total": 22,
+    "Profit": -4.5,
+    "Win": 7,
+    "WinHalf": 2,
+    "Lose": 12,
+    "LoseHalf": 1,
+    "Draw": 0,
+    "Name": "lijian520"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐洲預選",
+  "Time1": "10-13 02:45",
+  "Host": "希臘",
+  "OddStake": "平/半",
+  "Guest": "波斯尼亞",
+  "Prefer": "波斯尼亞",
+  "Odds": 0.93,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "10-12 14:23",
+  "Person": "龙缘"
+}

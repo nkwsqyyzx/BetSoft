@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德甲",
+  "Time1": "05-18 21:30",
+  "Host": "紐倫堡",
+  "OddStake": "平/半",
+  "Guest": "雲達不萊梅",
+  "Prefer": "雲達不萊梅",
+  "Odds": 0.89,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "05-18 20:55",
+  "Person": "顺水顺风"
+}

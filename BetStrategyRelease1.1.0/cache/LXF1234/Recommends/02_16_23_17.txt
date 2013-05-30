@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "02-17 03:45",
+  "Host": "PSV燕豪芬",
+  "OddStake": "两球",
+  "Guest": "烏德勒支",
+  "Prefer": "烏德勒支",
+  "Odds": 0.96,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-16 23:17",
+  "Person": "lxf1234"
+}

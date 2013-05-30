@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英甲",
+  "Time1": "10-30 03:45",
+  "Host": "謝菲爾德聯",
+  "OddStake": "半/一",
+  "Guest": "樸茨茅夫",
+  "Prefer": "謝菲爾德聯",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "10-30 02:50",
+  "Person": "无聊玩玩"
+}

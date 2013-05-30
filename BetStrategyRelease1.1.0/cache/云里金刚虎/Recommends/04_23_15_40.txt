@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "埃及甲",
+  "Time1": "04-23 23:45",
+  "Host": "哈比",
+  "OddStake": "受平/半",
+  "Guest": "達克爾野",
+  "Prefer": "哈比",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-23 15:40",
+  "Person": "云里金刚虎"
+}

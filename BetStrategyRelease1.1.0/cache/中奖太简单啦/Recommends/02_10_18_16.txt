@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "西甲",
+  "Time1": "02-10 19:00",
+  "Host": "巴塞羅那",
+  "OddStake": "三球",
+  "Guest": "加泰",
+  "Prefer": "加泰",
+  "Odds": 0.8,
+  "Result": "6-1",
+  "PreferResult": 1,
+  "Time2": "02-10 18:16",
+  "Person": "中奖太简单啦"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "俄超",
+  "Time1": "05-10 23:59",
+  "Host": "莫斯科斯巴達",
+  "OddStake": "2.5球",
+  "Guest": "蘇維杜夫",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-10 12:35",
+  "Person": "12388123"
+}

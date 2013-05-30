@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "埃及甲",
+  "Time1": "02-13 23:00",
+  "Host": "紮馬雷克",
+  "OddStake": "2/2.5球",
+  "Guest": "達克爾野",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-13 19:31",
+  "Person": "segespa"
+}

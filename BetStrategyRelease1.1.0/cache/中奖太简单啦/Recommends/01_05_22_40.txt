@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英足總盃",
+  "Time1": "01-05 23:00",
+  "Host": "修咸頓",
+  "OddStake": "受一球",
+  "Guest": "切爾西",
+  "Prefer": "切爾西",
+  "Odds": 1.01,
+  "Result": "1-5",
+  "PreferResult": 5,
+  "Time2": "01-05 22:40",
+  "Person": "中奖太简单啦"
+}

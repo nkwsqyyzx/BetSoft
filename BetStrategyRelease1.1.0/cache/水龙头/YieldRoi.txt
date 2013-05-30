@@ -1,0 +1,18 @@
+{
+  "Name": "水龙头",
+  "LastUpdateTime": "\/Date(1369882409398+0800)\/",
+  "Person": {
+    "TotalROI": -2.78499985,
+    "CurrentROI": -3.55499983,
+    "TotalYield": -0.0870312452,
+    "CurrentYield": -0.355499983,
+    "Total": 32,
+    "Profit": -1.5,
+    "Win": 12,
+    "WinHalf": 1,
+    "Lose": 14,
+    "LoseHalf": 0,
+    "Draw": 4,
+    "Name": "水龙头"
+  }
+}

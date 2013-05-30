@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-09 04:05",
+  "Host": "利華古遜",
+  "OddStake": "3/3.5球",
+  "Guest": "維也納迅速",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "3-0",
+  "PreferResult": 2,
+  "Time2": "11-08 21:35",
+  "Person": "中奖"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德甲",
+  "Time1": "11-28 03:00",
+  "Host": "漢堡",
+  "OddStake": "受半球",
+  "Guest": "史浩克04",
+  "Prefer": "漢堡",
+  "Odds": 1.1,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "11-27 12:19",
+  "Person": "天之骄子"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "自由盃",
+  "Time1": "02-28 09:00",
+  "Host": "華奇巴托",
+  "OddStake": "2.5球",
+  "Guest": "富明尼斯RJ",
+  "Prefer": "小球",
+  "Odds": 0.81,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "02-27 22:00",
+  "Person": "红日"
+}

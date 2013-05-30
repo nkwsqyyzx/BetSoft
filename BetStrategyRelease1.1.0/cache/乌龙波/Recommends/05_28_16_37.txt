@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西乙",
+  "Time1": "05-29 08:50",
+  "Host": "伯拉根森",
+  "OddStake": "2.5球",
+  "Guest": "博阿",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 16:37",
+  "Person": "乌龙波"
+}

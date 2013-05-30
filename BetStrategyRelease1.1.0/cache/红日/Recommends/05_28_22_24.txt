@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿乙",
+  "Time1": "05-29 03:00",
+  "Host": "聯合隊",
+  "OddStake": "受半球",
+  "Guest": "甘拿斯亞",
+  "Prefer": "甘拿斯亞",
+  "Odds": 0.9,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 22:24",
+  "Person": "红日"
+}

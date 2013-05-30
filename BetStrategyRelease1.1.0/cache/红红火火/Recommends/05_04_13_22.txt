@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "05-04 19:45",
+  "Host": "諾定咸森林",
+  "OddStake": "2.5球",
+  "Guest": "萊切斯特",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "05-04 13:22",
+  "Person": "红红火火"
+}

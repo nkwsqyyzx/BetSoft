@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳女聯",
+  "Time1": "01-20 13:00",
+  "Host": "珀斯光榮女足",
+  "OddStake": "3.5球",
+  "Guest": "墨爾本勝利女足",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "01-20 12:30",
+  "Person": "wintion"
+}

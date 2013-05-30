@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "丹乙西",
+  "Time1": "05-29 01:00",
+  "Host": "斯坎訥堡",
+  "OddStake": "3/3.5球",
+  "Guest": "史科巴砍",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "05-28 23:36",
+  "Person": "mozaozi"
+}

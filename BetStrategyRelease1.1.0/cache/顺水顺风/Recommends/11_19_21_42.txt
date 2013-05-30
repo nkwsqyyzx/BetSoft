@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄甲",
+  "Time1": "11-19 22:30",
+  "Host": "莫斯科魚雷",
+  "OddStake": "受半球",
+  "Guest": "烏拉爾",
+  "Prefer": "莫斯科魚雷",
+  "Odds": 0.98,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "11-19 21:42",
+  "Person": "顺水顺风"
+}

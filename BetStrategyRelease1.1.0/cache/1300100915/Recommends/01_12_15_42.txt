@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳職聯",
+  "Time1": "01-12 16:45",
+  "Host": "紐卡斯托",
+  "OddStake": "受平/半",
+  "Guest": "布里斯班獅吼",
+  "Prefer": "布里斯班獅吼",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-12 15:42",
+  "Person": "1300100915"
+}

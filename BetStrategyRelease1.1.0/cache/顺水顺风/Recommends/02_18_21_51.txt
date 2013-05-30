@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英依超",
+  "Time1": "02-19 03:45",
+  "Host": "威爾德斯通",
+  "OddStake": "一球/球半",
+  "Guest": "雷威斯",
+  "Prefer": "威爾德斯通",
+  "Odds": 0.81,
+  "Result": "6-1",
+  "PreferResult": 5,
+  "Time2": "02-18 21:51",
+  "Person": "顺水顺风"
+}

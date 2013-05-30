@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英非北",
+  "Time1": "01-09 03:45",
+  "Host": "古斯雷",
+  "OddStake": "球半",
+  "Guest": "柯爾比",
+  "Prefer": "柯爾比",
+  "Odds": 0.94,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "01-08 18:25",
+  "Person": "杀手47"
+}

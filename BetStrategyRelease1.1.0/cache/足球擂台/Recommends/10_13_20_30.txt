@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "阿乙",
+  "Time1": "10-14 03:10",
+  "Host": "防衛者",
+  "OddStake": "2/2.5球",
+  "Guest": "聯合隊",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "10-13 20:30",
+  "Person": "足球擂台"
+}

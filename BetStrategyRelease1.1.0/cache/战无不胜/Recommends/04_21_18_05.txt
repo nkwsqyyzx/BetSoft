@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "04-21 18:30",
+  "Host": "國際米蘭",
+  "OddStake": "平/半",
+  "Guest": "帕爾馬",
+  "Prefer": "帕爾馬",
+  "Odds": 1.08,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-21 18:05",
+  "Person": "战无不胜"
+}

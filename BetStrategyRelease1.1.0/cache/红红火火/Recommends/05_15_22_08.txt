@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞青甲北",
+  "Time1": "05-15 23:00",
+  "Host": "阿西里斯卡U21",
+  "OddStake": "3.5球",
+  "Guest": "天狼星U21",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-15 22:08",
+  "Person": "红红火火"
+}

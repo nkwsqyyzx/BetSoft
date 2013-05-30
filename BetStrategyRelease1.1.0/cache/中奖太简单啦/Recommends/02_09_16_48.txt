@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "02-09 20:45",
+  "Host": "托特納姆熱刺",
+  "OddStake": "半/一",
+  "Guest": "紐卡素",
+  "Prefer": "托特納姆熱刺",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "02-09 16:48",
+  "Person": "中奖太简单啦"
+}

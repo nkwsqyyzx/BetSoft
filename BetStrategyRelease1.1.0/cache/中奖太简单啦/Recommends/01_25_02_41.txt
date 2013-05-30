@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "01-25 03:00",
+  "Host": "皇家貝迪斯",
+  "OddStake": "受平/半",
+  "Guest": "馬德里體育會",
+  "Prefer": "皇家貝迪斯",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "01-25 02:41",
+  "Person": "中奖太简单啦"
+}

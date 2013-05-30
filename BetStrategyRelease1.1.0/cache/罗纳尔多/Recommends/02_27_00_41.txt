@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英甲",
+  "Time1": "02-27 03:45",
+  "Host": "高車士打",
+  "OddStake": "受平/半",
+  "Guest": "伊奧華",
+  "Prefer": "伊奧華",
+  "Odds": 1.14,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-27 00:41",
+  "Person": "罗纳尔多"
+}

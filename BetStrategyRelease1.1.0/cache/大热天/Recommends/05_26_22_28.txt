@@ -7,8 +7,8 @@
   "Guest": "阿爾米蘭提布朗",
   "Prefer": "小球",
   "Odds": 0.8,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "1-0",
+  "PreferResult": 5,
   "Time2": "05-26 22:28",
   "Person": "大热天"
 }

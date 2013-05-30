@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "土超",
+  "Time1": "01-26 19:30",
+  "Host": "伊斯坦堡普野社希爾",
+  "OddStake": "受平/半",
+  "Guest": "柏薩士邦",
+  "Prefer": "伊斯坦堡普野社希爾",
+  "Odds": 0.82,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "01-26 12:04",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "奧乙",
+  "Time1": "05-11 00:30",
+  "Host": "聖普爾頓",
+  "OddStake": "2.5/3球",
+  "Guest": "奧地利路斯登洛",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-10 15:06",
+  "Person": "1300100915"
+}

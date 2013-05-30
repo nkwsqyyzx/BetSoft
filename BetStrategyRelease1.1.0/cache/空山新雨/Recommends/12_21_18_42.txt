@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英乙",
+  "Time1": "12-22 03:45",
+  "Host": "修安聯",
+  "OddStake": "平/半",
+  "Guest": "車士打菲特",
+  "Prefer": "車士打菲特",
+  "Odds": 1.02,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "12-21 18:42",
+  "Person": "空山新雨"
+}

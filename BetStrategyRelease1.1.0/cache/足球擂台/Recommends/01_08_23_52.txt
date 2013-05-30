@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法丙",
+  "Time1": "01-09 02:30",
+  "Host": "契堡格",
+  "OddStake": "2.5球",
+  "Guest": "布羅尼",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "01-08 23:52",
+  "Person": "足球擂台"
+}

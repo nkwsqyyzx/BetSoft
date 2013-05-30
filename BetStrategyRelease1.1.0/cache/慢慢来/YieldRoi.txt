@@ -1,0 +1,18 @@
+{
+  "Name": "慢慢来",
+  "LastUpdateTime": "\/Date(1369882405043+0800)\/",
+  "Person": {
+    "TotalROI": 0.8,
+    "CurrentROI": 0.8,
+    "TotalYield": 0.8,
+    "CurrentYield": 0.8,
+    "Total": 1,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "慢慢来"
+  }
+}

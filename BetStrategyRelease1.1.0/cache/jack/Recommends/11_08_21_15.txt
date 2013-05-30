@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐U19冠",
+  "Time1": "11-09 03:00",
+  "Host": "曼城U19",
+  "OddStake": "平/半",
+  "Guest": "祖雲達斯U19",
+  "Prefer": "祖雲達斯U19",
+  "Odds": 0.84,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "11-08 21:15",
+  "Person": "jack"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西乙",
+  "Time1": "02-05 04:00",
+  "Host": "皇家馬德里卡斯蒂亞",
+  "OddStake": "平手",
+  "Guest": "艾美利亞",
+  "Prefer": "皇家馬德里卡斯蒂亞",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "02-04 21:53",
+  "Person": "金牌出击"
+}

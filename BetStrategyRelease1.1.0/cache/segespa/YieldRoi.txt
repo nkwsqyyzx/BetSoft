@@ -1,0 +1,18 @@
+{
+  "Name": "segespa",
+  "LastUpdateTime": "\/Date(1369882390900+0800)\/",
+  "Person": {
+    "TotalROI": -19.23,
+    "CurrentROI": -8.25,
+    "TotalYield": -0.09289855,
+    "CurrentYield": -0.515625,
+    "Total": 207,
+    "Profit": -13.5,
+    "Win": 66,
+    "WinHalf": 29,
+    "Lose": 91,
+    "LoseHalf": 6,
+    "Draw": 15,
+    "Name": "segespa"
+  }
+}

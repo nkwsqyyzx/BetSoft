@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "哥倫盃",
+  "Time1": "10-18 09:00",
+  "Host": "奇科",
+  "OddStake": "平/半",
+  "Guest": "國家體育會",
+  "Prefer": "奇科",
+  "Odds": 1.02,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "10-18 01:39",
+  "Person": "梅西的左脚"
+}

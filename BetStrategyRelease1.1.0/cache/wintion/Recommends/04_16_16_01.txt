@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "友誼賽",
+  "Time1": "04-16 17:00",
+  "Host": "意大利U16(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "捷克U16",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "04-16 16:01",
+  "Person": "wintion"
+}

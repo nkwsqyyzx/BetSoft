@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西乙",
+  "Time1": "05-29 08:50",
+  "Host": "阿拉皮拉卡",
+  "OddStake": "受平/半",
+  "Guest": "彭美拉斯",
+  "Prefer": "彭美拉斯",
+  "Odds": 0.91,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "05-29 07:53",
+  "Person": "瑪莉皇后2號郵輪"
+}

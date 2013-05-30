@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "荷青聯",
+  "Time1": "04-09 00:30",
+  "Host": "荷華高斯青年隊",
+  "OddStake": "半球",
+  "Guest": "高寧根青年隊",
+  "Prefer": "高寧根青年隊",
+  "Odds": 0.9,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "04-08 17:24",
+  "Person": "小球下盘"
+}

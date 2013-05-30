@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "日職聯",
+  "Time1": "05-29 18:00",
+  "Host": "廣島三箭",
+  "OddStake": "半球",
+  "Guest": "柏雷素爾",
+  "Prefer": "廣島三箭",
+  "Odds": 1.02,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 16:56",
+  "Person": "四爷"
+}

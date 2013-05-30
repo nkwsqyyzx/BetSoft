@@ -1,0 +1,18 @@
+{
+  "Name": "绿茵红魔",
+  "LastUpdateTime": "\/Date(1369882413865+0800)\/",
+  "Person": {
+    "TotalROI": 12.0999994,
+    "CurrentROI": -1.0,
+    "TotalYield": 0.145783126,
+    "CurrentYield": -0.07692308,
+    "Total": 83,
+    "Profit": 16.5,
+    "Win": 43,
+    "WinHalf": 6,
+    "Lose": 28,
+    "LoseHalf": 3,
+    "Draw": 3,
+    "Name": "绿茵红魔"
+  }
+}

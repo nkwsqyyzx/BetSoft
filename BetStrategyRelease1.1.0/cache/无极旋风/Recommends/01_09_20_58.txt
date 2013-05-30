@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "巴聖青盃",
+  "Time1": "01-09 23:59",
+  "Host": "AA法林明高青年隊U19",
+  "OddStake": "3球",
+  "Guest": "維拉諾瓦青年隊U19",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "01-09 20:58",
+  "Person": "无极旋风"
+}

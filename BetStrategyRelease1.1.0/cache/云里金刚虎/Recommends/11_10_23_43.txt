@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "波蘭乙",
+  "Time1": "11-10 23:59",
+  "Host": "比托姆",
+  "OddStake": "受半球",
+  "Guest": "克雷亞茲",
+  "Prefer": "克雷亞茲",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-10 23:43",
+  "Person": "云里金刚虎"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "格魯超",
+  "Time1": "04-14 22:00",
+  "Host": "賽塔芙尼",
+  "OddStake": "2.5球",
+  "Guest": "提比利錫戴拿模",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-14 20:15",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "友誼賽",
+  "Time1": "10-12 21:00",
+  "Host": "巴素利(中)",
+  "OddStake": "球半",
+  "Guest": "韋倫",
+  "Prefer": "韋倫",
+  "Odds": 0.82,
+  "Result": "7-0",
+  "PreferResult": 1,
+  "Time2": "10-12 17:22",
+  "Person": "zy530"
+}

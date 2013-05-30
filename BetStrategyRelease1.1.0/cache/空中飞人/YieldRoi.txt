@@ -1,0 +1,18 @@
+{
+  "Name": "空中飞人",
+  "LastUpdateTime": "\/Date(1369882411323+0800)\/",
+  "Person": {
+    "TotalROI": -4.83999968,
+    "CurrentROI": -6.25,
+    "TotalYield": -0.268888861,
+    "CurrentYield": -0.390625,
+    "Total": 18,
+    "Profit": -4.0,
+    "Win": 5,
+    "WinHalf": 2,
+    "Lose": 10,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "空中飞人"
+  }
+}

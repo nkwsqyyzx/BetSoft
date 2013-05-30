@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "马来超",
+  "Time1": "05-07 20:45",
+  "Host": "雪蘭莪州發展局FC",
+  "OddStake": "半球",
+  "Guest": "瓜拉丁加奴足球俱樂部",
+  "Prefer": "雪蘭莪州發展局FC",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-07 15:26",
+  "Person": "罗纳尔多"
+}

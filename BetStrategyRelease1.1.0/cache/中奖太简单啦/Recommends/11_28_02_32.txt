@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德甲",
+  "Time1": "11-28 03:00",
+  "Host": "漢堡",
+  "OddStake": "受半球",
+  "Guest": "史浩克04",
+  "Prefer": "史浩克04",
+  "Odds": 0.88,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "11-28 02:32",
+  "Person": "中奖太简单啦"
+}

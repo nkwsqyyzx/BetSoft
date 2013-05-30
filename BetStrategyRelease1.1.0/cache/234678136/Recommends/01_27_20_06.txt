@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "厄瓜甲",
+  "Time1": "01-28 01:00",
+  "Host": "國家報隊",
+  "OddStake": "2/2.5球",
+  "Guest": "庫恩卡",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "01-27 20:06",
+  "Person": "234678136"
+}

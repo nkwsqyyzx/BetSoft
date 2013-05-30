@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土超",
+  "Time1": "02-25 01:00",
+  "Host": "費倫巴治",
+  "OddStake": "2.5/3球",
+  "Guest": "卡斯帕薩",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-24 22:43",
+  "Person": "空山新雨"
+}

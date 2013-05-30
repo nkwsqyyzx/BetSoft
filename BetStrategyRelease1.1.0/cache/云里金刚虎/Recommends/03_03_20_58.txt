@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "葡甲",
+  "Time1": "03-03 23:59",
+  "Host": "費雷姆德",
+  "OddStake": "2/2.5球",
+  "Guest": "科維拉",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "03-03 20:58",
+  "Person": "云里金刚虎"
+}

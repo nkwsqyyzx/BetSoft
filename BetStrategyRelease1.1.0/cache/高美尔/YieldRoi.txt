@@ -1,0 +1,18 @@
+{
+  "Name": "高美尔",
+  "LastUpdateTime": "\/Date(1369882420633+0800)\/",
+  "Person": {
+    "TotalROI": 5.4,
+    "CurrentROI": 5.4,
+    "TotalYield": 0.41538462,
+    "CurrentYield": 0.41538462,
+    "Total": 13,
+    "Profit": 6.0,
+    "Win": 8,
+    "WinHalf": 0,
+    "Lose": 2,
+    "LoseHalf": 0,
+    "Draw": 1,
+    "Name": "高美尔"
+  }
+}

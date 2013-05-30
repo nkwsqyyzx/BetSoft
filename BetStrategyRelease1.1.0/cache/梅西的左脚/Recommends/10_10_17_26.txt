@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "日皇盃",
+  "Time1": "10-10 18:00",
+  "Host": "大宮松鼠(中)",
+  "OddStake": "半球",
+  "Guest": "福岡黃蜂",
+  "Prefer": "福岡黃蜂",
+  "Odds": 0.83,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "10-10 17:26",
+  "Person": "梅西的左脚"
+}

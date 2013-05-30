@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德國盃",
+  "Time1": "12-20 02:00",
+  "Host": "波鴻",
+  "OddStake": "平手",
+  "Guest": "慕尼黑1860",
+  "Prefer": "慕尼黑1860",
+  "Odds": 1.03,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "12-19 23:55",
+  "Person": "梅西的左脚"
+}

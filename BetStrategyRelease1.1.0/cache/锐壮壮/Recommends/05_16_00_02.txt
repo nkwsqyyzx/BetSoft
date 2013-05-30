@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "希臘超",
+  "Time1": "05-16 00:15",
+  "Host": "亞圖米圖斯",
+  "OddStake": "平手",
+  "Guest": "PAOK沙朗歷基",
+  "Prefer": "亞圖米圖斯",
+  "Odds": 1.05,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-16 00:02",
+  "Person": "锐壮壮"
+}

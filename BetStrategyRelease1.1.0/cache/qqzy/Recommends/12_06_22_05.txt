@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐霸盃",
+  "Time1": "12-07 02:00",
+  "Host": "特拉維夫夏普爾",
+  "OddStake": "2/2.5球",
+  "Guest": "科英布拉大學",
+  "Prefer": "小球",
+  "Odds": 1.06,
+  "Result": "2-0",
+  "PreferResult": 4,
+  "Time2": "12-06 22:05",
+  "Person": "qqzy"
+}

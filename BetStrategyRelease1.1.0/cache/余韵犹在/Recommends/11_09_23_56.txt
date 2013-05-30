@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "奧乙",
+  "Time1": "11-10 01:30",
+  "Host": "奧地利路斯登洛",
+  "OddStake": "球半",
+  "Guest": "BW林茲",
+  "Prefer": "奧地利路斯登洛",
+  "Odds": 0.85,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-09 23:56",
+  "Person": "余韵犹在"
+}

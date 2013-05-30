@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "02-17 19:30",
+  "Host": "維迪斯",
+  "OddStake": "2.5/3球",
+  "Guest": "高寧根",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-17 12:08",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "顺水顺风",
+  "LastUpdateTime": "\/Date(1369882420169+0800)\/",
+  "Person": {
+    "TotalROI": 6.294999,
+    "CurrentROI": -3.61000013,
+    "TotalYield": 0.04141447,
+    "CurrentYield": -0.5157143,
+    "Total": 152,
+    "Profit": 13.0,
+    "Win": 65,
+    "WinHalf": 16,
+    "Lose": 55,
+    "LoseHalf": 10,
+    "Draw": 6,
+    "Name": "顺水顺风"
+  }
+}

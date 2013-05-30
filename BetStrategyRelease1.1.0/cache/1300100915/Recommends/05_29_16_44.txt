@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-29 23:30",
+  "Host": "RB萊比錫",
+  "OddStake": "2.5球",
+  "Guest": "羅塔",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 16:44",
+  "Person": "1300100915"
+}

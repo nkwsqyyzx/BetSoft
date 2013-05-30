@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐冠盃",
+  "Time1": "10-24 02:45",
+  "Host": "波里索夫巴迪(中)",
+  "OddStake": "2.5球",
+  "Guest": "華倫西亞",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "10-23 21:04",
+  "Person": "小球下盘"
+}

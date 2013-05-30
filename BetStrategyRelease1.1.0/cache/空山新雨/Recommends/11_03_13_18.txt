@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德甲",
+  "Time1": "11-03 22:30",
+  "Host": "紐倫堡",
+  "OddStake": "平手",
+  "Guest": "沃爾夫斯堡",
+  "Prefer": "沃爾夫斯堡",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-03 13:18",
+  "Person": "空山新雨"
+}

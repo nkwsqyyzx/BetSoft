@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "烏克U21",
+  "Time1": "04-26 19:00",
+  "Host": "查諾莫斯U21",
+  "OddStake": "受一球",
+  "Guest": "伊利捷維斯U21",
+  "Prefer": "伊利捷維斯U21",
+  "Odds": 0.88,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "04-26 18:07",
+  "Person": "罗纳尔多"
+}

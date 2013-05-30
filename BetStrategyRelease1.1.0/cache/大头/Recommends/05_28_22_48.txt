@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美公開盃",
+  "Time1": "05-29 07:35",
+  "Host": "羅徹斯特犀牛",
+  "OddStake": "受半球",
+  "Guest": "新英倫革命",
+  "Prefer": "羅徹斯特犀牛",
+  "Odds": 0.82,
+  "Result": "1-5",
+  "PreferResult": 1,
+  "Time2": "05-28 22:48",
+  "Person": "大头"
+}

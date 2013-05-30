@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英非北",
+  "Time1": "10-18 02:45",
+  "Host": "車士打足球俱樂部",
+  "OddStake": "3球",
+  "Guest": "布拉德福德派克大街",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "10-17 21:51",
+  "Person": "金牌出击"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "格雷納盃",
+  "Time1": "01-10 23:00",
+  "Host": "聖彼德斯堡U18",
+  "OddStake": "受半/一",
+  "Guest": "意大利U18",
+  "Prefer": "意大利U18",
+  "Odds": 1.0,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "01-10 19:08",
+  "Person": "ronapigu"
+}

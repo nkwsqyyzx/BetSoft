@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "意甲",
+  "Time1": "04-22 02:45",
+  "Host": "祖雲達斯",
+  "OddStake": "半/一",
+  "Guest": "AC米蘭",
+  "Prefer": "AC米蘭",
+  "Odds": 0.94,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "04-22 02:21",
+  "Person": "罗纳尔多"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法丙",
+  "Time1": "11-10 03:00",
+  "Host": "魯茲那克",
+  "OddStake": "2/2.5球",
+  "Guest": "科爾馬",
+  "Prefer": "大球",
+  "Odds": 1.09,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "11-09 22:40",
+  "Person": "足球擂台"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "德甲",
+  "Time1": "10-27 21:30",
+  "Host": "緬恩斯",
+  "OddStake": "平/半",
+  "Guest": "賀芬咸",
+  "Prefer": "賀芬咸",
+  "Odds": 0.84,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "10-27 20:54",
+  "Person": "无聊玩玩"
+}

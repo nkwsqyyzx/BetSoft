@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英超",
+  "Time1": "03-16 20:45",
+  "Host": "愛華頓",
+  "OddStake": "受半球",
+  "Guest": "曼城",
+  "Prefer": "愛華頓",
+  "Odds": 0.87,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "03-16 19:53",
+  "Person": "战无不胜"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德甲",
+  "Time1": "04-21 00:30",
+  "Host": "雲達不萊梅",
+  "OddStake": "半球",
+  "Guest": "沃爾夫斯堡",
+  "Prefer": "沃爾夫斯堡",
+  "Odds": 0.91,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "04-21 00:18",
+  "Person": "战无不胜"
+}

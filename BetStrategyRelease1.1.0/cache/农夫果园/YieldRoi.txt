@@ -1,0 +1,18 @@
+{
+  "Name": "农夫果园",
+  "LastUpdateTime": "\/Date(1369882402577+0800)\/",
+  "Person": {
+    "TotalROI": 4.525001,
+    "CurrentROI": 7.49000025,
+    "TotalYield": 0.06753733,
+    "CurrentYield": 0.499333352,
+    "Total": 67,
+    "Profit": 9.0,
+    "Win": 32,
+    "WinHalf": 6,
+    "Lose": 25,
+    "LoseHalf": 2,
+    "Draw": 1,
+    "Name": "农夫果园"
+  }
+}

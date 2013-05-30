@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西乙",
+  "Time1": "05-29 08:50",
+  "Host": "喬沛高恩斯",
+  "OddStake": "半球",
+  "Guest": "歐斯特",
+  "Prefer": "喬沛高恩斯",
+  "Odds": 0.81,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 19:03",
+  "Person": "足球老青年"
+}

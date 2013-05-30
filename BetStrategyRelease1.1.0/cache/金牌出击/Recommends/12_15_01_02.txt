@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法乙",
+  "Time1": "12-15 01:45",
+  "Host": "沙特魯",
+  "OddStake": "平/半",
+  "Guest": "克萊蒙特",
+  "Prefer": "克萊蒙特",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "12-15 01:02",
+  "Person": "金牌出击"
+}

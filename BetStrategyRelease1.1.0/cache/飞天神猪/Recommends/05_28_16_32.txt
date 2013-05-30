@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典女超",
+  "Time1": "05-29 01:20",
+  "Host": "霖寇平女足",
+  "OddStake": "3球",
+  "Guest": "LdB馬模女足",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 16:32",
+  "Person": "飞天神猪"
+}

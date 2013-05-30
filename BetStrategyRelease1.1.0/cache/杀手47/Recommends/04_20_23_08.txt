@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "葡超",
+  "Time1": "04-21 01:15",
+  "Host": "費利拿",
+  "OddStake": "半球",
+  "Guest": "里奧阿維",
+  "Prefer": "費利拿",
+  "Odds": 0.97,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "04-20 23:08",
+  "Person": "杀手47"
+}

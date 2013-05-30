@@ -7,8 +7,8 @@
   "Guest": "拉科魯尼亞",
   "Prefer": "拉科魯尼亞",
   "Odds": 1.0,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "3-1",
+  "PreferResult": 1,
   "Time2": "05-26 21:25",
   "Person": "帅的躲家里"
 }

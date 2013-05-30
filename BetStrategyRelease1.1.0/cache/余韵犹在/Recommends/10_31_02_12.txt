@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "巴西乙",
+  "Time1": "10-31 07:00",
+  "Host": "奎亞斯",
+  "OddStake": "球半",
+  "Guest": "伊帕汀加",
+  "Prefer": "奎亞斯",
+  "Odds": 0.87,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "10-31 02:12",
+  "Person": "余韵犹在"
+}

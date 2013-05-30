@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "玻利甲",
+  "Time1": "05-16 08:00",
+  "Host": "波托西",
+  "OddStake": "2.5/3球",
+  "Guest": "史莊格斯特",
+  "Prefer": "小球",
+  "Odds": 0.95,
+  "Result": "1-2",
+  "PreferResult": 2,
+  "Time2": "05-15 22:10",
+  "Person": "无极旋风"
+}

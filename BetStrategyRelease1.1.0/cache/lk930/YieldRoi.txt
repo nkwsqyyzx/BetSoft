@@ -1,0 +1,18 @@
+{
+  "Name": "Lk930",
+  "LastUpdateTime": "\/Date(1369882390629+0800)\/",
+  "Person": {
+    "TotalROI": -13.8850021,
+    "CurrentROI": -1.1400001,
+    "TotalYield": -0.140252545,
+    "CurrentYield": -0.076000005,
+    "Total": 99,
+    "Profit": -12.5,
+    "Win": 33,
+    "WinHalf": 8,
+    "Lose": 47,
+    "LoseHalf": 5,
+    "Draw": 6,
+    "Name": "Lk930"
+  }
+}

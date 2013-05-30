@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "丹乙西",
+  "Time1": "05-25 01:00",
+  "Host": "麥瑞恩斯特",
+  "OddStake": "两球",
+  "Guest": "奧特魯普",
+  "Prefer": "麥瑞恩斯特",
+  "Odds": 0.8,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-24 23:48",
+  "Person": "空中飞人"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "德西聯",
+  "Time1": "03-29 02:00",
+  "Host": "利華古遜青年隊",
+  "OddStake": "半球",
+  "Guest": "維柏特",
+  "Prefer": "維柏特",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-28 18:36",
+  "Person": "红红火火"
+}

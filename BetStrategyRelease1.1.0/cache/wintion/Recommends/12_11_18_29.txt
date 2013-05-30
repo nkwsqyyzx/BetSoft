@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-11 19:35",
+  "Host": "中國U22",
+  "OddStake": "平手",
+  "Guest": "南韓U21",
+  "Prefer": "南韓U21",
+  "Odds": 0.84,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-11 18:29",
+  "Person": "wintion"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英聯盃",
+  "Time1": "12-20 03:45",
+  "Host": "列斯聯",
+  "OddStake": "受半/一",
+  "Guest": "切爾西",
+  "Prefer": "切爾西",
+  "Odds": 0.86,
+  "Result": "1-5",
+  "PreferResult": 5,
+  "Time2": "12-19 16:46",
+  "Person": "1300100915"
+}

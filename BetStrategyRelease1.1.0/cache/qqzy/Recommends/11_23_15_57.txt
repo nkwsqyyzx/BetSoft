@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "土超",
+  "Time1": "11-24 02:00",
+  "Host": "梅爾辛",
+  "OddStake": "平/半",
+  "Guest": "卡拉布克士邦",
+  "Prefer": "卡拉布克士邦",
+  "Odds": 0.87,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "11-23 15:57",
+  "Person": "qqzy"
+}

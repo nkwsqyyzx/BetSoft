@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西乙",
+  "Time1": "05-29 06:30",
+  "Host": "卡爾拉",
+  "OddStake": "2.5球",
+  "Guest": "帕桑度",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-28 23:23",
+  "Person": "为梦等你"
+}

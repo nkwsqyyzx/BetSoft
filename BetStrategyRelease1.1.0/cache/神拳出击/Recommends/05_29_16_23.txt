@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭乙",
+  "Time1": "05-30 01:00",
+  "Host": "阿卡",
+  "OddStake": "2/2.5球",
+  "Guest": "奧爾什丁",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 16:23",
+  "Person": "神拳出击"
+}

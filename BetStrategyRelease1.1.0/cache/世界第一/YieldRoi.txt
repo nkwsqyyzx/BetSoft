@@ -1,0 +1,18 @@
+{
+  "Name": "世界第一",
+  "LastUpdateTime": "\/Date(1369882392738+0800)\/",
+  "Person": {
+    "TotalROI": 0.685000062,
+    "CurrentROI": 0.685000062,
+    "TotalYield": 0.171250015,
+    "CurrentYield": 0.171250015,
+    "Total": 4,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 2,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "世界第一"
+  }
+}

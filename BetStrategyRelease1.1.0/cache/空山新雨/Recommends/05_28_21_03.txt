@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬女超",
+  "Time1": "05-28 23:30",
+  "Host": "PK35萬達女足",
+  "OddStake": "球半/两球",
+  "Guest": "赫爾辛基女足",
+  "Prefer": "PK35萬達女足",
+  "Odds": 0.94,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 21:03",
+  "Person": "空山新雨"
+}

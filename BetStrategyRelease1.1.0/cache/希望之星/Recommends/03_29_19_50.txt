@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "友誼賽",
+  "Time1": "03-29 20:00",
+  "Host": "艾基圖納城",
+  "OddStake": "半球",
+  "Guest": "尼科平斯",
+  "Prefer": "艾基圖納城",
+  "Odds": 0.91,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "03-29 19:50",
+  "Person": "希望之星"
+}

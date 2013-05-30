@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "土超",
+  "Time1": "10-20 08:15",
+  "Host": "小阿根廷人",
+  "OddStake": "平/半",
+  "Guest": "獨立隊",
+  "Prefer": "獨立隊",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "10-19 13:09",
+  "Person": "空山新雨"
+}

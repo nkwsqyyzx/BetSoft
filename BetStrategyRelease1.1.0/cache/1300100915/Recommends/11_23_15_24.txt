@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "",
+  "Time1": "11-23 21:30",
+  "Host": "杜伊斯堡青年隊",
+  "OddStake": "2.5/3球",
+  "Guest": "科隆青年隊",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "11-23 15:24",
+  "Person": "1300100915"
+}

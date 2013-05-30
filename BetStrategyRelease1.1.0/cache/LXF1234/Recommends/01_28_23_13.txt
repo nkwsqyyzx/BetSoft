@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "土超",
+  "Time1": "01-29 01:00",
+  "Host": "伊斯基錫海斯普",
+  "OddStake": "半球",
+  "Guest": "奧度斯普",
+  "Prefer": "伊斯基錫海斯普",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-28 23:13",
+  "Person": "lxf1234"
+}

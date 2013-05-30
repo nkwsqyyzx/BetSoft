@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "02-01 22:00",
+  "Host": "阿塞拜疆(中)",
+  "OddStake": "受平/半",
+  "Guest": "烏茲別克",
+  "Prefer": "阿塞拜疆(中)",
+  "Odds": 1.02,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "02-01 21:37",
+  "Person": "空山新雨"
+}

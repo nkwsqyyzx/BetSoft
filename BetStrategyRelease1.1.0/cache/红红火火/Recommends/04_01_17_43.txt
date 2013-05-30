@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "瑞士超",
+  "Time1": "04-01 19:45",
+  "Host": "盧森",
+  "OddStake": "受半球",
+  "Guest": "巴素利",
+  "Prefer": "巴素利",
+  "Odds": 0.99,
+  "Result": "0-4",
+  "PreferResult": 5,
+  "Time2": "04-01 17:43",
+  "Person": "红红火火"
+}

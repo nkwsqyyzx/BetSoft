@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "哥倫乙",
+  "Time1": "11-13 08:45",
+  "Host": "佩雷拉",
+  "OddStake": "半/一",
+  "Guest": "科圖魯阿",
+  "Prefer": "佩雷拉",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "11-12 17:12",
+  "Person": "空山新雨"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德乙",
+  "Time1": "11-03 01:00",
+  "Host": "布倫瑞克",
+  "OddStake": "2.5/3球",
+  "Guest": "桑德豪森",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "11-03 00:41",
+  "Person": "无聊玩玩"
+}

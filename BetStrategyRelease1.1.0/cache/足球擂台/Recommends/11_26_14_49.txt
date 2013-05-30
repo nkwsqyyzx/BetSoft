@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "阿乙",
+  "Time1": "11-27 04:00",
+  "Host": "艾度思維",
+  "OddStake": "平手",
+  "Guest": "羅沙里奧中央",
+  "Prefer": "羅沙里奧中央",
+  "Odds": 0.94,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "11-26 14:49",
+  "Person": "足球擂台"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "纽约红牛",
+  "LastUpdateTime": "\/Date(1369882413506+0800)\/",
+  "Person": {
+    "TotalROI": 0.0,
+    "CurrentROI": 0.0,
+    "TotalYield": 0.0,
+    "CurrentYield": 0.0,
+    "Total": 1,
+    "Profit": 0.0,
+    "Win": 0,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "纽约红牛"
+  }
+}

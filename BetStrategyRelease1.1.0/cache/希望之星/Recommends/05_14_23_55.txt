@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德南聯",
+  "Time1": "05-15 01:00",
+  "Host": "沃爾姆斯",
+  "OddStake": "2.5球",
+  "Guest": "科布倫茨",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-14 23:55",
+  "Person": "希望之星"
+}

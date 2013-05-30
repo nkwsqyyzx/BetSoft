@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英錦賽",
+  "Time1": "10-10 02:45",
+  "Host": "莫利金比",
+  "OddStake": "2.5/3球",
+  "Guest": "普雷斯頓",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "10-09 09:10",
+  "Person": "锐壮壮"
+}

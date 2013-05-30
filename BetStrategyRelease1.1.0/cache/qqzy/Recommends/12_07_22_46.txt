@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土超",
+  "Time1": "12-08 08:30",
+  "Host": "聖塔菲聯",
+  "OddStake": "2/2.5球",
+  "Guest": "競賽會",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-07 22:46",
+  "Person": "qqzy"
+}

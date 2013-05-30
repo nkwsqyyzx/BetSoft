@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "俄後賽",
+  "Time1": "03-14 17:30",
+  "Host": "羅斯托夫U21",
+  "OddStake": "半球",
+  "Guest": "諾夫哥羅德U21",
+  "Prefer": "諾夫哥羅德U21",
+  "Odds": 0.86,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "03-14 15:00",
+  "Person": "希望之星"
+}

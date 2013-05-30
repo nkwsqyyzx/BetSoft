@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "伊朗超",
+  "Time1": "02-21 20:30",
+  "Host": "泰拉克托",
+  "OddStake": "2/2.5球",
+  "Guest": "法加爾瑟帕斯",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "02-21 14:51",
+  "Person": "空山新雨"
+}

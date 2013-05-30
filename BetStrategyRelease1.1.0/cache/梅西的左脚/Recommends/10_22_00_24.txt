@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "土超",
+  "Time1": "10-22 02:00",
+  "Host": "基爾梅斯",
+  "OddStake": "2/2.5球",
+  "Guest": "河床",
+  "Prefer": "大球",
+  "Odds": 0.99,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "10-22 00:24",
+  "Person": "梅西的左脚"
+}

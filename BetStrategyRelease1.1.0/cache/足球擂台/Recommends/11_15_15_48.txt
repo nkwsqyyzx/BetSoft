@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "伊朗甲",
+  "Time1": "11-15 18:45",
+  "Host": "尚阿寒巴弧亞茲德",
+  "OddStake": "平手",
+  "Guest": "艾塔卡葛根",
+  "Prefer": "艾塔卡葛根",
+  "Odds": 0.99,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "11-15 15:48",
+  "Person": "足球擂台"
+}

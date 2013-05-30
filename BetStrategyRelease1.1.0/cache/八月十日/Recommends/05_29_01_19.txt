@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-29 02:45",
+  "Host": "斯萊戈",
+  "OddStake": "一球",
+  "Guest": "登克爾克",
+  "Prefer": "斯萊戈",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-29 01:19",
+  "Person": "八月十日"
+}

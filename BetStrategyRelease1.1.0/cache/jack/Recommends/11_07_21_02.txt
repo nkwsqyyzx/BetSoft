@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "斯亞甲",
+  "Time1": "11-07 23:59",
+  "Host": "高柏",
+  "OddStake": "受平/半",
+  "Guest": "奧林比查",
+  "Prefer": "高柏",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-07 21:02",
+  "Person": "jack"
+}

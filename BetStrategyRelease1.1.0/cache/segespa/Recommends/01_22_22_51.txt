@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英非聯",
+  "Time1": "01-23 03:45",
+  "Host": "威斯漢姆",
+  "OddStake": "3球",
+  "Guest": "南方港",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "2-2",
+  "PreferResult": 3,
+  "Time2": "01-22 22:51",
+  "Person": "segespa"
+}

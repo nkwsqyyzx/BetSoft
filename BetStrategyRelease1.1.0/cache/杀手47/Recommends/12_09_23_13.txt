@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意甲",
+  "Time1": "12-10 03:45",
+  "Host": "國際米蘭",
+  "OddStake": "2.5球",
+  "Guest": "拿玻里",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "12-09 23:13",
+  "Person": "杀手47"
+}

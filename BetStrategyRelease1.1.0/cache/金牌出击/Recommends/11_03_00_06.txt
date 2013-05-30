@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德甲",
+  "Time1": "11-03 03:30",
+  "Host": "法蘭克福",
+  "OddStake": "一球",
+  "Guest": "格拉特霍夫",
+  "Prefer": "格拉特霍夫",
+  "Odds": 0.89,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "11-03 00:06",
+  "Person": "金牌出击"
+}

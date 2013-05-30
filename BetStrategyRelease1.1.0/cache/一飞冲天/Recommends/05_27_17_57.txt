@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "捷U21",
+  "Time1": "05-27 19:00",
+  "Host": "布迪祖懷斯U21",
+  "OddStake": "3.5/4球",
+  "Guest": "布拉格斯拉維亞U21",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 17:57",
+  "Person": "一飞冲天"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡甲",
+  "Time1": "01-06 23:00",
+  "Host": "布拉加B隊",
+  "OddStake": "平手",
+  "Guest": "費倫斯",
+  "Prefer": "費倫斯",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-06 22:23",
+  "Person": "segespa"
+}

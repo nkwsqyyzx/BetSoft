@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "03-07 01:00",
+  "Host": "加費萊",
+  "OddStake": "2.5/3球",
+  "Guest": "天狼星",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "03-06 20:13",
+  "Person": "qqzy"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "德乙",
+  "Time1": "12-11 03:15",
+  "Host": "科隆",
+  "OddStake": "平/半",
+  "Guest": "布倫瑞克",
+  "Prefer": "布倫瑞克",
+  "Odds": 0.82,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "12-10 23:06",
+  "Person": "lxf1234"
+}

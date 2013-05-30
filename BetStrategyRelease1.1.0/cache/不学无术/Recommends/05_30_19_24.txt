@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威盃",
+  "Time1": "05-30 23:59",
+  "Host": "廣士雲格",
+  "OddStake": "2.5/3球",
+  "Guest": "咸卡姆",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 19:24",
+  "Person": "不学无术"
+}

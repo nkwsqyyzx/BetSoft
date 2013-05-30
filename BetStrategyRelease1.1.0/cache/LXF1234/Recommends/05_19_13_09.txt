@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "俄超",
+  "Time1": "05-19 17:30",
+  "Host": "阿蘭尼亞瓦拉",
+  "OddStake": "受一球",
+  "Guest": "莫斯科戴拿模",
+  "Prefer": "莫斯科戴拿模",
+  "Odds": 0.97,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-19 13:09",
+  "Person": "LXF1234"
+}

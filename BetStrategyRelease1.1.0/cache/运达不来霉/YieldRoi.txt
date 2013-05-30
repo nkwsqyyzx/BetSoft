@@ -1,0 +1,18 @@
+{
+  "Name": "运达不来霉",
+  "LastUpdateTime": "\/Date(1369882417319+0800)\/",
+  "Person": {
+    "TotalROI": 0.84,
+    "CurrentROI": 0.84,
+    "TotalYield": 0.42,
+    "CurrentYield": 0.42,
+    "Total": 2,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "运达不来霉"
+  }
+}

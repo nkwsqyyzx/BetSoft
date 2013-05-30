@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "墨西聯",
+  "Time1": "02-24 11:00",
+  "Host": "提華納",
+  "OddStake": "半/一",
+  "Guest": "亞特蘭特",
+  "Prefer": "亞特蘭特",
+  "Odds": 1.08,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-24 07:18",
+  "Person": "金牌出击"
+}

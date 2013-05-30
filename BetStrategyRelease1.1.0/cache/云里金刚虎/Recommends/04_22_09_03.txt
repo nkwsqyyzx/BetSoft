@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "阿乙",
+  "Time1": "04-23 05:10",
+  "Host": "奧里姆普",
+  "OddStake": "半球",
+  "Guest": "班菲特",
+  "Prefer": "班菲特",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-22 09:03",
+  "Person": "云里金刚虎"
+}

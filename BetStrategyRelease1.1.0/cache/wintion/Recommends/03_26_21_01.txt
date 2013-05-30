@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "亞洲盃",
+  "Time1": "03-27 00:30",
+  "Host": "科威特",
+  "OddStake": "受平/半",
+  "Guest": "伊朗",
+  "Prefer": "科威特",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "03-26 21:01",
+  "Person": "wintion"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德甲",
+  "Time1": "05-18 21:30",
+  "Host": "奧斯堡",
+  "OddStake": "一球/球半",
+  "Guest": "格拉特霍夫",
+  "Prefer": "格拉特霍夫",
+  "Odds": 0.92,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "05-18 18:12",
+  "Person": "罗纳尔多"
+}

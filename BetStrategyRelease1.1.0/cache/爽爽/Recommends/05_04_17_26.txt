@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德甲",
+  "Time1": "05-04 18:30",
+  "Host": "米達雷治",
+  "OddStake": "受半球",
+  "Guest": "沃斯卡拉",
+  "Prefer": "米達雷治",
+  "Odds": 0.91,
+  "Result": "0-4",
+  "PreferResult": 1,
+  "Time2": "05-04 17:26",
+  "Person": "爽爽"
+}

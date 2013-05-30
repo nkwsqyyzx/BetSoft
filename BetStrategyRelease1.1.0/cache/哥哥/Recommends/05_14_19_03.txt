@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "斯亞甲",
+  "Time1": "05-14 23:00",
+  "Host": "拖里格拉瓦",
+  "OddStake": "平/半",
+  "Guest": "魯達瓦倫",
+  "Prefer": "魯達瓦倫",
+  "Odds": 0.89,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-14 19:03",
+  "Person": "哥哥"
+}

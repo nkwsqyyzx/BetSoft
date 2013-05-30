@@ -1,0 +1,18 @@
+{
+  "Name": "公测",
+  "LastUpdateTime": "\/Date(1369882402007+0800)\/",
+  "Person": {
+    "TotalROI": -2.99,
+    "CurrentROI": -2.99,
+    "TotalYield": -0.498333335,
+    "CurrentYield": -0.498333335,
+    "Total": 6,
+    "Profit": -3.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 4,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "公测"
+  }
+}

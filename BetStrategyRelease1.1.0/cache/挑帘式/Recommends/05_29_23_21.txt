@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士超",
+  "Time1": "05-30 02:30",
+  "Host": "聖加倫",
+  "OddStake": "2.5球",
+  "Guest": "草蜢",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "05-29 23:21",
+  "Person": "挑帘式"
+}

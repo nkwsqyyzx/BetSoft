@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "哈薩超",
+  "Time1": "05-30 19:00",
+  "Host": "奧達巴斯",
+  "OddStake": "半/一",
+  "Guest": "阿特勞",
+  "Prefer": "奧達巴斯",
+  "Odds": 0.9,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-30 18:47",
+  "Person": "澳门盘口"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-16 18:00",
+  "Host": "江原FC",
+  "OddStake": "2.5球",
+  "Guest": "浦項制鐵",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "04-16 13:52",
+  "Person": "希望之星"
+}

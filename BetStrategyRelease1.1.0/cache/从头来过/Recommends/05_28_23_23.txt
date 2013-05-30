@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "埃及甲",
+  "Time1": "05-28 23:45",
+  "Host": "哈伊赫多",
+  "OddStake": "2/2.5球",
+  "Guest": "恩彼",
+  "Prefer": "大球",
+  "Odds": 1.09,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "05-28 23:23",
+  "Person": "从头来过"
+}

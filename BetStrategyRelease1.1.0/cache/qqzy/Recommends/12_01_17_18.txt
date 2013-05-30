@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "美職業",
+  "Time1": "12-02 05:30",
+  "Host": "洛杉磯銀河",
+  "OddStake": "半球",
+  "Guest": "侯斯頓戴拿模",
+  "Prefer": "洛杉磯銀河",
+  "Odds": 0.9,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-01 17:18",
+  "Person": "qqzy"
+}

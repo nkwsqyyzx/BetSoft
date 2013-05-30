@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "05-11 03:00",
+  "Host": "利雲特",
+  "OddStake": "平手",
+  "Guest": "薩拉戈薩",
+  "Prefer": "薩拉戈薩",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "05-10 22:28",
+  "Person": "LXF1234"
+}

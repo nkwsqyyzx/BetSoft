@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西甲",
+  "Time1": "12-18 03:00",
+  "Host": "拉科魯尼亞",
+  "OddStake": "平/半",
+  "Guest": "華拉度列",
+  "Prefer": "華拉度列",
+  "Odds": 0.97,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "12-17 18:47",
+  "Person": "顺水顺风"
+}

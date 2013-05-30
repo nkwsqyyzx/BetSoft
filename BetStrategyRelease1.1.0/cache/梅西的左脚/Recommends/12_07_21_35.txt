@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "克亞甲",
+  "Time1": "12-08 01:00",
+  "Host": "夏積杜克",
+  "OddStake": "一球/球半",
+  "Guest": "國際薩佩斯克",
+  "Prefer": "國際薩佩斯克",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "12-07 21:35",
+  "Person": "梅西的左脚"
+}

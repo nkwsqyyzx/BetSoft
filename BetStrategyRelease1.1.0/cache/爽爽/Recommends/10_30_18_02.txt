@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西班牙盃",
+  "Time1": "10-31 05:00",
+  "Host": "艾拉維斯",
+  "OddStake": "受两球",
+  "Guest": "巴塞羅那",
+  "Prefer": "巴塞羅那",
+  "Odds": 0.82,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "10-30 18:02",
+  "Person": "爽爽"
+}

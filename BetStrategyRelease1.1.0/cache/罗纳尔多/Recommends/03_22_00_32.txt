@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "友誼賽",
+  "Time1": "03-22 01:30",
+  "Host": "奧地利U21",
+  "OddStake": "半球",
+  "Guest": "斯洛伐克U21",
+  "Prefer": "斯洛伐克U21",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-22 00:32",
+  "Person": "罗纳尔多"
+}

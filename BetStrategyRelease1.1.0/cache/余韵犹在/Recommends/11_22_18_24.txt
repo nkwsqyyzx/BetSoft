@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "沙地聯",
+  "Time1": "11-23 00:35",
+  "Host": "雷德",
+  "OddStake": "平/半",
+  "Guest": "納積蘭",
+  "Prefer": "納積蘭",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "11-22 18:24",
+  "Person": "余韵犹在"
+}

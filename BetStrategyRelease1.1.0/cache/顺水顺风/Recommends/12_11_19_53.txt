@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "法甲",
+  "Time1": "12-12 02:00",
+  "Host": "奈斯",
+  "OddStake": "平/半",
+  "Guest": "雷恩",
+  "Prefer": "雷恩",
+  "Odds": 0.88,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "12-11 19:53",
+  "Person": "顺水顺风"
+}

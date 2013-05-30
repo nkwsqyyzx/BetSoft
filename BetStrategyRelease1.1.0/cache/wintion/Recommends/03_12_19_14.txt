@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "波青聯",
+  "Time1": "03-12 20:00",
+  "Host": "哥羅那青年隊U21",
+  "OddStake": "3球",
+  "Guest": "列治亞青年隊U21",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "0-3",
+  "PreferResult": 3,
+  "Time2": "03-12 19:14",
+  "Person": "wintion"
+}

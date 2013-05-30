@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-28 01:00",
+  "Host": "柏瑞格",
+  "OddStake": "2/2.5球",
+  "Guest": "奧雷布洛",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-27 23:45",
+  "Person": "神拳出击"
+}

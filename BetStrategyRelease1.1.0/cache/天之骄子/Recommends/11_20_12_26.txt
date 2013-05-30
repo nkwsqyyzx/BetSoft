@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "11-21 01:00",
+  "Host": "莫斯科斯巴達",
+  "OddStake": "受球半",
+  "Guest": "巴塞羅那",
+  "Prefer": "巴塞羅那",
+  "Odds": 0.8,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "11-20 12:26",
+  "Person": "天之骄子"
+}

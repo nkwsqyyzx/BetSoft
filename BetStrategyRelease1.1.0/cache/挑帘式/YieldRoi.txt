@@ -1,0 +1,18 @@
+{
+  "Name": "挑帘式",
+  "LastUpdateTime": "\/Date(1369882405267+0800)\/",
+  "Person": {
+    "TotalROI": 1.67999983,
+    "CurrentROI": 1.67999983,
+    "TotalYield": 0.419999957,
+    "CurrentYield": 0.419999957,
+    "Total": 4,
+    "Profit": 2.0,
+    "Win": 3,
+    "WinHalf": 0,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "挑帘式"
+  }
+}

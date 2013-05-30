@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "英超",
+  "Time1": "05-19 23:00",
+  "Host": "西布朗",
+  "OddStake": "受半球",
+  "Guest": "曼聯",
+  "Prefer": "曼聯",
+  "Odds": 0.95,
+  "Result": "5-5",
+  "PreferResult": 1,
+  "Time2": "05-19 18:16",
+  "Person": "BVBReus"
+}

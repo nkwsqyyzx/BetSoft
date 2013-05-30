@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英甲",
+  "Time1": "02-09 23:00",
+  "Host": "梳士貝利",
+  "OddStake": "受平/半",
+  "Guest": "謝菲爾德聯",
+  "Prefer": "梳士貝利",
+  "Odds": 0.9,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "02-09 12:25",
+  "Person": "空山新雨"
+}

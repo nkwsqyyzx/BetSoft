@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-12 20:45",
+  "Host": "昆士柏流浪",
+  "OddStake": "受半/一",
+  "Guest": "托特納姆熱刺",
+  "Prefer": "托特納姆熱刺",
+  "Odds": 1.02,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-12 19:01",
+  "Person": "ronapigu"
+}

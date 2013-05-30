@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "瑞士甲",
+  "Time1": "02-24 00:45",
+  "Host": "韋倫",
+  "OddStake": "受半球",
+  "Guest": "貝林佐納",
+  "Prefer": "貝林佐納",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-23 23:03",
+  "Person": "红红火火"
+}

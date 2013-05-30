@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "德甲",
+  "Time1": "03-09 03:30",
+  "Host": "奧斯堡",
+  "OddStake": "2/2.5球",
+  "Guest": "紐倫堡",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "03-08 15:47",
+  "Person": "qqzy"
+}

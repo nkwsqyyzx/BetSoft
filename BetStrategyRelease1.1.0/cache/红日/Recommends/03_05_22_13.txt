@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英乙",
+  "Time1": "03-06 03:45",
+  "Host": "維爾港",
+  "OddStake": "2.5球",
+  "Guest": "巴拉福特",
+  "Prefer": "小球",
+  "Odds": 0.86,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-05 22:13",
+  "Person": "红日"
+}

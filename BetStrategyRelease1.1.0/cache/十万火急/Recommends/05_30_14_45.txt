@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士甲",
+  "Time1": "05-31 01:45",
+  "Host": "貝林佐納",
+  "OddStake": "2.5/3球",
+  "Guest": "阿勞",
+  "Prefer": "小球",
+  "Odds": 1.0,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 14:45",
+  "Person": "十万火急"
+}

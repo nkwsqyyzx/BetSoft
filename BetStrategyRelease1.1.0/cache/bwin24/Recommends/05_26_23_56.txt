@@ -7,8 +7,8 @@
   "Guest": "皇家馬德里",
   "Prefer": "皇家馬德里",
   "Odds": 1.06,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "3-3",
+  "PreferResult": 3,
   "Time2": "05-26 23:56",
   "Person": "bwin24"
 }

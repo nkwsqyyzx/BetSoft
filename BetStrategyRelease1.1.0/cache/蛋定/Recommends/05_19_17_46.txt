@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德乙",
+  "Time1": "05-19 19:30",
+  "Host": "凱沙羅頓",
+  "OddStake": "半/一",
+  "Guest": "聖保利",
+  "Prefer": "凱沙羅頓",
+  "Odds": 0.88,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-19 17:46",
+  "Person": "蛋定"
+}

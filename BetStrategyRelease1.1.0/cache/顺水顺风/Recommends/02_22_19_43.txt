@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "伊朗超",
+  "Time1": "02-22 20:30",
+  "Host": "弗蘭候薩斯坦",
+  "OddStake": "2.5球",
+  "Guest": "派肯",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "02-22 19:43",
+  "Person": "顺水顺风"
+}

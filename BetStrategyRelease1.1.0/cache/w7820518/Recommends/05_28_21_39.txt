@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿聯酋杯",
+  "Time1": "05-28 22:15",
+  "Host": "阿爾艾利杜拜",
+  "OddStake": "3球",
+  "Guest": "沙巴柏杜拜",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "4-3",
+  "PreferResult": 1,
+  "Time2": "05-28 21:39",
+  "Person": "w7820518"
+}

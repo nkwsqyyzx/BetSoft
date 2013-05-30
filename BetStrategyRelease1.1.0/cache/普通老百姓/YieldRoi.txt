@@ -1,0 +1,18 @@
+{
+  "Name": "普通老百姓",
+  "LastUpdateTime": "\/Date(1369882406339+0800)\/",
+  "Person": {
+    "TotalROI": 0.92,
+    "CurrentROI": 0.92,
+    "TotalYield": 0.306666672,
+    "CurrentYield": 0.306666672,
+    "Total": 3,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "普通老百姓"
+  }
+}

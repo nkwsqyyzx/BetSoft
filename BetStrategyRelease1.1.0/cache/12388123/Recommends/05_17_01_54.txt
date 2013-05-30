@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "比乙",
+  "Time1": "05-17 02:30",
+  "Host": "苗斯干匹盧維茲",
+  "OddStake": "2.5/3球",
+  "Guest": "韋斯達路",
+  "Prefer": "大球",
+  "Odds": 0.89,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-17 01:54",
+  "Person": "12388123"
+}

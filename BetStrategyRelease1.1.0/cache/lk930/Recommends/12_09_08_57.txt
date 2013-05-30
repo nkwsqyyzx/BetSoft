@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "新西蘭聯",
+  "Time1": "12-09 09:30",
+  "Host": "懷塔克雷聯",
+  "OddStake": "球半",
+  "Guest": "豪克斯灣",
+  "Prefer": "懷塔克雷聯",
+  "Odds": 0.97,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-09 08:57",
+  "Person": "Lk930"
+}

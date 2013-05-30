@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "歐霸盃",
+  "Time1": "05-16 02:45",
+  "Host": "賓菲加(中)",
+  "OddStake": "2/2.5球",
+  "Guest": "切爾西",
+  "Prefer": "小球",
+  "Odds": 1.02,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-15 23:12",
+  "Person": "segespa"
+}

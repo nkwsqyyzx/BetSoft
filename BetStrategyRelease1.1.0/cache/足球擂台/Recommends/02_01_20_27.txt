@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "",
+  "Time1": "02-02 03:30",
+  "Host": "歐本",
+  "OddStake": "一球",
+  "Guest": "布魯塞爾",
+  "Prefer": "布魯塞爾",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-01 20:27",
+  "Person": "足球擂台"
+}

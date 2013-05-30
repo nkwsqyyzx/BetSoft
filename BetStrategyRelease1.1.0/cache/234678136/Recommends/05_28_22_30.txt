@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美公開盃",
+  "Time1": "05-29 10:30",
+  "Host": "洛杉磯布魯斯",
+  "OddStake": "2.5球",
+  "Guest": "美國芝華士",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 22:30",
+  "Person": "234678136"
+}

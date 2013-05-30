@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-31 01:00",
+  "Host": "佐加頓斯",
+  "OddStake": "2/2.5球",
+  "Guest": "卡馬亞",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 21:24",
+  "Person": "场场好彩"
+}

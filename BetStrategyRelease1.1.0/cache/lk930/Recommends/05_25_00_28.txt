@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-25 03:00",
+  "Host": "沙姆洛克流浪",
+  "OddStake": "两球",
+  "Guest": "舒爾本",
+  "Prefer": "舒爾本",
+  "Odds": 0.93,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-25 00:28",
+  "Person": "lk930"
+}

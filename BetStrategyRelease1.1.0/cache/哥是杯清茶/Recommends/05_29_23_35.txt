@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-30 02:30",
+  "Host": "厄瓜多爾(中)",
+  "OddStake": "受半球",
+  "Guest": "德國",
+  "Prefer": "德國",
+  "Odds": 0.88,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "05-29 23:35",
+  "Person": "哥是杯清茶"
+}

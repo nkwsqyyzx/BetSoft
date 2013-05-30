@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "02-13 19:00",
+  "Host": "布襦姆聯",
+  "OddStake": "受半球",
+  "Guest": "布里斯班獅吼",
+  "Prefer": "布襦姆聯",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "02-13 18:45",
+  "Person": "中奖太简单啦"
+}

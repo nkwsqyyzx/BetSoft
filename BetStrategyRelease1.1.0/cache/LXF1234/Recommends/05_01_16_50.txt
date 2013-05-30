@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 20:00",
+  "Host": "孟通",
+  "OddStake": "受球半",
+  "Guest": "浦和紅鑽",
+  "Prefer": "孟通",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-01 16:50",
+  "Person": "LXF1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭甲",
+  "Time1": "05-28 00:30",
+  "Host": "路賓",
+  "OddStake": "2.5球",
+  "Guest": "華沙普隆尼亞",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-27 22:59",
+  "Person": "上下摆风"
+}

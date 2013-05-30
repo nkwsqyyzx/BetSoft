@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "維亞盃",
+  "Time1": "02-13 01:00",
+  "Host": "拉素U19",
+  "OddStake": "3球",
+  "Guest": "貝爾格勒紅星U19",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "3-0",
+  "PreferResult": 3,
+  "Time2": "02-12 19:33",
+  "Person": "wintion"
+}

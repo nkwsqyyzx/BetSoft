@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "伊朗甲",
+  "Time1": "10-24 19:00",
+  "Host": "沙敘密",
+  "OddStake": "2/2.5球",
+  "Guest": "馬奇尼沙治",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "10-24 16:52",
+  "Person": "qqzy"
+}

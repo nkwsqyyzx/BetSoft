@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "阿爾甲",
+  "Time1": "12-02 01:00",
+  "Host": "卡比利亞",
+  "OddStake": "2/2.5球",
+  "Guest": "瑟特福",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-01 16:07",
+  "Person": "足球擂台"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-07 03:45",
+  "Host": "拿玻里",
+  "OddStake": "3.5球",
+  "Guest": "羅馬",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "01-07 00:57",
+  "Person": "梅西的左脚"
+}

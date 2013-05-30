@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "德乙",
+  "Time1": "10-23 02:15",
+  "Host": "慕尼黑1860",
+  "OddStake": "一球",
+  "Guest": "艾格比治",
+  "Prefer": "慕尼黑1860",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "10-22 23:39",
+  "Person": "天之骄子"
+}

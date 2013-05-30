@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "比甲",
+  "Time1": "12-08 03:30",
+  "Host": "標準列治",
+  "OddStake": "球半",
+  "Guest": "查內爾",
+  "Prefer": "標準列治",
+  "Odds": 1.03,
+  "Result": "6-1",
+  "PreferResult": 5,
+  "Time2": "12-08 02:26",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "巴西甲",
+  "Time1": "10-19 08:00",
+  "Host": "聖保羅",
+  "OddStake": "球半",
+  "Guest": "戈亞尼恩斯",
+  "Prefer": "聖保羅",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "10-18 22:45",
+  "Person": "杀手47"
+}

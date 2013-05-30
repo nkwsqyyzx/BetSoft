@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威盃",
+  "Time1": "05-29 23:59",
+  "Host": "阿爾塔",
+  "OddStake": "3球",
+  "Guest": "侯尼霍斯",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 15:43",
+  "Person": "飞天神猪"
+}

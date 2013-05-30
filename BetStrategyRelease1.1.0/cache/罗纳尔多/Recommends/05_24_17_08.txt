@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "歐青U19",
+  "Time1": "05-24 23:59",
+  "Host": "英格蘭U19(中)",
+  "OddStake": "球半",
+  "Guest": "格魯吉亞U19",
+  "Prefer": "英格蘭U19(中)",
+  "Odds": 0.98,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-24 17:08",
+  "Person": "罗纳尔多"
+}

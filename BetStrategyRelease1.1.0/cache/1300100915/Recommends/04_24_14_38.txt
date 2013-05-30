@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "04-24 18:30",
+  "Host": "浦和紅鑽",
+  "OddStake": "受平/半",
+  "Guest": "廣州恆大",
+  "Prefer": "浦和紅鑽",
+  "Odds": 0.88,
+  "Result": "3-2",
+  "PreferResult": 5,
+  "Time2": "04-24 14:38",
+  "Person": "1300100915"
+}

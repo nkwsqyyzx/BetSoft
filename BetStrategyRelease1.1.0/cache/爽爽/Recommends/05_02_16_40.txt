@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "希臘U20",
+  "Time1": "05-02 17:00",
+  "Host": "彭拉伊高斯U20",
+  "OddStake": "2.5/3球",
+  "Guest": "奧林比亞高斯CFPU20",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "1-2",
+  "PreferResult": 4,
+  "Time2": "05-02 16:40",
+  "Person": "爽爽"
+}

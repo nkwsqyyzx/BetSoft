@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "克亞甲",
+  "Time1": "10-26 22:00",
+  "Host": "薩格勒布",
+  "OddStake": "受平/半",
+  "Guest": "奧斯積克",
+  "Prefer": "薩格勒布",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "10-26 21:26",
+  "Person": "qqzy"
+}

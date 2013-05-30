@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "伊朗甲",
+  "Time1": "10-11 20:15",
+  "Host": "艾斯迪格拿梅里",
+  "OddStake": "2/2.5球",
+  "Guest": "阿巴市",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "10-11 18:52",
+  "Person": "空山新雨"
+}

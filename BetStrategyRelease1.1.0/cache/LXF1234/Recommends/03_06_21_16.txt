@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "蘇超",
+  "Time1": "03-07 03:45",
+  "Host": "登地",
+  "OddStake": "受平/半",
+  "Guest": "聖米倫",
+  "Prefer": "聖米倫",
+  "Odds": 0.88,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "03-06 21:16",
+  "Person": "lxf1234"
+}

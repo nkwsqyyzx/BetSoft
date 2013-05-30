@@ -1,0 +1,18 @@
+{
+  "Name": "iq",
+  "LastUpdateTime": "\/Date(1369882390310+0800)\/",
+  "Person": {
+    "TotalROI": 0.83,
+    "CurrentROI": 0.83,
+    "TotalYield": 0.415,
+    "CurrentYield": 0.415,
+    "Total": 2,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "iq"
+  }
+}

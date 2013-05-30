@@ -1,0 +1,18 @@
+{
+  "Name": "墨斗红云",
+  "LastUpdateTime": "\/Date(1369882404086+0800)\/",
+  "Person": {
+    "TotalROI": -0.1400001,
+    "CurrentROI": 0.7749998,
+    "TotalYield": -0.00212121382,
+    "CurrentYield": 0.05961537,
+    "Total": 66,
+    "Profit": 4.0,
+    "Win": 29,
+    "WinHalf": 6,
+    "Lose": 27,
+    "LoseHalf": 2,
+    "Draw": 2,
+    "Name": "墨斗红云"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "",
+  "Time1": "04-25 00:30",
+  "Host": "聖伊天",
+  "OddStake": "一球",
+  "Guest": "阿些斯奧",
+  "Prefer": "聖伊天",
+  "Odds": 0.85,
+  "Result": "4-2",
+  "PreferResult": 5,
+  "Time2": "04-24 22:04",
+  "Person": "顺水顺风"
+}

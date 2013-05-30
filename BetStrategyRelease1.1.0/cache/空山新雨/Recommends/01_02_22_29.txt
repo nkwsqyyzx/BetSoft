@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "蘇乙",
+  "Time1": "01-02 23:00",
+  "Host": "艾比安流浪",
+  "OddStake": "3球",
+  "Guest": "斯青威爾",
+  "Prefer": "小球",
+  "Odds": 0.93,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "01-02 22:29",
+  "Person": "空山新雨"
+}

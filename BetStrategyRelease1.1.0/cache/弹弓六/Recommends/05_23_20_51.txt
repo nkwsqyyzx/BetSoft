@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "女歐協盃",
+  "Time1": "05-24 02:30",
+  "Host": "沃爾夫斯堡女足(中)",
+  "OddStake": "受一球",
+  "Guest": "里昂女足",
+  "Prefer": "里昂女足",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-23 20:51",
+  "Person": "弹弓六"
+}

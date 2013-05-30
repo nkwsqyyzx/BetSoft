@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-06 03:45",
+  "Host": "拉素",
+  "OddStake": "一球",
+  "Guest": "卡利亞里",
+  "Prefer": "卡利亞里",
+  "Odds": 0.95,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "01-05 23:36",
+  "Person": "梅西的左脚"
+}

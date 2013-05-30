@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西甲",
+  "Time1": "05-30 06:30",
+  "Host": "博塔福格RJ",
+  "OddStake": "半/一",
+  "Guest": "山度士",
+  "Prefer": "博塔福格RJ",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "05-29 20:56",
+  "Person": "辉煌先锋"
+}

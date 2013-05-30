@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "印度甲",
+  "Time1": "02-10 18:15",
+  "Host": "巴得斯尤",
+  "OddStake": "2.5/3球",
+  "Guest": "帕亞聯",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "02-10 14:40",
+  "Person": "空山新雨"
+}

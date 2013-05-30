@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-04 19:30",
+  "Host": "比斯卡拉",
+  "OddStake": "受平/半",
+  "Guest": "帕爾馬",
+  "Prefer": "比斯卡拉",
+  "Odds": 0.93,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-04 15:11",
+  "Person": "爽爽"
+}

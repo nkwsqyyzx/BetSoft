@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "意甲",
+  "Time1": "12-22 19:30",
+  "Host": "國際米蘭",
+  "OddStake": "2.5/3球",
+  "Guest": "熱拿亞",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "12-22 13:10",
+  "Person": "空山新雨"
+}

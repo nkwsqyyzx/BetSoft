@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "俄超",
+  "Time1": "05-31 00:30",
+  "Host": "羅斯托夫",
+  "OddStake": "一球/球半",
+  "Guest": "SKA安拿吉耶",
+  "Prefer": "羅斯托夫",
+  "Odds": 0.95,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 19:55",
+  "Person": "lijin"
+}

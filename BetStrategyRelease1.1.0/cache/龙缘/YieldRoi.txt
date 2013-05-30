@@ -1,0 +1,18 @@
+{
+  "Name": "龙缘",
+  "LastUpdateTime": "\/Date(1369882420863+0800)\/",
+  "Person": {
+    "TotalROI": -1.97999978,
+    "CurrentROI": -4.0,
+    "TotalYield": -0.09899999,
+    "CurrentYield": -0.8,
+    "Total": 20,
+    "Profit": -1.0,
+    "Win": 7,
+    "WinHalf": 2,
+    "Lose": 8,
+    "LoseHalf": 2,
+    "Draw": 0,
+    "Name": "龙缘"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "苍穹",
+  "LastUpdateTime": "\/Date(1369882414604+0800)\/",
+  "Person": {
+    "TotalROI": -0.199999988,
+    "CurrentROI": -0.199999988,
+    "TotalYield": -0.049999997,
+    "CurrentYield": -0.049999997,
+    "Total": 4,
+    "Profit": 0.0,
+    "Win": 2,
+    "WinHalf": 0,
+    "Lose": 2,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "苍穹"
+  }
+}

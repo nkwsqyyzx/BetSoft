@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "冰超盃",
+  "Time1": "04-29 03:15",
+  "Host": "夏拿佐杜亞(中)",
+  "OddStake": "平手",
+  "Guest": "KR雷克查域克",
+  "Prefer": "KR雷克查域克",
+  "Odds": 0.92,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "04-29 00:12",
+  "Person": "lk930"
+}

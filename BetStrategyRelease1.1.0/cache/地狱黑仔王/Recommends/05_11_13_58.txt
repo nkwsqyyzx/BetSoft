@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳西聯",
+  "Time1": "05-11 15:00",
+  "Host": "因勒烏德聯",
+  "OddStake": "半球",
+  "Guest": "科克本市",
+  "Prefer": "科克本市",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-11 13:58",
+  "Person": "地狱黑仔王"
+}

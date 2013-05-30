@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德乙",
+  "Time1": "04-30 02:15",
+  "Host": "科特布斯",
+  "OddStake": "受半球",
+  "Guest": "凱沙羅頓",
+  "Prefer": "凱沙羅頓",
+  "Odds": 0.85,
+  "Result": "4-2",
+  "PreferResult": 1,
+  "Time2": "04-30 00:34",
+  "Person": "水龙头"
+}

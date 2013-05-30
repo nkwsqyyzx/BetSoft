@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-06 23:59",
+  "Host": "皇家馬德里",
+  "OddStake": "3.5球",
+  "Guest": "皇家蘇斯達",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "4-3",
+  "PreferResult": 5,
+  "Time2": "01-06 23:31",
+  "Person": "jack"
+}

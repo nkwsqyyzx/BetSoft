@@ -1,0 +1,18 @@
+{
+  "Name": "庄家倒霉了",
+  "LastUpdateTime": "\/Date(1369882404732+0800)\/",
+  "Person": {
+    "TotalROI": 1.57999992,
+    "CurrentROI": 1.57999992,
+    "TotalYield": 0.394999981,
+    "CurrentYield": 0.394999981,
+    "Total": 4,
+    "Profit": 2.0,
+    "Win": 2,
+    "WinHalf": 1,
+    "Lose": 0,
+    "LoseHalf": 1,
+    "Draw": 0,
+    "Name": "庄家倒霉了"
+  }
+}

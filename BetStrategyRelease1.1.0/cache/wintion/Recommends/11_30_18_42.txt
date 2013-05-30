@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄後賽",
+  "Time1": "11-30 19:00",
+  "Host": "諾夫哥羅德U21",
+  "OddStake": "3球",
+  "Guest": "塔利克U21",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "5-0",
+  "PreferResult": 5,
+  "Time2": "11-30 18:42",
+  "Person": "wintion"
+}

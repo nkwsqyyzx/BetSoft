@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷蘭盃",
+  "Time1": "12-19 01:45",
+  "Host": "多積治",
+  "OddStake": "3/3.5球",
+  "Guest": "艾克馬亞",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "2-4",
+  "PreferResult": 5,
+  "Time2": "12-18 20:47",
+  "Person": "红红火火"
+}

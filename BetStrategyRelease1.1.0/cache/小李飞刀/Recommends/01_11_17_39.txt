@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法甲",
+  "Time1": "01-12 04:00",
+  "Host": "巴黎聖日門",
+  "OddStake": "两球/两球半",
+  "Guest": "阿些斯奧",
+  "Prefer": "巴黎聖日門",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "01-11 17:39",
+  "Person": "小李飞刀"
+}

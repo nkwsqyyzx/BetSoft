@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "亞挑盃",
+  "Time1": "03-26 19:30",
+  "Host": "菲律賓",
+  "OddStake": "平/半",
+  "Guest": "土庫曼斯坦",
+  "Prefer": "土庫曼斯坦",
+  "Odds": 0.94,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-26 16:53",
+  "Person": "空山新雨"
+}

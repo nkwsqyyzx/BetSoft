@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西甲",
+  "Time1": "05-30 02:00",
+  "Host": "帕拉尼恩斯",
+  "OddStake": "受平/半",
+  "Guest": "高士路",
+  "Prefer": "帕拉尼恩斯",
+  "Odds": 0.82,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "05-30 01:19",
+  "Person": "无聊玩玩"
+}

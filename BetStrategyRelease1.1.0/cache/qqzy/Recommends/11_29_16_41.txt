@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "土耳其盃",
+  "Time1": "11-29 19:00",
+  "Host": "波拉提布格薩斯",
+  "OddStake": "受一球/球半",
+  "Guest": "伊斯基錫海斯普",
+  "Prefer": "波拉提布格薩斯",
+  "Odds": 0.85,
+  "Result": "0-4",
+  "PreferResult": 1,
+  "Time2": "11-29 16:41",
+  "Person": "qqzy"
+}

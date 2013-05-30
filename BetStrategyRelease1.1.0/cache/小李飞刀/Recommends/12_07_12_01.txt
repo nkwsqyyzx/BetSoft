@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷乙",
+  "Time1": "12-08 03:00",
+  "Host": "阿高斯",
+  "OddStake": "一球",
+  "Guest": "雲登",
+  "Prefer": "阿高斯",
+  "Odds": 0.81,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "12-07 12:01",
+  "Person": "小李飞刀"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西乙",
+  "Time1": "05-29 08:50",
+  "Host": "阿拉皮拉卡",
+  "OddStake": "2.5球",
+  "Guest": "彭美拉斯",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 14:24",
+  "Person": "云里金刚虎"
+}

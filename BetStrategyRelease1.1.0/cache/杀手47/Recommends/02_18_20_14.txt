@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷乙",
+  "Time1": "02-19 03:00",
+  "Host": "金堡爾",
+  "OddStake": "球半",
+  "Guest": "恩浩雲",
+  "Prefer": "恩浩雲",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-18 20:14",
+  "Person": "杀手47"
+}

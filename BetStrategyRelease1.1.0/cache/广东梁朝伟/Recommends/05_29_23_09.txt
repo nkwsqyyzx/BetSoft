@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭乙",
+  "Time1": "05-29 23:30",
+  "Host": "納斯薩",
+  "OddStake": "2/2.5球",
+  "Guest": "札維斯札",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-29 23:09",
+  "Person": "广东梁朝伟"
+}

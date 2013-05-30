@@ -1,0 +1,18 @@
+{
+  "Name": "mozaozi",
+  "LastUpdateTime": "\/Date(1369882390699+0800)\/",
+  "Person": {
+    "TotalROI": -1.525,
+    "CurrentROI": -1.525,
+    "TotalYield": -0.5083333,
+    "CurrentYield": -0.5083333,
+    "Total": 3,
+    "Profit": -1.5,
+    "Win": 0,
+    "WinHalf": 1,
+    "Lose": 2,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "mozaozi"
+  }
+}

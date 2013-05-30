@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威甲",
+  "Time1": "05-12 21:30",
+  "Host": "雷黑姆",
+  "OddStake": "平/半",
+  "Guest": "費德列斯達",
+  "Prefer": "費德列斯達",
+  "Odds": 1.0,
+  "Result": "3-0",
+  "PreferResult": 1,
+  "Time2": "05-12 12:05",
+  "Person": "空山新雨"
+}

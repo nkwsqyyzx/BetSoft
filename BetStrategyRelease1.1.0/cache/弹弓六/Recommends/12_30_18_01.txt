@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-30 23:59",
+  "Host": "昆士柏流浪",
+  "OddStake": "受半球",
+  "Guest": "利物浦",
+  "Prefer": "昆士柏流浪",
+  "Odds": 1.08,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "12-30 18:01",
+  "Person": "弹弓六"
+}

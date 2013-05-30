@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "中超",
+  "Time1": "03-31 15:30",
+  "Host": "長春亞泰",
+  "OddStake": "半球",
+  "Guest": "青島中能",
+  "Prefer": "青島中能",
+  "Odds": 0.85,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "03-31 12:31",
+  "Person": "爽爽"
+}

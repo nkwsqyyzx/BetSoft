@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "丹麥超",
+  "Time1": "05-20 23:00",
+  "Host": "AC侯森斯",
+  "OddStake": "受平/半",
+  "Guest": "邦比",
+  "Prefer": "邦比",
+  "Odds": 1.12,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-20 21:46",
+  "Person": "爽爽"
+}

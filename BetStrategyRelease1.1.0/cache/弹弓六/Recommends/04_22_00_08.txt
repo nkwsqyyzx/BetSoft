@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-22 03:00",
+  "Host": "塞維利亞",
+  "OddStake": "平手",
+  "Guest": "馬德里體育會",
+  "Prefer": "馬德里體育會",
+  "Odds": 1.05,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "04-22 00:08",
+  "Person": "弹弓六"
+}

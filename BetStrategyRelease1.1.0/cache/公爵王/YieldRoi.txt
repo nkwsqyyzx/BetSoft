@@ -1,0 +1,18 @@
+{
+  "Name": "公爵王",
+  "LastUpdateTime": "\/Date(1369882402038+0800)\/",
+  "Person": {
+    "TotalROI": 0.26,
+    "CurrentROI": 0.26,
+    "TotalYield": 0.065,
+    "CurrentYield": 0.065,
+    "Total": 4,
+    "Profit": 0.5,
+    "Win": 1,
+    "WinHalf": 1,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "公爵王"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "亚盘高手",
+  "LastUpdateTime": "\/Date(1369882397043+0800)\/",
+  "Person": {
+    "TotalROI": 0.8,
+    "CurrentROI": 0.8,
+    "TotalYield": 0.4,
+    "CurrentYield": 0.4,
+    "Total": 2,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "亚盘高手"
+  }
+}

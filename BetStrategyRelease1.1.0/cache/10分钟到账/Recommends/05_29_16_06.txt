@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威盃",
+  "Time1": "05-29 23:59",
+  "Host": "禾特",
+  "OddStake": "2.5/3球",
+  "Guest": "莫迪",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 16:06",
+  "Person": "10分钟到账"
+}

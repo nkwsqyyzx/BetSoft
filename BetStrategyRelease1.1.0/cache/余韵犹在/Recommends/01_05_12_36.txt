@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳職聯",
+  "Time1": "01-05 14:30",
+  "Host": "紐卡斯托",
+  "OddStake": "平手",
+  "Guest": "阿德萊得聯",
+  "Prefer": "阿德萊得聯",
+  "Odds": 1.03,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "01-05 12:36",
+  "Person": "余韵犹在"
+}

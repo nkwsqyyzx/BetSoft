@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "亞冠盃",
+  "Time1": "02-27 19:30",
+  "Host": "貴州人和",
+  "OddStake": "受平/半",
+  "Guest": "柏雷素爾",
+  "Prefer": "貴州人和",
+  "Odds": 1.06,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-27 14:45",
+  "Person": "1300100915"
+}

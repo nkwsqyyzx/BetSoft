@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "哥倫盃",
+  "Time1": "05-03 08:00",
+  "Host": "米倫拿列奧",
+  "OddStake": "一球/球半",
+  "Guest": "波哥塔",
+  "Prefer": "米倫拿列奧",
+  "Odds": 0.8,
+  "Result": "2-2",
+  "PreferResult": 1,
+  "Time2": "05-03 00:59",
+  "Person": "12388123"
+}

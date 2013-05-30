@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "伊朗超",
+  "Time1": "04-19 21:00",
+  "Host": "達瑪希吉蘭",
+  "OddStake": "受半/一",
+  "Guest": "沙巴罕",
+  "Prefer": "沙巴罕",
+  "Odds": 0.89,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-19 20:22",
+  "Person": "爽爽"
+}

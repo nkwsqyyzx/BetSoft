@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西班牙盃",
+  "Time1": "11-02 02:00",
+  "Host": "邦弗拉甸拿",
+  "OddStake": "受平/半",
+  "Guest": "加泰",
+  "Prefer": "邦弗拉甸拿",
+  "Odds": 0.92,
+  "Result": "0-4",
+  "PreferResult": 1,
+  "Time2": "11-02 00:13",
+  "Person": "segespa"
+}

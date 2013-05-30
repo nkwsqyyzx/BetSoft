@@ -1,0 +1,18 @@
+{
+  "Name": "歡樂今宵",
+  "LastUpdateTime": "\/Date(1369882408880+0800)\/",
+  "Person": {
+    "TotalROI": 6.249999,
+    "CurrentROI": 5.32999945,
+    "TotalYield": 0.189393908,
+    "CurrentYield": 0.444166631,
+    "Total": 33,
+    "Profit": 7.0,
+    "Win": 16,
+    "WinHalf": 4,
+    "Lose": 10,
+    "LoseHalf": 2,
+    "Draw": 1,
+    "Name": "歡樂今宵"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "愛超",
+  "Time1": "05-18 02:45",
+  "Host": "杜希達聯",
+  "OddStake": "受平/半",
+  "Guest": "德利城",
+  "Prefer": "杜希達聯",
+  "Odds": 0.92,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "05-18 00:38",
+  "Person": "lijian520"
+}

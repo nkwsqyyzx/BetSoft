@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-28 20:00",
+  "Host": "阿曉斯",
+  "OddStake": "3球",
+  "Guest": "域堡",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "01-28 19:17",
+  "Person": "顺水顺风"
+}

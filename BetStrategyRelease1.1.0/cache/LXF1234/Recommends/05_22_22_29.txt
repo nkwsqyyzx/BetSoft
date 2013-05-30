@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "亞冠盃",
+  "Time1": "05-22 23:30",
+  "Host": "里科威亞",
+  "OddStake": "受平/半",
+  "Guest": "希拉爾",
+  "Prefer": "里科威亞",
+  "Odds": 0.82,
+  "Result": "2-2",
+  "PreferResult": 4,
+  "Time2": "05-22 22:29",
+  "Person": "LXF1234"
+}

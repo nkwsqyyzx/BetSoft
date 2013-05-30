@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "澳職聯",
+  "Time1": "02-09 14:30",
+  "Host": "墨爾本赫爾",
+  "OddStake": "平/半",
+  "Guest": "珀斯光榮",
+  "Prefer": "珀斯光榮",
+  "Odds": 1.0,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-09 13:09",
+  "Person": "金牌出击"
+}

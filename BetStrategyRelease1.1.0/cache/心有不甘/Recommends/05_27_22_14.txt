@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "歐青U19",
+  "Time1": "05-27 23:00",
+  "Host": "烏克蘭U19(中)",
+  "OddStake": "受半球",
+  "Guest": "土耳其U19",
+  "Prefer": "烏克蘭U19(中)",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "05-27 22:14",
+  "Person": "心有不甘"
+}

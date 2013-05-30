@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美公開盃",
+  "Time1": "05-29 07:30",
+  "Host": "勞德代爾堡前鋒",
+  "OddStake": "受半球",
+  "Guest": "達拉斯",
+  "Prefer": "達拉斯",
+  "Odds": 0.9,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 19:34",
+  "Person": "罗纳尔多"
+}

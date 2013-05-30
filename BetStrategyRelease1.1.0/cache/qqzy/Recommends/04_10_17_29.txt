@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "",
+  "Time1": "04-10 18:00",
+  "Host": "磐田山葉",
+  "OddStake": "半/一",
+  "Guest": "湘南比馬",
+  "Prefer": "磐田山葉",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "04-10 17:29",
+  "Person": "qqzy"
+}

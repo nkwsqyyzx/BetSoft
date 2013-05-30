@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威盃",
+  "Time1": "05-29 23:59",
+  "Host": "哈爾登",
+  "OddStake": "3.5球",
+  "Guest": "利尼史特朗",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "05-29 20:58",
+  "Person": "不懂球"
+}

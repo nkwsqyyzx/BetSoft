@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "02-21 03:45",
+  "Host": "加拉塔沙雷",
+  "OddStake": "2.5球",
+  "Guest": "史浩克04",
+  "Prefer": "小球",
+  "Odds": 1.04,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "02-20 20:53",
+  "Person": "小球下盘"
+}

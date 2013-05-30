@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "葡聯盃",
+  "Time1": "10-31 23:59",
+  "Host": "費利拿",
+  "OddStake": "2/2.5球",
+  "Guest": "阿維斯",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "10-31 20:20",
+  "Person": "qqzy"
+}

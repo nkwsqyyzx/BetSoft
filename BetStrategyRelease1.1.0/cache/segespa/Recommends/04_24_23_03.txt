@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "玻利甲",
+  "Time1": "04-25 08:00",
+  "Host": "玻利瓦爾",
+  "OddStake": "半球",
+  "Guest": "史莊格斯特",
+  "Prefer": "史莊格斯特",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-24 23:03",
+  "Person": "segespa"
+}

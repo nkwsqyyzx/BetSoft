@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "01-26 21:00",
+  "Host": "沙特魯",
+  "OddStake": "平/半",
+  "Guest": "伊斯特",
+  "Prefer": "伊斯特",
+  "Odds": 0.94,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "01-26 18:03",
+  "Person": "lxf1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "南冠U20",
+  "Time1": "01-28 09:00",
+  "Host": "巴拉圭U20(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "厄瓜多爾U20",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-28 07:54",
+  "Person": "梅西的左脚"
+}

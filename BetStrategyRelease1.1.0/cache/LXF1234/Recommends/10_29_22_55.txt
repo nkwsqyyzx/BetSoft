@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "瑞典超",
+  "Time1": "10-30 02:00",
+  "Host": "艾夫斯堡",
+  "OddStake": "一球/球半",
+  "Guest": "加費萊",
+  "Prefer": "加費萊",
+  "Odds": 1.1,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "10-29 22:55",
+  "Person": "lxf1234"
+}

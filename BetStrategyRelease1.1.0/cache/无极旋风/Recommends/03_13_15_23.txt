@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "中北美冠",
+  "Time1": "03-14 10:00",
+  "Host": "洛杉磯銀河",
+  "OddStake": "球半",
+  "Guest": "希爾迪奧諾",
+  "Prefer": "希爾迪奧諾",
+  "Odds": 0.8,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "03-13 15:23",
+  "Person": "无极旋风"
+}

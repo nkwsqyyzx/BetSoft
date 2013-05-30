@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐冠盃",
+  "Time1": "03-07 03:45",
+  "Host": "祖雲達斯",
+  "OddStake": "一球/球半",
+  "Guest": "些路迪",
+  "Prefer": "祖雲達斯",
+  "Odds": 0.96,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "03-06 19:39",
+  "Person": "顺水顺风"
+}

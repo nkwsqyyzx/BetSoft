@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英甲",
+  "Time1": "01-05 23:00",
+  "Host": "史雲頓",
+  "OddStake": "一球",
+  "Guest": "卡素爾",
+  "Prefer": "史雲頓",
+  "Odds": 0.89,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "01-05 18:28",
+  "Person": "小李飞刀"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "印尼超",
+  "Time1": "05-30 16:30",
+  "Host": "格雷西",
+  "OddStake": "一球",
+  "Guest": "培斯塔坦格朗",
+  "Prefer": "培斯塔坦格朗",
+  "Odds": 0.92,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "05-30 16:01",
+  "Person": "泰然处之"
+}

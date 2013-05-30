@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "冰島盃",
+  "Time1": "05-30 03:15",
+  "Host": "費基亞",
+  "OddStake": "两球",
+  "Guest": "胡沙維克",
+  "Prefer": "胡沙維克",
+  "Odds": 1.04,
+  "Result": "2-0",
+  "PreferResult": 3,
+  "Time2": "05-30 02:49",
+  "Person": "柑蕉桔梨萝柚"
+}

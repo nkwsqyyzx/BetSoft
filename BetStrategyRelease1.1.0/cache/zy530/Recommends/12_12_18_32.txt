@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "匈U19甲",
+  "Time1": "12-12 20:00",
+  "Host": "迪比辛尼U19",
+  "OddStake": "3.5/4球",
+  "Guest": "尼蘇力U19",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "12-12 18:32",
+  "Person": "zy530"
+}

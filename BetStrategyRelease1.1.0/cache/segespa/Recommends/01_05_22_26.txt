@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英非北",
+  "Time1": "01-05 23:00",
+  "Host": "真斯布洛治",
+  "OddStake": "一球",
+  "Guest": "索利哈爾",
+  "Prefer": "真斯布洛治",
+  "Odds": 0.95,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "01-05 22:26",
+  "Person": "segespa"
+}

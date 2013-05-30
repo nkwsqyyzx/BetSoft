@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "亞冠盃",
+  "Time1": "10-31 18:30",
+  "Host": "蔚山現代",
+  "OddStake": "一球",
+  "Guest": "賓約哥",
+  "Prefer": "蔚山現代",
+  "Odds": 1.05,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "10-31 16:49",
+  "Person": "天之骄子"
+}

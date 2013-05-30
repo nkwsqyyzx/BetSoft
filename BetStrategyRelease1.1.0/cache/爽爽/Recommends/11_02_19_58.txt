@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐青U19",
+  "Time1": "11-02 20:30",
+  "Host": "匈牙利U19",
+  "OddStake": "2.5/3球",
+  "Guest": "保加利亞U19",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "11-02 19:58",
+  "Person": "爽爽"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "巴西乙",
+  "Time1": "10-10 08:00",
+  "Host": "阿拉皮拉卡",
+  "OddStake": "2.5球",
+  "Guest": "瓜拉廷格塔",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "10-09 18:58",
+  "Person": "爽爽"
+}

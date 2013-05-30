@@ -1,0 +1,18 @@
+{
+  "Name": "希望之星",
+  "LastUpdateTime": "\/Date(1369882404727+0800)\/",
+  "Person": {
+    "TotalROI": -6.0800004,
+    "CurrentROI": -3.0,
+    "TotalYield": -0.138181821,
+    "CurrentYield": -1.0,
+    "Total": 44,
+    "Profit": -4.5,
+    "Win": 17,
+    "WinHalf": 1,
+    "Lose": 21,
+    "LoseHalf": 2,
+    "Draw": 3,
+    "Name": "希望之星"
+  }
+}

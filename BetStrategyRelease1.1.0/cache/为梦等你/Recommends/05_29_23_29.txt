@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭乙",
+  "Time1": "05-30 01:00",
+  "Host": "阿卡",
+  "OddStake": "半球",
+  "Guest": "奧爾什丁",
+  "Prefer": "奧爾什丁",
+  "Odds": 0.95,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-29 23:29",
+  "Person": "为梦等你"
+}

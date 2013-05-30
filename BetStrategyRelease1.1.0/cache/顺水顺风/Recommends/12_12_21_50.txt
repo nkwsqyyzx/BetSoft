@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "土耳其盃",
+  "Time1": "12-12 23:59",
+  "Host": "安迪亞斯堡",
+  "OddStake": "2.5/3球",
+  "Guest": "比錫達斯",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "12-12 21:50",
+  "Person": "顺水顺风"
+}

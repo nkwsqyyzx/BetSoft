@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英U21",
+  "Time1": "02-05 03:00",
+  "Host": "阿斯頓維拉U21",
+  "OddStake": "2.5/3球",
+  "Guest": "布力般流浪U21",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-04 23:54",
+  "Person": "足球擂台"
+}

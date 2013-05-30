@@ -1,0 +1,18 @@
+{
+  "Name": "tjqalqf",
+  "LastUpdateTime": "\/Date(1369882391098+0800)\/",
+  "Person": {
+    "TotalROI": -0.199999988,
+    "CurrentROI": -0.199999988,
+    "TotalYield": -0.06666666,
+    "CurrentYield": -0.06666666,
+    "Total": 3,
+    "Profit": 0.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 1,
+    "Name": "tjqalqf"
+  }
+}

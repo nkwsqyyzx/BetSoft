@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-17 18:30",
+  "Host": "大田市民",
+  "OddStake": "受半球",
+  "Guest": "蔚山現代",
+  "Prefer": "大田市民",
+  "Odds": 0.98,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "04-17 18:18",
+  "Person": "红红火火"
+}

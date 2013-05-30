@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "美職業",
+  "Time1": "05-26 07:00",
+  "Host": "華盛頓聯隊",
+  "OddStake": "受平/半",
+  "Guest": "波特蘭木材",
+  "Prefer": "波特蘭木材",
+  "Odds": 1.06,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "05-26 00:41",
+  "Person": "梅西的左脚"
+}

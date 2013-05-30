@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "南非超",
+  "Time1": "05-30 01:30",
+  "Host": "茨普帕",
+  "OddStake": "2/2.5球",
+  "Guest": "恩金山度士",
+  "Prefer": "小球",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-29 23:51",
+  "Person": "启蒙"
+}

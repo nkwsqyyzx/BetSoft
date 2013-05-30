@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "02-09 03:00",
+  "Host": "克萊蒙特",
+  "OddStake": "2球",
+  "Guest": "利文斯",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "1-1",
+  "PreferResult": 3,
+  "Time2": "02-09 01:09",
+  "Person": "梅西的左脚"
+}

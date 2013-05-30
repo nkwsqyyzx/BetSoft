@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "英甲",
+  "Time1": "10-27 18:00",
+  "Host": "神戶勝利船",
+  "OddStake": "平/半",
+  "Guest": "川崎前鋒",
+  "Prefer": "川崎前鋒",
+  "Odds": 0.83,
+  "Result": "3-3",
+  "PreferResult": 4,
+  "Time2": "10-27 15:04",
+  "Person": "qqzy"
+}

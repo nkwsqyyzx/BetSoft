@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-11 23:00",
+  "Host": "賀芬咸(中)",
+  "OddStake": "3/3.5球",
+  "Guest": "海倫維恩",
+  "Prefer": "大球",
+  "Odds": 0.93,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "01-11 22:30",
+  "Person": "余韵犹在"
+}

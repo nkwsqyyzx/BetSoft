@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "马来超",
+  "Time1": "01-11 20:45",
+  "Host": "達羅塔晉",
+  "OddStake": "一球",
+  "Guest": "霹靂",
+  "Prefer": "霹靂",
+  "Odds": 1.05,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "01-11 18:25",
+  "Person": "顺水顺风"
+}

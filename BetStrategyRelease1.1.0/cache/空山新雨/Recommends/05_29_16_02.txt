@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "匈U19甲",
+  "Time1": "05-29 17:00",
+  "Host": "艾卡迪麻亞U19",
+  "OddStake": "受平/半",
+  "Guest": "普斯卡斯學院U19",
+  "Prefer": "艾卡迪麻亞U19",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 16:02",
+  "Person": "空山新雨"
+}

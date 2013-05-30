@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "瑞青聯附",
+  "Time1": "10-09 23:00",
+  "Host": "米亞爾比U21",
+  "OddStake": "球半/两球",
+  "Guest": "布諾馬博亞納U21",
+  "Prefer": "米亞爾比U21",
+  "Odds": 0.82,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-09 21:45",
+  "Person": "余韵犹在"
+}

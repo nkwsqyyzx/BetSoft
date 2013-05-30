@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-16 23:00",
+  "Host": "塞爾維亞U19",
+  "OddStake": "半/一",
+  "Guest": "格魯吉亞U19",
+  "Prefer": "塞爾維亞U19",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-16 20:38",
+  "Person": "地狱黑仔王"
+}

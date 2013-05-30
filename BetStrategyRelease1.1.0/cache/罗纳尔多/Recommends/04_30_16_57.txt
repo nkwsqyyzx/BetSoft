@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 02:45",
+  "Host": "皇家馬德里",
+  "OddStake": "一球",
+  "Guest": "多特蒙德",
+  "Prefer": "皇家馬德里",
+  "Odds": 0.93,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-30 16:57",
+  "Person": "罗纳尔多"
+}

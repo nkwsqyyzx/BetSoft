@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "秘魯春",
+  "Time1": "05-19 02:30",
+  "Host": "阿里薩利馬",
+  "OddStake": "2/2.5球",
+  "Guest": "卡加馬卡",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-19 01:39",
+  "Person": "234678136"
+}

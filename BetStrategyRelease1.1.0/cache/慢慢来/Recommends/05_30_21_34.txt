@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "哈薩超",
+  "Time1": "05-30 22:00",
+  "Host": "安察利克",
+  "OddStake": "受平/半",
+  "Guest": "杜保爾",
+  "Prefer": "安察利克",
+  "Odds": 1.02,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 21:34",
+  "Person": "慢慢来"
+}

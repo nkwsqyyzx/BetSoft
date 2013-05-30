@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "葡超",
+  "Time1": "04-02 03:30",
+  "Host": "布拉加",
+  "OddStake": "半球",
+  "Guest": "士砵亭",
+  "Prefer": "布拉加",
+  "Odds": 0.96,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "04-01 23:41",
+  "Person": "梅西的左脚"
+}

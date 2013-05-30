@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "法乙",
+  "Time1": "02-09 03:00",
+  "Host": "GFC阿些斯奧",
+  "OddStake": "平/半",
+  "Guest": "迪卓恩",
+  "Prefer": "GFC阿些斯奧",
+  "Odds": 0.97,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "02-08 16:57",
+  "Person": "lxf1234"
+}

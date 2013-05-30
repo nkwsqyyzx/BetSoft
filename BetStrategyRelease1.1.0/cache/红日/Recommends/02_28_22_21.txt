@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土耳其盃",
+  "Time1": "03-01 02:30",
+  "Host": "柏薩士邦",
+  "OddStake": "2.5球",
+  "Guest": "希維斯堡",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "02-28 22:21",
+  "Person": "红日"
+}

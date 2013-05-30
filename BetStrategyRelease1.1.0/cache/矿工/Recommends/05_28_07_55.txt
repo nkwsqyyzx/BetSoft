@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "哥倫乙",
+  "Time1": "05-28 08:45",
+  "Host": "卡利阿美利加",
+  "OddStake": "2.5/3球",
+  "Guest": "利奧尼格羅",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-28 07:55",
+  "Person": "矿工"
+}

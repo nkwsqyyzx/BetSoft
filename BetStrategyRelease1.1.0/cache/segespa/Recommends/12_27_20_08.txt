@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-28 01:30",
+  "Host": "摩洛哥U17",
+  "OddStake": "2.5/3球",
+  "Guest": "利比亞U17",
+  "Prefer": "大球",
+  "Odds": 0.99,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "12-27 20:08",
+  "Person": "segespa"
+}

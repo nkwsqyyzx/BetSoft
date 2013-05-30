@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-28 01:00",
+  "Host": "奧斯特桑斯",
+  "OddStake": "2.5球",
+  "Guest": "安其爾何馬士",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "05-28 00:48",
+  "Person": "清水心跳"
+}

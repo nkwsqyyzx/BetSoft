@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西乙",
+  "Time1": "05-29 06:30",
+  "Host": "阿瓦伊",
+  "OddStake": "一球",
+  "Guest": "瓜拉廷格塔",
+  "Prefer": "阿瓦伊",
+  "Odds": 0.92,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "05-29 03:14",
+  "Person": "足求胜果"
+}

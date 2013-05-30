@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英U21乙",
+  "Time1": "04-15 20:00",
+  "Host": "哈德斯菲爾德U21",
+  "OddStake": "半球",
+  "Guest": "韋根U21",
+  "Prefer": "韋根U21",
+  "Odds": 0.89,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "04-15 19:39",
+  "Person": "红日"
+}

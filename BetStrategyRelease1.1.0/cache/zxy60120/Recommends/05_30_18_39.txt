@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威盃",
+  "Time1": "05-30 23:59",
+  "Host": "史達比克",
+  "OddStake": "3球",
+  "Guest": "費德列斯達",
+  "Prefer": "大球",
+  "Odds": 1.04,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 18:39",
+  "Person": "zxy60120"
+}

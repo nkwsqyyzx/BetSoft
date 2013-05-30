@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士超",
+  "Time1": "05-30 02:30",
+  "Host": "盧森",
+  "OddStake": "半/一",
+  "Guest": "錫昂",
+  "Prefer": "盧森",
+  "Odds": 0.89,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-30 02:15",
+  "Person": "苍穹"
+}

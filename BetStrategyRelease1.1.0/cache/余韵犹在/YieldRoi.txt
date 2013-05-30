@@ -1,0 +1,18 @@
+{
+  "Name": "余韵犹在",
+  "LastUpdateTime": "\/Date(1369882401558+0800)\/",
+  "Person": {
+    "TotalROI": 15.039999,
+    "CurrentROI": 2.64999986,
+    "TotalYield": 0.07673469,
+    "CurrentYield": 0.176666662,
+    "Total": 196,
+    "Profit": 25.0,
+    "Win": 94,
+    "WinHalf": 13,
+    "Lose": 75,
+    "LoseHalf": 1,
+    "Draw": 12,
+    "Name": "余韵犹在"
+  }
+}

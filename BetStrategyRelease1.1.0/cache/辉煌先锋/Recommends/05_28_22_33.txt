@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-29 01:00",
+  "Host": "西里安斯卡",
+  "OddStake": "平/半",
+  "Guest": "加費萊",
+  "Prefer": "西里安斯卡",
+  "Odds": 1.12,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 22:33",
+  "Person": "辉煌先锋"
+}

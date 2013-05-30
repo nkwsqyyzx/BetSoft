@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-30 01:00",
+  "Host": "馬模",
+  "OddStake": "2.5球",
+  "Guest": "希爾星堡",
+  "Prefer": "小球",
+  "Odds": 0.87,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-29 20:20",
+  "Person": "北风呼啸"
+}

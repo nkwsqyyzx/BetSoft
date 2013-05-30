@@ -1,0 +1,18 @@
+{
+  "Name": "BUICKfifa",
+  "LastUpdateTime": "\/Date(1369882389557+0800)\/",
+  "Person": {
+    "TotalROI": 1.00999975,
+    "CurrentROI": 3.54999971,
+    "TotalYield": 0.0480952263,
+    "CurrentYield": 0.23666665,
+    "Total": 21,
+    "Profit": 1.5,
+    "Win": 6,
+    "WinHalf": 3,
+    "Lose": 6,
+    "LoseHalf": 0,
+    "Draw": 2,
+    "Name": "BUICKfifa"
+  }
+}

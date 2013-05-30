@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德南聯",
+  "Time1": "05-04 20:00",
+  "Host": "柏夫蘭杜夫",
+  "OddStake": "2.5球",
+  "Guest": "凱沙羅頓青年隊",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-04 15:15",
+  "Person": "小球下盘"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "土超",
+  "Time1": "11-10 02:00",
+  "Host": "比錫達斯",
+  "OddStake": "半球",
+  "Guest": "柏薩士邦",
+  "Prefer": "柏薩士邦",
+  "Odds": 0.8,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "11-10 00:24",
+  "Person": "空山新雨"
+}

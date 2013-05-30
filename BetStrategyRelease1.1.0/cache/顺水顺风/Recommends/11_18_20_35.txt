@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-18 22:00",
+  "Host": "烏甸尼斯",
+  "OddStake": "2.5球",
+  "Guest": "帕爾馬",
+  "Prefer": "大球",
+  "Odds": 1.08,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "11-18 20:35",
+  "Person": "顺水顺风"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法聯盃",
+  "Time1": "10-31 03:00",
+  "Host": "摩納哥",
+  "OddStake": "2.5球",
+  "Guest": "特魯瓦",
+  "Prefer": "大球",
+  "Odds": 0.97,
+  "Result": "1-2",
+  "PreferResult": 5,
+  "Time2": "10-30 20:33",
+  "Person": "中奖"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "法乙",
+  "Time1": "12-01 01:45",
+  "Host": "南特",
+  "OddStake": "半/一",
+  "Guest": "尼歐特",
+  "Prefer": "南特",
+  "Odds": 0.93,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-30 21:37",
+  "Person": "lxf1234"
+}

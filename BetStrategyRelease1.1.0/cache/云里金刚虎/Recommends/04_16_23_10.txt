@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "摩洛超",
+  "Time1": "04-17 04:30",
+  "Host": "FUS拉巴特",
+  "OddStake": "半球",
+  "Guest": "渥斯馬",
+  "Prefer": "渥斯馬",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-16 23:10",
+  "Person": "云里金刚虎"
+}

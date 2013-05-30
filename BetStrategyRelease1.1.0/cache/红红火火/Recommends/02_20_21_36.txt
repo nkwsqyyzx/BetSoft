@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "友誼賽",
+  "Time1": "02-20 23:00",
+  "Host": "阿斯特拉吉爾古(中)",
+  "OddStake": "半/一",
+  "Guest": "奧斯特桑斯",
+  "Prefer": "阿斯特拉吉爾古(中)",
+  "Odds": 0.87,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "02-20 21:36",
+  "Person": "红红火火"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "土超",
+  "Time1": "03-31 23:59",
+  "Host": "費倫巴治",
+  "OddStake": "球半",
+  "Guest": "阿克希薩爾",
+  "Prefer": "阿克希薩爾",
+  "Odds": 0.83,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "03-31 22:57",
+  "Person": "金牌出击"
+}

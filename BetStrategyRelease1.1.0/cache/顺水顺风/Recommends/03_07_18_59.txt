@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "阿塞盃",
+  "Time1": "03-07 21:00",
+  "Host": "蘭卡倫",
+  "OddStake": "2.5球",
+  "Guest": "拉莞巴古",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "03-07 18:59",
+  "Person": "顺水顺风"
+}

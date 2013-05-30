@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐室錦標",
+  "Time1": "03-29 01:00",
+  "Host": "馬其頓室內(中)",
+  "OddStake": "5.5球",
+  "Guest": "克羅地亞室內",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-3",
+  "PreferResult": 1,
+  "Time2": "03-29 00:42",
+  "Person": "12388123"
+}

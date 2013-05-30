@@ -1,0 +1,18 @@
+{
+  "Name": "笑妹",
+  "LastUpdateTime": "\/Date(1369882412532+0800)\/",
+  "Person": {
+    "TotalROI": -0.53,
+    "CurrentROI": -0.53,
+    "TotalYield": -0.265,
+    "CurrentYield": -0.265,
+    "Total": 2,
+    "Profit": -0.5,
+    "Win": 0,
+    "WinHalf": 1,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "笑妹"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "比利時盃",
+  "Time1": "12-13 03:00",
+  "Host": "色格拉布魯日",
+  "OddStake": "半球",
+  "Guest": "奧斯坦德",
+  "Prefer": "色格拉布魯日",
+  "Odds": 0.98,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "12-12 20:51",
+  "Person": "红红火火"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-29 02:45",
+  "Host": "土耳其(中)",
+  "OddStake": "球半",
+  "Guest": "拉脫維亞",
+  "Prefer": "土耳其(中)",
+  "Odds": 1.04,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 15:26",
+  "Person": "江南暴雨"
+}

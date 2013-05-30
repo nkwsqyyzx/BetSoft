@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "02-07 01:00",
+  "Host": "挪威(中)",
+  "OddStake": "受平/半",
+  "Guest": "烏克蘭",
+  "Prefer": "挪威(中)",
+  "Odds": 0.85,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "02-07 00:25",
+  "Person": "qqzy"
+}

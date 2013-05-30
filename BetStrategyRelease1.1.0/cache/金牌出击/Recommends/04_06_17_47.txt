@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "法甲",
+  "Time1": "04-07 02:00",
+  "Host": "蒙彼利埃",
+  "OddStake": "一球",
+  "Guest": "華倫西恩斯",
+  "Prefer": "蒙彼利埃",
+  "Odds": 1.06,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-06 17:47",
+  "Person": "金牌出击"
+}

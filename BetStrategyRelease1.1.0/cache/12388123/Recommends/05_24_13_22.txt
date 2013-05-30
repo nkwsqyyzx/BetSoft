@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "法乙",
+  "Time1": "05-25 02:30",
+  "Host": "利文斯",
+  "OddStake": "一球",
+  "Guest": "朗斯",
+  "Prefer": "利文斯",
+  "Odds": 1.06,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "05-24 13:22",
+  "Person": "12388123"
+}

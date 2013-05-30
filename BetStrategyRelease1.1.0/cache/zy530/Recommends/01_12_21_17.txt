@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意青聯",
+  "Time1": "01-12 21:30",
+  "Host": "布雷西亞U19",
+  "OddStake": "2.5/3球",
+  "Guest": "博洛尼亞U19",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "01-12 21:17",
+  "Person": "zy530"
+}

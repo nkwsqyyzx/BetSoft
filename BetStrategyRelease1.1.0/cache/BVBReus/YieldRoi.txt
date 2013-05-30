@@ -1,0 +1,18 @@
+{
+  "Name": "BVBReus",
+  "LastUpdateTime": "\/Date(1369882389580+0800)\/",
+  "Person": {
+    "TotalROI": -3.1,
+    "CurrentROI": -3.1,
+    "TotalYield": -0.62,
+    "CurrentYield": -0.62,
+    "Total": 5,
+    "Profit": -3.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 4,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "BVBReus"
+  }
+}

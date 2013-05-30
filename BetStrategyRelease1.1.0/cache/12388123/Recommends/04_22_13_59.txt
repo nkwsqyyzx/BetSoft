@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "荷青聯",
+  "Time1": "04-23 00:30",
+  "Host": "飛燕諾SBV精英隊青年隊",
+  "OddStake": "球半/两球",
+  "Guest": "NEC尼美根奧斯青年隊",
+  "Prefer": "飛燕諾SBV精英隊青年隊",
+  "Odds": 0.91,
+  "Result": "3-1",
+  "PreferResult": 4,
+  "Time2": "04-22 13:59",
+  "Person": "12388123"
+}

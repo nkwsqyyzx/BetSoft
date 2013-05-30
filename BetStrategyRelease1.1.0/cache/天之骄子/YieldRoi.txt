@@ -1,0 +1,18 @@
+{
+  "Name": "天之骄子",
+  "LastUpdateTime": "\/Date(1369882404492+0800)\/",
+  "Person": {
+    "TotalROI": 10.5634995,
+    "CurrentROI": 1.87499988,
+    "TotalYield": 0.06520679,
+    "CurrentYield": 0.110294111,
+    "Total": 162,
+    "Profit": 14.0,
+    "Win": 71,
+    "WinHalf": 12,
+    "Lose": 56,
+    "LoseHalf": 14,
+    "Draw": 6,
+    "Name": "天之骄子"
+  }
+}

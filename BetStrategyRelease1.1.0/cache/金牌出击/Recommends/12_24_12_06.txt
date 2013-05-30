@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "以超",
+  "Time1": "12-25 02:50",
+  "Host": "伊若尼奇亞夏普爾",
+  "OddStake": "2/2.5球",
+  "Guest": "海法馬卡比",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "12-24 12:06",
+  "Person": "金牌出击"
+}

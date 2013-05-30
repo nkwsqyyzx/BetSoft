@@ -1,0 +1,18 @@
+{
+  "Name": "东北球王",
+  "LastUpdateTime": "\/Date(1369882392755+0800)\/",
+  "Person": {
+    "TotalROI": 0.9,
+    "CurrentROI": 0.9,
+    "TotalYield": 0.299999982,
+    "CurrentYield": 0.299999982,
+    "Total": 3,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "东北球王"
+  }
+}

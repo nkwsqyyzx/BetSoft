@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英甲",
+  "Time1": "11-21 03:45",
+  "Host": "普雷斯頓",
+  "OddStake": "平/半",
+  "Guest": "諾士郡",
+  "Prefer": "諾士郡",
+  "Odds": 0.93,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "11-21 00:30",
+  "Person": "空山新雨"
+}

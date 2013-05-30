@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "歐霸盃",
+  "Time1": "12-07 02:00",
+  "Host": "費倫巴治",
+  "OddStake": "半球",
+  "Guest": "慕遜加柏",
+  "Prefer": "慕遜加柏",
+  "Odds": 0.9,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "12-06 21:09",
+  "Person": "中奖"
+}

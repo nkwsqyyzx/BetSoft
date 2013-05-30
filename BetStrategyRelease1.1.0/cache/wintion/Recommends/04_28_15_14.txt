@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳昆超",
+  "Time1": "04-28 15:30",
+  "Host": "帕馬貝奇",
+  "OddStake": "4.5球",
+  "Guest": "瑞德蘭茨聯",
+  "Prefer": "大球",
+  "Odds": 0.96,
+  "Result": "4-7",
+  "PreferResult": 5,
+  "Time2": "04-28 15:14",
+  "Person": "wintion"
+}

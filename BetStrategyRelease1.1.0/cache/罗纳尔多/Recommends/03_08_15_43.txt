@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "中超",
+  "Time1": "03-08 19:35",
+  "Host": "北京國安",
+  "OddStake": "一球",
+  "Guest": "上海東亞",
+  "Prefer": "上海東亞",
+  "Odds": 0.8,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "03-08 15:43",
+  "Person": "罗纳尔多"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "挪威甲",
+  "Time1": "05-09 21:00",
+  "Host": "桑德菲傑",
+  "OddStake": "半/一",
+  "Guest": "咸卡姆",
+  "Prefer": "桑德菲傑",
+  "Odds": 1.18,
+  "Result": "3-2",
+  "PreferResult": 4,
+  "Time2": "05-09 20:40",
+  "Person": "空山新雨"
+}

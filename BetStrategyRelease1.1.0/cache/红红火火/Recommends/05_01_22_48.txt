@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-02 02:45",
+  "Host": "巴塞羅那",
+  "OddStake": "半/一",
+  "Guest": "拜仁慕尼黑",
+  "Prefer": "巴塞羅那",
+  "Odds": 1.02,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "05-01 22:48",
+  "Person": "红红火火"
+}

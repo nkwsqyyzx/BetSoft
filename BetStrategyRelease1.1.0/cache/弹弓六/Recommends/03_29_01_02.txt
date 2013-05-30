@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "女歐協盃",
+  "Time1": "03-29 02:15",
+  "Host": "LdB馬模女足",
+  "OddStake": "受一球/球半",
+  "Guest": "里昂女足",
+  "Prefer": "里昂女足",
+  "Odds": 0.83,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "03-29 01:02",
+  "Person": "弹弓六"
+}

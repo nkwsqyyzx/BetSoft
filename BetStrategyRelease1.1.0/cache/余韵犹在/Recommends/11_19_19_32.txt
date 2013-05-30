@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意丙B",
+  "Time1": "11-20 03:45",
+  "Host": "比薩",
+  "OddStake": "2.5球",
+  "Guest": "索倫托",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "11-19 19:32",
+  "Person": "余韵犹在"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西甲",
+  "Time1": "11-25 19:00",
+  "Host": "愛斯賓奴",
+  "OddStake": "平/半",
+  "Guest": "加泰",
+  "Prefer": "加泰",
+  "Odds": 0.99,
+  "Result": "0-2",
+  "PreferResult": 5,
+  "Time2": "11-25 12:23",
+  "Person": "天之骄子"
+}

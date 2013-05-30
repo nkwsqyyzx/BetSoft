@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西甲",
+  "Time1": "11-26 04:00",
+  "Host": "利雲特",
+  "OddStake": "3/3.5球",
+  "Guest": "巴塞羅那",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "0-4",
+  "PreferResult": 1,
+  "Time2": "11-26 00:09",
+  "Person": "梅西的左脚"
+}

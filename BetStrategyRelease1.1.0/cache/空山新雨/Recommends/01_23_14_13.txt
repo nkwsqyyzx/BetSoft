@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "泰王盃",
+  "Time1": "01-23 17:00",
+  "Host": "瑞典(中)",
+  "OddStake": "2.5球",
+  "Guest": "北韓",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-23 14:13",
+  "Person": "空山新雨"
+}

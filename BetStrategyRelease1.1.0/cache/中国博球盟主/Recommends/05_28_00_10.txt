@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典甲",
+  "Time1": "05-28 01:00",
+  "Host": "渥那模",
+  "OddStake": "2.5球",
+  "Guest": "松茲瓦爾",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-28 00:10",
+  "Person": "中国博球盟主"
+}

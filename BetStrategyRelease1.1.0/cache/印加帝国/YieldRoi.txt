@@ -1,0 +1,18 @@
+{
+  "Name": "印加帝国",
+  "LastUpdateTime": "\/Date(1369882403374+0800)\/",
+  "Person": {
+    "TotalROI": 0.0899997354,
+    "CurrentROI": 2.415,
+    "TotalYield": 0.00111110788,
+    "CurrentYield": 0.1509375,
+    "Total": 81,
+    "Profit": 5.0,
+    "Win": 35,
+    "WinHalf": 6,
+    "Lose": 31,
+    "LoseHalf": 4,
+    "Draw": 2,
+    "Name": "印加帝国"
+  }
+}

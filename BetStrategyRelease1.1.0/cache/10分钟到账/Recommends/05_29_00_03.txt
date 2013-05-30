@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "羅甲",
+  "Time1": "05-29 03:00",
+  "Host": "加拉迪",
+  "OddStake": "平/半",
+  "Guest": "布格勒斯特戴拿模",
+  "Prefer": "布格勒斯特戴拿模",
+  "Odds": 1.0,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-29 00:03",
+  "Person": "10分钟到账"
+}

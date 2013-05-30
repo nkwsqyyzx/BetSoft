@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-21 02:00",
+  "Host": "馬德里體育會",
+  "OddStake": "球半",
+  "Guest": "利雲特",
+  "Prefer": "馬德里體育會",
+  "Odds": 1.05,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "01-21 01:07",
+  "Person": "jack"
+}

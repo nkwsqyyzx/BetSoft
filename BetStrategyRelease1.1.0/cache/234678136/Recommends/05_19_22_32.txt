@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "智利春",
+  "Time1": "05-20 06:30",
+  "Host": "流浪者",
+  "OddStake": "2.5球",
+  "Guest": "華奇巴托",
+  "Prefer": "小球",
+  "Odds": 1.05,
+  "Result": "5-2",
+  "PreferResult": 1,
+  "Time2": "05-19 22:32",
+  "Person": "234678136"
+}

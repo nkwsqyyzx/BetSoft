@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "比甲",
+  "Time1": "05-17 02:30",
+  "Host": "威爾郡",
+  "OddStake": "平手",
+  "Guest": "布魯日",
+  "Prefer": "布魯日",
+  "Odds": 0.83,
+  "Result": "5-2",
+  "PreferResult": 1,
+  "Time2": "05-17 02:01",
+  "Person": "BVBReus"
+}

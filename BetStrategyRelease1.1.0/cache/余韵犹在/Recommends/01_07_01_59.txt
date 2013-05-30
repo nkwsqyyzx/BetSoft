@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意甲",
+  "Time1": "01-07 03:45",
+  "Host": "拿玻里",
+  "OddStake": "平/半",
+  "Guest": "羅馬",
+  "Prefer": "羅馬",
+  "Odds": 1.06,
+  "Result": "4-1",
+  "PreferResult": 1,
+  "Time2": "01-07 01:59",
+  "Person": "余韵犹在"
+}

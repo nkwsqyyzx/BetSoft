@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "澳職聯",
+  "Time1": "12-27 18:45",
+  "Host": "珀斯光榮",
+  "OddStake": "2/2.5球",
+  "Guest": "西部悉尼流浪者",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "12-27 18:14",
+  "Person": "杀手47"
+}

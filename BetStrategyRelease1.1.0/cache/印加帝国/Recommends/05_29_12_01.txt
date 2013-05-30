@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-30 01:00",
+  "Host": "馬模",
+  "OddStake": "2/2.5球",
+  "Guest": "希爾星堡",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 12:01",
+  "Person": "印加帝国"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德丙聯",
+  "Time1": "05-18 23:30",
+  "Host": "克拉斯諾達爾",
+  "OddStake": "2.5球",
+  "Guest": "莫斯科斯巴達",
+  "Prefer": "小球",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "05-18 22:32",
+  "Person": "红日"
+}

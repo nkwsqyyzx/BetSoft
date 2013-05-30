@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土甲",
+  "Time1": "03-05 02:00",
+  "Host": "哥茲塔比",
+  "OddStake": "受半球",
+  "Guest": "阿辛耶斯堡",
+  "Prefer": "阿辛耶斯堡",
+  "Odds": 1.13,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "03-05 01:11",
+  "Person": "罗纳尔多"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭甲",
+  "Time1": "05-28 00:30",
+  "Host": "路賓",
+  "OddStake": "平/半",
+  "Guest": "華沙普隆尼亞",
+  "Prefer": "華沙普隆尼亞",
+  "Odds": 1.1,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "05-28 00:18",
+  "Person": "菠菜大胜"
+}

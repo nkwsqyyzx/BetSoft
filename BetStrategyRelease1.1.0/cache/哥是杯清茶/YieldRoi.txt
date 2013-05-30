@@ -1,0 +1,18 @@
+{
+  "Name": "哥是杯清茶",
+  "LastUpdateTime": "\/Date(1369882403474+0800)\/",
+  "Person": {
+    "TotalROI": -0.120000005,
+    "CurrentROI": -0.120000005,
+    "TotalYield": -0.0600000024,
+    "CurrentYield": -0.0600000024,
+    "Total": 2,
+    "Profit": 0.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "哥是杯清茶"
+  }
+}

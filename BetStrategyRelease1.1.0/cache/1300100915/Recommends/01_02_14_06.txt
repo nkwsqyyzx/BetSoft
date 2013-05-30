@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "01-03 03:45",
+  "Host": "利物浦",
+  "OddStake": "2.5/3球",
+  "Guest": "桑德蘭",
+  "Prefer": "小球",
+  "Odds": 0.97,
+  "Result": "3-0",
+  "PreferResult": 2,
+  "Time2": "01-02 14:06",
+  "Person": "1300100915"
+}

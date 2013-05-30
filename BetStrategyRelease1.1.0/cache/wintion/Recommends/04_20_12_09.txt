@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳南超",
+  "Time1": "04-20 13:30",
+  "Host": "阿德萊德眼鏡蛇",
+  "OddStake": "3球",
+  "Guest": "恩菲爾德",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-20 12:09",
+  "Person": "wintion"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳威超",
+  "Time1": "04-27 16:30",
+  "Host": "中央海岸學院",
+  "OddStake": "2.5/3球",
+  "Guest": "馬柯尼",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-27 16:00",
+  "Person": "地狱黑仔王"
+}

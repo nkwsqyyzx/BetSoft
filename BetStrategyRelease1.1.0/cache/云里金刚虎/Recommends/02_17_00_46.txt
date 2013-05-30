@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "土甲",
+  "Time1": "02-17 01:00",
+  "Host": "哥茲塔比",
+  "OddStake": "2/2.5球",
+  "Guest": "丹尼斯尼士邦",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "1-1",
+  "PreferResult": 2,
+  "Time2": "02-17 00:46",
+  "Person": "云里金刚虎"
+}

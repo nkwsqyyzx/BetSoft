@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士超",
+  "Time1": "05-30 02:30",
+  "Host": "蘇黎世",
+  "OddStake": "2.5/3球",
+  "Guest": "杜安",
+  "Prefer": "大球",
+  "Odds": 0.91,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-30 01:50",
+  "Person": "墨斗红云"
+}

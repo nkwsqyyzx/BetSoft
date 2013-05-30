@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西甲",
+  "Time1": "01-13 19:00",
+  "Host": "皇家貝迪斯",
+  "OddStake": "2/2.5球",
+  "Guest": "利雲特",
+  "Prefer": "大球",
+  "Odds": 0.87,
+  "Result": "2-0",
+  "PreferResult": 2,
+  "Time2": "01-13 18:42",
+  "Person": "顺水顺风"
+}

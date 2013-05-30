@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "澳維超",
+  "Time1": "04-26 18:30",
+  "Host": "帕斯科華倫",
+  "OddStake": "2.5球",
+  "Guest": "卡瓦利爾斯",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "04-26 17:30",
+  "Person": "红红火火"
+}

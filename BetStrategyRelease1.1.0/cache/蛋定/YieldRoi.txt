@@ -1,0 +1,18 @@
+{
+  "Name": "蛋定",
+  "LastUpdateTime": "\/Date(1369882414801+0800)\/",
+  "Person": {
+    "TotalROI": -4.12,
+    "CurrentROI": -4.12,
+    "TotalYield": -0.686666667,
+    "CurrentYield": -0.686666667,
+    "Total": 6,
+    "Profit": -4.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 5,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "蛋定"
+  }
+}

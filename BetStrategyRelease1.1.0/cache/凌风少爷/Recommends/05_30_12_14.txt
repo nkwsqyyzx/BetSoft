@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭甲",
+  "Time1": "05-30 23:59",
+  "Host": "博爾切圖",
+  "OddStake": "半/一",
+  "Guest": "喬治羅尼亞",
+  "Prefer": "博爾切圖",
+  "Odds": 0.89,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 12:14",
+  "Person": "凌风少爷"
+}

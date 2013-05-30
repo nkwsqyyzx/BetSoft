@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "印度甲",
+  "Time1": "12-30 16:30",
+  "Host": "翠鳥東孟加拉足球俱樂部",
+  "OddStake": "2.5/3球",
+  "Guest": "派欖阿羅",
+  "Prefer": "大球",
+  "Odds": 1.02,
+  "Result": "3-0",
+  "PreferResult": 4,
+  "Time2": "12-30 15:28",
+  "Person": "wintion"
+}

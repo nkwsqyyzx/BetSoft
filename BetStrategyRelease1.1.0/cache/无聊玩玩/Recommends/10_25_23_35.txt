@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐霸盃",
+  "Time1": "10-26 01:00",
+  "Host": "里昂",
+  "OddStake": "半球",
+  "Guest": "畢爾巴鄂競技",
+  "Prefer": "畢爾巴鄂競技",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "10-25 23:35",
+  "Person": "无聊玩玩"
+}

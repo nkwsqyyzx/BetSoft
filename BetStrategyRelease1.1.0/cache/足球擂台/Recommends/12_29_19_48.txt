@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "",
+  "Time1": "12-29 23:00",
+  "Host": "史塔布理治",
+  "OddStake": "2.5/3球",
+  "Guest": "布拉德福德派克大街",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "12-29 19:48",
+  "Person": "足球擂台"
+}

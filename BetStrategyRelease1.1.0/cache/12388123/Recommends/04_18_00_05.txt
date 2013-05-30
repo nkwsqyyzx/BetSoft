@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德北聯",
+  "Time1": "04-18 00:15",
+  "Host": "奧爾登堡",
+  "OddStake": "2.5球",
+  "Guest": "漢堡青年隊",
+  "Prefer": "大球",
+  "Odds": 1.0,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "04-18 00:05",
+  "Person": "12388123"
+}

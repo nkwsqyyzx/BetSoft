@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐霸盃",
+  "Time1": "11-23 02:00",
+  "Host": "洛辛堡",
+  "OddStake": "半/一",
+  "Guest": "維也納迅速",
+  "Prefer": "洛辛堡",
+  "Odds": 1.02,
+  "Result": "3-2",
+  "PreferResult": 4,
+  "Time2": "11-23 01:10",
+  "Person": "金牌出击"
+}

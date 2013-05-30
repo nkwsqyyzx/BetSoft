@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西乙",
+  "Time1": "12-09 01:00",
+  "Host": "拉斯彭馬斯",
+  "OddStake": "半/一",
+  "Guest": "威斯卡",
+  "Prefer": "拉斯彭馬斯",
+  "Odds": 0.8,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "12-08 23:55",
+  "Person": "无聊玩玩"
+}

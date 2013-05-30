@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-28 23:15",
+  "Host": "黑山U18",
+  "OddStake": "3球",
+  "Guest": "馬其頓U18",
+  "Prefer": "大球",
+  "Odds": 1.07,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 20:58",
+  "Person": "不懂球"
+}

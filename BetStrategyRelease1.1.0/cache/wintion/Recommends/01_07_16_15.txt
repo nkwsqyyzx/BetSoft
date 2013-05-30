@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "馬來甲",
+  "Time1": "01-07 16:45",
+  "Host": "玻璃市",
+  "OddStake": "3/3.5球",
+  "Guest": "砂勞越",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 2,
+  "Time2": "01-07 16:15",
+  "Person": "wintion"
+}

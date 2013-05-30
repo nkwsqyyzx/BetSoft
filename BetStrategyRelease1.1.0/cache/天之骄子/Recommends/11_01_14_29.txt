@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "西班牙盃",
+  "Time1": "11-01 19:00",
+  "Host": "伊巴",
+  "OddStake": "受半/一",
+  "Guest": "畢爾巴鄂競技",
+  "Prefer": "畢爾巴鄂競技",
+  "Odds": 0.97,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-01 14:29",
+  "Person": "天之骄子"
+}

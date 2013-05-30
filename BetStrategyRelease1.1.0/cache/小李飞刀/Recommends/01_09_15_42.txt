@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "意盃",
+  "Time1": "01-10 03:45",
+  "Host": "祖雲達斯",
+  "OddStake": "半/一",
+  "Guest": "AC米蘭",
+  "Prefer": "AC米蘭",
+  "Odds": 0.88,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "01-09 15:42",
+  "Person": "小李飞刀"
+}

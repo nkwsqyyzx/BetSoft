@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "俄甲",
+  "Time1": "11-12 22:30",
+  "Host": "辛歷克",
+  "OddStake": "2/2.5球",
+  "Guest": "莫斯科魚雷",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "11-12 21:08",
+  "Person": "qqzy"
+}

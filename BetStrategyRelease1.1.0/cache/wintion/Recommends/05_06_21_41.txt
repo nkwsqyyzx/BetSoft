@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "葡超",
+  "Time1": "05-07 03:00",
+  "Host": "賓菲加",
+  "OddStake": "球半/两球",
+  "Guest": "伊斯托里爾",
+  "Prefer": "賓菲加",
+  "Odds": 0.94,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "05-06 21:41",
+  "Person": "wintion"
+}

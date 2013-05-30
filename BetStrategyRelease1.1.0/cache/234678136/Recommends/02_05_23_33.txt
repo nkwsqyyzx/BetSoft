@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "02-06 03:30",
+  "Host": "英格蘭U21",
+  "OddStake": "2.5/3球",
+  "Guest": "瑞典U21",
+  "Prefer": "大球",
+  "Odds": 1.01,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "02-05 23:33",
+  "Person": "234678136"
+}

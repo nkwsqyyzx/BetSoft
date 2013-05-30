@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷甲",
+  "Time1": "12-22 03:00",
+  "Host": "艾克馬亞",
+  "OddStake": "平手",
+  "Guest": "川迪",
+  "Prefer": "川迪",
+  "Odds": 0.8,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "12-21 21:29",
+  "Person": "无极旋风"
+}

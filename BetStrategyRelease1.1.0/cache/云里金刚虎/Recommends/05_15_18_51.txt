@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-15 22:00",
+  "Host": "捷克U16(中)",
+  "OddStake": "3球",
+  "Guest": "拉脫維亞U16",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-15 18:51",
+  "Person": "云里金刚虎"
+}

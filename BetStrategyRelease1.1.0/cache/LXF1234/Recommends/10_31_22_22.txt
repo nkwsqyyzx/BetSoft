@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "意甲",
+  "Time1": "11-01 03:45",
+  "Host": "帕爾馬",
+  "OddStake": "平手",
+  "Guest": "羅馬",
+  "Prefer": "羅馬",
+  "Odds": 0.87,
+  "Result": "3-2",
+  "PreferResult": 1,
+  "Time2": "10-31 22:22",
+  "Person": "lxf1234"
+}

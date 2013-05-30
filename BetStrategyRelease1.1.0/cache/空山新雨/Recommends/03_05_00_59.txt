@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "巴林超",
+  "Time1": "03-05 01:10",
+  "Host": "哈拉",
+  "OddStake": "2.5/3球",
+  "Guest": "希德",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "03-05 00:59",
+  "Person": "空山新雨"
+}

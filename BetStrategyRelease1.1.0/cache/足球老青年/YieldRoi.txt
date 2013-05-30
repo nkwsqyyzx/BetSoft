@@ -1,0 +1,18 @@
+{
+  "Name": "足球老青年",
+  "LastUpdateTime": "\/Date(1369882416236+0800)\/",
+  "Person": {
+    "TotalROI": 2.37,
+    "CurrentROI": 2.37,
+    "TotalYield": 0.5925,
+    "CurrentYield": 0.5925,
+    "Total": 4,
+    "Profit": 2.5,
+    "Win": 2,
+    "WinHalf": 1,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "足球老青年"
+  }
+}

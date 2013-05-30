@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "西甲",
+  "Time1": "12-21 03:00",
+  "Host": "華歷簡奴",
+  "OddStake": "2/2.5球",
+  "Guest": "利雲特",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "12-21 02:43",
+  "Person": "中奖太简单啦"
+}

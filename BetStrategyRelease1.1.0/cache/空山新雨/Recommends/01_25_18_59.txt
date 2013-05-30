@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "伊朗超",
+  "Time1": "01-25 19:30",
+  "Host": "艾斯迪格拿",
+  "OddStake": "平/半",
+  "Guest": "柏斯波利斯",
+  "Prefer": "柏斯波利斯",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "01-25 18:59",
+  "Person": "空山新雨"
+}

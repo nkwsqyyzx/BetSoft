@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "冰島盃",
+  "Time1": "05-31 03:15",
+  "Host": "托爾阿庫瑞",
+  "OddStake": "受半球",
+  "Guest": "斯塔爾南",
+  "Prefer": "斯塔爾南",
+  "Odds": 0.9,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 16:24",
+  "Person": "阿根廷"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "04-10 01:00",
+  "Host": "伊地法格",
+  "OddStake": "半球",
+  "Guest": "沙巴柏杜拜",
+  "Prefer": "伊地法格",
+  "Odds": 0.94,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "04-10 00:34",
+  "Person": "segespa"
+}

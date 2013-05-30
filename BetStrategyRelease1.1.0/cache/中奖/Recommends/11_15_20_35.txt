@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "墨西聯",
+  "Time1": "11-16 11:00",
+  "Host": "芝華士",
+  "OddStake": "2.5球",
+  "Guest": "托拉卡",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "11-15 20:35",
+  "Person": "中奖"
+}

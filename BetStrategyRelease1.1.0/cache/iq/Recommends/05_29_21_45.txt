@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-29 23:30",
+  "Host": "洪卡",
+  "OddStake": "2.5球",
+  "Guest": "拉迪",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "05-29 21:45",
+  "Person": "iq"
+}

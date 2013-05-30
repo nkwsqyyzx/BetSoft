@@ -1,0 +1,18 @@
+{
+  "Name": "八月十日",
+  "LastUpdateTime": "\/Date(1369882401945+0800)\/",
+  "Person": {
+    "TotalROI": -5.65499973,
+    "CurrentROI": 1.925,
+    "TotalYield": -0.128522724,
+    "CurrentYield": 0.12833333,
+    "Total": 44,
+    "Profit": -3.5,
+    "Win": 15,
+    "WinHalf": 5,
+    "Lose": 19,
+    "LoseHalf": 4,
+    "Draw": 1,
+    "Name": "八月十日"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "葡甲",
+  "Time1": "12-09 23:00",
+  "Host": "阿魯卡",
+  "OddStake": "受平/半",
+  "Guest": "賓菲加B隊",
+  "Prefer": "阿魯卡",
+  "Odds": 0.87,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-09 16:29",
+  "Person": "空山新雨"
+}

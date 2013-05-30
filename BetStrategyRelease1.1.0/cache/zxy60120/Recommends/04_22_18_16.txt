@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-23 03:00",
+  "Host": "曼聯",
+  "OddStake": "3/3.5球",
+  "Guest": "阿斯頓維拉",
+  "Prefer": "大球",
+  "Odds": 0.86,
+  "Result": "3-0",
+  "PreferResult": 2,
+  "Time2": "04-22 18:16",
+  "Person": "zxy60120"
+}

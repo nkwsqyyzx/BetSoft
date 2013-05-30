@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "04-20 13:00",
+  "Host": "大田市民",
+  "OddStake": "受半球",
+  "Guest": "水原三星",
+  "Prefer": "水原三星",
+  "Odds": 1.03,
+  "Result": "1-4",
+  "PreferResult": 5,
+  "Time2": "04-20 12:13",
+  "Person": "LXF1234"
+}

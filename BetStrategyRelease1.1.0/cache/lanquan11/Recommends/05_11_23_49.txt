@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "奧甲",
+  "Time1": "05-12 00:30",
+  "Host": "維也納迅速",
+  "OddStake": "半/一",
+  "Guest": "禾夫斯堡",
+  "Prefer": "禾夫斯堡",
+  "Odds": 1.01,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "05-11 23:49",
+  "Person": "lanquan11"
+}

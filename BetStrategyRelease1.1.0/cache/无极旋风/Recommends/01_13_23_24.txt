@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "葡超",
+  "Time1": "01-13 23:59",
+  "Host": "基維辛迪",
+  "OddStake": "2/2.5球",
+  "Guest": "里奧阿維",
+  "Prefer": "大球",
+  "Odds": 1.08,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "01-13 23:24",
+  "Person": "无极旋风"
+}

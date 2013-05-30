@@ -1,0 +1,18 @@
+{
+  "Name": "大头",
+  "LastUpdateTime": "\/Date(1369882404353+0800)\/",
+  "Person": {
+    "TotalROI": 20.0829964,
+    "CurrentROI": 2.12,
+    "TotalYield": 0.146591216,
+    "CurrentYield": 0.1630769,
+    "Total": 137,
+    "Profit": 29.5,
+    "Win": 80,
+    "WinHalf": 2,
+    "Lose": 50,
+    "LoseHalf": 3,
+    "Draw": 2,
+    "Name": "大头"
+  }
+}

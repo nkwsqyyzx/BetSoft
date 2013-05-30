@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "日皇盃",
+  "Time1": "10-10 18:00",
+  "Host": "磐田山葉",
+  "OddStake": "2.5/3球",
+  "Guest": "京都不死鳥",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "10-10 14:18",
+  "Person": "足球擂台"
+}

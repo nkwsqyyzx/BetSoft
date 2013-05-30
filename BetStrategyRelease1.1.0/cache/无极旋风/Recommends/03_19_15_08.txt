@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "意乙",
+  "Time1": "03-20 03:45",
+  "Host": "巴里",
+  "OddStake": "2/2.5球",
+  "Guest": "柏多華",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "03-19 15:08",
+  "Person": "无极旋风"
+}

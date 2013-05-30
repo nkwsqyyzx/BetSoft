@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英超",
+  "Time1": "04-17 02:45",
+  "Host": "阿森納",
+  "OddStake": "半/一",
+  "Guest": "愛華頓",
+  "Prefer": "阿森納",
+  "Odds": 0.97,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "04-16 16:47",
+  "Person": "1300100915"
+}

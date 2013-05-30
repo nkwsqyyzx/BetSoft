@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "南球盃",
+  "Time1": "11-02 06:15",
+  "Host": "波特諾",
+  "OddStake": "2/2.5球",
+  "Guest": "堤格雷",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "11-02 00:14",
+  "Person": "无聊玩玩"
+}

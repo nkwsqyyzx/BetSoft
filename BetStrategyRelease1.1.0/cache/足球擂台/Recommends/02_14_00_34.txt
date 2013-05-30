@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "委内超秋",
+  "Time1": "02-14 03:30",
+  "Host": "波圖加沙足球俱樂部",
+  "OddStake": "2/2.5球",
+  "Guest": "安索阿特吉",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-14 00:34",
+  "Person": "足球擂台"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西乙",
+  "Time1": "10-15 02:30",
+  "Host": "艾美利亞",
+  "OddStake": "半球",
+  "Guest": "哥杜巴",
+  "Prefer": "艾美利亞",
+  "Odds": 0.97,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "10-15 01:35",
+  "Person": "无聊玩玩"
+}

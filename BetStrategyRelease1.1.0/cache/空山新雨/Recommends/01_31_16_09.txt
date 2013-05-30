@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "伊朗甲",
+  "Time1": "01-31 18:30",
+  "Host": "高爾高赫",
+  "OddStake": "受平/半",
+  "Guest": "葛斯卓瑞序",
+  "Prefer": "高爾高赫",
+  "Odds": 0.84,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-31 16:09",
+  "Person": "空山新雨"
+}

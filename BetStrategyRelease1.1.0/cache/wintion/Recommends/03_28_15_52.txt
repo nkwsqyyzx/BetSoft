@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "印尼超",
+  "Time1": "03-28 16:30",
+  "Host": "巴厘巴板",
+  "OddStake": "2.5球",
+  "Guest": "巴日托",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "03-28 15:52",
+  "Person": "wintion"
+}

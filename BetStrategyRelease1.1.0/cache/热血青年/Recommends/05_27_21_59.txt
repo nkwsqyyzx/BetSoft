@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威甲",
+  "Time1": "05-28 01:00",
+  "Host": "費德列斯達",
+  "OddStake": "3球",
+  "Guest": "咸卡姆",
+  "Prefer": "大球",
+  "Odds": 0.95,
+  "Result": "3-0",
+  "PreferResult": 3,
+  "Time2": "05-27 21:59",
+  "Person": "热血青年"
+}

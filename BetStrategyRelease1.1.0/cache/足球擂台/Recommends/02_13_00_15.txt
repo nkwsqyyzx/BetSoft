@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英非聯",
+  "Time1": "02-13 03:45",
+  "Host": "劍橋聯",
+  "OddStake": "半/一",
+  "Guest": "阿爾費登",
+  "Prefer": "阿爾費登",
+  "Odds": 0.8,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "02-13 00:15",
+  "Person": "足球擂台"
+}

@@ -1,0 +1,18 @@
+{
+  "Name": "飞天神猪",
+  "LastUpdateTime": "\/Date(1369882420512+0800)\/",
+  "Person": {
+    "TotalROI": -0.81499964,
+    "CurrentROI": 2.525,
+    "TotalYield": -0.00684873667,
+    "CurrentYield": 0.13289474,
+    "Total": 119,
+    "Profit": 3.0,
+    "Win": 45,
+    "WinHalf": 8,
+    "Lose": 43,
+    "LoseHalf": 6,
+    "Draw": 14,
+    "Name": "飞天神猪"
+  }
+}

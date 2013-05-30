@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "英冠",
+  "Time1": "02-21 03:45",
+  "Host": "列斯聯",
+  "OddStake": "平手",
+  "Guest": "黑池",
+  "Prefer": "黑池",
+  "Odds": 1.04,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-20 16:44",
+  "Person": "1300100915"
+}

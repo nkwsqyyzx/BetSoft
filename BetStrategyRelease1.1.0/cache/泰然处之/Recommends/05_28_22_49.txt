@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "土倫盃",
+  "Time1": "05-29 01:30",
+  "Host": "法國U21",
+  "OddStake": "2.5/3球",
+  "Guest": "美國U21",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "05-28 22:49",
+  "Person": "泰然处之"
+}

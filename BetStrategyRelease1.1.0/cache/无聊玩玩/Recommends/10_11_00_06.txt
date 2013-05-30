@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐青U19",
+  "Time1": "10-11 02:00",
+  "Host": "捷克U19",
+  "OddStake": "2.5/3球",
+  "Guest": "北愛爾蘭U19",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "10-11 00:06",
+  "Person": "无聊玩玩"
+}

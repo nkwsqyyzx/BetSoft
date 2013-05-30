@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "法國盃",
+  "Time1": "02-28 01:45",
+  "Host": "羅恩",
+  "OddStake": "受一球",
+  "Guest": "波爾多",
+  "Prefer": "波爾多",
+  "Odds": 0.82,
+  "Result": "1-1",
+  "PreferResult": 1,
+  "Time2": "02-27 22:51",
+  "Person": "lxf1234"
+}

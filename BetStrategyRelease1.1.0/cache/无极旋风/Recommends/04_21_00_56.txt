@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "墨西聯",
+  "Time1": "04-21 07:00",
+  "Host": "艾特萊",
+  "OddStake": "平/半",
+  "Guest": "芝華士",
+  "Prefer": "芝華士",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-21 00:56",
+  "Person": "无极旋风"
+}

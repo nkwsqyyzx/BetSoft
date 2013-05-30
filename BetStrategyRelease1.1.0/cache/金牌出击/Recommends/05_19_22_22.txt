@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "英超",
+  "Time1": "05-19 23:00",
+  "Host": "史雲斯",
+  "OddStake": "半/一",
+  "Guest": "富勒姆",
+  "Prefer": "史雲斯",
+  "Odds": 0.85,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "05-19 22:22",
+  "Person": "金牌出击"
+}

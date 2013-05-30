@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "俄超",
+  "Time1": "05-30 22:30",
+  "Host": "羅斯托夫",
+  "OddStake": "2.5球",
+  "Guest": "SKA安拿吉耶",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 09:43",
+  "Person": "234678136"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "11-22 03:45",
+  "Host": "史浩克04",
+  "OddStake": "一球/球半",
+  "Guest": "奧林比亞高斯CFP",
+  "Prefer": "奧林比亞高斯CFP",
+  "Odds": 0.9,
+  "Result": "1-0",
+  "PreferResult": 4,
+  "Time2": "11-21 19:02",
+  "Person": "小李飞刀"
+}

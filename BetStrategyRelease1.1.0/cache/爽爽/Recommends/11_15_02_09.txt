@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-15 03:30",
+  "Host": "荷蘭",
+  "OddStake": "平手",
+  "Guest": "德國",
+  "Prefer": "荷蘭",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "11-15 02:09",
+  "Person": "爽爽"
+}

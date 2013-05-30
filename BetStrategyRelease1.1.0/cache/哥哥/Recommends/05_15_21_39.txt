@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿根廷盃",
+  "Time1": "05-16 04:10",
+  "Host": "瑪倫",
+  "OddStake": "受一球/球半",
+  "Guest": "聖羅倫素",
+  "Prefer": "聖羅倫素",
+  "Odds": 0.97,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "05-15 21:39",
+  "Person": "哥哥"
+}

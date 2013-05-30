@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "奧乙",
+  "Time1": "05-18 00:30",
+  "Host": "霍恩",
+  "OddStake": "半球",
+  "Guest": "哈特堡格",
+  "Prefer": "哈特堡格",
+  "Odds": 0.86,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-17 21:26",
+  "Person": "空中飞人"
+}

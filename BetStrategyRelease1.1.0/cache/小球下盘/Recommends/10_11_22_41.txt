@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "西聯盃",
+  "Time1": "10-12 02:00",
+  "Host": "圖立拉",
+  "OddStake": "2.5球",
+  "Guest": "希杭B隊",
+  "Prefer": "小球",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "10-11 22:41",
+  "Person": "小球下盘"
+}

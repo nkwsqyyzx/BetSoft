@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "哥斯甲",
+  "Time1": "11-01 10:00",
+  "Host": "肯塔吉內斯",
+  "OddStake": "2.5/3球",
+  "Guest": "珊卡洛斯",
+  "Prefer": "大球",
+  "Odds": 1.04,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-01 08:49",
+  "Person": "金牌出击"
+}

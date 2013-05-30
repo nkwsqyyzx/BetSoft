@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "自由盃",
+  "Time1": "05-30 06:30",
+  "Host": "紐維爾舊生",
+  "OddStake": "2球",
+  "Guest": "小保加",
+  "Prefer": "小球",
+  "Odds": 1.01,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 16:19",
+  "Person": "丰山绝技"
+}

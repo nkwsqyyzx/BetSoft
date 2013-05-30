@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德乙",
+  "Time1": "02-02 01:00",
+  "Host": "特雷斯登",
+  "OddStake": "半球",
+  "Guest": "杜伊斯堡",
+  "Prefer": "杜伊斯堡",
+  "Odds": 0.88,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "02-01 23:11",
+  "Person": "segespa"
+}

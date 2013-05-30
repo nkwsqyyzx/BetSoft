@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "友誼賽",
+  "Time1": "01-30 01:30",
+  "Host": "喬科平所達(中)",
+  "OddStake": "受半球",
+  "Guest": "哈肯",
+  "Prefer": "喬科平所達(中)",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "01-30 01:13",
+  "Person": "234678136"
+}

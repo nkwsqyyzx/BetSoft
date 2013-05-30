@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐冠盃",
+  "Time1": "10-25 02:45",
+  "Host": "多特蒙德",
+  "OddStake": "2.5/3球",
+  "Guest": "皇家馬德里",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 4,
+  "Time2": "10-24 21:24",
+  "Person": "空山新雨"
+}

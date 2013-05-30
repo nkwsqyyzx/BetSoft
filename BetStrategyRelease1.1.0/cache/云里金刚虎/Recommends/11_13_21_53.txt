@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "蘇足總",
+  "Time1": "11-14 03:45",
+  "Host": "巴域克",
+  "OddStake": "受平/半",
+  "Guest": "士登后斯莫亞",
+  "Prefer": "士登后斯莫亞",
+  "Odds": 1.08,
+  "Result": "2-5",
+  "PreferResult": 5,
+  "Time2": "11-13 21:53",
+  "Person": "云里金刚虎"
+}

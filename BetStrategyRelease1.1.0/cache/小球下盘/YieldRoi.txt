@@ -1,0 +1,18 @@
+{
+  "Name": "小球下盘",
+  "LastUpdateTime": "\/Date(1369882404692+0800)\/",
+  "Person": {
+    "TotalROI": -12.8820028,
+    "CurrentROI": -7.36699963,
+    "TotalYield": -0.07667859,
+    "CurrentYield": -0.526214242,
+    "Total": 168,
+    "Profit": -2.0,
+    "Win": 78,
+    "WinHalf": 6,
+    "Lose": 83,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "小球下盘"
+  }
+}

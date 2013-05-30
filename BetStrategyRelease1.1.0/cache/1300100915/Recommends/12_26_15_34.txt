@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-26 23:00",
+  "Host": "雷丁",
+  "OddStake": "受平/半",
+  "Guest": "史雲斯",
+  "Prefer": "雷丁",
+  "Odds": 0.81,
+  "Result": "0-0",
+  "PreferResult": 4,
+  "Time2": "12-26 15:34",
+  "Person": "1300100915"
+}

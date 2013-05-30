@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "自由盃",
+  "Time1": "05-30 09:00",
+  "Host": "奧林匹亞",
+  "OddStake": "平手",
+  "Guest": "富明尼斯RJ",
+  "Prefer": "富明尼斯RJ",
+  "Odds": 0.94,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-30 00:36",
+  "Person": "专搞下盘"
+}

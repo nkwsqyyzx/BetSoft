@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "秘魯春",
+  "Time1": "05-26 00:15",
+  "Host": "水晶競技",
+  "OddStake": "2.5/3球",
+  "Guest": "萬卡",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "05-25 23:51",
+  "Person": "12388123"
+}

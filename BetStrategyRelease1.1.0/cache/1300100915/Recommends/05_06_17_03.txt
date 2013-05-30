@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英甲",
+  "Time1": "05-06 20:30",
+  "Host": "伊奧華",
+  "OddStake": "平/半",
+  "Guest": "謝菲爾德聯",
+  "Prefer": "謝菲爾德聯",
+  "Odds": 0.82,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-06 17:03",
+  "Person": "1300100915"
+}

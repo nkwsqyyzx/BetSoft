@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "德甲",
+  "Time1": "01-27 01:30",
+  "Host": "費雷堡",
+  "OddStake": "平手",
+  "Guest": "利華古遜",
+  "Prefer": "利華古遜",
+  "Odds": 0.91,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "01-26 14:54",
+  "Person": "1300100915"
+}

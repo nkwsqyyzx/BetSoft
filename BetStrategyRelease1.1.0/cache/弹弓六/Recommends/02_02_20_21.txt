@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "02-02 23:00",
+  "Host": "阿森納",
+  "OddStake": "球半",
+  "Guest": "斯托克城",
+  "Prefer": "斯托克城",
+  "Odds": 0.86,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "02-02 20:21",
+  "Person": "弹弓六"
+}

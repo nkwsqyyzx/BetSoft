@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "波青聯",
+  "Time1": "10-08 17:00",
+  "Host": "列治亞青年隊U21",
+  "OddStake": "半/一",
+  "Guest": "喬治羅尼亞青年隊U21",
+  "Prefer": "列治亞青年隊U21",
+  "Odds": 0.97,
+  "Result": "0-4",
+  "PreferResult": 1,
+  "Time2": "10-08 15:18",
+  "Person": "1300100915"
+}

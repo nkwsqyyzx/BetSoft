@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "日職乙",
+  "Time1": "04-07 13:00",
+  "Host": "大阪飛腳",
+  "OddStake": "2.5/3球",
+  "Guest": "東京日視",
+  "Prefer": "大球",
+  "Odds": 0.82,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "04-07 12:05",
+  "Person": "qqzy"
+}

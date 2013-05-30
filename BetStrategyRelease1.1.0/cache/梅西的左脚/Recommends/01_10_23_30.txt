@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "西班牙盃",
+  "Time1": "01-11 04:30",
+  "Host": "皇家貝迪斯",
+  "OddStake": "2.5/3球",
+  "Guest": "拉斯彭馬斯",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "01-10 23:30",
+  "Person": "梅西的左脚"
+}

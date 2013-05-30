@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪乙A",
+  "Time1": "05-29 23:59",
+  "Host": "尼綬登",
+  "OddStake": "3.5球",
+  "Guest": "特拉夫",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "05-29 23:48",
+  "Person": "泰然处之"
+}

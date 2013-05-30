@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "捷克甲",
+  "Time1": "03-04 23:59",
+  "Host": "史洛特",
+  "OddStake": "2/2.5球",
+  "Guest": "杜克拉布拉格",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "03-04 22:11",
+  "Person": "红红火火"
+}

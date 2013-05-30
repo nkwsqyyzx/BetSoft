@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "英超",
+  "Time1": "12-30 01:30",
+  "Host": "阿森納",
+  "OddStake": "一球/球半",
+  "Guest": "紐卡素",
+  "Prefer": "紐卡素",
+  "Odds": 1.04,
+  "Result": "7-3",
+  "PreferResult": 1,
+  "Time2": "12-29 14:28",
+  "Person": "1300100915"
+}

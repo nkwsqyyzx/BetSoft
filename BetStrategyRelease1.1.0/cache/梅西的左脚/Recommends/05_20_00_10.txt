@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "葡超",
+  "Time1": "05-20 01:30",
+  "Host": "塞圖巴爾",
+  "OddStake": "受半球",
+  "Guest": "布拉加",
+  "Prefer": "塞圖巴爾",
+  "Odds": 0.9,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-20 00:10",
+  "Person": "梅西的左脚"
+}

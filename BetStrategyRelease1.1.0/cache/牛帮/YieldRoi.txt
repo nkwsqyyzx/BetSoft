@@ -1,0 +1,18 @@
+{
+  "Name": "牛帮",
+  "LastUpdateTime": "\/Date(1369882410808+0800)\/",
+  "Person": {
+    "TotalROI": 0.515,
+    "CurrentROI": 0.515,
+    "TotalYield": 0.2575,
+    "CurrentYield": 0.2575,
+    "Total": 2,
+    "Profit": 0.5,
+    "Win": 0,
+    "WinHalf": 1,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "牛帮"
+  }
+}

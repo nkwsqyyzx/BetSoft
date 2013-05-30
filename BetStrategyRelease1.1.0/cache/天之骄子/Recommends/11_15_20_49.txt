@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "友誼賽",
+  "Time1": "11-16 01:00",
+  "Host": "瑞士U18",
+  "OddStake": "一球",
+  "Guest": "愛爾蘭U18",
+  "Prefer": "瑞士U18",
+  "Odds": 1.06,
+  "Result": "1-0",
+  "PreferResult": 3,
+  "Time2": "11-15 20:49",
+  "Person": "天之骄子"
+}

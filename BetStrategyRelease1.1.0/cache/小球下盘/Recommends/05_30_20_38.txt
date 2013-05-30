@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭甲",
+  "Time1": "05-30 23:59",
+  "Host": "路賓",
+  "OddStake": "2.5球",
+  "Guest": "列治亞",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 20:38",
+  "Person": "小球下盘"
+}

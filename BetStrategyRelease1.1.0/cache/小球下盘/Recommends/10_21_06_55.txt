@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "北美聯",
+  "Time1": "10-21 08:30",
+  "Host": "明尼蘇達群星",
+  "OddStake": "2.5球",
+  "Guest": "坦帕灣暴徒",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "10-21 06:55",
+  "Person": "小球下盘"
+}

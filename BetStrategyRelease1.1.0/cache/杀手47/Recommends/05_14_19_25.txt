@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德東北聯",
+  "Time1": "05-15 00:30",
+  "Host": "普洛恩",
+  "OddStake": "平/半",
+  "Guest": "馬瑟維茲英",
+  "Prefer": "普洛恩",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "05-14 19:25",
+  "Person": "杀手47"
+}

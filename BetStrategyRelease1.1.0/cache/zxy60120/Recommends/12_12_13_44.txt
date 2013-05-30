@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "世冠盃",
+  "Time1": "12-12 18:30",
+  "Host": "阿爾艾利開羅(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "哥連泰斯",
+  "Prefer": "小球",
+  "Odds": 0.96,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "12-12 13:44",
+  "Person": "zxy60120"
+}

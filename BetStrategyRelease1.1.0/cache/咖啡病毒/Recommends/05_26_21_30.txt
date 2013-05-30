@@ -7,8 +7,8 @@
   "Guest": "薩普斯堡08",
   "Prefer": "白蘭恩",
   "Odds": 0.85,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "3-1",
+  "PreferResult": 5,
   "Time2": "05-26 21:30",
   "Person": "咖啡病毒"
 }

@@ -1,0 +1,18 @@
+{
+  "Name": "sweetcat",
+  "LastUpdateTime": "\/Date(1369882391050+0800)\/",
+  "Person": {
+    "TotalROI": 5.885,
+    "CurrentROI": -1.0,
+    "TotalYield": 0.0661236,
+    "CurrentYield": -1.0,
+    "Total": 89,
+    "Profit": 11.0,
+    "Win": 45,
+    "WinHalf": 4,
+    "Lose": 35,
+    "LoseHalf": 2,
+    "Draw": 3,
+    "Name": "sweetcat"
+  }
+}

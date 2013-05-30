@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "友誼賽",
+  "Time1": "12-13 09:30",
+  "Host": "美國女足",
+  "OddStake": "两球",
+  "Guest": "中國女足",
+  "Prefer": "美國女足",
+  "Odds": 0.86,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "12-13 08:24",
+  "Person": "天之骄子"
+}

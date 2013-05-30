@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英非北",
+  "Time1": "11-22 03:45",
+  "Host": "古魯斯特城",
+  "OddStake": "平/半",
+  "Guest": "科爾因灣",
+  "Prefer": "科爾因灣",
+  "Odds": 0.82,
+  "Result": "2-2",
+  "PreferResult": 3,
+  "Time2": "11-21 23:01",
+  "Person": "segespa"
+}

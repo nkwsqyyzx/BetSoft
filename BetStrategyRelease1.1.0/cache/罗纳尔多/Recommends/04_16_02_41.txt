@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-16 03:00",
+  "Host": "馬略卡",
+  "OddStake": "2.5球",
+  "Guest": "切爾達",
+  "Prefer": "大球",
+  "Odds": 0.85,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-16 02:41",
+  "Person": "罗纳尔多"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "土倫盃",
+  "Time1": "05-28 23:30",
+  "Host": "哥倫比亞U21(中)",
+  "OddStake": "2/2.5球",
+  "Guest": "南韓U21",
+  "Prefer": "大球",
+  "Odds": 0.98,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 18:43",
+  "Person": "谷雨"
+}

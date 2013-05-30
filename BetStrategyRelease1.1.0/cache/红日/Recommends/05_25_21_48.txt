@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典丙NS",
+  "Time1": "05-25 22:00",
+  "Host": "安高平",
+  "OddStake": "半球",
+  "Guest": "韋斯特羅斯IK",
+  "Prefer": "安高平",
+  "Odds": 0.9,
+  "Result": "0-3",
+  "PreferResult": 1,
+  "Time2": "05-25 21:48",
+  "Person": "红日"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-15 03:00",
+  "Host": "畢爾巴鄂競技",
+  "OddStake": "受一球",
+  "Guest": "皇家馬德里",
+  "Prefer": "皇家馬德里",
+  "Odds": 0.86,
+  "Result": "0-3",
+  "PreferResult": 5,
+  "Time2": "04-14 23:01",
+  "Person": "水龙头"
+}

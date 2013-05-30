@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "非國盃",
+  "Time1": "01-25 02:00",
+  "Host": "尼日爾(中)",
+  "OddStake": "2/2.5球",
+  "Guest": "剛果民主共和國",
+  "Prefer": "小球",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-24 21:02",
+  "Person": "小球下盘"
+}

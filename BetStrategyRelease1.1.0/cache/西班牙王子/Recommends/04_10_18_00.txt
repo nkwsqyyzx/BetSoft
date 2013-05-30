@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "",
+  "Time1": "04-10 19:00",
+  "Host": "布襦姆聯",
+  "OddStake": "平手",
+  "Guest": "江蘇舜天",
+  "Prefer": "江蘇舜天",
+  "Odds": 1.1,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "04-10 18:00",
+  "Person": "西班牙王子"
+}

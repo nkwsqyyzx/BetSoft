@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "奧地利盃",
+  "Time1": "05-30 22:30",
+  "Host": "奧地利維也納",
+  "OddStake": "3球",
+  "Guest": "柏斯澄",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 15:05",
+  "Person": "你是我的最爱"
+}

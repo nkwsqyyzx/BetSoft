@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "阿乙",
+  "Time1": "05-28 23:59",
+  "Host": "薩爾米安杜竹寧",
+  "OddStake": "2球",
+  "Guest": "防衛者",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-28 20:51",
+  "Person": "人在美洲"
+}

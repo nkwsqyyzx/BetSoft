@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-29 03:00",
+  "Host": "皇家蘇斯達",
+  "OddStake": "平/半",
+  "Guest": "華倫西亞",
+  "Prefer": "華倫西亞",
+  "Odds": 0.81,
+  "Result": "4-2",
+  "PreferResult": 1,
+  "Time2": "04-28 23:52",
+  "Person": "弹弓六"
+}

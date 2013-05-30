@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "02-24 23:30",
+  "Host": "艾克馬亞",
+  "OddStake": "一球/球半",
+  "Guest": "比達",
+  "Prefer": "比達",
+  "Odds": 0.83,
+  "Result": "0-1",
+  "PreferResult": 5,
+  "Time2": "02-24 22:45",
+  "Person": "罗纳尔多"
+}

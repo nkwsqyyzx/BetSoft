@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "巴西甲",
+  "Time1": "05-30 06:30",
+  "Host": "聖保羅",
+  "OddStake": "半/一",
+  "Guest": "華斯高RJ",
+  "Prefer": "聖保羅",
+  "Odds": 0.82,
+  "Result": "5-1",
+  "PreferResult": 5,
+  "Time2": "05-30 06:05",
+  "Person": "马勒当拿"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-24 01:00",
+  "Host": "咸史泰斯",
+  "OddStake": "2.5球",
+  "Guest": "IFK諾科平",
+  "Prefer": "小球",
+  "Odds": 0.823,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-23 14:33",
+  "Person": "小球下盘"
+}

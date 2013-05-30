@@ -1,0 +1,18 @@
+{
+  "Name": "森林",
+  "LastUpdateTime": "\/Date(1369882408737+0800)\/",
+  "Person": {
+    "TotalROI": 0.91,
+    "CurrentROI": 0.91,
+    "TotalYield": 0.303333342,
+    "CurrentYield": 0.303333342,
+    "Total": 3,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "森林"
+  }
+}

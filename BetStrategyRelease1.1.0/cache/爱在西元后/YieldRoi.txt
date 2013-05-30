@@ -1,0 +1,18 @@
+{
+  "Name": "爱在西元后",
+  "LastUpdateTime": "\/Date(1369882409642+0800)\/",
+  "Person": {
+    "TotalROI": -0.04000002,
+    "CurrentROI": -0.04000002,
+    "TotalYield": -0.01333334,
+    "CurrentYield": -0.01333334,
+    "Total": 3,
+    "Profit": 0.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 1,
+    "LoseHalf": 0,
+    "Draw": 1,
+    "Name": "爱在西元后"
+  }
+}

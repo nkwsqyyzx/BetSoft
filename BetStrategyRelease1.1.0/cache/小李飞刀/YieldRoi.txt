@@ -1,0 +1,18 @@
+{
+  "Name": "小李飞刀",
+  "LastUpdateTime": "\/Date(1369882404637+0800)\/",
+  "Person": {
+    "TotalROI": -7.45599937,
+    "CurrentROI": -4.495,
+    "TotalYield": -0.103555545,
+    "CurrentYield": -0.408636361,
+    "Total": 72,
+    "Profit": -5.0,
+    "Win": 27,
+    "WinHalf": 6,
+    "Lose": 34,
+    "LoseHalf": 2,
+    "Draw": 3,
+    "Name": "小李飞刀"
+  }
+}

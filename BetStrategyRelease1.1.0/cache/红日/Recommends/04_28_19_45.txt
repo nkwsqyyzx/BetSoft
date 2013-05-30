@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "印度甲",
+  "Time1": "04-28 21:00",
+  "Host": "浦那",
+  "OddStake": "3.5球",
+  "Guest": "空中印度",
+  "Prefer": "大球",
+  "Odds": 0.9,
+  "Result": "4-0",
+  "PreferResult": 5,
+  "Time2": "04-28 19:45",
+  "Person": "红日"
+}

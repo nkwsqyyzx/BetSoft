@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "法乙",
+  "Time1": "04-30 02:30",
+  "Host": "色當",
+  "OddStake": "受半球",
+  "Guest": "摩納哥",
+  "Prefer": "色當",
+  "Odds": 0.9,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "04-29 22:08",
+  "Person": "LXF1234"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "歐青U19",
+  "Time1": "05-27 23:00",
+  "Host": "俄羅斯U19",
+  "OddStake": "2.5球",
+  "Guest": "意大利U19",
+  "Prefer": "大球",
+  "Odds": 0.92,
+  "Result": "3-3",
+  "PreferResult": 5,
+  "Time2": "05-27 21:02",
+  "Person": "上上签"
+}

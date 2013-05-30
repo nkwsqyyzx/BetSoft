@@ -1,0 +1,18 @@
+{
+  "Name": "凤凰谷",
+  "LastUpdateTime": "\/Date(1369882402611+0800)\/",
+  "Person": {
+    "TotalROI": 2.04,
+    "CurrentROI": 2.04,
+    "TotalYield": 0.51,
+    "CurrentYield": 0.51,
+    "Total": 4,
+    "Profit": 2.5,
+    "Win": 2,
+    "WinHalf": 1,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "凤凰谷"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "南冠U20",
+  "Time1": "01-12 09:15",
+  "Host": "智利U20(中)",
+  "OddStake": "一球/球半",
+  "Guest": "玻利維亞U20",
+  "Prefer": "智利U20(中)",
+  "Odds": 0.92,
+  "Result": "2-0",
+  "PreferResult": 2,
+  "Time2": "01-12 08:42",
+  "Person": "顺水顺风"
+}

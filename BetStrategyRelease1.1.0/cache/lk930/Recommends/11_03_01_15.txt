@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "墨西聯",
+  "Time1": "11-03 11:30",
+  "Host": "聖多斯",
+  "OddStake": "2.5球",
+  "Guest": "阿蘇爾",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "2-1",
+  "PreferResult": 5,
+  "Time2": "11-03 01:15",
+  "Person": "lk930"
+}

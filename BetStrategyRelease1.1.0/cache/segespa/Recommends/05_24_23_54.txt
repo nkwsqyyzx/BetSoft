@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "德乙",
+  "Time1": "05-25 02:30",
+  "Host": "奧斯拿布克",
+  "OddStake": "平/半",
+  "Guest": "特雷斯登",
+  "Prefer": "特雷斯登",
+  "Odds": 0.95,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "05-24 23:54",
+  "Person": "segespa"
+}

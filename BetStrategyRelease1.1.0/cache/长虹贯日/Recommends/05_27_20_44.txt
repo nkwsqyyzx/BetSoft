@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-27 23:00",
+  "Host": "約旦",
+  "OddStake": "半球",
+  "Guest": "利比亞",
+  "Prefer": "約旦",
+  "Odds": 0.91,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-27 20:44",
+  "Person": "长虹贯日"
+}

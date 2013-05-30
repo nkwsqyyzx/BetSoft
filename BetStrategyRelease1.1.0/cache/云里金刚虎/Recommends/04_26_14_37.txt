@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "智利春",
+  "Time1": "04-27 07:00",
+  "Host": "艾斯潘諾拉",
+  "OddStake": "2.5/3球",
+  "Guest": "希金斯",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "0-2",
+  "PreferResult": 1,
+  "Time2": "04-26 14:37",
+  "Person": "云里金刚虎"
+}

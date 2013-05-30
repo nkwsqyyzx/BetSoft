@@ -1,0 +1,14 @@
+{
+  "Current": "第42期",
+  "League": "荷甲",
+  "Time1": "12-16 19:30",
+  "Host": "烏德勒支",
+  "OddStake": "3球",
+  "Guest": "海倫維恩",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "12-16 13:45",
+  "Person": "wintion"
+}

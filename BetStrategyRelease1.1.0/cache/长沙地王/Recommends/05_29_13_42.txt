@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "挪威盃",
+  "Time1": "05-29 23:59",
+  "Host": "白蘭恩",
+  "OddStake": "球半",
+  "Guest": "莫達倫",
+  "Prefer": "白蘭恩",
+  "Odds": 0.81,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 13:42",
+  "Person": "长沙地王"
+}

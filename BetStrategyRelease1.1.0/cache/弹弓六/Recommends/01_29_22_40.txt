@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "英超",
+  "Time1": "01-30 03:45",
+  "Host": "昆士柏流浪",
+  "OddStake": "受一球/球半",
+  "Guest": "曼城",
+  "Prefer": "昆士柏流浪",
+  "Odds": 0.9,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "01-29 22:40",
+  "Person": "弹弓六"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "友誼賽",
+  "Time1": "05-09 21:30",
+  "Host": "意大利女足U17",
+  "OddStake": "半球",
+  "Guest": "挪威女足U16",
+  "Prefer": "挪威女足U16",
+  "Odds": 0.8,
+  "Result": "2-1",
+  "PreferResult": 1,
+  "Time2": "05-09 20:52",
+  "Person": "红红火火"
+}

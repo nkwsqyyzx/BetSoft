@@ -1,0 +1,14 @@
+{
+  "Current": "第43期",
+  "League": "印度甲",
+  "Time1": "01-05 16:30",
+  "Host": "薩爾高卡",
+  "OddStake": "受平/半",
+  "Guest": "翠鳥東孟加拉足球俱樂部",
+  "Prefer": "薩爾高卡",
+  "Odds": 0.8,
+  "Result": "1-4",
+  "PreferResult": 1,
+  "Time2": "01-05 14:12",
+  "Person": "空山新雨"
+}

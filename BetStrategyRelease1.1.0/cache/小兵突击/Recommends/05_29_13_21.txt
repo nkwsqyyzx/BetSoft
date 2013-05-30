@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "芬超",
+  "Time1": "05-29 23:30",
+  "Host": "路雲尼米",
+  "OddStake": "平手",
+  "Guest": "邁柏",
+  "Prefer": "邁柏",
+  "Odds": 0.85,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-29 13:21",
+  "Person": "小兵突击"
+}

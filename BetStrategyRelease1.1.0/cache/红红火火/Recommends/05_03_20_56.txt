@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "保超",
+  "Time1": "05-03 21:15",
+  "Host": "盧多格瑞特拉茲格勒",
+  "OddStake": "球半",
+  "Guest": "布爾加斯",
+  "Prefer": "盧多格瑞特拉茲格勒",
+  "Odds": 0.83,
+  "Result": "3-0",
+  "PreferResult": 5,
+  "Time2": "05-03 20:56",
+  "Person": "红红火火"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "友誼賽",
+  "Time1": "04-15 17:00",
+  "Host": "挪威U16(中)",
+  "OddStake": "3/3.5球",
+  "Guest": "丹麥U16",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "0-3",
+  "PreferResult": 4,
+  "Time2": "04-15 16:22",
+  "Person": "希望之星"
+}

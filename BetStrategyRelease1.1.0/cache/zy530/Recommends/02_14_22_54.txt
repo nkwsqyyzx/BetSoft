@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "歐霸盃",
+  "Time1": "02-15 02:00",
+  "Host": "阿積士",
+  "OddStake": "2.5/3球",
+  "Guest": "布格勒斯特星隊",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "02-14 22:54",
+  "Person": "zy530"
+}

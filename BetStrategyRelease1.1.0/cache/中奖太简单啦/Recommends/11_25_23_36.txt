@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "英超",
+  "Time1": "11-25 23:59",
+  "Host": "切爾西",
+  "OddStake": "平手",
+  "Guest": "曼城",
+  "Prefer": "切爾西",
+  "Odds": 0.8,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "11-25 23:36",
+  "Person": "中奖太简单啦"
+}

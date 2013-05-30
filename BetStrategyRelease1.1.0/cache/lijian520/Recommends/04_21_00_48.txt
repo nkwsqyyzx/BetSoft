@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "西甲",
+  "Time1": "04-21 02:00",
+  "Host": "巴塞羅那",
+  "OddStake": "两球/两球半",
+  "Guest": "利雲特",
+  "Prefer": "利雲特",
+  "Odds": 0.92,
+  "Result": "1-0",
+  "PreferResult": 5,
+  "Time2": "04-21 00:48",
+  "Person": "lijian520"
+}

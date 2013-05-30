@@ -1,0 +1,18 @@
+{
+  "Name": "金牌出击",
+  "LastUpdateTime": "\/Date(1369882419040+0800)\/",
+  "Person": {
+    "TotalROI": -5.58999729,
+    "CurrentROI": -2.26,
+    "TotalYield": -0.0302162021,
+    "CurrentYield": -0.173846155,
+    "Total": 185,
+    "Profit": 0.0,
+    "Win": 77,
+    "WinHalf": 14,
+    "Lose": 82,
+    "LoseHalf": 4,
+    "Draw": 6,
+    "Name": "金牌出击"
+  }
+}

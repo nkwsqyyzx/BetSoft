@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 23:59",
+  "Host": "里科威亞",
+  "OddStake": "2.5球",
+  "Guest": "伊地法格",
+  "Prefer": "小球",
+  "Odds": 0.84,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "05-01 22:15",
+  "Person": "红日"
+}

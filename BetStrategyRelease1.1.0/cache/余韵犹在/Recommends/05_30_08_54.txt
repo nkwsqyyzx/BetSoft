@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "加拿冠",
+  "Time1": "05-30 10:00",
+  "Host": "溫哥華白帽",
+  "OddStake": "2.5球",
+  "Guest": "蒙特利爾衝擊",
+  "Prefer": "大球",
+  "Odds": 0.94,
+  "Result": "2-2",
+  "PreferResult": 5,
+  "Time2": "05-30 08:54",
+  "Person": "余韵犹在"
+}

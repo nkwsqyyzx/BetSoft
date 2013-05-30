@@ -1,0 +1,14 @@
+{
+  "Current": "第44期",
+  "League": "荷甲",
+  "Time1": "03-03 23:30",
+  "Host": "海牙",
+  "OddStake": "平手",
+  "Guest": "荷華高斯",
+  "Prefer": "荷華高斯",
+  "Odds": 1.06,
+  "Result": "3-1",
+  "PreferResult": 1,
+  "Time2": "03-03 21:55",
+  "Person": "segespa"
+}

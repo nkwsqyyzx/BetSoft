@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "烏克U21",
+  "Time1": "03-29 19:00",
+  "Host": "河維拉U21",
+  "OddStake": "3球",
+  "Guest": "伊利捷維斯U21",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "03-29 16:46",
+  "Person": "1300100915"
+}

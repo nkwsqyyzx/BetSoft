@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "中超",
+  "Time1": "05-26 19:35",
+  "Host": "杭州綠城",
+  "OddStake": "受球半/两球",
+  "Guest": "廣州恆大",
+  "Prefer": "廣州恆大",
+  "Odds": 0.82,
+  "Result": "0-1",
+  "PreferResult": 1,
+  "Time2": "05-26 15:59",
+  "Person": "爽爽"
+}

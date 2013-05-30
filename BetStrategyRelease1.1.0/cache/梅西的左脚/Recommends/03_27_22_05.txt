@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "英北超",
+  "Time1": "03-28 03:45",
+  "Host": "禾克索普",
+  "OddStake": "3球",
+  "Guest": "盧沙奧林",
+  "Prefer": "大球",
+  "Odds": 0.83,
+  "Result": "2-3",
+  "PreferResult": 5,
+  "Time2": "03-27 22:05",
+  "Person": "梅西的左脚"
+}

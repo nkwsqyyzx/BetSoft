@@ -1,0 +1,14 @@
+{
+  "Current": "第40期",
+  "League": "歐青U19",
+  "Time1": "10-10 02:30",
+  "Host": "瑞士U19(中)",
+  "OddStake": "半球",
+  "Guest": "羅馬尼亞U19",
+  "Prefer": "羅馬尼亞U19",
+  "Odds": 0.8,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "10-09 16:28",
+  "Person": "足球擂台"
+}

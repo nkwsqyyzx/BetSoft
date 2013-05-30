@@ -1,0 +1,18 @@
+{
+  "Name": "肥佬",
+  "LastUpdateTime": "\/Date(1369882414595+0800)\/",
+  "Person": {
+    "TotalROI": 0.85,
+    "CurrentROI": 0.85,
+    "TotalYield": 0.85,
+    "CurrentYield": 0.85,
+    "Total": 1,
+    "Profit": 1.0,
+    "Win": 1,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "肥佬"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "沙地聯",
+  "Time1": "04-15 01:35",
+  "Host": "沙巴柏利雅德",
+  "OddStake": "半/一",
+  "Guest": "伊地法格",
+  "Prefer": "沙巴柏利雅德",
+  "Odds": 1.04,
+  "Result": "3-1",
+  "PreferResult": 5,
+  "Time2": "04-15 01:08",
+  "Person": "12388123"
+}

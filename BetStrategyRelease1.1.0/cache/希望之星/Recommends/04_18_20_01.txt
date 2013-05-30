@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "保盃",
+  "Time1": "04-18 20:30",
+  "Host": "索菲亞斯拉維亞",
+  "OddStake": "2.5球",
+  "Guest": "比羅",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "0-0",
+  "PreferResult": 5,
+  "Time2": "04-18 20:01",
+  "Person": "希望之星"
+}

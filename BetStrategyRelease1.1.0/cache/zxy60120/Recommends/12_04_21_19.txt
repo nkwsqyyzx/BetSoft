@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐冠盃",
+  "Time1": "12-05 03:45",
+  "Host": "皇家馬德里",
+  "OddStake": "球半/两球",
+  "Guest": "阿積士",
+  "Prefer": "皇家馬德里",
+  "Odds": 0.99,
+  "Result": "4-1",
+  "PreferResult": 5,
+  "Time2": "12-04 21:19",
+  "Person": "zxy60120"
+}

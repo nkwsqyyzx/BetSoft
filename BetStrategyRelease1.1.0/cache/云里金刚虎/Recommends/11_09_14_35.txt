@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "德東北聯",
+  "Time1": "11-10 07:50",
+  "Host": "阿瓦伊",
+  "OddStake": "半/一",
+  "Guest": "古蘭尼",
+  "Prefer": "古蘭尼",
+  "Odds": 0.83,
+  "Result": "1-0",
+  "PreferResult": 2,
+  "Time2": "11-09 14:35",
+  "Person": "云里金刚虎"
+}

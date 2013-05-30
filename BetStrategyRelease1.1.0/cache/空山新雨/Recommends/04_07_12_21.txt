@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "中甲",
+  "Time1": "04-07 15:00",
+  "Host": "北京理工",
+  "OddStake": "平/半",
+  "Guest": "天津松江",
+  "Prefer": "天津松江",
+  "Odds": 0.8,
+  "Result": "1-0",
+  "PreferResult": 1,
+  "Time2": "04-07 12:21",
+  "Person": "空山新雨"
+}

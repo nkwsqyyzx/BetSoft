@@ -1,0 +1,18 @@
+{
+  "Name": "身不由己",
+  "LastUpdateTime": "\/Date(1369882416877+0800)\/",
+  "Person": {
+    "TotalROI": 2.739995,
+    "CurrentROI": -0.6650004,
+    "TotalYield": 0.02560743,
+    "CurrentYield": -0.0415625237,
+    "Total": 107,
+    "Profit": 5.5,
+    "Win": 50,
+    "WinHalf": 3,
+    "Lose": 42,
+    "LoseHalf": 8,
+    "Draw": 2,
+    "Name": "身不由己"
+  }
+}

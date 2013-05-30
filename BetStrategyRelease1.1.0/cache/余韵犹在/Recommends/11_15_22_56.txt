@@ -1,0 +1,14 @@
+{
+  "Current": "第41期",
+  "League": "歐U19冠",
+  "Time1": "11-16 02:30",
+  "Host": "畢爾巴鄂競技U19",
+  "OddStake": "半/一",
+  "Guest": "阿森納U19",
+  "Prefer": "畢爾巴鄂競技U19",
+  "Odds": 0.85,
+  "Result": "0-0",
+  "PreferResult": 1,
+  "Time2": "11-15 22:56",
+  "Person": "余韵犹在"
+}

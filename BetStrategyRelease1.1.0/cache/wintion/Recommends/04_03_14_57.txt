@@ -1,0 +1,14 @@
+{
+  "Current": "第45期",
+  "League": "歐冠盃",
+  "Time1": "04-03 16:00",
+  "Host": "中央海岸",
+  "OddStake": "一球",
+  "Guest": "貴州人和",
+  "Prefer": "中央海岸",
+  "Odds": 0.84,
+  "Result": "2-1",
+  "PreferResult": 3,
+  "Time2": "04-03 14:57",
+  "Person": "wintion"
+}

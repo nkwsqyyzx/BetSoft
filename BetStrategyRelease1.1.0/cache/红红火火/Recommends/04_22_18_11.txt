@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "以色列甲",
+  "Time1": "04-22 22:00",
+  "Host": "彼達提克瓦夏普",
+  "OddStake": "半球",
+  "Guest": "赫茲立亞馬卡比",
+  "Prefer": "彼達提克瓦夏普",
+  "Odds": 0.96,
+  "Result": "2-0",
+  "PreferResult": 5,
+  "Time2": "04-22 18:11",
+  "Person": "红红火火"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "友誼賽",
+  "Time1": "05-27 21:00",
+  "Host": "哈薩克斯坦U16(中)",
+  "OddStake": "受平/半",
+  "Guest": "烏克蘭U16",
+  "Prefer": "哈薩克斯坦U16(中)",
+  "Odds": 0.94,
+  "Result": "1-1",
+  "PreferResult": 4,
+  "Time2": "05-27 19:33",
+  "Person": "笑妹"
+}

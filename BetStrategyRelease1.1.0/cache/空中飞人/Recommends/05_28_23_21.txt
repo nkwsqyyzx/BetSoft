@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "埃及甲",
+  "Time1": "05-29 02:15",
+  "Host": "阿爾艾利開羅",
+  "OddStake": "2.5球",
+  "Guest": "加斯馬哈拉",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "1-2",
+  "PreferResult": 1,
+  "Time2": "05-28 23:21",
+  "Person": "空中飞人"
+}
