@@ -1,0 +1,18 @@
+{
+  "Name": "杀庄一秒",
+  "LastUpdateTime": "\/Date(1369925319894+0800)\/",
+  "Person": {
+    "TotalROI": -0.5,
+    "CurrentROI": -0.5,
+    "TotalYield": -0.5,
+    "CurrentYield": -0.5,
+    "Total": 1,
+    "Profit": -0.5,
+    "Win": 0,
+    "WinHalf": 0,
+    "Lose": 0,
+    "LoseHalf": 1,
+    "Draw": 0,
+    "Name": "杀庄一秒"
+  }
+}

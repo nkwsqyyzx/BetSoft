@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "羅乙1",
+  "Time1": "05-30 23:00",
+  "Host": "尤尼史洛波西亞",
+  "OddStake": "半球",
+  "Guest": "布夫泰亞",
+  "Prefer": "布夫泰亞",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 22:50",
+  "Person": "八月十日"
+}

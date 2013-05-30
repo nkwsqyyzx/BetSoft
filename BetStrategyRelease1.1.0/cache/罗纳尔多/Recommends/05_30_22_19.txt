@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-31 01:05",
+  "Host": "IFK諾科平",
+  "OddStake": "平手",
+  "Guest": "AIK蘇納",
+  "Prefer": "AIK蘇納",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 22:19",
+  "Person": "罗纳尔多"
+}

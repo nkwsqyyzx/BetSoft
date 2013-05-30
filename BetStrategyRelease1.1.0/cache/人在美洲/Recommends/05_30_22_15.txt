@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "羅甲",
+  "Time1": "05-30 23:00",
+  "Host": "CSMS伊啊斯",
+  "OddStake": "受半球",
+  "Guest": "瓦斯路易",
+  "Prefer": "瓦斯路易",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 22:15",
+  "Person": "人在美洲"
+}

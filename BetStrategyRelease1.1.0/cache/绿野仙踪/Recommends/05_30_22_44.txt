@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-31 01:00",
+  "Host": "佐加頓斯",
+  "OddStake": "平/半",
+  "Guest": "卡馬亞",
+  "Prefer": "卡馬亞",
+  "Odds": 0.82,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 22:44",
+  "Person": "绿野仙踪"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "羅甲",
+  "Time1": "05-30 23:00",
+  "Host": "CSMS伊啊斯",
+  "OddStake": "受半球",
+  "Guest": "瓦斯路易",
+  "Prefer": "CSMS伊啊斯",
+  "Odds": 1.1,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 22:30",
+  "Person": "叻哥"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "波蘭甲",
+  "Time1": "05-30 23:59",
+  "Host": "哥羅那",
+  "OddStake": "2.5球",
+  "Guest": "維澤夫洛茲",
+  "Prefer": "小球",
+  "Odds": 0.82,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 22:21",
+  "Person": "长虹贯日"
+}

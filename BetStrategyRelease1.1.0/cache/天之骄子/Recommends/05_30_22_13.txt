@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞士甲",
+  "Time1": "05-31 01:45",
+  "Host": "韋爾",
+  "OddStake": "3球",
+  "Guest": "羅卡諾",
+  "Prefer": "小球",
+  "Odds": 1.06,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 22:13",
+  "Person": "天之骄子"
+}

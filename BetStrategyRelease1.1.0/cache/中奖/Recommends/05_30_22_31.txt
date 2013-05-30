@@ -1,0 +1,14 @@
+{
+  "Current": "第47期",
+  "League": "瑞典超",
+  "Time1": "05-31 01:05",
+  "Host": "IFK諾科平",
+  "OddStake": "2.5球",
+  "Guest": "AIK蘇納",
+  "Prefer": "小球",
+  "Odds": 0.98,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-30 22:31",
+  "Person": "中奖"
+}

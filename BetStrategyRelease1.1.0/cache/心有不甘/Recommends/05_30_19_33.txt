@@ -7,8 +7,8 @@
   "Guest": "斯咸迪蘇",
   "Prefer": "大球",
   "Odds": 0.8,
-  "Result": "-",
-  "PreferResult": 0,
+  "Result": "1-0",
+  "PreferResult": 1,
   "Time2": "05-30 19:33",
   "Person": "心有不甘"
 }

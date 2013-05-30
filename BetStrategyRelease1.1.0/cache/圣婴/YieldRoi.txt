@@ -1,0 +1,18 @@
+{
+  "Name": "圣婴",
+  "LastUpdateTime": "\/Date(1369925319878+0800)\/",
+  "Person": {
+    "TotalROI": 0.485,
+    "CurrentROI": 0.485,
+    "TotalYield": 0.485,
+    "CurrentYield": 0.485,
+    "Total": 1,
+    "Profit": 0.5,
+    "Win": 0,
+    "WinHalf": 1,
+    "Lose": 0,
+    "LoseHalf": 0,
+    "Draw": 0,
+    "Name": "圣婴"
+  }
+}
