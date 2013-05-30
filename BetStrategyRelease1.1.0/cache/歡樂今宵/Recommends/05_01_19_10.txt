@@ -7,8 +7,8 @@
   "Guest": "IFK哥德堡",
   "Prefer": "奧斯達",
   "Odds": 0.95,
-  "Result": "1-4",
-  "PreferResult": 1,
+  "Result": "-",
+  "PreferResult": 0,
   "Time2": "05-01 19:10",
   "Person": "歡樂今宵"
 }

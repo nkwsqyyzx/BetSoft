@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職丙",
+  "Time1": "05-01 14:00",
+  "Host": "卡馬塔馬爾贊岐",
+  "OddStake": "2.5球",
+  "Guest": "琉球",
+  "Prefer": "大球",
+  "Odds": 1.06,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 13:18",
+  "Person": "泰然处之"
+}

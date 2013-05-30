@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "友誼賽",
+  "Time1": "05-01 16:00",
+  "Host": "瑞典U16(中)",
+  "OddStake": "2.5/3球",
+  "Guest": "愛沙尼亞U16",
+  "Prefer": "大球",
+  "Odds": 0.88,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 15:31",
+  "Person": "足求胜果"
+}

@@ -7,8 +7,8 @@
   "Guest": "橫河武藏野FC",
   "Prefer": "小球",
   "Odds": 0.89,
-  "Result": "1-0",
-  "PreferResult": 5,
+  "Result": "-",
+  "PreferResult": 0,
   "Time2": "05-01 12:59",
   "Person": "明明白白"
 }

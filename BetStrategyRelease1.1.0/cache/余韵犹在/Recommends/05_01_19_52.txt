@@ -7,8 +7,8 @@
   "Guest": "哥連泰斯",
   "Prefer": "小球",
   "Odds": 0.95,
-  "Result": "1-0",
-  "PreferResult": 5,
+  "Result": "-",
+  "PreferResult": 0,
   "Time2": "05-01 19:52",
   "Person": "余韵犹在"
 }

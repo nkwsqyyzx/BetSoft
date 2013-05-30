@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 18:30",
+  "Host": "仙台维加泰",
+  "OddStake": "一球",
+  "Guest": "江蘇舜天",
+  "Prefer": "江蘇舜天",
+  "Odds": 1.1,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 16:30",
+  "Person": "chilamian"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典盃",
+  "Time1": "05-01 19:30",
+  "Host": "佐加頓斯",
+  "OddStake": "半/一",
+  "Guest": "奧基迪",
+  "Prefer": "奧基迪",
+  "Odds": 1.03,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 15:37",
+  "Person": "asd3388"
+}

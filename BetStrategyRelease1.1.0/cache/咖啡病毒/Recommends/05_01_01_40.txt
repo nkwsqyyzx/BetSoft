@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "蘇青聯",
+  "Time1": "05-01 02:00",
+  "Host": "喜百年U20",
+  "OddStake": "3.5/4球",
+  "Guest": "登地U20",
+  "Prefer": "大球",
+  "Odds": 0.8,
+  "Result": "3-1",
+  "PreferResult": 4,
+  "Time2": "05-01 01:40",
+  "Person": "咖啡病毒"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 18:30",
+  "Host": "FC漢城",
+  "OddStake": "半/一",
+  "Guest": "布襦姆聯",
+  "Prefer": "FC漢城",
+  "Odds": 0.87,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 13:28",
+  "Person": "爱雨浪漫"
+}

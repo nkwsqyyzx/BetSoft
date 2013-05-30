@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 18:30",
+  "Host": "仙台维加泰",
+  "OddStake": "2.5球",
+  "Guest": "江蘇舜天",
+  "Prefer": "大球",
+  "Odds": 0.91,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 16:53",
+  "Person": "lijin"
+}

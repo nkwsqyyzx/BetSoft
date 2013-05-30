@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 20:00",
+  "Host": "廣州恆大",
+  "OddStake": "半球",
+  "Guest": "全北現代",
+  "Prefer": "廣州恆大",
+  "Odds": 0.95,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 19:20",
+  "Person": "火流星"
+}

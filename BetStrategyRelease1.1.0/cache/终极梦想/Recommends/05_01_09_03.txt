@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職丙",
+  "Time1": "05-01 12:00",
+  "Host": "日立槴木",
+  "OddStake": "2/2.5球",
+  "Guest": "秋田藍色閃電",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 09:03",
+  "Person": "终极梦想"
+}

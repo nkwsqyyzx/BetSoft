@@ -7,8 +7,8 @@
   "Guest": "龍仁市FC",
   "Prefer": "大球",
   "Odds": 1.0,
-  "Result": "1-0",
-  "PreferResult": 1,
+  "Result": "-",
+  "PreferResult": 0,
   "Time2": "05-01 13:05",
   "Person": "飞天神猪"
 }

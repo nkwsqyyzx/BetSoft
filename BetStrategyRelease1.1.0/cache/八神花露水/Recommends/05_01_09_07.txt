@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職丙",
+  "Time1": "05-01 12:00",
+  "Host": "福島聯隊",
+  "OddStake": "2/2.5球",
+  "Guest": "大分公式",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 09:07",
+  "Person": "八神花露水"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "05-02 08:50",
+  "Host": "小保加",
+  "OddStake": "平手",
+  "Guest": "哥連泰斯",
+  "Prefer": "哥連泰斯",
+  "Odds": 0.82,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 14:20",
+  "Person": "不学无术"
+}

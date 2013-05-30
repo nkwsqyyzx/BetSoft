@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職丙",
+  "Time1": "05-01 18:00",
+  "Host": "町田澤維亞",
+  "OddStake": "2.5球",
+  "Guest": "藤枝MYFC",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 09:05",
+  "Person": "丰山绝技"
+}

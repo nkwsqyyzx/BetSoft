@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 20:00",
+  "Host": "廣州恆大",
+  "OddStake": "2.5球",
+  "Guest": "全北現代",
+  "Prefer": "大球",
+  "Odds": 0.84,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 19:05",
+  "Person": "风林"
+}

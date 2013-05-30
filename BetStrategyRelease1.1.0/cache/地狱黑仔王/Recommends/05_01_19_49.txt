@@ -7,8 +7,8 @@
   "Guest": "全北現代",
   "Prefer": "全北現代",
   "Odds": 0.93,
-  "Result": "0-0",
-  "PreferResult": 5,
+  "Result": "-",
+  "PreferResult": 0,
   "Time2": "05-01 19:49",
   "Person": "地狱黑仔王"
 }

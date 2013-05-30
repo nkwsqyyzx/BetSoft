@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "05-01 18:00",
+  "Host": "濟州聯隊",
+  "OddStake": "半球",
+  "Guest": "慶南FC",
+  "Prefer": "慶南FC",
+  "Odds": 0.92,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 13:31",
+  "Person": "星星点灯"
+}

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓聯盟",
+  "Time1": "05-01 18:00",
+  "Host": "江陵",
+  "OddStake": "半球",
+  "Guest": "蔚山造船",
+  "Prefer": "蔚山造船",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 14:07",
+  "Person": "贝多芬"
+}

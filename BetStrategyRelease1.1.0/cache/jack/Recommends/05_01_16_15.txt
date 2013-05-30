@@ -7,8 +7,8 @@
   "Guest": "江蘇舜天",
   "Prefer": "大球",
   "Odds": 0.91,
-  "Result": "1-2",
-  "PreferResult": 5,
+  "Result": "-",
+  "PreferResult": 0,
   "Time2": "05-01 16:15",
   "Person": "jack"
 }

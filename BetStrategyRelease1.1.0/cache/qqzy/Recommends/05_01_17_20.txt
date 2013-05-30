@@ -7,8 +7,8 @@
   "Guest": "拜仁慕尼黑",
   "Prefer": "巴塞羅那",
   "Odds": 0.9,
-  "Result": "0-3",
-  "PreferResult": 1,
+  "Result": "-",
+  "PreferResult": 0,
   "Time2": "05-01 17:20",
   "Person": "qqzy"
 }

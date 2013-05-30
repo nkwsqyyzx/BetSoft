@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "日職丙",
+  "Time1": "05-01 12:00",
+  "Host": "本田FC",
+  "OddStake": "平/半",
+  "Guest": "MIO琵琶湖滋賀",
+  "Prefer": "MIO琵琶湖滋賀",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 09:13",
+  "Person": "摩云金翅麒麟"
+}

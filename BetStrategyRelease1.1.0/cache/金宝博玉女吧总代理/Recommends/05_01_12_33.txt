@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓聯盟",
+  "Time1": "05-01 18:00",
+  "Host": "昌原",
+  "OddStake": "2/2.5球",
+  "Guest": "金海",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 12:33",
+  "Person": "金宝博玉女吧总代理"
+}

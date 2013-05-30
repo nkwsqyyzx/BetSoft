@@ -4,13 +4,15 @@
     "URL_BASE": "http://www.yn1999.com/",
     "INT_MINUTES_UPDATE_TOP_PERSON": 600,
     "INT_MINUTES_UPDATE_RECOMMEND": 17,
+    "INT_MINUTES_UPDATE_YIELD_ROI": 1440,
     "URL_GAME_SHOW": "game_show.asp",
     "XPATH_GAME_SHOW_RESULT": "/html[1]/body[1]/table[1]/tr",
     "COUNT_GAME_SHOW_RESULT_COLUMNS": 11,
     "URL_GAME_TOP": "game_top.asp",
+    "URL_GAME_USER": "Game_User.asp?id=",
     "XPATH_GAME_TOP_RESULT": "html[1]/body[1]/table[1]/tr",
     "COUNT_GAME_TOP_RESULT_COLUMNS": 10,
     "FILEPATH_GAME_TOP_BEST": "filepath_game_top_best.json.txt",
-    "COUNT_MIN_PROFIT": 7.5
+    "COUNT_MIN_PROFIT": 7.0
   }
 }

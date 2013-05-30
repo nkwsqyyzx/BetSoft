@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "秘魯春",
+  "Time1": "05-01 07:00",
+  "Host": "聖馬丁(中)",
+  "OddStake": "2球",
+  "Guest": "卡加馬卡",
+  "Prefer": "小球",
+  "Odds": 1.02,
+  "Result": "1-1",
+  "PreferResult": 5,
+  "Time2": "05-01 00:54",
+  "Person": "广东梁朝伟"
+}

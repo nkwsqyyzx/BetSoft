@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "自由盃",
+  "Time1": "05-02 06:30",
+  "Host": "甘美奧",
+  "OddStake": "一球",
+  "Guest": "聖塔菲",
+  "Prefer": "聖塔菲",
+  "Odds": 0.9,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 19:31",
+  "Person": "木棉树"
+}

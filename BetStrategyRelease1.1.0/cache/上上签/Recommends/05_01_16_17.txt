@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "韓國K",
+  "Time1": "05-01 18:00",
+  "Host": "濟州聯隊",
+  "OddStake": "2/2.5球",
+  "Guest": "慶南FC",
+  "Prefer": "小球",
+  "Odds": 0.94,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 16:17",
+  "Person": "上上签"
+}

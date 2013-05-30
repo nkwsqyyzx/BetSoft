@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 20:00",
+  "Host": "孟通",
+  "OddStake": "3/3.5球",
+  "Guest": "浦和紅鑽",
+  "Prefer": "小球",
+  "Odds": 0.8,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 12:11",
+  "Person": "张三丰"
+}

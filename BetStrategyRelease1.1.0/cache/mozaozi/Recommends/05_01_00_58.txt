@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 02:45",
+  "Host": "皇家馬德里",
+  "OddStake": "一球/球半",
+  "Guest": "多特蒙德",
+  "Prefer": "多特蒙德",
+  "Odds": 0.93,
+  "Result": "2-0",
+  "PreferResult": 1,
+  "Time2": "05-01 00:58",
+  "Person": "mozaozi"
+}

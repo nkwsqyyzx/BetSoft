@@ -7,8 +7,8 @@
   "Guest": "浦和紅鑽",
   "Prefer": "浦和紅鑽",
   "Odds": 0.98,
-  "Result": "0-1",
-  "PreferResult": 1,
+  "Result": "-",
+  "PreferResult": 0,
   "Time2": "05-01 18:34",
   "Person": "罗纳尔多"
 }

@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "瑞典盃",
+  "Time1": "05-01 19:30",
+  "Host": "奧斯達",
+  "OddStake": "受平/半",
+  "Guest": "IFK哥德堡",
+  "Prefer": "IFK哥德堡",
+  "Odds": 0.93,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 13:35",
+  "Person": "冷云"
+}

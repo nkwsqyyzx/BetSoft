@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-01 18:30",
+  "Host": "FC漢城",
+  "OddStake": "半/一",
+  "Guest": "布襦姆聯",
+  "Prefer": "布襦姆聯",
+  "Odds": 1.01,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 16:05",
+  "Person": "一天一点赢"
+}

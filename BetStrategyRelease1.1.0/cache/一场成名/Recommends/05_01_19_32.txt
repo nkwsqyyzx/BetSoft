@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "波蘭乙",
+  "Time1": "05-01 23:00",
+  "Host": "馬特斯",
+  "OddStake": "2球",
+  "Guest": "納斯薩",
+  "Prefer": "小球",
+  "Odds": 0.92,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 19:32",
+  "Person": "一场成名"
+}

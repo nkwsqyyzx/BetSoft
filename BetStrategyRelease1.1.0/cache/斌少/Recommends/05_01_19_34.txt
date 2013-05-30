@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "歐冠盃",
+  "Time1": "05-02 02:45",
+  "Host": "巴塞羅那",
+  "OddStake": "半/一",
+  "Guest": "拜仁慕尼黑",
+  "Prefer": "巴塞羅那",
+  "Odds": 0.9,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 19:34",
+  "Person": "斌少"
+}

@@ -7,8 +7,8 @@
   "Guest": "浦和紅鑽",
   "Prefer": "孟通",
   "Odds": 0.9,
-  "Result": "0-1",
-  "PreferResult": 5,
+  "Result": "-",
+  "PreferResult": 0,
   "Time2": "05-01 16:50",
   "Person": "LXF1234"
 }

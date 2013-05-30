@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "德東北聯",
+  "Time1": "05-01 19:30",
+  "Host": "特拉諾夫",
+  "OddStake": "一球",
+  "Guest": "格賴夫",
+  "Prefer": "特拉諾夫",
+  "Odds": 0.89,
+  "Result": "-",
+  "PreferResult": 0,
+  "Time2": "05-01 18:59",
+  "Person": "小楼一夜听春雨"
+}

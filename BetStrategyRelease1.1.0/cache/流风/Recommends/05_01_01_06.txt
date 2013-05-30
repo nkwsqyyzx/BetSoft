@@ -1,0 +1,14 @@
+{
+  "Current": "第46期",
+  "League": "英冠",
+  "Time1": "05-01 02:45",
+  "Host": "米禾爾",
+  "OddStake": "平手",
+  "Guest": "水晶宮",
+  "Prefer": "米禾爾",
+  "Odds": 1.1,
+  "Result": "0-0",
+  "PreferResult": 3,
+  "Time2": "05-01 01:06",
+  "Person": "流风"
+}

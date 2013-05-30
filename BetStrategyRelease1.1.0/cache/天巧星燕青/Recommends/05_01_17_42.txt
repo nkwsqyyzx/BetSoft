@@ -7,8 +7,8 @@
   "Guest": "蔚山造船",
   "Prefer": "小球",
   "Odds": 0.8,
-  "Result": "1-1",
-  "PreferResult": 4,
+  "Result": "-",
+  "PreferResult": 0,
   "Time2": "05-01 17:42",
   "Person": "天巧星燕青"
 }
